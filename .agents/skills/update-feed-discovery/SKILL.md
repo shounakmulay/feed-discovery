@@ -87,6 +87,6 @@ Review `verification-report.json` for counts, rejected feeds, aliases, and fresh
 python3 scripts/prepare_pages.py
 ```
 
-Inspect `dist/` and `feed-discovery-pages.zip`. The archive contains the upload folder's contents. Include `master.json`, its referenced immutable collections, retained older immutable collections, `_headers`, `_worker.js`, `_routes.json`, and `404.html`. Exclude scripts, source inputs, audit logs, identity records, and validation reports from the public bundle. Packaging includes the all-route API-key Worker. Packaging does not deploy it. Use `$publish-feed-discovery-cloudflare` when deployment is requested.
+Inspect `dist/` and `feed-discovery-pages.zip`. The archive contains the upload folder's contents. Include `master.json`, its referenced immutable collections, retained older immutable collections, `_headers`, `_redirects`, and `404.html`. Exclude scripts, source inputs, audit logs, identity records, and validation reports from the public bundle. The bundle is public static JSON and contains no Worker or Functions. Packaging does not deploy it. Use `$publish-feed-discovery-cloudflare` when deployment is requested.
 
 Append the maintenance outcome to `audit/decisions.tsv` with real evidence paths. Report added and removed feeds, the publication number, verification results, the bundle path, and unresolved source failures. State deployment and commit status separately when those actions were requested.

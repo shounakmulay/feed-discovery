@@ -33,13 +33,12 @@ with tempfile.TemporaryDirectory(prefix="pages-build-", dir=root) as temporary:
         "  Access-Control-Allow-Origin: *\n"
         "  Access-Control-Expose-Headers: ETag\n\n"
         "/master.json\n"
-        "  Cache-Control: private, max-age=0, must-revalidate\n\n"
+        "  Cache-Control: public, max-age=0, must-revalidate\n\n"
         "/collections/*\n"
-        "  Cache-Control: private, max-age=31536000, immutable\n",
+        "  Cache-Control: public, max-age=31536000, immutable\n",
         encoding="utf-8",
     )
-    shutil.copy2(root / "cloudflare" / "_worker.js", stage / "_worker.js")
-    (stage / "_routes.json").write_text(json.dumps({"version": 1, "include": ["/*"], "exclude": []}) + "\n", encoding="utf-8")
+    (stage / "_redirects").write_text("/ /master.json 302\n", encoding="utf-8")
     (stage / "404.html").write_text("<!doctype html><title>Not found</title><h1>Not found</h1>\n", encoding="utf-8")
     if output.exists():
         shutil.rmtree(output)
