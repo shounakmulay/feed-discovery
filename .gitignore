@@ -8,3 +8,5 @@ dist/
 feed-discovery-pages.zip
 pages-build-*/
 .wrangler/
+.dev.vars*
+node_modules/
