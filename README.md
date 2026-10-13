@@ -22,6 +22,51 @@ python3 scripts/collect_feeds.py verify
 
 The check verifies collection hashes, IDs, feed counts, duplicate definitions, and the saved validation evidence. Success prints `VERIFIED` followed by catalog totals. This command does not fetch publishers or prove that feeds are still available today.
 
+## Contributing feeds
+
+Feed additions and corrections are welcome through pull requests to `main`. Edit the source inputs so your contribution survives future catalog updates.
+
+| What you are contributing | File to edit |
+| --- | --- |
+| An external OPML or supported CSV feed directory | [`sources.json`](sources.json) |
+| An individual RSS or Atom feed | [`supplemental-sources.json`](supplemental-sources.json) |
+
+“Supplemental” means feeds maintained directly in this repository, in addition to those imported from external directories. These entries are included on every harvest, so manual additions and merged community contributions remain part of the input.
+
+### Add an individual feed
+
+Append an object to the existing array in `supplemental-sources.json`, following this shape:
+
+```json
+{
+  "feed_url": "https://example.com/feed.xml",
+  "title": "Example Blog",
+  "category": "developer-blogs",
+  "website_url": "https://example.com/",
+  "source_url": "https://example.com/feeds/"
+}
+```
+
+Use the publisher's advertised RSS or Atom URL for `feed_url`, its website for `website_url`, and a page documenting or linking to the feed for `source_url`. Choose an existing category key from `CATEGORIES` in [`scripts/collect_feeds.py`](scripts/collect_feeds.py). Published titles and other feed metadata come from the validated feed itself; input titles are not publication overrides.
+
+### Add a feed directory
+
+Append an object to the existing array in `sources.json` with `name`, the direct document `url`, a `directory_url` identifying its origin, and a default `category`. OPML is the default format. Optional `group_categories` maps OPML group names to existing category keys.
+
+CSV directories must specify `"format": "csv"` and match the collector's supported semicolon-delimited layout (`TYPE`, `URL`, `NAME`, `DOMAIN`, and `SUBDOMAIN` columns). Arbitrary CSV layouts are not supported automatically.
+
+### Review and validate your contribution
+
+- Check both source inputs for an existing entry before adding a duplicate. Harvest merges duplicate feed URLs and combines their category memberships.
+- Describe the addition or correction in the PR, including the publisher or directory evidence and intended category.
+- Source-only PRs are welcome. State whether you ran validation; maintainers can generate and review the catalog outputs before publication.
+- If generating outputs yourself, follow the update commands below. Publication requires validation checks no older than 24 hours; run `validate --refresh` when saved checks are stale.
+- Inspect `source-report.json` after harvest. Failed directories can produce an incomplete candidate list even when the command exits successfully. Do not publish removals caused by failed imports, broad timeouts, rate limits, or temporary publisher outages.
+
+Do not hand-edit generated files: `candidates.json`, `source-report.json`, `validation-results.json`, `master.json`, `verification-report.json`, `rediscovery-report.json`, or documents under `collections/`. Retain old immutable collection files and the generated `feed-identities.json` registry so cached URLs and established feed IDs remain valid. `feed-aliases.json` is a separately maintained input for confirmed equivalent feed URLs, not an automatically generated list.
+
+Harvest rebuilds candidates from the current directories and supplemental entries. A feed removed from an external directory may disappear from the next catalog unless it also exists in `supplemental-sources.json`. Rejected feeds are excluded from the published catalog but their source entries are not automatically deleted. Older posts alone do not make an otherwise usable feed invalid.
+
 ## Update the feed catalog
 
 [`sources.json`](sources.json) lists upstream OPML and CSV directories. [`supplemental-sources.json`](supplemental-sources.json) contains individual feed candidates and their categories and source URLs.
