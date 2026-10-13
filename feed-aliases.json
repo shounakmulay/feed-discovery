@@ -1,0 +1,98 @@
+[
+  {
+    "alias_url": "https://ciechanow.ski//atom.xml",
+    "canonical_url": "https://ciechanow.ski/atom.xml",
+    "reason": "Identical live feed document from the same publisher; prefer the direct publisher URL or normalized feed path.",
+    "response_sha256": "08aa0207d4c3a9bc3714ee8fbc8639c9e1b70050c082f014b46d5aecc43bda06"
+  },
+  {
+    "alias_url": "https://feeds.feedburner.com/Bludice",
+    "canonical_url": "https://davidwalsh.name/feed",
+    "reason": "Identical live feed document from the same publisher; prefer the direct publisher URL or normalized feed path.",
+    "response_sha256": "1747e3e87d071d9823bfe43ee61b4a275b200815efb5165c8b2e3d2f72014e56"
+  },
+  {
+    "alias_url": "https://feeds.feedburner.com/DeanHumesBlog",
+    "canonical_url": "https://deanhume.com/rss/",
+    "reason": "Identical live feed document from the same publisher; prefer the direct publisher URL or normalized feed path.",
+    "response_sha256": "5ed576afda1a263fcc702c0ef9a46ebee6d6395b8bb486410719bed113baf825"
+  },
+  {
+    "alias_url": "https://feeds.feedburner.com/destroytoday",
+    "canonical_url": "https://destroytoday.com/feeds/all",
+    "reason": "Identical live feed document from the same publisher; prefer the direct publisher URL or normalized feed path.",
+    "response_sha256": "1afaf7f9fe957e0c5a6e5b6ae8b2a5bb8cfe002a90260d926e422543f1c668d8"
+  },
+  {
+    "alias_url": "https://engineering.khanacademy.org/rss",
+    "canonical_url": "https://engineering.khanacademy.org/rss.xml",
+    "reason": "Identical live feed document from the same publisher; prefer the direct publisher URL or normalized feed path.",
+    "response_sha256": "1d037e6b78a52d1455857dc717d9196b81dd86148a3b6c84f0bf7cdf03a2bf95"
+  },
+  {
+    "alias_url": "https://feeds.feedburner.com/Kilianvalkhofcom",
+    "canonical_url": "https://kilianvalkhof.com/feed/",
+    "reason": "Identical live feed document from the same publisher; prefer the direct publisher URL or normalized feed path.",
+    "response_sha256": "992ebac93877d8bef950772d08e7e3d2980faac6b2fb7e19159837d1f6bfeed5"
+  },
+  {
+    "alias_url": "https://feeds.feedburner.com/uxmovement",
+    "canonical_url": "https://uxmovement.com/feed/",
+    "reason": "Identical live feed document from the same publisher; prefer the direct publisher URL or normalized feed path.",
+    "response_sha256": "eb9e818ca2a69b7dd4c0ca6b190c4214850963cf9d9ae921a262f620eece4368"
+  },
+  {
+    "alias_url": "https://feeds2.feedburner.com/HtmlCssJavascript",
+    "canonical_url": "https://htmlcssjavascript.com/feed/",
+    "reason": "Identical live feed document from the same publisher; prefer the direct publisher URL or normalized feed path.",
+    "response_sha256": "6fa10a4f931c61dd42331a5ffa37b29b4d31f5d61133889519518cc72a3145d2"
+  },
+  {
+    "alias_url": "https://www.swiftbysundell.com/feed.rss",
+    "canonical_url": "https://swiftbysundell.com/feed.rss",
+    "reason": "Identical live feed document from the same publisher; prefer the direct publisher URL or normalized feed path.",
+    "response_sha256": "0217e78ccd96c744eeb6591d3511d7cfc36caf4559d941e0d7b0a2f0af6c8a0f"
+  },
+  {
+    "alias_url": "https://www.taniarascia.com/rss.xml",
+    "canonical_url": "https://tania.dev/rss.xml",
+    "reason": "Identical live feed document from the same publisher; prefer the direct publisher URL or normalized feed path.",
+    "response_sha256": "66cd04fc9a6abbb60d3a60357f6f91104b7dc03526e9bbe6a5440b067b1017e1"
+  },
+  {
+    "alias_url": "https://www.smashingmagazine.com/feed",
+    "canonical_url": "https://www.smashingmagazine.com/feed/",
+    "reason": "Identical live feed document from the same publisher; prefer the direct publisher URL or normalized feed path.",
+    "response_sha256": "bd8172aa4bf67774576ecd02da80f54becd7a2d5049996b20f503ea929799f12"
+  },
+  {
+    "alias_url": "https://stackoverflow.blog/feed/",
+    "canonical_url": "https://stackoverflow.blog/feed",
+    "reason": "Identical publisher feed responses; normalize the trailing-slash alias.",
+    "response_sha256": "aa0d6bf0e8e13630b85d7281ad31220adb6ca05c02f22bda52d8f52054cc5174"
+  },
+  {
+    "alias_url": "https://alecstrong.com/posts/index.xml",
+    "canonical_url": "https://aleckazakova.com/posts/index.xml",
+    "reason": "Identical feed document from the same publisher; retain the canonical publisher endpoint.",
+    "response_sha256": "d30f8c8b8f3d80d4313d0bbe33a082b3d107cd693e9970f36c0e9c80dd2b7dbd"
+  },
+  {
+    "alias_url": "https://bair.berkeley.edu/blog/feed",
+    "canonical_url": "https://bair.berkeley.edu/blog/feed.xml",
+    "reason": "Identical feed document from the same publisher; retain the canonical publisher endpoint.",
+    "response_sha256": "afe3b0156082f8847ad386934aaf1725fcbbfc84978f1b529519ff6e143b0bbb"
+  },
+  {
+    "alias_url": "https://blog.python.org/rss.xml",
+    "canonical_url": "https://blog.python.org/feeds/posts/default",
+    "reason": "Identical feed document from the same publisher; retain the canonical publisher endpoint.",
+    "response_sha256": "edd0aec49d9624707b414a3aed2f62d9ec5fb9661d74c62b63aa768a76a0bbb8"
+  },
+  {
+    "alias_url": "https://blog.rust-lang.org/feed",
+    "canonical_url": "https://blog.rust-lang.org/feed.xml",
+    "reason": "Identical feed document from the same publisher; retain the canonical publisher endpoint.",
+    "response_sha256": "d0b4b7973cb3a5986e2f16201340ec076829a0bc632ed83e96fa55719c4613ae"
+  }
+]

@@ -1,0 +1,89 @@
+{
+  "description": "Kotlin language and Kotlin Multiplatform development.",
+  "feeds": [
+    {
+      "description": "Recent content about Kotlin programming on typealias.com",
+      "feed_format": "rss",
+      "feed_url": "https://typealias.com/index.xml",
+      "icon_url": null,
+      "id": "008a4e78-6a1d-5e9f-9028-ab56c6dfae5b",
+      "language_tag": "en",
+      "title": "Dave Leeds on Kotlin - typealias.com",
+      "website_url": "https://typealias.com/"
+    },
+    {
+      "description": "The latest articles on DEV Community by Kotlin (kotlin).",
+      "feed_format": "rss",
+      "feed_url": "https://dev.to/feed/kotlin",
+      "icon_url": "https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https:%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F2485%2F80d41bc3-7f05-444c-a32e-ceb190e486b1.png",
+      "id": "b480146b-1cb2-5661-ba66-7c2face947f1",
+      "language_tag": "en",
+      "title": "DEV Community: Kotlin",
+      "website_url": "https://dev.to/kotlin"
+    },
+    {
+      "description": "The latest articles on DEV Community by Touchlab (touchlab).",
+      "feed_format": "rss",
+      "feed_url": "https://dev.to/feed/touchlab",
+      "icon_url": "https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https:%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F1320%2F807eb679-1cc4-4ecc-b315-5d0a13093104.png",
+      "id": "464b650d-c3f2-5b3e-8292-b82080cda028",
+      "language_tag": "en",
+      "title": "DEV Community: Touchlab",
+      "website_url": "https://dev.to/touchlab"
+    },
+    {
+      "description": "Blog containing Kotlin and Android goodies.",
+      "feed_format": "atom",
+      "feed_url": "https://funkymuse.dev/feed.xml",
+      "icon_url": "https://funkymuse.dev/assets/img/favicons/favicon.ico",
+      "id": "adffcd5a-7bb8-596e-a568-344eee19a694",
+      "language_tag": null,
+      "title": "FunkyMuse",
+      "website_url": "https://funkymuse.github.io/"
+    },
+    {
+      "description": "Developer Tools for Professionals and Teams",
+      "feed_format": "rss",
+      "feed_url": "https://blog.jetbrains.com/kotlin/feed/",
+      "icon_url": "https://blog.jetbrains.com/wp-content/uploads/2026/09/icon-512.webp",
+      "id": "71804cb3-df71-5963-8a97-709a74fc686b",
+      "language_tag": "en-US",
+      "title": "Kotlin : A concise multiplatform language developed by JetBrains | The JetBrains Blog",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://us12.campaign-archive.com/feed?u=f39692e245b94f7fb693b6d82&id=93b2272cb6",
+      "icon_url": null,
+      "id": "2ed6158e-8966-5ea3-baf3-7e2597bc0038",
+      "language_tag": null,
+      "title": "Kotlin Weekly Archive Feed",
+      "website_url": "https://us12.campaign-archive.com/feed?u=f39692e245b94f7fb693b6d82&id=93b2272cb6"
+    },
+    {
+      "description": "Best articles about programming and best practices.",
+      "feed_format": "rss",
+      "feed_url": "https://kt.academy/rss.xml",
+      "icon_url": null,
+      "id": "64c5dcfa-383f-5fdb-b16b-ee0e07537fe2",
+      "language_tag": "en",
+      "title": "kt.academy",
+      "website_url": "https://kt.academy/article"
+    },
+    {
+      "description": "We are the Kotlin Multiplatform experts. Touchlab's Production-ready Kotlin Multiplatform solutions make KMP better for you.",
+      "feed_format": "rss",
+      "feed_url": "https://touchlab.co/feed/",
+      "icon_url": null,
+      "id": "9eeb87f8-eb6a-5846-a3c2-d658b519a079",
+      "language_tag": null,
+      "title": "Touchlab’s Blog",
+      "website_url": "https://touchlab.co/"
+    }
+  ],
+  "id": "0999de77-140f-5bd2-95e6-2587ef06ee6b",
+  "schema_version": 1,
+  "slug": "kotlin",
+  "title": "Kotlin and multiplatform"
+}

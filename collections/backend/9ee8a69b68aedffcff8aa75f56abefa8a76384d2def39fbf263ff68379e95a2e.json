@@ -1,0 +1,109 @@
+{
+  "description": "Server development, APIs, architecture, and distributed systems.",
+  "feeds": [
+    {
+      "description": "Free. Cross-platform. Open source. A developer platform for building all your apps.",
+      "feed_format": "rss",
+      "feed_url": "https://devblogs.microsoft.com/dotnet/feed/",
+      "icon_url": null,
+      "id": "0e8ae3c3-9851-52e3-a16d-43d45fbf85e1",
+      "language_tag": "en-US",
+      "title": ".NET Blog",
+      "website_url": null
+    },
+    {
+      "description": "A fast all-in-one JavaScript runtime and toolkit",
+      "feed_format": "rss",
+      "feed_url": "https://bun.sh/rss.xml",
+      "icon_url": null,
+      "id": "d607bc09-75f7-517e-ab4a-58ca71c998c4",
+      "language_tag": "en-us",
+      "title": "bun.com",
+      "website_url": "https://bun.com/"
+    },
+    {
+      "description": "The latest news from Deno Land Inc.",
+      "feed_format": "atom",
+      "feed_url": "https://deno.com/feed",
+      "icon_url": null,
+      "id": "c437f05a-9acc-5821-8cd4-5a54b6948999",
+      "language_tag": null,
+      "title": "Deno",
+      "website_url": "https://deno.com/blog"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://nodejs.org/en/feed/blog.xml",
+      "icon_url": null,
+      "id": "fb37a669-c10c-54d3-be70-1a0bb381f2f7",
+      "language_tag": "en",
+      "title": "Node.js Blog",
+      "website_url": "https://nodejs.org/en"
+    },
+    {
+      "description": "A full-stack web application framework written in Ruby, following the Model View Controller pattern, that includes everything you need to build modern database-backed web apps.",
+      "feed_format": "atom",
+      "feed_url": "https://rubyonrails.org/feed.xml",
+      "icon_url": null,
+      "id": "93c2dd03-0b6e-5948-acab-d69a59ea38eb",
+      "language_tag": null,
+      "title": "Ruby on Rails: Compress the complexity of modern web apps",
+      "website_url": "https://rubyonrails.org/"
+    },
+    {
+      "description": "Level up your Java code and explore what Spring can do for you.",
+      "feed_format": "rss",
+      "feed_url": "https://spring.io/blog.atom",
+      "icon_url": null,
+      "id": "2883a59a-5d08-574b-8287-aca9b71a7400",
+      "language_tag": null,
+      "title": "Spring",
+      "website_url": "https://spring.io/"
+    },
+    {
+      "description": "Level up your Java code and explore what Spring can do for you.",
+      "feed_format": "rss",
+      "feed_url": "https://spring.io/blog/category/engineering.atom",
+      "icon_url": null,
+      "id": "682304c7-29bd-574f-b9fd-e99903948b39",
+      "language_tag": null,
+      "title": "Spring Engineering",
+      "website_url": "https://spring.io/"
+    },
+    {
+      "description": "Level up your Java code and explore what Spring can do for you.",
+      "feed_format": "rss",
+      "feed_url": "https://spring.io/blog/category/news.atom",
+      "icon_url": null,
+      "id": "293a548f-e28f-5abd-adae-bcdc09152a6c",
+      "language_tag": null,
+      "title": "Spring News",
+      "website_url": "https://spring.io/"
+    },
+    {
+      "description": "Level up your Java code and explore what Spring can do for you.",
+      "feed_format": "rss",
+      "feed_url": "https://spring.io/blog/category/releases.atom",
+      "icon_url": null,
+      "id": "e718e428-c075-5583-9db3-a6843a1879d6",
+      "language_tag": null,
+      "title": "Spring Releases",
+      "website_url": "https://spring.io/"
+    },
+    {
+      "description": "Latest news about Django, the Python web framework.",
+      "feed_format": "rss",
+      "feed_url": "https://www.djangoproject.com/rss/weblog/",
+      "icon_url": null,
+      "id": "1f41d868-d1e2-5267-9e1c-dc18ce688efc",
+      "language_tag": "en",
+      "title": "The Django weblog",
+      "website_url": "https://www.djangoproject.com/weblog/"
+    }
+  ],
+  "id": "978f3572-d8b8-5246-9815-e1863d42a5fc",
+  "schema_version": 1,
+  "slug": "backend",
+  "title": "Backend and distributed systems"
+}

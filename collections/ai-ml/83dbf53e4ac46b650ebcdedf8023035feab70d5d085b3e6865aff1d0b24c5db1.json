@@ -1,0 +1,329 @@
+{
+  "description": "AI research, machine learning tools, and applied AI.",
+  "feeds": [
+    {
+      "description": "AI",
+      "feed_format": "rss",
+      "feed_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
+      "icon_url": "https://blog.google/innovation-and-ai/technology/ai/static/blogv2/images/google.png",
+      "id": "a145170e-0a62-5838-ba0b-cb8745c15cf5",
+      "language_tag": "en-us",
+      "title": "AI",
+      "website_url": "https://blog.google/innovation-and-ai/technology/ai/"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://news.microsoft.com/source/topics/ai/feed/",
+      "icon_url": "https://news.microsoft.com/source/wp-content/uploads/2022/10/cropped-Microsoft_logo.svg_-300x300-1-128x120.png",
+      "id": "27d9c724-fd02-5f80-bd86-47592d8e5d2a",
+      "language_tag": "en-US",
+      "title": "AI - Source",
+      "website_url": null
+    },
+    {
+      "description": "Learn about Amazon's scientific research, science community, and career opportunities in artificial intelligence (AI), machine learning (ML), computer vision, robotics, quantum, economics and more.",
+      "feed_format": "rss",
+      "feed_url": "https://www.amazon.science/index.rss",
+      "icon_url": null,
+      "id": "b0c41f2c-81e8-5373-8aaa-51a5e0ac17dd",
+      "language_tag": "en-US",
+      "title": "Amazon Science homepage",
+      "website_url": "https://www.amazon.science/"
+    },
+    {
+      "description": "Apple machine learning teams are engaged in state of the art research in machine learning and artificial intelligence. Learn about the latest advancements.",
+      "feed_format": "rss",
+      "feed_url": "https://machinelearning.apple.com/rss.xml",
+      "icon_url": null,
+      "id": "65e8601d-0a43-511a-80bb-a54b7152fe30",
+      "language_tag": "en",
+      "title": "Apple Machine Learning Research",
+      "website_url": "https://machinelearning.apple.com/"
+    },
+    {
+      "description": "Official Machine Learning Blog of Amazon Web Services",
+      "feed_format": "rss",
+      "feed_url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+      "icon_url": null,
+      "id": "d1eb7a14-cfed-5b72-afcb-4ce50d65d311",
+      "language_tag": "en-US",
+      "title": "Artificial Intelligence",
+      "website_url": null
+    },
+    {
+      "description": "Artificial Intelligence News. Everything on AI including futuristic robots with artificial intelligence, computer models of human intelligence and more.",
+      "feed_format": "rss",
+      "feed_url": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+      "icon_url": null,
+      "id": "d867fd54-bc75-56f7-8181-197ec6924e6c",
+      "language_tag": "en-us",
+      "title": "Artificial Intelligence News -- ScienceDaily",
+      "website_url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/"
+    },
+    {
+      "description": "Latest News Today, Breaking News, India News, Top Headlines",
+      "feed_format": "rss",
+      "feed_url": "https://indianexpress.com/section/technology/artificial-intelligence/feed/",
+      "icon_url": null,
+      "id": "eae513bf-2d6c-5297-b128-3d1c0d939164",
+      "language_tag": "en-US",
+      "title": "Artificial Intelligence | The Indian Express",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcIXc5mJsHVYTZR1maL5l9w",
+      "icon_url": null,
+      "id": "7d88276a-5bb8-57a7-9eec-b2927735a5ca",
+      "language_tag": null,
+      "title": "DeepLearningAI",
+      "website_url": "https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w"
+    },
+    {
+      "description": "Homepage articles from Distill",
+      "feed_format": "rss",
+      "feed_url": "https://distill.pub/rss.xml",
+      "icon_url": null,
+      "id": "3c5f1dba-81c6-5ba3-b428-596ace4a0bb1",
+      "language_tag": "en-us",
+      "title": "Distill",
+      "website_url": "https://distill.pub/"
+    },
+    {
+      "description": "Articles and tutorials from the Search team at Elastic",
+      "feed_format": "rss",
+      "feed_url": "https://www.elastic.co/search-labs/rss/feed.xml",
+      "icon_url": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt1121c0bf0e8a6e65/6a88da6340a1841030ef456f/search-labs-thumbnail.png",
+      "id": "2c94e30a-eb46-5b90-9995-98dcb25a25af",
+      "language_tag": "en",
+      "title": "Elasticsearch Labs",
+      "website_url": "https://www.elastic.co/search-labs"
+    },
+    {
+      "description": "Personal website and blog of Eric Jang.",
+      "feed_format": "atom",
+      "feed_url": "https://evjang.com/feed",
+      "icon_url": null,
+      "id": "82964773-a7af-54f5-bb61-0e22e46fa66f",
+      "language_tag": null,
+      "title": "Eric Jang",
+      "website_url": "https://evjang.com/"
+    },
+    {
+      "description": "Technology, A.I., Careers",
+      "feed_format": "rss",
+      "feed_url": "https://blog.evjang.com/feeds/posts/default?alt=rss",
+      "icon_url": null,
+      "id": "f94964c4-0492-5df0-93b2-d4ffe069e950",
+      "language_tag": null,
+      "title": "Eric Jang",
+      "website_url": "https://blog.evjang.com/"
+    },
+    {
+      "description": "The latest news from Google AI.",
+      "feed_format": "atom",
+      "feed_url": "http://feeds.feedburner.com/blogspot/gJZg",
+      "icon_url": null,
+      "id": "de288843-38a5-5afa-b6ad-60d9abb288c6",
+      "language_tag": null,
+      "title": "Google AI Blog",
+      "website_url": "http://blog.research.google/"
+    },
+    {
+      "description": "Read the latest articles and stories from DeepMind and find out more about our latest breakthroughs in cutting-edge AI research.",
+      "feed_format": "rss",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "icon_url": null,
+      "id": "77523bc7-1ce4-5310-9b03-f0130e40f331",
+      "language_tag": "en",
+      "title": "Google DeepMind News",
+      "website_url": "https://deepmind.google/blog/"
+    },
+    {
+      "description": "Grammarly Blog",
+      "feed_format": "rss",
+      "feed_url": "https://www.grammarly.com/blog/feed/",
+      "icon_url": null,
+      "id": "128121dd-6f8d-58c6-b4f8-76f417d03592",
+      "language_tag": "en-US",
+      "title": "Grammarly Blog",
+      "website_url": null
+    },
+    {
+      "description": "The Hugging Face blog",
+      "feed_format": "rss",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "icon_url": null,
+      "id": "81b507e6-887d-503e-a9fd-75d5f44d8890",
+      "language_tag": "en-US",
+      "title": "Hugging Face - Blog",
+      "website_url": null
+    },
+    {
+      "description": "Visualizing machine learning one concept at a time.",
+      "feed_format": "atom",
+      "feed_url": "https://jalammar.github.io/feed.xml",
+      "icon_url": null,
+      "id": "b506b69d-7d37-5c23-991e-3c6787f2e332",
+      "language_tag": null,
+      "title": "Jay Alammar",
+      "website_url": "http://jalammar.github.io/"
+    },
+    {
+      "description": "Document my learning notes.",
+      "feed_format": "atom",
+      "feed_url": "https://lilianweng.github.io/lil-log/feed.xml",
+      "icon_url": null,
+      "id": "8fa98990-2357-570f-bd72-2a2820a5f272",
+      "language_tag": null,
+      "title": "Lil’Log",
+      "website_url": "https://lilianweng.github.io/lil-log/"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://blog.ml.cmu.edu/feed/",
+      "icon_url": null,
+      "id": "efdb7f1e-2de0-5f45-8c3e-003e3c543b45",
+      "language_tag": "en-US",
+      "title": "Machine Learning Blog | ML@CMU | Carnegie Mellon University",
+      "website_url": null
+    },
+    {
+      "description": "A research project exploring the role of machine learning in the process of creating art and music.",
+      "feed_format": "rss",
+      "feed_url": "https://magenta.tensorflow.org/feed.xml",
+      "icon_url": null,
+      "id": "8c861a9a-47ee-5745-9339-6f22543c535d",
+      "language_tag": null,
+      "title": "Magenta",
+      "website_url": "https://magenta.withgoogle.com/"
+    },
+    {
+      "description": "MIT news feed about: Artificial intelligence",
+      "feed_format": "rss",
+      "feed_url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "icon_url": null,
+      "id": "0a9a1ce5-7a2b-5987-a07d-f4e780cb5720",
+      "language_tag": "en",
+      "title": "MIT News - Artificial intelligence",
+      "website_url": "https://news.mit.edu/rss/topic/artificial-intelligence2"
+    },
+    {
+      "description": "MIT news feed about: Artificial intelligence",
+      "feed_format": "rss",
+      "feed_url": "https://news.mit.edu/topic/mitartificial-intelligence2-rss.xml",
+      "icon_url": null,
+      "id": "85530d8f-d895-5707-863b-c9741d60c835",
+      "language_tag": "en",
+      "title": "MIT News - Artificial intelligence",
+      "website_url": "https://news.mit.edu/topic/mitartificial-intelligence2-rss.xml"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://blogs.nvidia.com/feed/",
+      "icon_url": null,
+      "id": "dc6eabbe-af6c-5c49-8e2e-8f923f9d9cc7",
+      "language_tag": "en-US",
+      "title": "NVIDIA Blog",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://pytorch.org/feed/",
+      "icon_url": null,
+      "id": "e003cd7e-9b40-59f4-98a5-d72e6df6988d",
+      "language_tag": "en-US",
+      "title": "PyTorch",
+      "website_url": null
+    },
+    {
+      "description": "The BAIR Blog",
+      "feed_format": "rss",
+      "feed_url": "https://bair.berkeley.edu/blog/feed.xml",
+      "icon_url": null,
+      "id": "1be29567-cf02-5d9c-a982-e384f5441e38",
+      "language_tag": null,
+      "title": "The Berkeley Artificial Intelligence Research Blog",
+      "website_url": "http://bair.berkeley.edu/blog/"
+    },
+    {
+      "description": "A digital publication about artificial intelligence and the future.",
+      "feed_format": "rss",
+      "feed_url": "https://thegradient.pub/rss/",
+      "icon_url": null,
+      "id": "cfc460b0-5998-5627-8024-b82fc952808e",
+      "language_tag": null,
+      "title": "The Gradient",
+      "website_url": "https://thegradient.pub/"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://research.google/blog/rss/",
+      "icon_url": null,
+      "id": "e55ce577-daa9-536e-800d-0b9c8a898e57",
+      "language_tag": "en-us",
+      "title": "The latest research from Google",
+      "website_url": "https://research.google/blog/"
+    },
+    {
+      "description": "The official TensorFlow blog.",
+      "feed_format": "atom",
+      "feed_url": "https://blog.tensorflow.org/feeds/posts/default",
+      "icon_url": null,
+      "id": "20cb47ef-cb07-5d57-a1ff-d09f7a9d34e8",
+      "language_tag": null,
+      "title": "The TensorFlow Blog",
+      "website_url": "https://blog.tensorflow.org/"
+    },
+    {
+      "description": "Publish AI, ML & data-science insights to a global community of data professionals.",
+      "feed_format": "rss",
+      "feed_url": "https://towardsdatascience.com/feed/",
+      "icon_url": null,
+      "id": "3ada73b2-7498-5d54-a939-3115fd203691",
+      "language_tag": "en-US",
+      "title": "Towards Data Science",
+      "website_url": "https://towardsdatascience.com/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg",
+      "icon_url": null,
+      "id": "939b0c14-fa70-536b-bdf9-b47fd67116b6",
+      "language_tag": null,
+      "title": "Two Minute Papers",
+      "website_url": "https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg"
+    },
+    {
+      "description": "AI News & Research",
+      "feed_format": "rss",
+      "feed_url": "https://www.unite.ai/feed/",
+      "icon_url": null,
+      "id": "0dec67b6-0888-5ce1-bc0f-8c2011a73462",
+      "language_tag": "en-US",
+      "title": "Unite.AI",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZHmQk67mSJgfCCTn7xBfew",
+      "icon_url": null,
+      "id": "f6a80995-1101-58e8-8c09-6d8a6be1fede",
+      "language_tag": null,
+      "title": "Yannic Kilcher",
+      "website_url": "https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew"
+    }
+  ],
+  "id": "ddeea7ce-85b5-5c6b-bcc9-452daf40fdee",
+  "schema_version": 1,
+  "slug": "ai-ml",
+  "title": "AI and machine learning"
+}

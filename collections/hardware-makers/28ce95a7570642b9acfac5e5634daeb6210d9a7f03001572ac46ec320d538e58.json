@@ -1,0 +1,89 @@
+{
+  "description": "Electronics, DIY projects, hardware, and making.",
+  "feeds": [
+    {
+      "description": "Crafts, Home Décor, Recipes",
+      "feed_format": "rss",
+      "feed_url": "https://abeautifulmess.com/feed/",
+      "icon_url": null,
+      "id": "4688d4df-af0c-5dba-9158-cd43a247a976",
+      "language_tag": "en-US",
+      "title": "A Beautiful Mess",
+      "website_url": null
+    },
+    {
+      "description": "Fresh hacks every day",
+      "feed_format": "rss",
+      "feed_url": "https://hackaday.com/blog/feed/",
+      "icon_url": null,
+      "id": "d1cfbecb-170d-518e-a2ed-f56d9b3138bc",
+      "language_tag": "en-US",
+      "title": "Blog – Hackaday",
+      "website_url": null
+    },
+    {
+      "description": "Design, Decorating & DIY",
+      "feed_format": "rss",
+      "feed_url": "https://centsationalstyle.com/feed/",
+      "icon_url": null,
+      "id": "0810caa1-a4a8-576a-a295-8e6731e9d6d7",
+      "language_tag": "en-US",
+      "title": "Centsational Style",
+      "website_url": null
+    },
+    {
+      "description": "We explain technology. Learn more with our articles, reviews, tips, and the best answers to your most pressing tech questions.",
+      "feed_format": "rss",
+      "feed_url": "https://www.howtogeek.com/feed/",
+      "icon_url": null,
+      "id": "43963621-5d34-5538-ba77-b4814955c972",
+      "language_tag": "en-US",
+      "title": "How-To Geek",
+      "website_url": null
+    },
+    {
+      "description": "Clever ideas and hacks for your IKEA Furniture",
+      "feed_format": "rss",
+      "feed_url": "https://ikeahackers.net/feed",
+      "icon_url": null,
+      "id": "9d6f2020-5b53-5410-994c-27a929e66ac0",
+      "language_tag": "en-US",
+      "title": "IKEA Hackers",
+      "website_url": null
+    },
+    {
+      "description": "MUO is your guide to modern tech. Learn how to make use of the tech and gadgets around you, and discover cool stuff on the internet.",
+      "feed_format": "rss",
+      "feed_url": "https://www.makeuseof.com/feed/",
+      "icon_url": null,
+      "id": "c8da1852-7d44-59b0-b14f-a129fe17637b",
+      "language_tag": "en-US",
+      "title": "MakeUseOf",
+      "website_url": null
+    },
+    {
+      "description": "Oh Happy Day is a party and lifestyle blog based in San Francisco. We love to throw parties and make things!",
+      "feed_format": "rss",
+      "feed_url": "https://ohhappyday.com/feed/",
+      "icon_url": null,
+      "id": "0f4082cb-1411-5c98-b9b1-164e5f937d58",
+      "language_tag": "en-US",
+      "title": "Oh Happy Day!",
+      "website_url": null
+    },
+    {
+      "description": "Wonder How To is your guide to free how to videos on the Web. Search, Browse and Discover the best how to videos across the web using the largest how to video index on the web. Watch the best online video instructions, tutorials, & How-Tos for free. Have your own how to videos? Submit them to share with the world.",
+      "feed_format": "rss",
+      "feed_url": "https://www.wonderhowto.com/rss.xml",
+      "icon_url": null,
+      "id": "7b7a047a-548e-51dc-9038-8d5ab8f2a5de",
+      "language_tag": "en-us",
+      "title": "WonderHowTo",
+      "website_url": "https://www.wonderhowto.com/"
+    }
+  ],
+  "id": "5fdb40b0-a66b-5053-b7a9-ef42536d7934",
+  "schema_version": 1,
+  "slug": "hardware-makers",
+  "title": "Hardware and makers"
+}

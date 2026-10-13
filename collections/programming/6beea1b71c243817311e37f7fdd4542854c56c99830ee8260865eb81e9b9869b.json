@@ -1,0 +1,349 @@
+{
+  "description": "General programming, software development, and developer communities.",
+  "feeds": [
+    {
+      "description": "The CodeNewbie podcast was born from CodeNewbie, an organization which fosters a supportive, international community of people learning to code. Each season, host Saron Yitbarek delivers stories and interviews from people of diverse backgrounds and expertise about their coding journeys, as well as beginner friendly discussions about the tech you should know about.",
+      "feed_format": "rss",
+      "feed_url": "http://feeds.codenewbie.org/cnpodcast.xml",
+      "icon_url": null,
+      "id": "70208c3a-9802-546b-ae06-ef21cedcbe80",
+      "language_tag": "en-US",
+      "title": "CodeNewbie",
+      "website_url": null
+    },
+    {
+      "description": "programming and human factors",
+      "feed_format": "rss",
+      "feed_url": "https://blog.codinghorror.com/rss/",
+      "icon_url": null,
+      "id": "467ad362-edaf-5c75-8ca7-961766c5cdf0",
+      "language_tag": null,
+      "title": "Coding Horror",
+      "website_url": "https://blog.codinghorror.com/"
+    },
+    {
+      "description": "Developer Tea exists to help driven developers connect to their ultimate purpose and excel at their work so that they can positively impact the people they influence. With over 17 million downloads to date, Developer Tea is a short podcast hosted by Jonathan Cutrell, engineering leader with over 15 years of industry experience. We hope you'll take the topics from this podcast and continue the conversation, either online or in person with your peers. Email: developertea@gmail.com",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.simplecast.com/dLRotFGk",
+      "icon_url": null,
+      "id": "380d3e9e-61e4-5e53-924f-a0996220b265",
+      "language_tag": "en-us",
+      "title": "Developer Tea",
+      "website_url": null
+    },
+    {
+      "description": "Engineering at Meta Blog",
+      "feed_format": "rss",
+      "feed_url": "https://engineering.fb.com/feed/",
+      "icon_url": null,
+      "id": "0240e174-5cc4-57b9-99f3-0238b4b8401d",
+      "language_tag": "en-US",
+      "title": "Engineering at Meta",
+      "website_url": null
+    },
+    {
+      "description": "Hear directly from Slack's engineers about what we build, why and how we build it, and how you can use it.",
+      "feed_format": "rss",
+      "feed_url": "https://slack.engineering/feed/",
+      "icon_url": null,
+      "id": "fcf03128-018d-5b5c-8e1b-ee5a60e917df",
+      "language_tag": "en-US",
+      "title": "Engineering at Slack",
+      "website_url": null
+    },
+    {
+      "description": "The engineers who make Etsy make our living with a craft we love: software. This is where we'll write about our craft and our collective experience building and running the world's most vibrant handmade marketplace.",
+      "feed_format": "rss",
+      "feed_url": "https://www.etsy.com/codeascraft/rss",
+      "icon_url": null,
+      "id": "90163c9f-b128-5ec2-b0d6-2c0f2df1f76d",
+      "language_tag": "en-US",
+      "title": "Etsy Engineering | Code as Craft",
+      "website_url": "http://www.etsy.com/codeascraft/rss"
+    },
+    {
+      "description": "We're not talking dentistry here; FLOSS is all about Free Libre Open Source Software. Join host Doc Searls and his rotating panel of co-hosts as they talk with the most interesting and important people in the Open Source and Free Software community. Although the show is no longer in production at TWiT, you can enjoy episodes from our archives.",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.twit.tv/floss.xml",
+      "icon_url": null,
+      "id": "f8886349-ec70-5417-b5d0-fffeafdc7356",
+      "language_tag": "en-US",
+      "title": "FLOSS Weekly (Audio)",
+      "website_url": "https://twit.tv/shows/floss-weekly"
+    },
+    {
+      "description": "GitLab Blog RSS feed",
+      "feed_format": "atom",
+      "feed_url": "https://about.gitlab.com/atom.xml",
+      "icon_url": null,
+      "id": "259e6d15-29bf-54dc-8412-9d642e83739c",
+      "language_tag": null,
+      "title": "GitLab",
+      "website_url": "https://about.gitlab.com/blog"
+    },
+    {
+      "description": "Updates on changes and additions to the Google Developers Blog.",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.feedburner.com/GDBcode",
+      "icon_url": null,
+      "id": "5af025db-9b4d-557a-bfc8-77b94de240b9",
+      "language_tag": "en-us",
+      "title": "Google Developers Blog",
+      "website_url": "https://developers.googleblog.com/rss/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?user=GoogleTechTalks",
+      "icon_url": null,
+      "id": "7cc08dda-047d-5b31-a5e8-f2cc15314dfb",
+      "language_tag": null,
+      "title": "Google TechTalks",
+      "website_url": "https://www.youtube.com/channel/UCtXKDgv1AVoG88PLl8nGXmw"
+    },
+    {
+      "description": "Hanselminutes is Fresh Air for Developers. A weekly commute-time podcast that promotes fresh technology and fresh voices. Talk and Tech for Developers, Life-long Learners, and Technologists.",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.simplecast.com/gvtxUiIf",
+      "icon_url": null,
+      "id": "62513254-b53b-5101-b47b-4f976caf2ef0",
+      "language_tag": "en-us",
+      "title": "Hanselminutes with Scott Hanselman",
+      "website_url": null
+    },
+    {
+      "description": "InfoQ feed",
+      "feed_format": "rss",
+      "feed_url": "https://feed.infoq.com/",
+      "icon_url": null,
+      "id": "2deea361-d9f5-5d58-a9dd-f348ce5f1507",
+      "language_tag": null,
+      "title": "InfoQ",
+      "website_url": "https://www.infoq.com/"
+    },
+    {
+      "description": "Best Practices and Lessons Learned from Writing Awesome Java and SQL Code. Get some hands-on insight on what's behind developing jOOQ.",
+      "feed_format": "rss",
+      "feed_url": "https://blog.jooq.org/feed/",
+      "icon_url": null,
+      "id": "645773df-03b6-587d-88d7-03773368fc5b",
+      "language_tag": "en-US",
+      "title": "Java, SQL and jOOQ.",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://www.joelonsoftware.com/feed/",
+      "icon_url": null,
+      "id": "80b33de9-a100-5d27-9f90-65ace05ea13e",
+      "language_tag": "en-US",
+      "title": "Joel on Software",
+      "website_url": null
+    },
+    {
+      "description": "Master feed of news and updates from martinfowler.com",
+      "feed_format": "atom",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "icon_url": null,
+      "id": "a726b0d8-279d-594d-aac3-f134d8c6034a",
+      "language_tag": null,
+      "title": "Martin Fowler",
+      "website_url": "https://martinfowler.com/"
+    },
+    {
+      "description": "In-depth ideas and guides to social media & online marketing strategy, published by the team at Buffer",
+      "feed_format": "rss",
+      "feed_url": "https://buffer.com/resources/overflow/rss/",
+      "icon_url": null,
+      "id": "5a980523-5552-5609-9ace-a6eabaa855f4",
+      "language_tag": null,
+      "title": "Overflow - Buffer Resources",
+      "website_url": "https://buffer.com/resources/"
+    },
+    {
+      "description": "A blog by Dan Abramov",
+      "feed_format": "rss",
+      "feed_url": "https://overreacted.io/rss.xml",
+      "icon_url": null,
+      "id": "d7c3206d-c8e9-536d-aa0a-8fe7098a6043",
+      "language_tag": null,
+      "title": "overreacted — A blog by Dan Abramov",
+      "website_url": "https://overreacted.io/"
+    },
+    {
+      "description": "Programming, Design and Development",
+      "feed_format": "rss",
+      "feed_url": "https://www.thecrazyprogrammer.com/category/programming/feed",
+      "icon_url": null,
+      "id": "7fe41f1c-ffbf-586d-a8d9-614706c3bd42",
+      "language_tag": "en-US",
+      "title": "Programming Archives - The Crazy Programmer",
+      "website_url": null
+    },
+    {
+      "description": "Programming Throwdown educates Computer Scientists and Software Engineers on a cavalcade of programming and tech topics. Every show will cover a new programming language, so listeners will be able to speak intelligently about any programming language.",
+      "feed_format": "rss",
+      "feed_url": "https://www.programmingthrowdown.com/rss/pt.rss",
+      "icon_url": null,
+      "id": "80cbbc4b-f189-5001-88ad-2ff721e99c9e",
+      "language_tag": "en-us",
+      "title": "Programming Throwdown",
+      "website_url": null
+    },
+    {
+      "description": "Software engineer. One-track lover down a two-way lane",
+      "feed_format": "rss",
+      "feed_url": "https://robertheaton.com/feed.xml",
+      "icon_url": null,
+      "id": "4a18eb41-0bce-50df-9642-f8e31b00c691",
+      "language_tag": null,
+      "title": "Robert Heaton | Blog",
+      "website_url": "https://robertheaton.com/"
+    },
+    {
+      "description": "Scott Hanselman on Programming, User Experience, The Zen of Computers and Life in General",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.hanselman.com/ScottHanselman",
+      "icon_url": null,
+      "id": "bfc007b9-b1b4-59a5-94e7-a59ab4407b94",
+      "language_tag": null,
+      "title": "Scott Hanselman's Blog",
+      "website_url": "https://www.hanselman.com/blog/"
+    },
+    {
+      "description": "Dave Winer, OG blogger, podcaster, developed first apps in many categories. Old enough to know better. It's even worse than it appears.",
+      "feed_format": "rss",
+      "feed_url": "http://scripting.com/rss.xml",
+      "icon_url": null,
+      "id": "1df25fc5-c71d-5094-bcaf-d861eed544c7",
+      "language_tag": "en-us",
+      "title": "Scripting News",
+      "website_url": "http://scripting.com/"
+    },
+    {
+      "description": "Technical interviews about software topics.",
+      "feed_format": "rss",
+      "feed_url": "https://softwareengineeringdaily.com/feed/podcast/",
+      "icon_url": null,
+      "id": "f2e90da8-54b3-507f-b21f-f9121c8d7471",
+      "language_tag": "en-US",
+      "title": "Software Engineering Daily",
+      "website_url": null
+    },
+    {
+      "description": "Software Engineering Radio is a podcast targeted at the professional software developer. The goal is to be a lasting educational resource, not a newscast. Every 10 days, a new episode is published that covers all topics software engineering. Episodes are either tutorials on a specific topic, or an interview with a well-known character from the software engineering world. All SE Radio episodes are original content — we do not record conferences or talks given in other venues. Each episode compris",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.feedburner.com/se-radio",
+      "icon_url": null,
+      "id": "df2d90a2-ba96-5674-9cad-6bf46fe0f455",
+      "language_tag": "en-us",
+      "title": "Software Engineering Radio - The Podcast for Professional Software Developers",
+      "website_url": null
+    },
+    {
+      "description": "SoundCloud's developer blog.",
+      "feed_format": "rss",
+      "feed_url": "https://developers.soundcloud.com/blog/blog.rss",
+      "icon_url": null,
+      "id": "e824e2fa-7be1-5bfa-8289-db8e22096e08",
+      "language_tag": null,
+      "title": "SoundCloud Backstage Blog",
+      "website_url": "https://developers.soundcloud.com/blog"
+    },
+    {
+      "description": "Learn Python, Java, JavaScript/Node, Machine Learning, and Web Development through articles, code examples, and tutorials for developers of all skill levels.",
+      "feed_format": "rss",
+      "feed_url": "https://stackabuse.com/rss/",
+      "icon_url": null,
+      "id": "385063c1-1401-5574-8df7-864a513bc3e7",
+      "language_tag": null,
+      "title": "Stack Abuse",
+      "website_url": "https://stackabuse.com/"
+    },
+    {
+      "description": "Essays, opinions, and advice on the act of computer programming from Stack Overflow.",
+      "feed_format": "rss",
+      "feed_url": "https://stackoverflow.blog/feed",
+      "icon_url": null,
+      "id": "493ee80a-b214-5275-ac1d-930885bc1adb",
+      "language_tag": "en-US",
+      "title": "Stack Overflow Blog",
+      "website_url": null
+    },
+    {
+      "description": "Helping others reach their potential",
+      "feed_format": "rss",
+      "feed_url": "https://6figuredev.com/feed/",
+      "icon_url": null,
+      "id": "17372540-c864-5597-9ee8-64d5cedd000f",
+      "language_tag": "en",
+      "title": "The 6 Figure Developer",
+      "website_url": null
+    },
+    {
+      "description": "Creative engineers and data scientists building a world where you can belong anywhere. http://airbnb.io - Medium",
+      "feed_format": "rss",
+      "feed_url": "https://medium.com/feed/airbnb-engineering",
+      "icon_url": null,
+      "id": "1fae9bf3-e5e9-586b-b055-4ff7bf2aec31",
+      "language_tag": null,
+      "title": "The Airbnb Tech Blog - Medium",
+      "website_url": "https://medium.com/airbnb-engineering?source=rss----53c7c27702d5---4"
+    },
+    {
+      "description": "A UK based Technology and Software Developer Podcast that helps you to improve your development knowledge and career, through explaining the latest and greatest in development technology and providing you with what you need to succeed as a developer.",
+      "feed_format": "rss",
+      "feed_url": "https://cynicaldeveloper.com/feed/podcast",
+      "icon_url": null,
+      "id": "f37cf165-e7ea-5816-b7d3-f7bf2ff47fc8",
+      "language_tag": "en",
+      "title": "The Cynical Developer",
+      "website_url": null
+    },
+    {
+      "description": "Updates, ideas, and inspiration from GitHub to help developers build and design software.",
+      "feed_format": "rss",
+      "feed_url": "https://github.blog/feed/",
+      "icon_url": null,
+      "id": "39a098e5-ee69-596b-9c7f-e5d0e248fcf5",
+      "language_tag": "en-US",
+      "title": "The GitHub Blog",
+      "website_url": null
+    },
+    {
+      "description": "Developer Tools for Professionals and Teams",
+      "feed_format": "rss",
+      "feed_url": "https://blog.jetbrains.com/feed/",
+      "icon_url": null,
+      "id": "25700a90-090b-5115-8f8c-ee16ac7621be",
+      "language_tag": "en-US",
+      "title": "The JetBrains Blog",
+      "website_url": null
+    },
+    {
+      "description": "This is the show where I sit down with people in the tech space and talk about what they are doing and how they get it all done.",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.transistor.fm/productivity-in-tech-podcast",
+      "icon_url": null,
+      "id": "82b47811-d558-57bc-bbbd-d1cc9c3a7bc6",
+      "language_tag": "en",
+      "title": "The PIT Show: Reflections and Interviews in the Tech World",
+      "website_url": null
+    },
+    {
+      "description": "A podcast about what we work on, not what it feels like to be a woman in tech. Hosted by Edaena Salinas, Software Engineer at Microsoft. Website: wit.fm",
+      "feed_format": "rss",
+      "feed_url": "https://thewomenintechshow.com/category/podcast/feed/",
+      "icon_url": null,
+      "id": "301c9957-4d48-523a-8f3f-c4a9baee1140",
+      "language_tag": "en",
+      "title": "The Women in Tech Show: A Technical Podcast",
+      "website_url": null
+    }
+  ],
+  "id": "3ce6abeb-d23b-5f01-8525-d24fed2a38c1",
+  "schema_version": 1,
+  "slug": "programming",
+  "title": "Programming"
+}

@@ -1,0 +1,1709 @@
+{
+  "description": "HTML, CSS, JavaScript, frameworks, and web development.",
+  "feeds": [
+    {
+      "description": "A year-end celebration of fundamental web technologies: HTML, CSS, and JavaScript.",
+      "feed_format": "atom",
+      "feed_url": "https://12daysofweb.dev/feed.xml",
+      "icon_url": null,
+      "id": "72d345d2-6a8a-50a4-a525-04a2140dd127",
+      "language_tag": null,
+      "title": "12 Days of Web",
+      "website_url": "https://12daysofweb.dev/"
+    },
+    {
+      "description": "Helping You Build a Better Web",
+      "feed_format": "rss",
+      "feed_url": "https://1stwebdesigner.com/feed/",
+      "icon_url": null,
+      "id": "b5aaa798-7f53-5a7d-977d-d8c9e2f678d8",
+      "language_tag": "en-US",
+      "title": "1stWebDesigner",
+      "website_url": null
+    },
+    {
+      "description": "24 days of accessibility gifts during the season of giving and sharing",
+      "feed_format": "rss",
+      "feed_url": "https://www.24a11y.com/feed/",
+      "icon_url": null,
+      "id": "edb1ddbf-eb98-525d-bdd0-15fce149362f",
+      "language_tag": "en-US",
+      "title": "24 Accessibility",
+      "website_url": null
+    },
+    {
+      "description": "Web design and development articles and tutorials for advent.",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.feedburner.com/24ways",
+      "icon_url": null,
+      "id": "3f8e7db8-9f09-54ff-8908-8d9b3e415101",
+      "language_tag": "en-gb",
+      "title": "24 ways",
+      "website_url": "https://24ways.org/"
+    },
+    {
+      "description": "Coding articles to level up your development skills",
+      "feed_format": "rss",
+      "feed_url": "https://www.30secondsofcode.org/feed",
+      "icon_url": null,
+      "id": "9763a86b-2497-5365-94c7-8f82e8d3538a",
+      "language_tag": "en-us",
+      "title": "30 seconds of code",
+      "website_url": "https://www.30secondsofcode.org/"
+    },
+    {
+      "description": "Articles for people who make web sites.",
+      "feed_format": "rss",
+      "feed_url": "https://alistapart.com/main/feed/",
+      "icon_url": null,
+      "id": "efb5f107-01de-5922-a920-ff62abc8da16",
+      "language_tag": "en-US",
+      "title": "A List Apart: The Full Feed",
+      "website_url": "https://alistapart.com/"
+    },
+    {
+      "description": "a11y with Lindsey, where we want to make our internet, Everyone's internet!",
+      "feed_format": "rss",
+      "feed_url": "https://www.a11ywithlindsey.com/rss.xml",
+      "icon_url": null,
+      "id": "25b27e2e-b3cf-57a4-a899-4abe37ccf9a4",
+      "language_tag": null,
+      "title": "a11y with Lindsey",
+      "website_url": "https://www.a11ywithlindsey.com/"
+    },
+    {
+      "description": "A blog about modern (and accessible) development",
+      "feed_format": "rss",
+      "feed_url": "https://accessibledreams.home.blog/feed/",
+      "icon_url": null,
+      "id": "abfea416-27a0-52ff-80d1-a8bd07792ed1",
+      "language_tag": "en",
+      "title": "Accessible Dreams",
+      "website_url": null
+    },
+    {
+      "description": "Longer thoughts and ramblings from Jeremy Keith, an Irish web developer living and working in Brighton, England.",
+      "feed_format": "rss",
+      "feed_url": "https://adactio.com/articles/rss",
+      "icon_url": null,
+      "id": "9bb3d6cb-c5ca-5f26-816a-13254bf94b0c",
+      "language_tag": "en",
+      "title": "Adactio: Articles",
+      "website_url": "https://adactio.com/articles/"
+    },
+    {
+      "description": "The online journal of Jeremy Keith, an author and web developer living and working in Brighton, England.",
+      "feed_format": "rss",
+      "feed_url": "https://adactio.com/journal/rss",
+      "icon_url": null,
+      "id": "514caa9b-c07c-5158-874c-720d9e98906e",
+      "language_tag": "en",
+      "title": "Adactio: Journal",
+      "website_url": "https://adactio.com/journal/"
+    },
+    {
+      "description": "Sharing what I've learned.",
+      "feed_format": "atom",
+      "feed_url": "https://adamsilver.io/atom.xml",
+      "icon_url": null,
+      "id": "6c18f62e-1f4d-5566-85fa-b6fd26ea9cf2",
+      "language_tag": null,
+      "title": "Adam Silver",
+      "website_url": "https://adamsilver.io/"
+    },
+    {
+      "description": "Addy Osmani is an engineering and evangelism leader and a Member of Technical Staff at Anthropic, where he works on Claude Code. He spent over 14 years at Google leading developer experience across Chrome and, in recent years, AI (Gemini, coding agents, and agentic engineering), most recently as a Director at Google Cloud AI.",
+      "feed_format": "rss",
+      "feed_url": "https://addyosmani.com/rss.xml",
+      "icon_url": null,
+      "id": "ba842076-29a1-5e5a-b6e8-e3b83a953272",
+      "language_tag": null,
+      "title": "AddyOsmani.com",
+      "website_url": "https://addyosmani.com/"
+    },
+    {
+      "description": "Consultant, Writer, Speaker",
+      "feed_format": "rss",
+      "feed_url": "https://adrianroselli.com/feed",
+      "icon_url": null,
+      "id": "f19ac62a-e014-5cd3-9e03-bc19134522af",
+      "language_tag": "en-US",
+      "title": "Adrian Roselli",
+      "website_url": null
+    },
+    {
+      "description": "Deep-dive CSS articles, modern CSS and visual CSS explanations.",
+      "feed_format": "rss",
+      "feed_url": "https://ishadeed.com/feed.xml",
+      "icon_url": null,
+      "id": "66370895-ad54-563e-b054-af660106bf35",
+      "language_tag": null,
+      "title": "Ahmad Shadeed",
+      "website_url": "https://ishadeed.com/"
+    },
+    {
+      "description": "A feed of the latest articless from our blog.",
+      "feed_format": "atom",
+      "feed_url": "https://www.alwaystwisted.com/feed.xml",
+      "icon_url": null,
+      "id": "5d578eca-e732-5ea1-a382-a58ebe72a6b3",
+      "language_tag": null,
+      "title": "Always Twisted| Articles",
+      "website_url": "https://www.alwaystwisted.com/"
+    },
+    {
+      "description": "Recent content in Articles on Smashing Magazine — For Web Designers And Developers",
+      "feed_format": "rss",
+      "feed_url": "https://www.smashingmagazine.com/feed/",
+      "icon_url": null,
+      "id": "d45773b2-247f-5f6c-b0e0-065c8029a08b",
+      "language_tag": "en",
+      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
+      "website_url": "https://www.smashingmagazine.com/"
+    },
+    {
+      "description": "Riding bikes, writing poetry, righting software",
+      "feed_format": "rss",
+      "feed_url": "https://austingil.com/feed/",
+      "icon_url": null,
+      "id": "fd3d057f-ba77-5618-bb90-bc3755a6f4e4",
+      "language_tag": "en-US",
+      "title": "Austin Gil",
+      "website_url": null
+    },
+    {
+      "description": "Ben Frain – author and web developer",
+      "feed_format": "rss",
+      "feed_url": "https://benfrain.com/feed/",
+      "icon_url": null,
+      "id": "6ca49d1e-31ff-5ffa-9507-a1cd83a2946b",
+      "language_tag": "en-US",
+      "title": "Ben Frain",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://benmccormick.org/feed.xml",
+      "icon_url": null,
+      "id": "3115e7f3-60e7-5c1d-bc9a-f6e0a9a36917",
+      "language_tag": "en",
+      "title": "Ben McCormick",
+      "website_url": "https://benmccormick.org/"
+    },
+    {
+      "description": "Web developer. Accessibility advocate. Human T-rex.",
+      "feed_format": "atom",
+      "feed_url": "https://benmyers.dev/feed.xml",
+      "icon_url": null,
+      "id": "cfae9868-a40c-5a02-8904-f002b05f28c4",
+      "language_tag": null,
+      "title": "Ben Myers",
+      "website_url": "https://benmyers.dev/"
+    },
+    {
+      "description": "Web typography for web designers and web developers.",
+      "feed_format": "atom",
+      "feed_url": "https://betterwebtype.com/feed.xml",
+      "icon_url": null,
+      "id": "3eca4890-8441-5124-8298-5648fe7fb371",
+      "language_tag": null,
+      "title": "Better Web Type",
+      "website_url": "https://betterwebtype.com/"
+    },
+    {
+      "description": "Articles on frontend development and more.",
+      "feed_format": "atom",
+      "feed_url": "https://bitsofco.de/rss/",
+      "icon_url": null,
+      "id": "569e098f-3226-5166-ae0e-c82fd4de97fc",
+      "language_tag": null,
+      "title": "bitsofcode",
+      "website_url": "https://bitsofco.de/"
+    },
+    {
+      "description": "The Accessibility Experts",
+      "feed_format": "rss",
+      "feed_url": "https://www.tpgi.com/blog/feed/",
+      "icon_url": null,
+      "id": "090f129c-8e30-5b62-b715-83b521554c0b",
+      "language_tag": "en-US",
+      "title": "Blog Archives - TPGi — a Vispero company",
+      "website_url": null
+    },
+    {
+      "description": "Web Designer, Teacher, Consultant, Writer, Musician, Artist",
+      "feed_format": "atom",
+      "feed_url": "https://feeds.feedburner.com/brad-frosts-blog",
+      "icon_url": null,
+      "id": "7cf4ace0-c685-52e1-a25e-c45355a7e044",
+      "language_tag": "en-US",
+      "title": "Brad Frost",
+      "website_url": "https://bradfrost.com/"
+    },
+    {
+      "description": "A rather geeky/technical weblog, est. 2001, by Bramus",
+      "feed_format": "rss",
+      "feed_url": "https://www.bram.us/feed/",
+      "icon_url": null,
+      "id": "1072e735-2068-5e26-98e3-58a7e9bd16d2",
+      "language_tag": "en-US",
+      "title": "Bram.us",
+      "website_url": null
+    },
+    {
+      "description": "loveliness",
+      "feed_format": "rss",
+      "feed_url": "https://brucelawson.co.uk/feed/",
+      "icon_url": null,
+      "id": "66375eb7-e6ac-55a7-afdb-f971c0fc9e57",
+      "language_tag": "en-GB",
+      "title": "Bruce Lawson's personal site",
+      "website_url": null
+    },
+    {
+      "description": "Hello, World! I'm a designer and developer with over a decade of experience building experiences and leading teams on the web. I write and record about HTML, CSS, the power of static sites and good, clean design.",
+      "feed_format": "rss",
+      "feed_url": "https://bryanlrobinson.com/feed.xml",
+      "icon_url": null,
+      "id": "52a15bdb-6fa3-5360-b424-dfeec8732951",
+      "language_tag": null,
+      "title": "Bryan Robinson's Blog",
+      "website_url": "https://bryanlrobinson.com/"
+    },
+    {
+      "description": "Learn how to build and test accessible web applications with Marcy Sutton.",
+      "feed_format": "rss",
+      "feed_url": "https://testingaccessibility.com/rss.xml",
+      "icon_url": null,
+      "id": "aef2a58f-ed30-524f-81c6-ab9aad08d594",
+      "language_tag": null,
+      "title": "Build & Test Accessible Web Apps | Testing Accessibility",
+      "website_url": "https://testingaccessibility.com/"
+    },
+    {
+      "description": "My website",
+      "feed_format": "atom",
+      "feed_url": "https://catalin.red/feed",
+      "icon_url": null,
+      "id": "174cac6b-a9aa-5157-8148-8302c39624c9",
+      "language_tag": null,
+      "title": "Catalin Red",
+      "website_url": "https://catalin.red/"
+    },
+    {
+      "description": "The chronicles of a self-taught designer and developer who started building on the web when HTML tables were being phased out and floats were the hot new thing.",
+      "feed_format": "rss",
+      "feed_url": "https://chenhuijing.com/rss.xml",
+      "icon_url": null,
+      "id": "5aa1b117-a643-5145-a0a7-3bb5b29446ec",
+      "language_tag": null,
+      "title": "Chen Hui Jing",
+      "website_url": "https://chenhuijing.com/"
+    },
+    {
+      "description": "CodyHouse is an arsenal of production-ready components and tools that empower web designers to craft digital experiences faster and better.",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.feedburner.com/codyhouse/feeds",
+      "icon_url": null,
+      "id": "c651e687-0f9d-5674-bf67-5e07e80e0e99",
+      "language_tag": "en-US",
+      "title": "CodyHouse",
+      "website_url": null
+    },
+    {
+      "description": "Reports and articles about CSS.",
+      "feed_format": "rss",
+      "feed_url": "https://css-auditors.com/rss.xml",
+      "icon_url": null,
+      "id": "2c7e102f-9906-5fa7-8c06-bc0dba65ab56",
+      "language_tag": "en",
+      "title": "CSS Auditors RSS feed",
+      "website_url": "https://css-auditors.com/"
+    },
+    {
+      "description": "Tips, tricks and tutorials on the web’s most beautiful language",
+      "feed_format": "atom",
+      "feed_url": "https://css-irl.info/rss.xml",
+      "icon_url": null,
+      "id": "58cef959-6227-5c87-a19b-1648bee225c3",
+      "language_tag": null,
+      "title": "CSS In Real Life",
+      "website_url": "https://css-irl.info/"
+    },
+    {
+      "description": "The best place to keep up to date with the new CSS features. Daily CSS tips and tricks to become a better web developer.",
+      "feed_format": "atom",
+      "feed_url": "https://css-tip.com/feed/feed.xml",
+      "icon_url": null,
+      "id": "a9d88d11-f77a-5887-9551-73a453fa9eec",
+      "language_tag": null,
+      "title": "CSS Tip: Learn CSS the easy way",
+      "website_url": "https://css-tip.com/"
+    },
+    {
+      "description": "– Web Performance and Site Speed Consultant",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.feedburner.com/csswizardry",
+      "icon_url": null,
+      "id": "c47699fb-4c2e-596d-8fc6-cb6f3cd6e7ce",
+      "language_tag": null,
+      "title": "CSS Wizardry",
+      "website_url": "https://csswizardry.com/"
+    },
+    {
+      "description": "A learning community for front-end designers and developers",
+      "feed_format": "rss",
+      "feed_url": "https://css-tricks.com/feed/",
+      "icon_url": null,
+      "id": "a5f750c9-ae50-57a6-9c65-f69975d91315",
+      "language_tag": "en-US",
+      "title": "CSS-Tricks",
+      "website_url": null
+    },
+    {
+      "description": "A learning community for front-end designers and developers",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.feedburner.com/CssTricks",
+      "icon_url": null,
+      "id": "b7b53b7a-a3b0-52cd-b611-a48216d2056c",
+      "language_tag": "en-US",
+      "title": "CSS-Tricks",
+      "website_url": null
+    },
+    {
+      "description": "Darek Kay is a professional front-end developer and an accessibility advocate.",
+      "feed_format": "atom",
+      "feed_url": "https://darekkay.com/atom.xml",
+      "icon_url": null,
+      "id": "d967267a-f898-53a2-98e8-53cebbb897e2",
+      "language_tag": null,
+      "title": "Darek Kay",
+      "website_url": "https://darekkay.com/"
+    },
+    {
+      "description": "Random Musings",
+      "feed_format": "atom",
+      "feed_url": "https://darrylbayliss.net/feed.xml",
+      "icon_url": null,
+      "id": "2071e120-0edc-5506-8608-18b9a1ddf457",
+      "language_tag": null,
+      "title": "Darryl Bayliss’s Blog",
+      "website_url": "https://darrylbayliss.net/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://daveceddia.com/feed.xml",
+      "icon_url": null,
+      "id": "880722de-aaef-5705-83ed-3352b8f8bdcc",
+      "language_tag": "en",
+      "title": "Dave Ceddia",
+      "website_url": "https://daveceddia.com/"
+    },
+    {
+      "description": "The personal blog of Dave Rupert, web developer and podcaster from Austin, TX.",
+      "feed_format": "rss",
+      "feed_url": "https://daverupert.com/atom.xml",
+      "icon_url": null,
+      "id": "38a47029-796a-5b73-bfc5-fbf287bac57a",
+      "language_tag": null,
+      "title": "daverupert.com",
+      "website_url": "https://daverupert.com/"
+    },
+    {
+      "description": "A blog featuring tutorials about JavaScript, HTML5, AJAX, PHP, CSS, WordPress, and everything else development.",
+      "feed_format": "atom",
+      "feed_url": "https://davidwalsh.name/feed/atom",
+      "icon_url": null,
+      "id": "35be9f16-a0f4-5f27-bc80-0309b98095d9",
+      "language_tag": "en-US",
+      "title": "David Walsh Blog",
+      "website_url": "https://davidwalsh.name/"
+    },
+    {
+      "description": "A blog featuring tutorials about JavaScript, HTML5, AJAX, PHP, CSS, WordPress, and everything else development.",
+      "feed_format": "rss",
+      "feed_url": "https://davidwalsh.name/feed",
+      "icon_url": null,
+      "id": "a2f7ad0f-1c31-5ab2-a919-1484a9cc0c4d",
+      "language_tag": "en-US",
+      "title": "David Walsh Blog",
+      "website_url": null
+    },
+    {
+      "description": "David Bushell’s Blog only feed",
+      "feed_format": "rss",
+      "feed_url": "https://dbushell.com/rss.xml",
+      "icon_url": null,
+      "id": "f0861bf9-56b6-5028-8dcd-e4e2999ae3d3",
+      "language_tag": "en-GB",
+      "title": "dbushell.com (blog)",
+      "website_url": "https://dbushell.com/blog/"
+    },
+    {
+      "description": "Practical CSS and design tips that helps in building future-proof user interfaces.",
+      "feed_format": "atom",
+      "feed_url": "https://defensivecss.dev/feed/feed.xml",
+      "icon_url": null,
+      "id": "dbefba30-b895-57b8-a861-c7402ccb9563",
+      "language_tag": null,
+      "title": "Defensive CSS",
+      "website_url": "https://defensivecss.dev/"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://www.deque.com/feed/",
+      "icon_url": null,
+      "id": "d9632666-0dc3-53ee-b328-806c5ddbf609",
+      "language_tag": "en-US",
+      "title": "Deque",
+      "website_url": null
+    },
+    {
+      "description": "The most recent home feed on DEV Community.",
+      "feed_format": "rss",
+      "feed_url": "https://dev.to/feed",
+      "icon_url": null,
+      "id": "d1242768-7390-5432-be01-102b79fceb4a",
+      "language_tag": "en",
+      "title": "DEV Community",
+      "website_url": "https://dev.to/"
+    },
+    {
+      "description": "Your Accessibility Partner",
+      "feed_format": "rss",
+      "feed_url": "https://www.digitala11y.com/feed/",
+      "icon_url": null,
+      "id": "5633e1a2-b6a0-5483-8025-5052635c2416",
+      "language_tag": "en-US",
+      "title": "DigitalA11Y",
+      "website_url": null
+    },
+    {
+      "description": "David Flanagan on Programming",
+      "feed_format": "atom",
+      "feed_url": "https://davidflanagan.com/feed.xml",
+      "icon_url": null,
+      "id": "4d5eab3a-bf77-516d-9272-2b08de6625d8",
+      "language_tag": null,
+      "title": "djf.log()",
+      "website_url": "https://davidflanagan.com/"
+    },
+    {
+      "description": "Dmitri Pavlutin Blog is a place to learn about JavaScript, CSS, React, Vue and more on Frontend development",
+      "feed_format": "rss",
+      "feed_url": "https://dmitripavlutin.com/rss.xml",
+      "icon_url": null,
+      "id": "f18c85de-1b28-5481-97d0-f53a4c033468",
+      "language_tag": "en",
+      "title": "Dmitri Pavlutin Blog",
+      "website_url": "https://dmitripavlutin.com/"
+    },
+    {
+      "description": "Description pending",
+      "feed_format": "rss",
+      "feed_url": "https://www.echojs.com/rss",
+      "icon_url": null,
+      "id": "01f810ab-db44-580a-838b-39f09d5c214c",
+      "language_tag": null,
+      "title": "Echo JS",
+      "website_url": "https://www.echojs.com/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://code.tutsplus.com/posts.atom",
+      "icon_url": null,
+      "id": "d24c24e5-c93c-5b26-92a9-c5412b1059a7",
+      "language_tag": "en-US",
+      "title": "Envato Tuts+ Code",
+      "website_url": "https://code.tutsplus.com/"
+    },
+    {
+      "description": "Home of Erik Runyon. Technical Director for the University of Notre Dame Web Team.",
+      "feed_format": "rss",
+      "feed_url": "https://erikrunyon.com/feed.xml",
+      "icon_url": null,
+      "id": "7fb9786f-a50c-57e2-b3bf-12105c3730a2",
+      "language_tag": null,
+      "title": "Erik Runyon",
+      "website_url": "https://erikrunyon.com/"
+    },
+    {
+      "description": "Learn to build software products, put them on the internet, find customers, and create an independent business that can make a great living.",
+      "feed_format": "rss",
+      "feed_url": "https://flaviocopes.com/rss.xml",
+      "icon_url": null,
+      "id": "61e4c7b4-4b51-5075-bb0d-8797885f23a5",
+      "language_tag": null,
+      "title": "Flavio Copes",
+      "website_url": "https://flaviocopes.com/"
+    },
+    {
+      "description": "All entries from foobartel.com",
+      "feed_format": "rss",
+      "feed_url": "https://foobartel.com/stream/feed",
+      "icon_url": null,
+      "id": "47268f45-aa0f-50bd-bb7d-97fd29322a2d",
+      "language_tag": null,
+      "title": "foobartel.com :: Stream",
+      "website_url": "https://foobartel.com/"
+    },
+    {
+      "description": "Your base to follow the past, present, and future of web development. Most recent publications only.",
+      "feed_format": "rss",
+      "feed_url": "https://frontenddogma.com/feed/",
+      "icon_url": null,
+      "id": "1d819a20-6657-5aba-bc1b-46e98c7afe61",
+      "language_tag": "en",
+      "title": "Frontend Dogma",
+      "website_url": "https://frontenddogma.com/"
+    },
+    {
+      "description": "I design. I develop. I do lots of things in between.",
+      "feed_format": "rss",
+      "feed_url": "https://geoffgraham.me/feed/",
+      "icon_url": null,
+      "id": "1258892b-525b-5c18-a7d4-b9f9d0cd1993",
+      "language_tag": "en-US",
+      "title": "Geoff Graham",
+      "website_url": null
+    },
+    {
+      "description": "Chris Ferdinandi is a web developer with ADHD, helping people build the web better.",
+      "feed_format": "rss",
+      "feed_url": "https://gomakethings.com/feed/index.xml",
+      "icon_url": null,
+      "id": "f7e70e36-f868-592b-96a7-c39026321559",
+      "language_tag": "en-us",
+      "title": "Go Make Things",
+      "website_url": null
+    },
+    {
+      "description": "How hackers start their afternoons.",
+      "feed_format": "rss",
+      "feed_url": "https://hackernoon.com/feed",
+      "icon_url": null,
+      "id": "ddb9b887-d7c5-5aa6-96d7-f5d58b60f752",
+      "language_tag": null,
+      "title": "HackerNoon",
+      "website_url": "https://hackernoon.com/"
+    },
+    {
+      "description": "“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” ― Martin Fowler",
+      "feed_format": "rss",
+      "feed_url": "https://hackernoon.com/tagged/coding/feed",
+      "icon_url": null,
+      "id": "571f2040-b486-51c2-90b1-1856c2c15c79",
+      "language_tag": null,
+      "title": "HackerNoon - coding",
+      "website_url": "https://hackernoon.com/tagged/coding"
+    },
+    {
+      "description": "Cascading Style Sheets (CSS) - easier than you think.",
+      "feed_format": "rss",
+      "feed_url": "https://hackernoon.com/tagged/css/feed",
+      "icon_url": null,
+      "id": "25da3332-2b6f-514b-bd63-07fba1791277",
+      "language_tag": null,
+      "title": "HackerNoon - css",
+      "website_url": "https://hackernoon.com/tagged/css"
+    },
+    {
+      "description": "The face, the experience - your product's first impression!",
+      "feed_format": "rss",
+      "feed_url": "https://hackernoon.com/tagged/frontend/feed",
+      "icon_url": null,
+      "id": "872068a3-f253-5795-a716-afdf2554c781",
+      "language_tag": null,
+      "title": "HackerNoon - frontend",
+      "website_url": "https://hackernoon.com/tagged/frontend"
+    },
+    {
+      "description": "\"Not a real programming language\" since 1995.",
+      "feed_format": "rss",
+      "feed_url": "https://hackernoon.com/tagged/javascript/feed",
+      "icon_url": null,
+      "id": "74a68c57-6320-5350-86ed-a1a056a92c2d",
+      "language_tag": null,
+      "title": "HackerNoon - javascript",
+      "website_url": "https://hackernoon.com/tagged/javascript"
+    },
+    {
+      "description": "\"Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.\" - Rich Cook, The Wizardry Compiled.",
+      "feed_format": "rss",
+      "feed_url": "https://hackernoon.com/tagged/programming/feed",
+      "icon_url": null,
+      "id": "8f1f1fc5-7b90-5064-ad53-12de38a1ef96",
+      "language_tag": null,
+      "title": "HackerNoon - programming",
+      "website_url": "https://hackernoon.com/tagged/programming"
+    },
+    {
+      "description": "Reteaching people basic web skills since 2013.",
+      "feed_format": "rss",
+      "feed_url": "https://hackernoon.com/tagged/react/feed",
+      "icon_url": null,
+      "id": "3de4ca89-461a-53c5-ae64-c33692edb9b3",
+      "language_tag": null,
+      "title": "HackerNoon - react",
+      "website_url": "https://hackernoon.com/tagged/react"
+    },
+    {
+      "description": "Harry Cresswell – Writing",
+      "feed_format": "rss",
+      "feed_url": "https://harrycresswell.com/writing/feed.xml",
+      "icon_url": null,
+      "id": "4775d584-ab22-542a-9aa2-990359ac8be4",
+      "language_tag": "en-gb",
+      "title": "Harry Cresswell - Writing",
+      "website_url": "https://harrycresswell.com/writing/"
+    },
+    {
+      "description": "Personal site of Harry Wolff (hswolff). Find articles on JavaScript, videos about code, and stories of my life.",
+      "feed_format": "rss",
+      "feed_url": "https://hswolff.com/rss.xml",
+      "icon_url": null,
+      "id": "091ef89c-66c8-536e-b0e3-7c335ba6019f",
+      "language_tag": null,
+      "title": "Harry Wolff",
+      "website_url": "https://hswolff.com/"
+    },
+    {
+      "description": "HeyDesigner is the daily reading list and weekly newsletter for product people, UXers, PMs, and design engineers.",
+      "feed_format": "rss",
+      "feed_url": "https://heydesigner.com/feed",
+      "icon_url": null,
+      "id": "65afa938-e132-58bc-845c-8abf977ca946",
+      "language_tag": "en",
+      "title": "HeyDesigner",
+      "website_url": "https://heydesigner.com/"
+    },
+    {
+      "description": "Writing and creative coding from Heydon Pickering",
+      "feed_format": "rss",
+      "feed_url": "https://heydonworks.com/feed.xml",
+      "icon_url": null,
+      "id": "27bc7738-5ee2-5adf-96be-bd6125c83077",
+      "language_tag": "en-us",
+      "title": "HeydonWorks",
+      "website_url": "https://heydonworks.com/"
+    },
+    {
+      "description": "A collection of bad practices in HTML, copied from real websites.",
+      "feed_format": "atom",
+      "feed_url": "https://www.htmhell.dev/feed.xml",
+      "icon_url": null,
+      "id": "ae1cca95-c08f-5ce9-860e-2396ef65b310",
+      "language_tag": null,
+      "title": "HTMHell",
+      "website_url": "https://htmhell.dev/"
+    },
+    {
+      "description": "A collection of HTML tips and tricks.",
+      "feed_format": "atom",
+      "feed_url": "https://www.htmhell.dev/feed_tips.xml",
+      "icon_url": null,
+      "id": "0bd9d17a-7def-561b-ab2b-4da6cf839060",
+      "language_tag": null,
+      "title": "HTMHell Tips & Tricks",
+      "website_url": "https://htmhell.dev/tips"
+    },
+    {
+      "description": "Let's Build the Web We Want",
+      "feed_format": "rss",
+      "feed_url": "https://htmlcssjavascript.com/feed/",
+      "icon_url": null,
+      "id": "8407aa68-a4ff-5bd5-99c8-f51c210819ff",
+      "language_tag": "en-US",
+      "title": "HTML + CSS + JavaScript",
+      "website_url": null
+    },
+    {
+      "description": "The Official Web Site of Nicholas C. Zakas",
+      "feed_format": "rss",
+      "feed_url": "https://humanwhocodes.com/feeds/blog.xml",
+      "icon_url": null,
+      "id": "a9158185-c222-5900-a1bf-d4ac237d2264",
+      "language_tag": "en-US",
+      "title": "Human Who Codes",
+      "website_url": null
+    },
+    {
+      "description": "Personal blog of Hussein Al Hammad",
+      "feed_format": "rss",
+      "feed_url": "https://hussein-alhammad.com/blog/rss.xml",
+      "icon_url": null,
+      "id": "fe05bc50-a7a3-54f1-8a1a-7201212ae806",
+      "language_tag": null,
+      "title": "Hussein Al Hammad",
+      "website_url": "https://hussein-alhammad.com/blog"
+    },
+    {
+      "description": "Articles on Front-end Web Development",
+      "feed_format": "rss",
+      "feed_url": "https://www.impressivewebs.com/feed/",
+      "icon_url": null,
+      "id": "5d8364ba-2367-58ad-be4a-cb3da0043ab6",
+      "language_tag": "en-US",
+      "title": "Impressive Webs",
+      "website_url": null
+    },
+    {
+      "description": "InfoQ JavaScript feed",
+      "feed_format": "rss",
+      "feed_url": "https://feed.infoq.com/javascript/",
+      "icon_url": null,
+      "id": "8d28936e-40da-5236-94a1-0a723bdbe526",
+      "language_tag": null,
+      "title": "InfoQ - JavaScript",
+      "website_url": "https://www.infoq.com/"
+    },
+    {
+      "description": "Technology News, Software, Windows, Security, AI Updates",
+      "feed_format": "rss",
+      "feed_url": "https://www.ghacks.net/category/the-web/feed/",
+      "icon_url": null,
+      "id": "e3327b66-166f-5fb5-9ee8-cd134a2f232c",
+      "language_tag": "en-US",
+      "title": "Internet News: Web Platforms, Online Services, Digital Trends - gHacks",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://www.jackfranklin.co.uk/feed.xml",
+      "icon_url": null,
+      "id": "846980bf-b368-5935-ab63-f5ba58e5d114",
+      "language_tag": null,
+      "title": "Jack Franklin",
+      "website_url": "http://www.jackfranklin.co.uk/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://jakearchibald.com/posts.rss",
+      "icon_url": null,
+      "id": "7c988c22-f155-58df-9097-277594369108",
+      "language_tag": null,
+      "title": "Jake Archibald's blog",
+      "website_url": "https://jakearchibald.com/"
+    },
+    {
+      "description": "The enchanted electrical website of Dr. Sinclair",
+      "feed_format": "rss",
+      "feed_url": "https://jrsinclair.com/index.rss",
+      "icon_url": null,
+      "id": "36e32d56-5c9b-5463-9ebf-974b73d7f693",
+      "language_tag": null,
+      "title": "James Sinclair",
+      "website_url": "https://jrsinclair.com/"
+    },
+    {
+      "description": "I’m Jens Oliver Meiert, and I’m an engineering lead, guerrilla philosopher, and indie publisher. I specialize in the craft of frontend development, write tech and non-tech books, and love trying things out. Follow my work on meiert.com.",
+      "feed_format": "rss",
+      "feed_url": "https://meiert.com/feed/",
+      "icon_url": null,
+      "id": "9ae86f32-f626-5fa2-8f17-0406274c5a7c",
+      "language_tag": "en",
+      "title": "Jens Oliver Meiert · Code Optimization, Digital Defense, World Models",
+      "website_url": "https://meiert.com/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://jameshfisher.com/feed.xml",
+      "icon_url": null,
+      "id": "1172189f-b836-5105-858d-908a72cad0e8",
+      "language_tag": null,
+      "title": "Jim Fisher’s blog",
+      "website_url": "https://jameshfisher.com/"
+    },
+    {
+      "description": "An indie design engineer based in Brooklyn.",
+      "feed_format": "rss",
+      "feed_url": "https://destroytoday.com/feeds/all",
+      "icon_url": null,
+      "id": "e7dc65fe-08a7-5c17-9909-30e9890afe07",
+      "language_tag": null,
+      "title": "Jonnie Hallman (@destroytoday)",
+      "website_url": "https://destroytoday.com/feeds/all"
+    },
+    {
+      "description": "Friendly articles and tutorials for front-end web developers. ❤️",
+      "feed_format": "rss",
+      "feed_url": "https://www.joshwcomeau.com/rss.xml",
+      "icon_url": null,
+      "id": "bca38538-7ab2-523b-9a1b-e4aae5fdddd1",
+      "language_tag": null,
+      "title": "Josh Comeau's blog",
+      "website_url": "https://www.joshwcomeau.com/"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://justmarkup.com/feed/feed.xml",
+      "icon_url": null,
+      "id": "8a897a80-109d-5f17-b7a5-82acc9a330a9",
+      "language_tag": "en-US",
+      "title": "justmarkup",
+      "website_url": null
+    },
+    {
+      "description": "The Kent C. Dodds Blog",
+      "feed_format": "rss",
+      "feed_url": "https://kentcdodds.com/blog/rss.xml",
+      "icon_url": null,
+      "id": "4c486229-d7ae-5129-b25f-2b473e93a3a1",
+      "language_tag": "en-us",
+      "title": "Kent C. Dodds Blog",
+      "website_url": "https://kentcdodds.com/blog"
+    },
+    {
+      "description": "Front-end & user experience developer",
+      "feed_format": "rss",
+      "feed_url": "https://kilianvalkhof.com/feed/",
+      "icon_url": null,
+      "id": "20400ae9-3441-5e6c-b03c-d787380335b0",
+      "language_tag": "en-US",
+      "title": "Kilian Valkhof",
+      "website_url": null
+    },
+    {
+      "description": "Become a better front-end web developer with our ridiculously clear content and friendly community!",
+      "feed_format": "rss",
+      "feed_url": "https://www.kirupa.com/modular/kirupa.xml",
+      "icon_url": null,
+      "id": "2ca66389-caf6-54f1-9db5-b8f446933ef4",
+      "language_tag": null,
+      "title": "KIRUPA | Designers and Developers Unite",
+      "website_url": "https://www.kirupa.com/"
+    },
+    {
+      "description": "I’m Kitty Giraudel, a frontend developer and engineering leader based in Berlin, focused on accessibility and inclusivity.",
+      "feed_format": "atom",
+      "feed_url": "https://kittygiraudel.com/rss/index.xml",
+      "icon_url": null,
+      "id": "7e303a4d-7b82-565a-8b33-cd2fcc143b0e",
+      "language_tag": null,
+      "title": "Kitty Giraudel",
+      "website_url": "https://kittygiraudel.com/"
+    },
+    {
+      "description": "Blog for web development",
+      "feed_format": "rss",
+      "feed_url": "https://krasimirtsonev.com/blog/rss",
+      "icon_url": null,
+      "id": "90e69e47-a8e2-5bf0-8478-c60ea7fc0073",
+      "language_tag": null,
+      "title": "Krasimir Tsonev - blog",
+      "website_url": "http://krasimirtsonev.com/blog"
+    },
+    {
+      "description": "Posts from Laura Kalbag",
+      "feed_format": "rss",
+      "feed_url": "https://laurakalbag.com/posts/index.xml",
+      "icon_url": null,
+      "id": "36d17269-b337-5cf3-9a46-0208e3baaeb3",
+      "language_tag": "en",
+      "title": "Laura Kalbag",
+      "website_url": "https://laurakalbag.com/posts/"
+    },
+    {
+      "description": "Web standards, Software Engineering, Product, Usability, and more",
+      "feed_format": "atom",
+      "feed_url": "https://lea.verou.me/feed.xml",
+      "icon_url": null,
+      "id": "65430bbf-8765-5f0d-a51a-bece21137182",
+      "language_tag": null,
+      "title": "Lea Verou’s blog",
+      "website_url": "https://lea.verou.me/"
+    },
+    {
+      "description": "Coding tutorials and news. The developer homepage gitconnected.com && skilled.dev && levelup.dev - Medium",
+      "feed_format": "rss",
+      "feed_url": "https://levelup.gitconnected.com/feed",
+      "icon_url": null,
+      "id": "a5dff522-e09c-529f-bcea-cb53964d6e11",
+      "language_tag": null,
+      "title": "Level Up Coding - Medium",
+      "website_url": "https://levelup.gitconnected.com/?source=rss----5517fd7b58a6---4"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://www.madebymike.com.au/feed.xml",
+      "icon_url": null,
+      "id": "53d9a137-a826-5956-af8b-506cc7c5a6aa",
+      "language_tag": null,
+      "title": "MadeByMike",
+      "website_url": "https://www.madebymike.com.au/"
+    },
+    {
+      "description": "My Blog about accessibility, performance, and CSS architecture and layout.",
+      "feed_format": "atom",
+      "feed_url": "https://www.matuzo.at/feed.xml",
+      "icon_url": null,
+      "id": "afc0d440-caf1-510e-84a2-e7ed9577abff",
+      "language_tag": null,
+      "title": "Manuel Matuzović - Blog",
+      "website_url": "https://www.matuzo.at/"
+    },
+    {
+      "description": "Ein Feed der neuesten Beiträge meines Blogs",
+      "feed_format": "atom",
+      "feed_url": "https://www.marcozehe.de/rss.xml",
+      "icon_url": null,
+      "id": "466134ca-3113-50eb-8c0b-13ab688a1e88",
+      "language_tag": null,
+      "title": "Marcos Leben Blog",
+      "website_url": "https://www.marcozehe.de/"
+    },
+    {
+      "description": "The latest articles",
+      "feed_format": "rss",
+      "feed_url": "https://marcus.io/feed",
+      "icon_url": null,
+      "id": "0c95f5f3-65ca-50cf-b5d2-21fbae80a77d",
+      "language_tag": null,
+      "title": "marcus.io",
+      "website_url": "https://marcus.io/blog"
+    },
+    {
+      "description": "Marius Schulz on web development, modern JavaScript, and TypeScript.",
+      "feed_format": "atom",
+      "feed_url": "https://feeds.feedburner.com/mariusschulz",
+      "icon_url": null,
+      "id": "81d6abab-1ade-5da3-a202-acefba439785",
+      "language_tag": "en-US",
+      "title": "Marius Schulz",
+      "website_url": "https://mariusschulz.com/"
+    },
+    {
+      "description": "Recent content on Mark's Dev Blog",
+      "feed_format": "rss",
+      "feed_url": "https://blog.isquaredsoftware.com/index.xml",
+      "icon_url": null,
+      "id": "d5d67eab-71c6-5b22-a562-b99f96f6e5d4",
+      "language_tag": null,
+      "title": "Mark's Dev Blog",
+      "website_url": "https://blog.isquaredsoftware.com/index.xml"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://markosaric.com/feed/",
+      "icon_url": null,
+      "id": "f94a2c3b-b5f9-5515-8190-f471ac2f375e",
+      "language_tag": "en-US",
+      "title": "Marko Saric",
+      "website_url": null
+    },
+    {
+      "description": "Helping Your Journey to Senior Developer",
+      "feed_format": "rss",
+      "feed_url": "https://blog.master.dev/feed/",
+      "icon_url": null,
+      "id": "b80cd834-f874-58e8-8d1e-6bf57d4982c9",
+      "language_tag": "en-US",
+      "title": "Master.dev Blog RSS Feed",
+      "website_url": null
+    },
+    {
+      "description": "The latest items from the weblog of Mathias Bynens",
+      "feed_format": "atom",
+      "feed_url": "https://mathiasbynens.be/notes.atom",
+      "icon_url": null,
+      "id": "01cee3e9-0d75-5047-a7ad-e5727553007e",
+      "language_tag": "en",
+      "title": "Mathias Bynens",
+      "website_url": "https://mathiasbynens.be/notes"
+    },
+    {
+      "description": "The MDN Web Docs blog publishes articles about web development, open source software, web platform updates, tutorials, changes and updates to MDN, and more.",
+      "feed_format": "rss",
+      "feed_url": "https://developer.mozilla.org/en-US/blog/rss.xml",
+      "icon_url": null,
+      "id": "3aa5beb2-f55a-5c30-8caf-710c5d4ac9fa",
+      "language_tag": "en",
+      "title": "MDN Blog",
+      "website_url": "https://developer.mozilla.org/en-US/blog/"
+    },
+    {
+      "description": "Mike Sherov's personal website and blog",
+      "feed_format": "rss",
+      "feed_url": "https://mike.sherov.com/rss.xml",
+      "icon_url": null,
+      "id": "55f3ab53-a65a-51f9-ad4e-c218e4082c72",
+      "language_tag": null,
+      "title": "Mike Sherov",
+      "website_url": "https://mike.sherov.com/"
+    },
+    {
+      "description": "Erotic web browser fan-fiction.",
+      "feed_format": "rss",
+      "feed_url": "https://miketaylr.com/posts/rss.xml",
+      "icon_url": null,
+      "id": "7259b9ec-b5c7-5ca8-a1b0-a0d5a99a069a",
+      "language_tag": null,
+      "title": "Mike Taylr Dot Com Web Log",
+      "website_url": "https://miketaylr.com/posts"
+    },
+    {
+      "description": "A series examining modern CSS solutions to problems Stephanie Eckles (@5t3ph), a seasoned frontend developer, has been solving for 15+ years.",
+      "feed_format": "atom",
+      "feed_url": "https://moderncss.dev/feed/",
+      "icon_url": null,
+      "id": "3952d61e-80e4-50f4-91a2-d3cf3ee6e6b4",
+      "language_tag": null,
+      "title": "Modern CSS Solutions",
+      "website_url": "https://moderncss.dev/"
+    },
+    {
+      "description": "Recent content on Modern Web Development with Chrome",
+      "feed_format": "rss",
+      "feed_url": "https://paul.kinlan.me/index.xml",
+      "icon_url": null,
+      "id": "49e33b9f-2afa-5e06-a319-23df47b0e51c",
+      "language_tag": "en-us",
+      "title": "Modern Web Development with Chrome",
+      "website_url": "https://paul.kinlan.me/"
+    },
+    {
+      "description": "Ethan Marcotte is an independent designer, speaker, and author, and the creator of “responsive web design.” This is his website.",
+      "feed_format": "atom",
+      "feed_url": "https://ethanmarcotte.com/wrote/feed.xml",
+      "icon_url": null,
+      "id": "df8fa2c7-1fa9-56fb-a958-a0b33ac24cc9",
+      "language_tag": null,
+      "title": "My journal — Ethan Marcotte’s website",
+      "website_url": "https://ethanmarcotte.com/"
+    },
+    {
+      "description": "most recent 30 from stackoverflow.com",
+      "feed_format": "atom",
+      "feed_url": "https://stackoverflow.com/feeds/tag?tagnames=css&sort=newest",
+      "icon_url": null,
+      "id": "a6c86fed-278c-5bcf-9b7f-694383a9c8d6",
+      "language_tag": null,
+      "title": "Newest questions tagged css - Stack Overflow",
+      "website_url": "https://stackoverflow.com/questions/tagged?tagnames=css&sort=newest"
+    },
+    {
+      "description": "most recent 30 from stackoverflow.com",
+      "feed_format": "atom",
+      "feed_url": "https://stackoverflow.com/feeds/tag?tagnames=javascript&sort=newest",
+      "icon_url": null,
+      "id": "7bdb8fd5-0b57-5f05-934a-6f3c51e84885",
+      "language_tag": null,
+      "title": "Newest questions tagged javascript - Stack Overflow",
+      "website_url": "https://stackoverflow.com/questions/tagged?tagnames=javascript&sort=newest"
+    },
+    {
+      "description": "most recent 30 from stackoverflow.com",
+      "feed_format": "atom",
+      "feed_url": "https://stackoverflow.com/feeds/tag?tagnames=reactjs&sort=newest",
+      "icon_url": null,
+      "id": "cce61b11-a07d-5629-a3d8-1bdb783b6e36",
+      "language_tag": null,
+      "title": "Newest questions tagged reactjs - Stack Overflow",
+      "website_url": "https://stackoverflow.com/questions/tagged?tagnames=reactjs&sort=newest"
+    },
+    {
+      "description": "most recent 30 from stackoverflow.com",
+      "feed_format": "atom",
+      "feed_url": "https://stackoverflow.com/feeds/tag?tagnames=vue.js&sort=newest",
+      "icon_url": null,
+      "id": "eb8712ee-2cf1-52b5-b6fc-c1d9e42087dc",
+      "language_tag": null,
+      "title": "Newest questions tagged vue.js - Stack Overflow",
+      "website_url": "https://stackoverflow.com/questions/tagged?tagnames=vue.js&sort=newest"
+    },
+    {
+      "description": "The latest articles and announcements from Nielsen Norman Group",
+      "feed_format": "rss",
+      "feed_url": "https://www.nngroup.com/feed/rss/",
+      "icon_url": null,
+      "id": "19390383-9ca4-53ee-a7d3-87816f435ce6",
+      "language_tag": "en-us",
+      "title": "NN/g latest articles and announcements",
+      "website_url": "https://www.nngroup.com/feed/rss/"
+    },
+    {
+      "description": "A blog by Dan Abramov",
+      "feed_format": "rss",
+      "feed_url": "https://overreacted.io/rss.xml",
+      "icon_url": null,
+      "id": "d7c3206d-c8e9-536d-aa0a-8fe7098a6043",
+      "language_tag": null,
+      "title": "overreacted — A blog by Dan Abramov",
+      "website_url": "https://overreacted.io/"
+    },
+    {
+      "description": "Web Dev + WordPress + Security",
+      "feed_format": "rss",
+      "feed_url": "https://perishablepress.com/feed/",
+      "icon_url": null,
+      "id": "ecb5109e-46dc-5613-a038-b0a589b30580",
+      "language_tag": "en-US",
+      "title": "Perishable Press",
+      "website_url": null
+    },
+    {
+      "description": "Phil Nash is a developer, speaker, blogger, developer advocate, sausage dog owner and beer lover.",
+      "feed_format": "rss",
+      "feed_url": "https://philna.sh/feed.xml",
+      "icon_url": null,
+      "id": "c02efdb2-a567-509c-8ce7-a812695e47f3",
+      "language_tag": null,
+      "title": "Phil Nash",
+      "website_url": "https://philna.sh/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://feeds.feedburner.com/philipwalton",
+      "icon_url": null,
+      "id": "53046c97-926d-5d0b-a0ef-0f63335331d5",
+      "language_tag": null,
+      "title": "Philip Walton",
+      "website_url": "https://philipwalton.com/"
+    },
+    {
+      "description": "Stoyan's blog",
+      "feed_format": "rss",
+      "feed_url": "https://www.phpied.com/feed/",
+      "icon_url": null,
+      "id": "68aba0fe-d041-52d5-9b02-8ab3abffdfcb",
+      "language_tag": "en-US",
+      "title": "phpied.com",
+      "website_url": null
+    },
+    {
+      "description": "We are Piccalilli. A publication dedicated to providing high quality educational content to level up your front-end skills.",
+      "feed_format": "rss",
+      "feed_url": "https://piccalil.li/feed.xml",
+      "icon_url": null,
+      "id": "4d2a0771-6a17-54ab-a3a0-604a95dbf754",
+      "language_tag": "en-GB",
+      "title": "Piccalilli - Everything",
+      "website_url": "https://piccalil.li/"
+    },
+    {
+      "description": "Recent content in Posts on LINQ to Fail",
+      "feed_format": "rss",
+      "feed_url": "https://www.aaron-powell.com/posts/index.xml",
+      "icon_url": null,
+      "id": "aa0819e0-a3b0-5358-b427-3406ba2336da",
+      "language_tag": "en-US",
+      "title": "Posts on LINQ to Fail",
+      "website_url": "https://www.aaron-powell.com/posts/"
+    },
+    {
+      "description": "Pqina designs and builds performant, responsive, and highly polished web components.",
+      "feed_format": "atom",
+      "feed_url": "https://pqina.nl/feed.xml",
+      "icon_url": null,
+      "id": "31a7b8b3-3e82-5467-a797-71f087ae0e47",
+      "language_tag": null,
+      "title": "Pqina",
+      "website_url": "https://pqina.nl/"
+    },
+    {
+      "description": "ppk's blog since 2026",
+      "feed_format": "rss",
+      "feed_url": "https://www.quirksmode.org/quirksblog/rss.xml",
+      "icon_url": null,
+      "id": "c71d6aa1-46fe-5b21-be97-260e20a24374",
+      "language_tag": null,
+      "title": "QuirksBlog",
+      "website_url": "https://quirksmode.org/quirksblog/"
+    },
+    {
+      "description": "Doing stuff on the web since 1996.",
+      "feed_format": "rss",
+      "feed_url": "https://rachelandrew.co.uk/feed/",
+      "icon_url": null,
+      "id": "59971e3f-30de-57ae-b0c2-2952a031242e",
+      "language_tag": "en-GB",
+      "title": "Rachel Andrew",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://raganwald.com/atom.xml",
+      "icon_url": null,
+      "id": "4eb10503-72c5-50ae-a02c-839aa0398c5c",
+      "language_tag": null,
+      "title": "raganwald.com",
+      "website_url": "https://raganwald.com/"
+    },
+    {
+      "description": "Father, husband, developer relations and web standards expert, and cat demo builder.",
+      "feed_format": "atom",
+      "feed_url": "https://www.raymondcamden.com/feed.xml",
+      "icon_url": null,
+      "id": "6e0e7947-c8de-5b60-b216-9de95d13d5a9",
+      "language_tag": null,
+      "title": "Raymond Camden",
+      "website_url": "https://www.raymondcamden.com/"
+    },
+    {
+      "description": "The personal blog of Brian Rinaldi.",
+      "feed_format": "rss",
+      "feed_url": "https://remotesynthesis.com/rss.xml",
+      "icon_url": null,
+      "id": "44bcc5cd-fef7-53ed-8208-bcb28930b370",
+      "language_tag": null,
+      "title": "Remote Synthesis",
+      "website_url": "https://remotesynthesis.com/"
+    },
+    {
+      "description": "About [code] and all that jazz",
+      "feed_format": "rss",
+      "feed_url": "https://remysharp.com/feed.xml",
+      "icon_url": null,
+      "id": "679447fa-2208-570f-bb70-5fbc206012c9",
+      "language_tag": "en",
+      "title": "remy sharp's b:log",
+      "website_url": null
+    },
+    {
+      "description": "Web development and Internet trends",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.feedburner.com/robertnyman",
+      "icon_url": null,
+      "id": "34f148c0-40a3-5c79-b23d-1ac7cff3aa0e",
+      "language_tag": "en-US",
+      "title": "Robert's talk",
+      "website_url": null
+    },
+    {
+      "description": "Senior Cloud & Performance Advisor for Growing Tech Companies",
+      "feed_format": "rss",
+      "feed_url": "https://www.robinosborne.co.uk/feed/",
+      "icon_url": null,
+      "id": "75c8d4fa-8a91-56f3-8607-232cbcbbc51e",
+      "language_tag": "en-GB",
+      "title": "Robin Osborne",
+      "website_url": null
+    },
+    {
+      "description": "Articles about React, Next.js, TypeScript, JavaScript, and web development.",
+      "feed_format": "rss",
+      "feed_url": "https://www.robinwieruch.de/index.xml",
+      "icon_url": null,
+      "id": "288d05c2-c443-54c0-9b67-d1a49a9228d9",
+      "language_tag": "en-us",
+      "title": "Robin Wieruch",
+      "website_url": "https://www.robinwieruch.de/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://www.sarasoueidan.com/blog/index.xml",
+      "icon_url": null,
+      "id": "9fd1b4ad-8c0e-5eff-b8a6-e276da33ceba",
+      "language_tag": null,
+      "title": "Sara Soueidan — UI developer",
+      "website_url": "https://www.sarasoueidan.com/"
+    },
+    {
+      "description": "I'm an experienced independent developer, designer and educator. I specialize in building accessible and inclusive products, and have a particular focus on dataviz accessibility.",
+      "feed_format": "atom",
+      "feed_url": "https://fossheim.io/feed.xml",
+      "icon_url": null,
+      "id": "5fbf729b-9ec2-525e-897a-d67495888e81",
+      "language_tag": null,
+      "title": "Sarah Fossheim's Blog",
+      "website_url": "https://fossheim.io/"
+    },
+    {
+      "description": "Scott O'Hara is a designer and developer based outside of Boston MA. He writes code and cares a ton about building great, accessible user experiences for everyone.",
+      "feed_format": "atom",
+      "feed_url": "https://www.scottohara.me/feed.xml",
+      "icon_url": null,
+      "id": "b707026c-5c65-58f8-82a1-8126ff0363be",
+      "language_tag": null,
+      "title": "Scott O’Hara - Accessibility engineer, UX developer and designer",
+      "website_url": "https://scottohara.me/"
+    },
+    {
+      "description": "Sink In - Tech Learnings (Shah Code Exporters - FZCO)",
+      "feed_format": "rss",
+      "feed_url": "https://gosink.in/rss/",
+      "icon_url": null,
+      "id": "5e53e5a1-3dcc-5091-98e4-91d4c9fb18fd",
+      "language_tag": null,
+      "title": "Sink In - Tech Learnings",
+      "website_url": "https://gosink.in/"
+    },
+    {
+      "description": "Enterprise Web Apps Done Right",
+      "feed_format": "atom",
+      "feed_url": "https://www.sitepen.com/atom.xml",
+      "icon_url": "https://www.sitepen.com/favicon.png",
+      "id": "026f8225-1f1f-5415-a0d2-ba05a5f856d3",
+      "language_tag": null,
+      "title": "Sitepen",
+      "website_url": "https://www.sitepen.com/blog"
+    },
+    {
+      "description": "Enterprise Web Apps Done Right",
+      "feed_format": "rss",
+      "feed_url": "https://www.sitepen.com/rss.xml",
+      "icon_url": null,
+      "id": "ef4dc342-bc1c-5cf0-81d7-fa6d47806d06",
+      "language_tag": "en",
+      "title": "Sitepen",
+      "website_url": "https://www.sitepen.com/blog"
+    },
+    {
+      "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
+      "feed_format": "rss",
+      "feed_url": "https://www.sitepoint.com/sitepoint.rss",
+      "icon_url": null,
+      "id": "4448db61-15d8-5054-a005-3ebeabd5066e",
+      "language_tag": "en",
+      "title": "SitePoint",
+      "website_url": "https://www.sitepoint.com/"
+    },
+    {
+      "description": "Everything and Nothing",
+      "feed_format": "atom",
+      "feed_url": "https://snook.ca/posts/index.xml",
+      "icon_url": null,
+      "id": "3ff964ee-34f2-5fe8-80a7-35cf25a4dc3c",
+      "language_tag": "en",
+      "title": "Snook.ca",
+      "website_url": "https://snook.ca/"
+    },
+    {
+      "description": "All my blog posts",
+      "feed_format": "atom",
+      "feed_url": "https://www.stefanjudis.com/rss.xml",
+      "icon_url": null,
+      "id": "25a38982-7d38-555d-84d1-9f1a0da700d5",
+      "language_tag": null,
+      "title": "Stefan Judis Web Development",
+      "website_url": "https://www.stefanjudis.com/"
+    },
+    {
+      "description": "My practical expert insights and curated content (resources, tools, etc.) on UX research, inclusive design, enterprise UX, accessibility, and more, to help you growth as a designer.",
+      "feed_format": "rss",
+      "feed_url": "https://stephaniewalter.design/feed/",
+      "icon_url": null,
+      "id": "83f0d7cd-ff99-55dc-a564-329d1a2350e0",
+      "language_tag": "en-US",
+      "title": "Stéphanie Walter – Senior UX Designer, Mobile Expert, Conference Speaker, Blog writer and Teacher.",
+      "website_url": null
+    },
+    {
+      "description": "A geek with a hat",
+      "feed_format": "rss",
+      "feed_url": "https://swizec.com/rss.xml",
+      "icon_url": null,
+      "id": "2998208a-d4a7-5213-adc3-c19edb957e57",
+      "language_tag": "en-us",
+      "title": "Swizec Teller",
+      "website_url": "https://swizec.com/"
+    },
+    {
+      "description": "swyx's site",
+      "feed_format": "rss",
+      "feed_url": "https://swyx.io/rss.xml",
+      "icon_url": null,
+      "id": "5f0a8f52-19c4-5313-9c61-a51bc29988d5",
+      "language_tag": null,
+      "title": "swyx's site RSS Feed",
+      "website_url": "https://swyx.io/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://www.xanthir.com/blog/atom/",
+      "icon_url": null,
+      "id": "9270f6e7-9e7f-548c-93a2-677d60f18ceb",
+      "language_tag": null,
+      "title": "Tab Completion",
+      "website_url": "http://www.xanthir.com/blog/"
+    },
+    {
+      "description": "Frontend Developer at Shopee Singapore",
+      "feed_format": "rss",
+      "feed_url": "https://lihautan.com/rss.xml",
+      "icon_url": null,
+      "id": "319d23c0-dc4d-53b6-9c14-ea7870b84976",
+      "language_tag": "en-us",
+      "title": "Tan Li Hau's Blog",
+      "website_url": "https://lihautan.com/"
+    },
+    {
+      "description": "Software engineer and open source creator. This is my digital garden.",
+      "feed_format": "rss",
+      "feed_url": "https://tania.dev/rss.xml",
+      "icon_url": null,
+      "id": "9485ee59-f446-5a59-870d-2b38d6dc2041",
+      "language_tag": null,
+      "title": "Tania Rascia | RSS Feed",
+      "website_url": "https://www.taniarascia.com/"
+    },
+    {
+      "description": "Things that Eric A. Meyer, CSS expert, writes about on his personal Web site; it's largely Web standards and Web technology, but also various bits of culture, politics, personal observations, and other miscellaneous stuff",
+      "feed_format": "rss",
+      "feed_url": "https://meyerweb.com/eric/thoughts/category/tech/rss2/full/",
+      "icon_url": null,
+      "id": "9b5f10a3-91dd-5415-909a-dcec6476f84a",
+      "language_tag": "en-US",
+      "title": "Tech – Thoughts From Eric",
+      "website_url": null
+    },
+    {
+      "description": "The official blog of Progress Telerik - expert articles and tutorials for developers.",
+      "feed_format": "atom",
+      "feed_url": "https://feeds.telerik.com/blogs",
+      "icon_url": null,
+      "id": "835a02fd-7d7b-5a31-8ffa-3942cd881aa4",
+      "language_tag": null,
+      "title": "Telerik Blogs",
+      "website_url": "https://www.telerik.com/"
+    },
+    {
+      "description": "ericlaw talks about security, the web, and software in general",
+      "feed_format": "rss",
+      "feed_url": "https://textslashplain.com/feed/",
+      "icon_url": null,
+      "id": "632bd6e8-24f0-5c17-a19b-d45027ef1f7a",
+      "language_tag": "en-US",
+      "title": "text/plain",
+      "website_url": null
+    },
+    {
+      "description": "Join a fabulous community of developers learning vanilla web specs like HTTP, HTML, CSS, JavaScript, & Web Components",
+      "feed_format": "atom",
+      "feed_url": "https://www.spicyweb.dev/feed.xml",
+      "icon_url": null,
+      "id": "d406e399-f725-5e84-ba85-2418776f6182",
+      "language_tag": null,
+      "title": "The Spicy Web",
+      "website_url": "https://www.spicyweb.dev/"
+    },
+    {
+      "description": "Stephanie Stimac talks about the web platform, design, product management and life in tech.",
+      "feed_format": "atom",
+      "feed_url": "https://blog.stephaniestimac.com/feed/feed.xml",
+      "icon_url": null,
+      "id": "724cec56-3757-5068-a9a3-82d0ca470518",
+      "language_tag": null,
+      "title": "The Web Witch's Blog",
+      "website_url": "https://blog.stephaniestimac.com/"
+    },
+    {
+      "description": "Detailed articles about the MEAN stack and related topics",
+      "feed_format": "rss",
+      "feed_url": "https://thecodebarbarian.com/feed.xml",
+      "icon_url": null,
+      "id": "bf02da0a-2656-56bd-ac94-e7b4ab471a27",
+      "language_tag": null,
+      "title": "TheCodeBarbarian.com",
+      "website_url": "http://thecodebarbarian.com/"
+    },
+    {
+      "description": "Blog posts by Tim Kadlec.",
+      "feed_format": "rss",
+      "feed_url": "https://timkadlec.com/remembers/atom.xml",
+      "icon_url": null,
+      "id": "485b395e-624b-522d-8194-96eb9a1f07b9",
+      "language_tag": null,
+      "title": "Tim Kadlec - Writing",
+      "website_url": "https://timkadlec.com/"
+    },
+    {
+      "description": "Learn programming, design, and more—all online and on your own time.",
+      "feed_format": "rss",
+      "feed_url": "https://blog.teamtreehouse.com/feed",
+      "icon_url": null,
+      "id": "8cc8b778-2d3b-5ba0-b3f1-1480a6d304a1",
+      "language_tag": "en-US",
+      "title": "Treehouse Blog",
+      "website_url": null
+    },
+    {
+      "description": "Trent Walton’s Blog",
+      "feed_format": "rss",
+      "feed_url": "https://trentwalton.com/feed.xml",
+      "icon_url": null,
+      "id": "67e6c9e8-c36c-53e9-bd92-ef1ed7d5622b",
+      "language_tag": null,
+      "title": "Trent Walton",
+      "website_url": "http://trentwalton.com/"
+    },
+    {
+      "description": "Posts, thoughts, links and photos from Trys",
+      "feed_format": "rss",
+      "feed_url": "https://www.trysmudford.com/blog/index.xml",
+      "icon_url": null,
+      "id": "c09b8e81-a3cf-5cd8-905a-bf94f3711167",
+      "language_tag": "en-us",
+      "title": "Trys Mudford's Blog",
+      "website_url": "https://www.trysmudford.com/blog/"
+    },
+    {
+      "description": "Web and software engineering blog by Nick Scialli.",
+      "feed_format": "rss",
+      "feed_url": "https://typeofnan.dev/rss.xml",
+      "icon_url": null,
+      "id": "db94f9a1-5c7f-57f4-a56d-b875f091b8c6",
+      "language_tag": null,
+      "title": "TypeOfNaN",
+      "website_url": "https://typeofnan.dev/"
+    },
+    {
+      "description": "The personal blog of Una Kravets. Web development, design, and platform news.",
+      "feed_format": "rss",
+      "feed_url": "https://una.im/rss.xml",
+      "icon_url": null,
+      "id": "6845f7d2-535f-5e19-92d7-a4a095f5d9cd",
+      "language_tag": null,
+      "title": "Una Kravets Online",
+      "website_url": "https://una.im/"
+    },
+    {
+      "description": "A free weekly read for people who make, lead, and improve digital products. One useful writeup on decisions, details, and trade-offs.",
+      "feed_format": "rss",
+      "feed_url": "https://unicornclub.dev/feed.xml",
+      "icon_url": null,
+      "id": "7b624c07-4c69-588a-b667-305cd4dc9d34",
+      "language_tag": null,
+      "title": "Unicorn Club",
+      "website_url": "https://unicornclub.dev/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://vuejsdevelopers.com/atom.xml",
+      "icon_url": null,
+      "id": "f807c834-79eb-5ed5-9f65-82cfbef2f639",
+      "language_tag": null,
+      "title": "Vue.js Developers Blog",
+      "website_url": "https://vuejsdevelopers.com/"
+    },
+    {
+      "description": "A curated collection of Web Components resources",
+      "feed_format": "atom",
+      "feed_url": "https://webcomponents.today/feed.xml",
+      "icon_url": null,
+      "id": "24c16d2d-fd7c-5e49-ad6a-07590860111b",
+      "language_tag": null,
+      "title": "Web Components bookmarks",
+      "website_url": "https://webcomponents.today/"
+    },
+    {
+      "description": "Web Design Blog",
+      "feed_format": "rss",
+      "feed_url": "https://webdesignerdepot.com/feed/",
+      "icon_url": null,
+      "id": "41e771fc-1cda-58c7-b0f2-38956a1e4fb4",
+      "language_tag": "en-US",
+      "title": "Web Designer Depot",
+      "website_url": null
+    },
+    {
+      "description": "The speed geek's favorite time of year",
+      "feed_format": "rss",
+      "feed_url": "https://calendar.perfplanet.com/feed/",
+      "icon_url": null,
+      "id": "8eb92362-fcf7-5044-a6f3-872a8fe5f798",
+      "language_tag": "en-US",
+      "title": "Web Performance Calendar",
+      "website_url": null
+    },
+    {
+      "description": "Daily news content for web developers",
+      "feed_format": "rss",
+      "feed_url": "https://webplatform.news/feed.xml",
+      "icon_url": null,
+      "id": "c250fd86-0937-537f-ad5b-1516b489146d",
+      "language_tag": "en",
+      "title": "Web Platform News",
+      "website_url": "https://webplatform.news/"
+    },
+    {
+      "description": "All of web.dev's articles.",
+      "feed_format": "rss",
+      "feed_url": "https://web.dev/static/articles/feed.xml",
+      "icon_url": null,
+      "id": "0e60dc84-2c7e-5c24-9b29-9d3487263a43",
+      "language_tag": "en-US",
+      "title": "web.dev: Articles",
+      "website_url": "https://web.dev/articles/"
+    },
+    {
+      "description": "All of web.dev's blog posts.",
+      "feed_format": "rss",
+      "feed_url": "https://web.dev/static/blog/feed.xml",
+      "icon_url": null,
+      "id": "e9a48e33-07be-5993-bde6-a957a9efc0b9",
+      "language_tag": "en-US",
+      "title": "web.dev: Blog",
+      "website_url": "https://web.dev/blog/"
+    },
+    {
+      "description": "Learn WebGL from the ground up. No magic",
+      "feed_format": "atom",
+      "feed_url": "https://webglfundamentals.org/atom.xml",
+      "icon_url": null,
+      "id": "1a8d1ce9-23fb-5eb1-a3c8-41dc575c9f51",
+      "language_tag": null,
+      "title": "WebGL Fundamentals",
+      "website_url": "https://webglfundamentals.org/"
+    },
+    {
+      "description": "My name is Dan Davies, an experienced and highly skilled web designer and front-end developer from Flintshire, North Wales and currently working in his dining room. Specialising in Web Design, WordPress, HTML, CSS3 and Sass, I build responsive websites that incorporate modern, clean code and am a big advocate of the content first approach. I have worked for some large digital agencies and with some very well known brands.",
+      "feed_format": "rss",
+      "feed_url": "https://www.dan-davies.co.uk/feed",
+      "icon_url": null,
+      "id": "4d997c86-c7b1-577a-833b-beefbc2bec9f",
+      "language_tag": "en-GB",
+      "title": "Website and blog of Front-end developer and web designer, Dan Davies",
+      "website_url": null
+    },
+    {
+      "description": "A hub for advanced WordPress users, developers & savvy business owners.",
+      "feed_format": "rss",
+      "feed_url": "https://wpshout.com/feed/",
+      "icon_url": null,
+      "id": "49034593-257e-59a4-a6d3-81aa5814706d",
+      "language_tag": "en-US",
+      "title": "WPShout",
+      "website_url": null
+    },
+    {
+      "description": "A blog about writing JavaScript/ECMAScript and programming as close to the standards as possible.",
+      "feed_format": "rss",
+      "feed_url": "https://writingjavascript.com/rss.xml",
+      "icon_url": null,
+      "id": "c1d69378-c515-59a0-950d-f94ea362b2e2",
+      "language_tag": "en-US",
+      "title": "Writing JavaScript",
+      "website_url": null
+    },
+    {
+      "description": "A web development blog written by @zachleat.",
+      "feed_format": "atom",
+      "feed_url": "https://www.zachleat.com/web/feed/",
+      "icon_url": null,
+      "id": "144a0246-7837-5069-99c4-3b7e4fbaf328",
+      "language_tag": "en",
+      "title": "Zach Leatherman",
+      "website_url": "https://www.zachleat.com/"
+    }
+  ],
+  "id": "9377b966-d3eb-5ad0-b548-b725e41a4865",
+  "schema_version": 1,
+  "slug": "frontend",
+  "title": "Frontend and web development"
+}

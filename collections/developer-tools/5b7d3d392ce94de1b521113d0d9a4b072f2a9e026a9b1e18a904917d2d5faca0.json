@@ -1,0 +1,409 @@
+{
+  "description": "Editors, build tools, testing, and developer workflows.",
+  "feeds": [
+    {
+      "description": "A web framework for building virtual reality experiences. Make WebVR with HTML and Entity-Component. Works on Vive, Rift, desktop, mobile platforms.",
+      "feed_format": "rss",
+      "feed_url": "https://aframe.io/feed.xml",
+      "icon_url": null,
+      "id": "5ab47feb-6132-5b42-b022-33e3dcf074b1",
+      "language_tag": null,
+      "title": "A-Frame",
+      "website_url": "https://aframe.io/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://blog.adblockplus.org/atom?section=blog",
+      "icon_url": null,
+      "id": "b02ae43c-aaac-5e38-9ffa-0eb2e9e2f8d6",
+      "language_tag": "en-us",
+      "title": "Adblock Plus and (a little) more - Blog",
+      "website_url": "http://blog.adblockplus.org/"
+    },
+    {
+      "description": "The latest news and tips from the Angular team - Medium",
+      "feed_format": "rss",
+      "feed_url": "https://blog.angular.dev/feed",
+      "icon_url": null,
+      "id": "940157ef-16ae-52b2-93ae-7558857fd7a7",
+      "language_tag": null,
+      "title": "Angular Blog - Medium",
+      "website_url": "https://blog.angular.dev/?source=rss----447683c3d9a3---4"
+    },
+    {
+      "description": "Babel Blog",
+      "feed_format": "atom",
+      "feed_url": "https://babeljs.io/blog/atom.xml",
+      "icon_url": null,
+      "id": "f67394ce-fcf0-5fd1-a208-ae76e5b94ad3",
+      "language_tag": null,
+      "title": "Babel Blog",
+      "website_url": "https://babeljs.io/blog"
+    },
+    {
+      "description": "Official blog for the Bootstrap framework.",
+      "feed_format": "rss",
+      "feed_url": "https://blog.getbootstrap.com/feed.xml",
+      "icon_url": null,
+      "id": "abaa0697-5d41-53df-937c-70749f514dfd",
+      "language_tag": null,
+      "title": "Bootstrap Blog",
+      "website_url": "https://blog.getbootstrap.com/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://feeds.feedburner.com/WhenCanIUse",
+      "icon_url": null,
+      "id": "b9481c44-4029-5c8f-9a05-0faad1aeb472",
+      "language_tag": null,
+      "title": "Can I Use updates",
+      "website_url": "https://caniuse.com/feed"
+    },
+    {
+      "description": "CSS code-golfing game is here!",
+      "feed_format": "atom",
+      "feed_url": "https://cssbattle.dev/blog/feed/feed.xml",
+      "icon_url": null,
+      "id": "d8c21353-64d4-5e48-b286-06b1c08fe3ce",
+      "language_tag": null,
+      "title": "CSSBattle Blog",
+      "website_url": "https://cssbattle.dev/blog"
+    },
+    {
+      "description": "The latest news from Deno Land Inc.",
+      "feed_format": "atom",
+      "feed_url": "https://deno.com/feed",
+      "icon_url": null,
+      "id": "c437f05a-9acc-5821-8cd4-5a54b6948999",
+      "language_tag": null,
+      "title": "Deno",
+      "website_url": "https://deno.com/blog"
+    },
+    {
+      "description": "Electron Blog",
+      "feed_format": "rss",
+      "feed_url": "https://www.electronjs.org/blog/rss.xml",
+      "icon_url": null,
+      "id": "b7024ad8-425f-50cc-ad9b-459549770f61",
+      "language_tag": "en",
+      "title": "Electron Blog",
+      "website_url": "https://electronjs.org/blog"
+    },
+    {
+      "description": "Ember.js Blog",
+      "feed_format": "rss",
+      "feed_url": "https://blog.emberjs.com/rss.xml",
+      "icon_url": null,
+      "id": "a17db868-e074-516c-a89f-8b0b3bdb1fd6",
+      "language_tag": null,
+      "title": "Ember.js Blog",
+      "website_url": "https://blog.emberjs.com/rss.xml"
+    },
+    {
+      "description": "feed description",
+      "feed_format": "atom",
+      "feed_url": "https://eslint.org/feed.xml",
+      "icon_url": null,
+      "id": "6fc8489c-8fb0-50fb-bb11-45fd74645169",
+      "language_tag": null,
+      "title": "ESLint Blog",
+      "website_url": "https://eslint.org/"
+    },
+    {
+      "description": "GSAP | Docs & Learning Blog",
+      "feed_format": "atom",
+      "feed_url": "https://gsap.com/blog/atom.xml",
+      "icon_url": "https://gsap.com/favicon-32x32.png",
+      "id": "71c9762b-fe0e-5ece-897f-dcf7d84cf409",
+      "language_tag": null,
+      "title": "GSAP | Docs & Learning Blog",
+      "website_url": "https://gsap.com/blog"
+    },
+    {
+      "description": "GSAP | Docs & Learning Blog",
+      "feed_format": "rss",
+      "feed_url": "https://gsap.com/blog/rss.xml",
+      "icon_url": null,
+      "id": "77669695-2448-520b-b9d2-2887b54e2b54",
+      "language_tag": "en",
+      "title": "GSAP | Docs & Learning Blog",
+      "website_url": "https://gsap.com/blog"
+    },
+    {
+      "description": "Links for the intellectually curious, ranked by readers.",
+      "feed_format": "rss",
+      "feed_url": "https://news.ycombinator.com/showrss",
+      "icon_url": null,
+      "id": "0fe0905c-e00f-5e1e-8966-6045a6928748",
+      "language_tag": null,
+      "title": "Hacker News",
+      "website_url": "https://news.ycombinator.com/"
+    },
+    {
+      "description": "A blog trying to be a pattern library. All about designing inclusive web interfaces, piece by piece.",
+      "feed_format": "rss",
+      "feed_url": "https://inclusive-components.design/rss/",
+      "icon_url": null,
+      "id": "bce27a0f-b6f6-5ed8-8a38-8130c73bf3cf",
+      "language_tag": null,
+      "title": "Inclusive Components",
+      "website_url": "https://inclusive-components.design/"
+    },
+    {
+      "description": "Build amazing native and progressive web apps with the web",
+      "feed_format": "rss",
+      "feed_url": "https://ionic.io/blog/feed",
+      "icon_url": null,
+      "id": "c298bb52-2ceb-5806-97a1-c8856a88d86e",
+      "language_tag": "en-US",
+      "title": "Ionic Blog",
+      "website_url": null
+    },
+    {
+      "description": "Latest news, announcements, and highlights from the Lit team and community.",
+      "feed_format": "atom",
+      "feed_url": "https://lit.dev/blog/atom.xml",
+      "icon_url": null,
+      "id": "da11d7de-4fb3-5e7d-98c7-25c9f113b415",
+      "language_tag": null,
+      "title": "Lit Blog",
+      "website_url": "https://lit.dev/blog/"
+    },
+    {
+      "description": "Recent content on Mastodon Blog",
+      "feed_format": "rss",
+      "feed_url": "https://blog.joinmastodon.org/index.xml",
+      "icon_url": null,
+      "id": "1cf5ecab-a056-51e7-9450-1a07ec524235",
+      "language_tag": "en-us",
+      "title": "Mastodon Blog",
+      "website_url": "https://blog.joinmastodon.org/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://www.mathjax.org/feed.xml",
+      "icon_url": null,
+      "id": "283a3359-d256-5806-8304-a47d5a29c547",
+      "language_tag": null,
+      "title": "MathJax",
+      "website_url": "https://www.mathjax.org/"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://nodejs.org/en/feed/blog.xml",
+      "icon_url": null,
+      "id": "fb37a669-c10c-54d3-be70-1a0bb381f2f7",
+      "language_tag": "en",
+      "title": "Node.js Blog",
+      "website_url": "https://nodejs.org/en"
+    },
+    {
+      "description": "New Wave JavaScript",
+      "feed_format": "rss",
+      "feed_url": "https://blog.jquery.com/feed/",
+      "icon_url": null,
+      "id": "4ab1a7fc-0403-5788-a21d-91eaeb3fa80d",
+      "language_tag": "en-US",
+      "title": "Official jQuery Blog",
+      "website_url": null
+    },
+    {
+      "description": "PostCSS Preset Env lets you transform modern CSS so most browsers can understand, determining the polyfills you need based on the browsers you want.",
+      "feed_format": "atom",
+      "feed_url": "https://preset-env.cssdb.org/feed",
+      "icon_url": null,
+      "id": "131c4ccd-3a14-5756-9d85-a8f8d56d02d2",
+      "language_tag": null,
+      "title": "PostCSS Preset Env - CSS Tools",
+      "website_url": "https://preset-env.cssdb.org/"
+    },
+    {
+      "description": "Prettier Blog",
+      "feed_format": "atom",
+      "feed_url": "https://prettier.io/blog/atom.xml",
+      "icon_url": null,
+      "id": "034c0ec3-7642-5139-92fd-6087d66dea62",
+      "language_tag": null,
+      "title": "Prettier Blog",
+      "website_url": "https://prettier.io/blog"
+    },
+    {
+      "description": "News, updates, and articles from Microsoft's PWABuilder",
+      "feed_format": "atom",
+      "feed_url": "https://blog.pwabuilder.com/feed.xml",
+      "icon_url": null,
+      "id": "1fee74b9-d74b-5388-a8c4-3a6d360ba096",
+      "language_tag": null,
+      "title": "PWABuilder Blog",
+      "website_url": "https://blog.pwabuilder.com/"
+    },
+    {
+      "description": "A JavaScript library for building user interfaces",
+      "feed_format": "rss",
+      "feed_url": "https://legacy.reactjs.org/feed.xml",
+      "icon_url": null,
+      "id": "aa4a64b8-16d2-5fa1-aa42-269b72780bac",
+      "language_tag": null,
+      "title": "React",
+      "website_url": "https://reactjs.org/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://github.com/postcss/autoprefixer/releases.atom",
+      "icon_url": null,
+      "id": "644f2228-ae30-5bb9-b9b7-5ddf9f7bd2ec",
+      "language_tag": "en-US",
+      "title": "Release notes from autoprefixer",
+      "website_url": "https://github.com/postcss/autoprefixer/releases"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://github.com/babel/babel/releases.atom",
+      "icon_url": null,
+      "id": "054073c7-00ab-54c6-bb1c-90d97bbc2b8a",
+      "language_tag": "en-US",
+      "title": "Release notes from babel",
+      "website_url": "https://github.com/babel/babel/releases"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://github.com/gulpjs/gulp/releases.atom",
+      "icon_url": null,
+      "id": "48cd9a2b-6f4e-52a3-a9be-477c00882479",
+      "language_tag": "en-US",
+      "title": "Release notes from gulp",
+      "website_url": "https://github.com/gulpjs/gulp/releases"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://github.com/h5bp/html5-boilerplate/releases.atom",
+      "icon_url": null,
+      "id": "2e15290a-e8ee-5750-b1a7-129ccf88f739",
+      "language_tag": "en-US",
+      "title": "Release notes from html5-boilerplate",
+      "website_url": "https://github.com/h5bp/html5-boilerplate/releases"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://sass-lang.com/feed.xml",
+      "icon_url": null,
+      "id": "d4073192-cd27-5315-b6f1-5395d2af3b08",
+      "language_tag": null,
+      "title": "Sass Blog",
+      "website_url": "https://sass-lang.com/blog"
+    },
+    {
+      "description": "All the entries in the Servo blog.",
+      "feed_format": "atom",
+      "feed_url": "https://servo.org/blog/feed.xml",
+      "icon_url": null,
+      "id": "c8d86d8c-7fd7-5d2f-a37c-f26980e2ee73",
+      "language_tag": null,
+      "title": "Servo Blog",
+      "website_url": "https://servo.org/"
+    },
+    {
+      "description": "News and information about the magical disappearing UI framework",
+      "feed_format": "rss",
+      "feed_url": "https://svelte.dev/blog/rss.xml",
+      "icon_url": null,
+      "id": "c2cdab4d-68ba-5ac0-9d4b-90c308f26102",
+      "language_tag": null,
+      "title": "Svelte blog",
+      "website_url": "https://svelte.dev/blog"
+    },
+    {
+      "description": "News and announcements from the AMP team",
+      "feed_format": "rss",
+      "feed_url": "https://blog.amp.dev/feed/",
+      "icon_url": null,
+      "id": "0842ca72-2a3f-5ced-8e50-2c0a3295c96a",
+      "language_tag": "en-US",
+      "title": "The AMP Blog",
+      "website_url": null
+    },
+    {
+      "description": "The Official Vue.js Blog - Medium",
+      "feed_format": "rss",
+      "feed_url": "https://medium.com/feed/the-vue-point",
+      "icon_url": null,
+      "id": "e257707e-a7c2-57d1-b002-7bd61d686258",
+      "language_tag": null,
+      "title": "The Vue Point - Medium",
+      "website_url": "https://medium.com/the-vue-point?source=rss----4b3ffc258019---4"
+    },
+    {
+      "description": "A collection of free single-purpose online tools for web developers...",
+      "feed_format": "rss",
+      "feed_url": "https://tiny-helpers.dev/feed.xml",
+      "icon_url": null,
+      "id": "65c42f5c-2a77-5e23-a795-e30527e8fb0d",
+      "language_tag": "en",
+      "title": "Tiny Helpers",
+      "website_url": "https://tiny-helpers.dev/"
+    },
+    {
+      "description": "Elegantly scale type and space without breakpoints",
+      "feed_format": "rss",
+      "feed_url": "https://utopia.fyi/feed.xml",
+      "icon_url": null,
+      "id": "8e159491-ffd9-527d-97b6-e0e4be8b1262",
+      "language_tag": "en",
+      "title": "Utopia",
+      "website_url": "https://utopia.fyi/"
+    },
+    {
+      "description": "Blog",
+      "feed_format": "atom",
+      "feed_url": "https://vercel.com/atom",
+      "icon_url": null,
+      "id": "8c532f04-ff0b-5961-b9ee-473381f575f8",
+      "language_tag": null,
+      "title": "Vercel News",
+      "website_url": "https://vercel.com/"
+    },
+    {
+      "description": "The Official Vue.js News",
+      "feed_format": "rss",
+      "feed_url": "https://news.vuejs.org/feed.xml",
+      "icon_url": null,
+      "id": "6c0c62b3-d0ba-54e7-8040-a357caae17e0",
+      "language_tag": null,
+      "title": "Vue.js News",
+      "website_url": "https://news.vuejs.org/feed.xml"
+    },
+    {
+      "description": "A site for plugin and theme developers, freelancers, and agency developers",
+      "feed_format": "rss",
+      "feed_url": "https://developer.wordpress.org/news/feed/",
+      "icon_url": null,
+      "id": "917a53a3-7fbb-5552-8868-c3720b0b30b3",
+      "language_tag": "en-US",
+      "title": "WordPress Developer Blog",
+      "website_url": null
+    },
+    {
+      "description": "The latest news about WordPress and the WordPress community",
+      "feed_format": "rss",
+      "feed_url": "https://wordpress.org/news/feed/",
+      "icon_url": null,
+      "id": "bb53ceca-1098-5d99-acd5-acd9f9157b03",
+      "language_tag": "en-US",
+      "title": "WordPress News",
+      "website_url": null
+    }
+  ],
+  "id": "68e03652-3546-5a4b-bb9c-f39e55da9c6f",
+  "schema_version": 1,
+  "slug": "developer-tools",
+  "title": "Developer tools"
+}

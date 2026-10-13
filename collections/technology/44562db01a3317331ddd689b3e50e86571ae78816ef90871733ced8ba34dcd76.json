@@ -1,0 +1,439 @@
+{
+  "description": "Technology reporting, products, and the technology industry.",
+  "feeds": [
+    {
+      "description": "Three nerds discussing tech, Apple, programming, and loosely related matters.",
+      "feed_format": "rss",
+      "feed_url": "https://cdn.atp.fm/rss/public?xzjoz2zx",
+      "icon_url": null,
+      "id": "00e50b5b-3a91-5ac1-95b5-bb0d10bc3d3b",
+      "language_tag": "en",
+      "title": "Accidental Tech Podcast",
+      "website_url": "https://atp.fm/"
+    },
+    {
+      "description": "So many podcasts are about our digital devices. Analog(ue) is a show about how these devices make us feel and how they change our lives for the better, but also for the worse. Hosted by Casey Liss and Myke Hurley.",
+      "feed_format": "rss",
+      "feed_url": "https://relay.fm/analogue/feed",
+      "icon_url": null,
+      "id": "98ff789f-bca7-5eb9-a6f6-91b5eed3d9ed",
+      "language_tag": "en-US",
+      "title": "Analog(ue)",
+      "website_url": "https://relay.fm/analogue"
+    },
+    {
+      "description": "All Ars Technica stories",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "icon_url": null,
+      "id": "9d524e89-2b94-5a56-9c1e-d4f2b2e87a71",
+      "language_tag": "en-US",
+      "title": "Ars Technica - All content",
+      "website_url": null
+    },
+    {
+      "description": "BBC News - Technology",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+      "icon_url": null,
+      "id": "e4febdda-e886-552c-a554-af8ab5af8f9a",
+      "language_tag": "en-gb",
+      "title": "BBC News",
+      "website_url": "https://www.bbc.co.uk/news/technology"
+    },
+    {
+      "description": "Clockwise is a rapid-fire discussion of current technology issues hosted by Dan Moren and Mikah Sargent and featuring two special guests each week. Four people, four topics--and because we're always watching the clock, no episode is longer than 30 minutes. Hosted by Dan Moren and Mikah Dean Sargent.",
+      "feed_format": "rss",
+      "feed_url": "https://relay.fm/clockwise/feed",
+      "icon_url": null,
+      "id": "7f77677c-298e-5e4b-9ca7-1f348325d892",
+      "language_tag": "en-US",
+      "title": "Clockwise",
+      "website_url": "https://relay.fm/clockwise"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?user=CNETTV",
+      "icon_url": null,
+      "id": "a6f0c030-8969-504f-ba81-953813654a42",
+      "language_tag": null,
+      "title": "CNET",
+      "website_url": "https://www.youtube.com/channel/UCOmcA3f_RrH6b9NmcNa4tdg"
+    },
+    {
+      "description": "Computer Science. Read all the latest developments in the computer sciences including articles on new software, hardware and systems.",
+      "feed_format": "rss",
+      "feed_url": "https://www.sciencedaily.com/rss/computers_math/computer_science.xml",
+      "icon_url": null,
+      "id": "594b5121-1efe-5d76-b397-bdb4b268f64c",
+      "language_tag": "en-us",
+      "title": "Computer Science News -- ScienceDaily",
+      "website_url": "https://www.sciencedaily.com/news/computers_math/computer_science/"
+    },
+    {
+      "description": "Tech Crunch is a free Digital Marketing Site. The main goal of this site is to provide quality tutorials, tips, courses, tools and other resources that allows anyone to work online and master digital marketing based on real case study and deep research.",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.feedburner.com/TechCrunch",
+      "icon_url": null,
+      "id": "1c44b37e-b5b9-5d31-946c-61dac642992f",
+      "language_tag": null,
+      "title": "Crunch Hype",
+      "website_url": "https://techncruncher.blogspot.com/"
+    },
+    {
+      "description": "Breaking news from the worlds of technology and entertainment, and expert reviews of the latest consumer tech products.",
+      "feed_format": "rss",
+      "feed_url": "https://www.engadget.com/rss-full.xml",
+      "icon_url": null,
+      "id": "467e2a7c-efa3-53d7-ab20-ee50b6559ca0",
+      "language_tag": "en-US",
+      "title": "Engadget - Technology News & Expert Reviews",
+      "website_url": null
+    },
+    {
+      "description": "Breaking news from the worlds of technology and entertainment, and expert reviews of the latest consumer tech products.",
+      "feed_format": "rss",
+      "feed_url": "https://www.engadget.com/rss.xml",
+      "icon_url": null,
+      "id": "f3311870-0439-5cce-a4af-1d7a138e8930",
+      "language_tag": "en-US",
+      "title": "Engadget - Technology News & Expert Reviews",
+      "website_url": null
+    },
+    {
+      "description": "Fast Company inspires a new breed of innovative and creative thought leaders who are actively inventing the future of business.",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.feedburner.com/fastcompany/headlines",
+      "icon_url": null,
+      "id": "cb31d5ee-712f-5ba5-8943-c72ef10546e2",
+      "language_tag": "en-us",
+      "title": "Fast Company",
+      "website_url": "https://www.fastcompany.com/"
+    },
+    {
+      "description": "The Future Is Here",
+      "feed_format": "rss",
+      "feed_url": "https://gizmodo.com/feed",
+      "icon_url": null,
+      "id": "d839bbd6-00b9-5cf2-a141-4a86d8d9d217",
+      "language_tag": "en-US",
+      "title": "Gizmodo",
+      "website_url": null
+    },
+    {
+      "description": "Links for the intellectually curious, ranked by readers.",
+      "feed_format": "rss",
+      "feed_url": "https://news.ycombinator.com/rss",
+      "icon_url": null,
+      "id": "26620a6a-88fa-5f88-ac6b-16757dd3f305",
+      "language_tag": null,
+      "title": "Hacker News",
+      "website_url": "https://news.ycombinator.com/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "http://feeds.harvardbusiness.org/harvardbusiness/",
+      "icon_url": null,
+      "id": "dd5c7cfa-f438-5b6b-a573-a4a71295e9f4",
+      "language_tag": null,
+      "title": "HBR CMS",
+      "website_url": "http://hbr.org/"
+    },
+    {
+      "description": "IEEE Spectrum",
+      "feed_format": "rss",
+      "feed_url": "https://spectrum.ieee.org/feeds/feed.rss",
+      "icon_url": null,
+      "id": "1613f238-3f72-520f-9c5d-857fa9408321",
+      "language_tag": "en-us",
+      "title": "IEEE Spectrum",
+      "website_url": "https://spectrum.ieee.org/"
+    },
+    {
+      "description": "Do everything better.",
+      "feed_format": "rss",
+      "feed_url": "https://lifehacker.com/feed/rss",
+      "icon_url": null,
+      "id": "10a918f6-5513-5958-9e38-564b1941052d",
+      "language_tag": "en-us",
+      "title": "Lifehacker",
+      "website_url": "https://lifehacker.com/feed/rss"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?user=LinusTechTips",
+      "icon_url": null,
+      "id": "c981fbbe-bf37-55f6-bb02-9e879dc97733",
+      "language_tag": null,
+      "title": "Linus Tech Tips",
+      "website_url": "https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?user=marquesbrownlee",
+      "icon_url": null,
+      "id": "d7afdf6f-5b71-530e-a946-a343cfe37681",
+      "language_tag": null,
+      "title": "Marques Brownlee",
+      "website_url": "https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ"
+    },
+    {
+      "description": "Mashable is a leading source for news, information & resources for the Connected Generation. Mashable reports on the importance of digital innovation and how it empowers and inspires people around the world. Mashable's 25 million monthly unique visitors and 10 million social media followers have become one of the most engaged online news communities. Founded in 2005, Mashable is headquartered in New York City with an office in San Francisco.",
+      "feed_format": "rss",
+      "feed_url": "http://feeds.mashable.com/Mashable",
+      "icon_url": null,
+      "id": "db4ed3c9-d198-5e1d-ac22-0d8efa06ff5c",
+      "language_tag": "en-us",
+      "title": "Mashable",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://www.technologyreview.com/feed/",
+      "icon_url": null,
+      "id": "8644d752-9876-596a-a1ac-e7f0741cbfcd",
+      "language_tag": "en-US",
+      "title": "MIT Technology Review",
+      "website_url": null
+    },
+    {
+      "description": "News from Google",
+      "feed_format": "rss",
+      "feed_url": "https://blog.google/rss/",
+      "icon_url": null,
+      "id": "d5c18b6c-59ac-5ca3-adac-f4bd4b1ea964",
+      "language_tag": "en-us",
+      "title": "News from Google",
+      "website_url": "https://blog.google/"
+    },
+    {
+      "description": "Product reviews, advice, how-tos and the latest news",
+      "feed_format": "atom",
+      "feed_url": "https://www.cnet.com/rss/news/",
+      "icon_url": null,
+      "id": "831485fd-01fa-5fef-a86f-5cec35982b95",
+      "language_tag": "en-US",
+      "title": "News – CNET",
+      "website_url": "https://www.cnet.com/"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+      "icon_url": null,
+      "id": "593e2ef4-2fa2-5deb-8122-02462a2b5adf",
+      "language_tag": "en-us",
+      "title": "NYT > Technology",
+      "website_url": "https://www.nytimes.com/section/technology"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://www.producthunt.com/feed",
+      "icon_url": null,
+      "id": "83d21ff7-efbd-5a6f-914e-f0d8900e9e76",
+      "language_tag": "en-US",
+      "title": "Product Hunt — The best new products, every day",
+      "website_url": "https://www.producthunt.com/"
+    },
+    {
+      "description": "Crypto, Gaming & Emerging Tech News",
+      "feed_format": "rss",
+      "feed_url": "https://readwrite.com/feed/",
+      "icon_url": null,
+      "id": "10f3f406-b2e5-564a-925b-4915e04dd874",
+      "language_tag": "en-US",
+      "title": "ReadWrite",
+      "website_url": null
+    },
+    {
+      "description": "\"'A podcast about the internet' that is actually an unfailingly original exploration of modern life and how to survive it.\" - The Guardian. Hosted by Alex Goldman and Emmanuel Dzotsi from Gimlet.",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.megaphone.fm/replyall",
+      "icon_url": null,
+      "id": "6be813fb-7075-50c0-a9fe-5ed6ac637313",
+      "language_tag": "en",
+      "title": "Reply All",
+      "website_url": null
+    },
+    {
+      "description": "Countdown to excitement! Every week Christina Warren, Brianna Wu and Simone de Rochefort had accelerated geek conversation. Tech, comics, movies, games and books, no galaxy is off limits! Hosted by Christina Warren, Brianna Wu, and Simone De Rochefort.",
+      "feed_format": "rss",
+      "feed_url": "https://relay.fm/rocket/feed",
+      "icon_url": null,
+      "id": "4d8df810-c06b-5682-9797-6b3a62b0890b",
+      "language_tag": "en-US",
+      "title": "Rocket",
+      "website_url": "https://relay.fm/rocket"
+    },
+    {
+      "description": "News for nerds, stuff that matters",
+      "feed_format": "rss1",
+      "feed_url": "https://rss.slashdot.org/Slashdot/slashdotMain",
+      "icon_url": null,
+      "id": "c7ce0571-878a-560a-a044-1199c5e51a7d",
+      "language_tag": "en-us",
+      "title": "Slashdot",
+      "website_url": "https://slashdot.org/"
+    },
+    {
+      "description": "On the business, strategy, and impact of technology.",
+      "feed_format": "rss",
+      "feed_url": "https://stratechery.com/feed/",
+      "icon_url": null,
+      "id": "c3e8b7c3-6116-5a8d-8793-da042a975ec1",
+      "language_tag": "en-US",
+      "title": "Stratechery by Ben Thompson",
+      "website_url": null
+    },
+    {
+      "description": "Connecting Asia's startup ecosystem",
+      "feed_format": "rss",
+      "feed_url": "https://feeds2.feedburner.com/PennOlson",
+      "icon_url": null,
+      "id": "b5d861a4-33a4-5089-8701-938a2617b1fc",
+      "language_tag": "en-US",
+      "title": "Tech in Asia",
+      "website_url": null
+    },
+    {
+      "description": "Latest News Today, Breaking News, India News, Top Headlines",
+      "feed_format": "rss",
+      "feed_url": "https://indianexpress.com/section/technology/tech-news-technology/feed/",
+      "icon_url": null,
+      "id": "a7883525-5db8-50aa-9e41-bcc9d8ed4d62",
+      "language_tag": "en-US",
+      "title": "Tech | The Indian Express",
+      "website_url": null
+    },
+    {
+      "description": "Startup and Technology News",
+      "feed_format": "rss",
+      "feed_url": "https://techcrunch.com/feed/",
+      "icon_url": null,
+      "id": "9c063696-b0af-5d6c-b0d5-2507552457f6",
+      "language_tag": "en-US",
+      "title": "TechCrunch",
+      "website_url": null
+    },
+    {
+      "description": "Latest News Today, Breaking News, India News, Top Headlines",
+      "feed_format": "rss",
+      "feed_url": "https://indianexpress.com/section/technology/feed/",
+      "icon_url": null,
+      "id": "aef01481-fbd4-5653-8893-e57e3a673136",
+      "language_tag": "en-US",
+      "title": "Technology | The Indian Express",
+      "website_url": null
+    },
+    {
+      "description": "TED is a nonprofit devoted to ideas worth spreading. On this video feed, you'll find TED Talks to inspire, intrigue and stir the imagination from some of the world's leading thinkers and doers, speaking from the stage at TED conferences, TEDx events and partner events around the world. This podcast is also available in high-def video and audio-only formats.",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.feedburner.com/tedtalks_video",
+      "icon_url": null,
+      "id": "db19f0d7-2be5-5fb2-a9e4-cb3ef5ace7a0",
+      "language_tag": "en",
+      "title": "TED Talks Daily (SD video)",
+      "website_url": null
+    },
+    {
+      "description": "Original and proudly opinionated perspectives for Generation T",
+      "feed_format": "rss",
+      "feed_url": "https://thenextweb.com/feed",
+      "icon_url": null,
+      "id": "62743cd1-677c-5b2c-a698-9cffdbbb2078",
+      "language_tag": "en-US",
+      "title": "The Next Web",
+      "website_url": null
+    },
+    {
+      "description": "The Verge is about technology and how it makes us feel. Founded in 2011, we offer our audience everything from breaking news to reviews to award-winning features and investigations, on our site, in video, and in podcasts.",
+      "feed_format": "atom",
+      "feed_url": "https://www.theverge.com/rss/index.xml",
+      "icon_url": null,
+      "id": "55c294b1-b932-575c-a61e-706b2c2ff8b1",
+      "language_tag": "en-US",
+      "title": "The Verge",
+      "website_url": "https://www.theverge.com/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?user=TheVerge",
+      "icon_url": null,
+      "id": "ef451ded-6be0-57dd-9b8f-1f4694a437bf",
+      "language_tag": null,
+      "title": "The Verge",
+      "website_url": "https://www.youtube.com/channel/UCddiUEpeqJcYeBxX1IVBKvQ"
+    },
+    {
+      "description": "The Vergecast is the flagship daily podcast from The Verge about small gadgets, Big Tech, and everything in between. Every Friday, Nilay Patel and David Pierce hang out and make sense of the week’s most important technology news. And Monday through Thursday, David leads a selection of The Verge’s expert staffers in an exploration of how gadgets and software affect our lives – and which ones you should bring into yours.",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.megaphone.fm/vergecast",
+      "icon_url": null,
+      "id": "f6e7f253-a474-5322-97c2-40f71f28c0b5",
+      "language_tag": "en",
+      "title": "The Vergecast",
+      "website_url": null
+    },
+    {
+      "description": "This Week in Tech is the top-ranked flagship tech podcast from TWiT.tv. Every Sunday, Leo Laporte and a roundtable of insiders explore the week's hottest tech news from AI to robots, and PCs to privacy. When it comes to tech, TWiT is IT. You can join Club TWiT for $10 per month and get ad-free audio and video feeds for all our shows plus everything else the club offers...or get just this podcast ad-free for $5 per month. New episodes every Sunday.",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.twit.tv/twit.xml",
+      "icon_url": null,
+      "id": "31e41a97-81d0-59f2-9a6a-df52ac48d7dd",
+      "language_tag": "en-US",
+      "title": "This Week in Tech (Audio)",
+      "website_url": "https://twit.tv/shows/this-week-in-tech"
+    },
+    {
+      "description": "Top stories featured on ScienceDaily's Space & Time, Matter & Energy, and Computers & Math sections.",
+      "feed_format": "rss",
+      "feed_url": "https://www.sciencedaily.com/rss/top/technology.xml",
+      "icon_url": null,
+      "id": "aa32f977-9f2c-5696-a1d1-c9c5bca7c252",
+      "language_tag": "en-us",
+      "title": "Top Technology News -- ScienceDaily",
+      "website_url": "https://www.sciencedaily.com/news/top/technology/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?user=unboxtherapy",
+      "icon_url": null,
+      "id": "0fce4a6d-a052-522c-8005-30702690a5d3",
+      "language_tag": null,
+      "title": "Unbox Therapy",
+      "website_url": "https://www.youtube.com/channel/UCsTcErHg8oDvUnTzoqsYeNw"
+    },
+    {
+      "description": "The latest from www.wired.com",
+      "feed_format": "rss",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "icon_url": null,
+      "id": "a1aba6cd-2eed-5e34-9c0c-bedf1939e116",
+      "language_tag": "en-US",
+      "title": "WIRED",
+      "website_url": "https://www.wired.com/"
+    },
+    {
+      "description": "Articles from www.theregister.com",
+      "feed_format": "rss",
+      "feed_url": "https://api.theregister.com/api/v1/article?orderBy=published&site_id=2&remapper=rss",
+      "icon_url": null,
+      "id": "182ed0df-06a6-5cae-9762-b3e20814db42",
+      "language_tag": null,
+      "title": "www.theregister.com - Articles",
+      "website_url": "https://www.theregister.com/"
+    }
+  ],
+  "id": "86a590c0-2bf6-525a-8c42-aead46be0c70",
+  "schema_version": 1,
+  "slug": "technology",
+  "title": "Technology news"
+}

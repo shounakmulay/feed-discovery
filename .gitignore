@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+.venv/
+dist/
+feed-discovery-pages.zip
+pages-build-*/
+.wrangler/

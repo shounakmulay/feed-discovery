@@ -1,0 +1,279 @@
+{
+  "catalog_id": "fde6f172-590d-56d6-b493-154a220c19d3",
+  "collections": [
+    {
+      "feed_count": 868,
+      "id": "b02e1d53-1db4-56d3-b92d-397d7232a08d",
+      "path": "collections/developer-blogs/2e7285db2647e599f3a3ae35625123bacae494829558ce0cdee68713ba16a428.json",
+      "position": 0,
+      "sha256": "2e7285db2647e599f3a3ae35625123bacae494829558ce0cdee68713ba16a428",
+      "slug": "developer-blogs",
+      "title": "Developer blogs"
+    },
+    {
+      "feed_count": 409,
+      "id": "107e5e79-92d6-51ab-b3bf-494bcf33198d",
+      "path": "collections/engineering/e60eb503f84812b92feae49d46a4f0d8c0438110b3a15521b44625982a5ba49d.json",
+      "position": 1,
+      "sha256": "e60eb503f84812b92feae49d46a4f0d8c0438110b3a15521b44625982a5ba49d",
+      "slug": "engineering",
+      "title": "Engineering blogs"
+    },
+    {
+      "feed_count": 170,
+      "id": "9377b966-d3eb-5ad0-b548-b725e41a4865",
+      "path": "collections/frontend/5492a4f6db19266316be5926b1941d1bd5c79d237a853d19a3656686aedb5a51.json",
+      "position": 2,
+      "sha256": "5492a4f6db19266316be5926b1941d1bd5c79d237a853d19a3656686aedb5a51",
+      "slug": "frontend",
+      "title": "Frontend and web development"
+    },
+    {
+      "feed_count": 53,
+      "id": "862773e2-b0e3-5043-b0b7-8486f8128ed3",
+      "path": "collections/web-standards/8f5a8b63d08ff123f44b7a763a855367ec557dd2248d0ef61b026f7f2db64710.json",
+      "position": 3,
+      "sha256": "8f5a8b63d08ff123f44b7a763a855367ec557dd2248d0ef61b026f7f2db64710",
+      "slug": "web-standards",
+      "title": "Web standards and accessibility"
+    },
+    {
+      "feed_count": 54,
+      "id": "94133c1d-6740-509f-84a3-fd1158d41467",
+      "path": "collections/browsers/d743873d897184fefde21f5708c63b9971ae35cdc44425df4b202eddc839a5c3.json",
+      "position": 4,
+      "sha256": "d743873d897184fefde21f5708c63b9971ae35cdc44425df4b202eddc839a5c3",
+      "slug": "browsers",
+      "title": "Browsers"
+    },
+    {
+      "feed_count": 40,
+      "id": "68e03652-3546-5a4b-bb9c-f39e55da9c6f",
+      "path": "collections/developer-tools/5b7d3d392ce94de1b521113d0d9a4b072f2a9e026a9b1e18a904917d2d5faca0.json",
+      "position": 5,
+      "sha256": "5b7d3d392ce94de1b521113d0d9a4b072f2a9e026a9b1e18a904917d2d5faca0",
+      "slug": "developer-tools",
+      "title": "Developer tools"
+    },
+    {
+      "feed_count": 37,
+      "id": "d30bef0b-1b88-56ad-b973-a7a2947cfd01",
+      "path": "collections/android-development/8b5d9a3ea5a90827e80908471db209953e77b7e8c7b09c92807b141bf80402f6.json",
+      "position": 6,
+      "sha256": "8b5d9a3ea5a90827e80908471db209953e77b7e8c7b09c92807b141bf80402f6",
+      "slug": "android-development",
+      "title": "Android development"
+    },
+    {
+      "feed_count": 8,
+      "id": "0999de77-140f-5bd2-95e6-2587ef06ee6b",
+      "path": "collections/kotlin/e191f7f969cbb29f186b13773fd20dd9259d4f29359464b61f5fe3dbae54704b.json",
+      "position": 7,
+      "sha256": "e191f7f969cbb29f186b13773fd20dd9259d4f29359464b61f5fe3dbae54704b",
+      "slug": "kotlin",
+      "title": "Kotlin and multiplatform"
+    },
+    {
+      "feed_count": 20,
+      "id": "45913ce2-abf0-51e1-9c66-56a1b7a19de7",
+      "path": "collections/ios-swift/754351cb80154e602ec6a031500ae48e0f1705bd11920d69621e7e23361bcaec.json",
+      "position": 8,
+      "sha256": "754351cb80154e602ec6a031500ae48e0f1705bd11920d69621e7e23361bcaec",
+      "slug": "ios-swift",
+      "title": "iOS and Swift"
+    },
+    {
+      "feed_count": 10,
+      "id": "978f3572-d8b8-5246-9815-e1863d42a5fc",
+      "path": "collections/backend/9ee8a69b68aedffcff8aa75f56abefa8a76384d2def39fbf263ff68379e95a2e.json",
+      "position": 10,
+      "sha256": "9ee8a69b68aedffcff8aa75f56abefa8a76384d2def39fbf263ff68379e95a2e",
+      "slug": "backend",
+      "title": "Backend and distributed systems"
+    },
+    {
+      "feed_count": 20,
+      "id": "31bcc906-67f1-5e95-b9ef-89bfc937e4f6",
+      "path": "collections/languages/c5f9784977271313c7ef770b2ed3ba9f78c7877d8eb44dc11e73f1cadcbf2905.json",
+      "position": 11,
+      "sha256": "c5f9784977271313c7ef770b2ed3ba9f78c7877d8eb44dc11e73f1cadcbf2905",
+      "slug": "languages",
+      "title": "Programming languages"
+    },
+    {
+      "feed_count": 34,
+      "id": "3ce6abeb-d23b-5f01-8525-d24fed2a38c1",
+      "path": "collections/programming/6beea1b71c243817311e37f7fdd4542854c56c99830ee8260865eb81e9b9869b.json",
+      "position": 12,
+      "sha256": "6beea1b71c243817311e37f7fdd4542854c56c99830ee8260865eb81e9b9869b",
+      "slug": "programming",
+      "title": "Programming"
+    },
+    {
+      "feed_count": 7,
+      "id": "3cc45e9f-1414-56ac-ac5c-6aa8092eb9e8",
+      "path": "collections/databases/49dd1e2a06434f1dbf580b127ff3233087ae4dfb62cf47858ac9e735f9b27c9d.json",
+      "position": 13,
+      "sha256": "49dd1e2a06434f1dbf580b127ff3233087ae4dfb62cf47858ac9e735f9b27c9d",
+      "slug": "databases",
+      "title": "Databases"
+    },
+    {
+      "feed_count": 26,
+      "id": "5a6c9e73-af78-5c45-a9f6-955bec1cec85",
+      "path": "collections/cloud-devops/88c06ac0d7ef327d44e988a2cd8490789216af3179eb2f8e16ade7ac611b8944.json",
+      "position": 14,
+      "sha256": "88c06ac0d7ef327d44e988a2cd8490789216af3179eb2f8e16ade7ac611b8944",
+      "slug": "cloud-devops",
+      "title": "Cloud, DevOps, and infrastructure"
+    },
+    {
+      "feed_count": 88,
+      "id": "3add1d38-3b75-562c-b51f-f759d9ef3fc6",
+      "path": "collections/cybersecurity/2e1eac994e0f7598b8b9c2c7feee3c91a49e5963b72dcfcf52033d8f62d866a9.json",
+      "position": 15,
+      "sha256": "2e1eac994e0f7598b8b9c2c7feee3c91a49e5963b72dcfcf52033d8f62d866a9",
+      "slug": "cybersecurity",
+      "title": "Cybersecurity and privacy"
+    },
+    {
+      "feed_count": 32,
+      "id": "ddeea7ce-85b5-5c6b-bcc9-452daf40fdee",
+      "path": "collections/ai-ml/83dbf53e4ac46b650ebcdedf8023035feab70d5d085b3e6865aff1d0b24c5db1.json",
+      "position": 16,
+      "sha256": "83dbf53e4ac46b650ebcdedf8023035feab70d5d085b3e6865aff1d0b24c5db1",
+      "slug": "ai-ml",
+      "title": "AI and machine learning"
+    },
+    {
+      "feed_count": 43,
+      "id": "86a590c0-2bf6-525a-8c42-aead46be0c70",
+      "path": "collections/technology/44562db01a3317331ddd689b3e50e86571ae78816ef90871733ced8ba34dcd76.json",
+      "position": 17,
+      "sha256": "44562db01a3317331ddd689b3e50e86571ae78816ef90871733ced8ba34dcd76",
+      "slug": "technology",
+      "title": "Technology news"
+    },
+    {
+      "feed_count": 14,
+      "id": "14bca583-bc93-5ef2-8164-132924f16817",
+      "path": "collections/android/1b4261547a70df6959f27bd87db19f22e36441d17d0c5790f75c6bd42e9d0b16.json",
+      "position": 18,
+      "sha256": "1b4261547a70df6959f27bd87db19f22e36441d17d0c5790f75c6bd42e9d0b16",
+      "slug": "android",
+      "title": "Android news"
+    },
+    {
+      "feed_count": 14,
+      "id": "0807957d-32ea-56e4-95f4-3bfd2acd3b6a",
+      "path": "collections/apple/68be5144a2640fa493eb94fb0e9a19882bf3f2d9f466d1209881d65fc81eb2ee.json",
+      "position": 19,
+      "sha256": "68be5144a2640fa493eb94fb0e9a19882bf3f2d9f466d1209881d65fc81eb2ee",
+      "slug": "apple",
+      "title": "Apple news"
+    },
+    {
+      "feed_count": 44,
+      "id": "ca5c9bd7-fc52-5724-bc3f-33f1eb9608a7",
+      "path": "collections/science/89a54878ddb311efcb6fd661b0ab1af996775a28ebb32f1dd01ebdb68d70d329.json",
+      "position": 20,
+      "sha256": "89a54878ddb311efcb6fd661b0ab1af996775a28ebb32f1dd01ebdb68d70d329",
+      "slug": "science",
+      "title": "Science"
+    },
+    {
+      "feed_count": 4,
+      "id": "ae517e87-6d60-562d-a205-4cd81c49a753",
+      "path": "collections/space/1af4c0c58d1c8e39ef204cd73cf3907a32ba864d9987b58f616ae9756835f7bd.json",
+      "position": 21,
+      "sha256": "1af4c0c58d1c8e39ef204cd73cf3907a32ba864d9987b58f616ae9756835f7bd",
+      "slug": "space",
+      "title": "Space and astronomy"
+    },
+    {
+      "feed_count": 10,
+      "id": "3968362c-dfe7-5144-b9d7-648e1d3743a6",
+      "path": "collections/environment/6a6e62d012e91c4504f213e8a9e1bb0da65c2ba07f5510f56ffd1d9a21f838e4.json",
+      "position": 22,
+      "sha256": "6a6e62d012e91c4504f213e8a9e1bb0da65c2ba07f5510f56ffd1d9a21f838e4",
+      "slug": "environment",
+      "title": "Climate and environment"
+    },
+    {
+      "feed_count": 32,
+      "id": "13f4ed4b-c889-5252-a4f8-bd885607ee5f",
+      "path": "collections/news-world/20f519c1e4fb08578e13bf51e9d4f6c1a9b6d7156f876c9e0c7933add5fdf979.json",
+      "position": 23,
+      "sha256": "20f519c1e4fb08578e13bf51e9d4f6c1a9b6d7156f876c9e0c7933add5fdf979",
+      "slug": "news-world",
+      "title": "World news"
+    },
+    {
+      "feed_count": 32,
+      "id": "2b3a4267-947e-5072-8ad0-0130327ba91a",
+      "path": "collections/news-india/ce17f4aeb6470c9a2fdd858f1e459ba815a536538968edb7be74c3d1726c15de.json",
+      "position": 24,
+      "sha256": "ce17f4aeb6470c9a2fdd858f1e459ba815a536538968edb7be74c3d1726c15de",
+      "slug": "news-india",
+      "title": "India news"
+    },
+    {
+      "feed_count": 44,
+      "id": "f2ca18bf-0dde-5512-9076-02066e390095",
+      "path": "collections/business-startups/784414626b96e8df17cfc714bb70626be1a92c01ca29f4e6d379e05e4f1d2a92.json",
+      "position": 25,
+      "sha256": "784414626b96e8df17cfc714bb70626be1a92c01ca29f4e6d379e05e4f1d2a92",
+      "slug": "business-startups",
+      "title": "Business and startups"
+    },
+    {
+      "feed_count": 11,
+      "id": "013ea045-5b8c-568e-827b-efa1bf1b1288",
+      "path": "collections/design/63c3647e86b1ba5e7be9663ec58b39fe6d9fe4de616c0224c13e55f1ba2d54fa.json",
+      "position": 26,
+      "sha256": "63c3647e86b1ba5e7be9663ec58b39fe6d9fe4de616c0224c13e55f1ba2d54fa",
+      "slug": "design",
+      "title": "Design and UX"
+    },
+    {
+      "feed_count": 13,
+      "id": "468c83a6-19c1-58d5-8751-9dc0e3da510d",
+      "path": "collections/gaming/ec51a2c7b33e24a4f6d151d92bac995f30d6ddde9401fe5daefec4ba38081448.json",
+      "position": 27,
+      "sha256": "ec51a2c7b33e24a4f6d151d92bac995f30d6ddde9401fe5daefec4ba38081448",
+      "slug": "gaming",
+      "title": "Gaming"
+    },
+    {
+      "feed_count": 8,
+      "id": "5fdb40b0-a66b-5053-b7a9-ef42536d7934",
+      "path": "collections/hardware-makers/28ce95a7570642b9acfac5e5634daeb6210d9a7f03001572ac46ec320d538e58.json",
+      "position": 28,
+      "sha256": "28ce95a7570642b9acfac5e5634daeb6210d9a7f03001572ac46ec320d538e58",
+      "slug": "hardware-makers",
+      "title": "Hardware and makers"
+    },
+    {
+      "feed_count": 6,
+      "id": "1756b976-53fe-5231-a3d5-4f11e4929c78",
+      "path": "collections/learning/08e75c0225ab5e9c3f255a153178da954f451162129e99c4ac6615bd98593b70.json",
+      "position": 29,
+      "sha256": "08e75c0225ab5e9c3f255a153178da954f451162129e99c4ac6615bd98593b70",
+      "slug": "learning",
+      "title": "Learning and productivity"
+    },
+    {
+      "feed_count": 5,
+      "id": "38472ce4-9799-5824-a718-bab102a97a6f",
+      "path": "collections/open-data/42481d2c3c29d81283d705f5cd158f6e9837f3273a415f5f2cc32bb36313efb7.json",
+      "position": 30,
+      "sha256": "42481d2c3c29d81283d705f5cd158f6e9837f3273a415f5f2cc32bb36313efb7",
+      "slug": "open-data",
+      "title": "Open data and public technology"
+    }
+  ],
+  "feed_membership_count": 2156,
+  "publication": 3,
+  "schema_version": 1,
+  "unique_feed_count": 1949
+}

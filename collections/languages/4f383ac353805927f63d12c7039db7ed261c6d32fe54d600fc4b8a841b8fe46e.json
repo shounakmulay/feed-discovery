@@ -1,0 +1,139 @@
+{
+  "description": "Language releases, runtimes, and programming techniques.",
+  "feeds": [
+    {
+      "description": "Free. Cross-platform. Open source. A developer platform for building all your apps.",
+      "feed_format": "rss",
+      "feed_url": "https://devblogs.microsoft.com/dotnet/feed/",
+      "icon_url": null,
+      "id": "0e8ae3c3-9851-52e3-a16d-43d45fbf85e1",
+      "language_tag": "en-US",
+      "title": ".NET Blog",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://elixir-lang.org/atom.xml",
+      "icon_url": null,
+      "id": "5078eb19-9331-5756-aa6a-5e2c208f0cba",
+      "language_tag": null,
+      "title": "Elixir Blog",
+      "website_url": "https://elixir-lang.org/"
+    },
+    {
+      "description": "The official home of the Erlang Programming Language",
+      "feed_format": "atom",
+      "feed_url": "https://www.erlang.org/blog.xml",
+      "icon_url": null,
+      "id": "fb2c57b4-7e4b-54c8-a317-eae5f19b2f53",
+      "language_tag": null,
+      "title": "Erlang/OTP",
+      "website_url": "https://www.erlang.org/"
+    },
+    {
+      "description": "The official home of the Erlang Programming Language",
+      "feed_format": "atom",
+      "feed_url": "https://www.erlang.org/news.xml",
+      "icon_url": null,
+      "id": "e9b1b9c1-0b53-54cb-8db7-a453ccd8926e",
+      "language_tag": null,
+      "title": "Erlang/OTP | News",
+      "website_url": "https://www.erlang.org/"
+    },
+    {
+      "description": "Want to follow along with Rust development? Curious how you might get involved? Take a look!",
+      "feed_format": "atom",
+      "feed_url": "https://blog.rust-lang.org/inside-rust/feed.xml",
+      "icon_url": null,
+      "id": "818cd044-0d56-5347-a47a-642e53f22eda",
+      "language_tag": "en",
+      "title": "Inside Rust Blog",
+      "website_url": "https://blog.rust-lang.org/inside-rust/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://www.php.net/feed.atom",
+      "icon_url": null,
+      "id": "6594278f-2433-5a27-9740-098b7a488a0e",
+      "language_tag": null,
+      "title": "PHP.net news & announcements",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://www.php.net/releases/feed.php",
+      "icon_url": null,
+      "id": "a166ea73-54e3-5b4e-b732-731546be6a25",
+      "language_tag": null,
+      "title": "PHP.net releases",
+      "website_url": null
+    },
+    {
+      "description": "The official blog of the Python core development team.",
+      "feed_format": "rss",
+      "feed_url": "https://blog.python.org/rss.xml",
+      "icon_url": null,
+      "id": "30cf2f05-4ff8-5c61-9157-cfe6dca7d664",
+      "language_tag": null,
+      "title": "Python Insider",
+      "website_url": "https://blog.python.org/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://realpython.com/atom.xml",
+      "icon_url": null,
+      "id": "b16f3b32-4900-5663-b59b-603966c4b5b5",
+      "language_tag": null,
+      "title": "Real Python",
+      "website_url": "https://realpython.com/"
+    },
+    {
+      "description": "The latest news from ruby-lang.org.",
+      "feed_format": "rss",
+      "feed_url": "https://www.ruby-lang.org/en/feeds/news.rss",
+      "icon_url": null,
+      "id": "93df88a1-6eb6-502f-a124-051fed16ae0b",
+      "language_tag": "en-US",
+      "title": "Ruby News",
+      "website_url": "https://www.ruby-lang.org/en/feeds/news.rss"
+    },
+    {
+      "description": "Empowering everyone to build reliable and efficient software.",
+      "feed_format": "atom",
+      "feed_url": "https://blog.rust-lang.org/feed.xml",
+      "icon_url": null,
+      "id": "b27a9ef8-213b-56ea-a2be-82d147eb4555",
+      "language_tag": "en",
+      "title": "Rust Blog",
+      "website_url": "https://blog.rust-lang.org/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://go.dev/blog/feed.atom",
+      "icon_url": null,
+      "id": "f65d8415-2515-5d0a-aa02-dcf6f1bbf79f",
+      "language_tag": null,
+      "title": "The Go Blog",
+      "website_url": null
+    },
+    {
+      "description": "The official blog of the TypeScript team.",
+      "feed_format": "rss",
+      "feed_url": "https://devblogs.microsoft.com/typescript/feed/",
+      "icon_url": null,
+      "id": "e3b8f53b-f79b-55c5-bdf8-42f3d417f7bb",
+      "language_tag": "en-US",
+      "title": "TypeScript",
+      "website_url": null
+    }
+  ],
+  "id": "31bcc906-67f1-5e95-b9ef-89bfc937e4f6",
+  "schema_version": 1,
+  "slug": "languages",
+  "title": "Programming languages"
+}

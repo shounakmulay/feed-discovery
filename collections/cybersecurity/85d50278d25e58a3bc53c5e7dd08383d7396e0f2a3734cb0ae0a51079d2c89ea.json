@@ -1,0 +1,279 @@
+{
+  "description": "Security research, vulnerabilities, privacy, and defense.",
+  "feeds": [
+    {
+      "description": "The latest AWS security, identity, and compliance launches, announcements, and how-to posts.",
+      "feed_format": "rss",
+      "feed_url": "https://aws.amazon.com/blogs/security/feed/",
+      "icon_url": null,
+      "id": "08675480-d7a7-5e45-8fbf-3347dce361b0",
+      "language_tag": "en-US",
+      "title": "AWS Security Blog",
+      "website_url": null
+    },
+    {
+      "description": "Startup and Technology News",
+      "feed_format": "rss",
+      "feed_url": "https://techcrunch.com/tag/cybersecurity/feed/",
+      "icon_url": null,
+      "id": "9696f116-6798-5c3b-9415-2a8c976a846b",
+      "language_tag": "en-US",
+      "title": "cybersecurity | TechCrunch",
+      "website_url": null
+    },
+    {
+      "description": "Explore true stories of the dark side of the Internet with host Jack Rhysider as he takes you on a journey through the chilling world of hacking, data breaches, and cyber crime. ¿Hablas español? Escucha en español aquí ➔ https://darknetdiaries.com/es/",
+      "feed_format": "rss",
+      "feed_url": "https://podcast.darknetdiaries.com/",
+      "icon_url": null,
+      "id": "2b48f867-f7eb-52d2-a2da-62beda1e8926",
+      "language_tag": "en-us",
+      "title": "Darknet Diaries",
+      "website_url": "https://darknetdiaries.com/"
+    },
+    {
+      "description": "Darknet.org.uk is a cybersecurity site online since 2000. It covers security tools, technical research and hacking news, alongside an archive of earlier posts.",
+      "feed_format": "rss",
+      "feed_url": "https://www.darknet.org.uk/feed/",
+      "icon_url": null,
+      "id": "ca4d7af4-d172-5b1a-83e2-3f66bd868623",
+      "language_tag": "en-US",
+      "title": "Darknet – Hacking Tools, Hacker News & Cyber Security",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://blog.erratasec.com/feeds/posts/default",
+      "icon_url": null,
+      "id": "54aa552d-2b19-5da0-8ef9-dc8c9282b6ce",
+      "language_tag": null,
+      "title": "Errata Security",
+      "website_url": "https://blog.erratasec.com/"
+    },
+    {
+      "description": "The latest news and insights from Google on security and safety on the Internet.",
+      "feed_format": "atom",
+      "feed_url": "http://feeds.feedburner.com/GoogleOnlineSecurityBlog",
+      "icon_url": null,
+      "id": "6cebd177-f4a6-5171-9adc-d48128238cbf",
+      "language_tag": null,
+      "title": "Google Online Security Blog",
+      "website_url": "http://security.googleblog.com/"
+    },
+    {
+      "description": "Deception, influence, and social engineering in the world of cyber crime.",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.megaphone.fm/hacking-humans",
+      "icon_url": null,
+      "id": "688fe38e-2c14-5347-a254-aafad61c295e",
+      "language_tag": "en",
+      "title": "Hacking Humans",
+      "website_url": null
+    },
+    {
+      "description": "The ISF Podcast brings you cutting-edge conversation, tailored to CISOs, CTOs, CROs, and other global security pros. In every episode of the ISF Podcast, Chief Executive, Steve Durbin speaks with rule-breakers, collaborators, culture builders, and business creatives who manage their enterprise with vision, transparency, authenticity, and integrity. From the Information Security Forum, the leading authority on cyber, information security, and risk management.",
+      "feed_format": "rss",
+      "feed_url": "https://audioboom.com/channels/4991893.rss",
+      "icon_url": null,
+      "id": "f1b08a9d-372c-57a0-a72e-4fb9aa186e29",
+      "language_tag": "en",
+      "title": "ISF Podcast",
+      "website_url": "https://www.securityforum.org/spotlight-on/"
+    },
+    {
+      "description": "In-depth security news and investigation",
+      "feed_format": "rss",
+      "feed_url": "https://krebsonsecurity.com/feed/",
+      "icon_url": null,
+      "id": "862ae1db-58f2-555a-85f3-98e205c332f8",
+      "language_tag": "en-US",
+      "title": "Krebs on Security",
+      "website_url": null
+    },
+    {
+      "description": "In-depth security news and investigation",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.feedburner.com/KrebsOnSecurity",
+      "icon_url": null,
+      "id": "f76b8278-97fd-5129-a607-94edfabbcdf9",
+      "language_tag": "en-US",
+      "title": "Krebs on Security",
+      "website_url": null
+    },
+    {
+      "description": "Malicious Life by Cybereason tells the unknown stories of the history of cybersecurity, with comments and reflections by real hackers, security experts, journalists, and politicians.",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.redcircle.com/597cfd00-b29a-49c6-9622-03c8decfc35f",
+      "icon_url": null,
+      "id": "89b09d88-c8ef-5cc9-9c86-1be09359ff65",
+      "language_tag": "en-US",
+      "title": "Malicious Life",
+      "website_url": "https://redcircle.com/shows/malicious-life"
+    },
+    {
+      "description": "News and Advice on the World's Latest Innovations",
+      "feed_format": "atom",
+      "feed_url": "https://www.zdnet.com/rss/news/",
+      "icon_url": null,
+      "id": "01892a62-1c3e-5852-b0c8-e1202943f9dc",
+      "language_tag": "en-US",
+      "title": "news – ZDNET",
+      "website_url": "https://www.zdnet.com/"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://portswigger.net/blog/rss",
+      "icon_url": null,
+      "id": "71723f46-ee67-5116-ba73-9b969dc53387",
+      "language_tag": "en-gb",
+      "title": "PortSwigger Blog",
+      "website_url": "https://portswigger.net/blog"
+    },
+    {
+      "description": "Make zeroday hard",
+      "feed_format": "atom",
+      "feed_url": "https://projectzero.google/feed.xml",
+      "icon_url": null,
+      "id": "08fa32d0-0644-57ea-a418-b754dac4053f",
+      "language_tag": null,
+      "title": "Project Zero",
+      "website_url": "https://projectzero.google/"
+    },
+    {
+      "description": "Risky Business is a weekly information security podcast featuring news and in-depth interviews with industry luminaries. Launched in February 2007, Risky Business is a must-listen digest for information security pros. With a running time of approximately 50-60 minutes, Risky Business is pacy; a security podcast without the waffle.",
+      "feed_format": "rss",
+      "feed_url": "https://risky.biz/feeds/risky-business/",
+      "icon_url": null,
+      "id": "5561fed4-19d7-5802-a12d-4571578fe098",
+      "language_tag": "en",
+      "title": "Risky Business",
+      "website_url": "https://risky.biz/"
+    },
+    {
+      "description": "SANS Internet Storm Center - Cooperative Cyber Security Monitor",
+      "feed_format": "rss",
+      "feed_url": "https://isc.sans.edu/rssfeed_full.xml",
+      "icon_url": null,
+      "id": "4815ae11-71fb-5e4e-9ea2-51c972fa5cde",
+      "language_tag": "en-us",
+      "title": "SANS Internet Storm Center, InfoCON: green",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://www.schneier.com/feed/",
+      "icon_url": null,
+      "id": "9edfc6b7-3a2f-50cd-ae64-7488b1dd2d94",
+      "language_tag": "en-US",
+      "title": "Schneier on Security",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://www.schneier.com/feed/atom/",
+      "icon_url": null,
+      "id": "f46cf66b-8c9f-553e-a695-edb2d52febdf",
+      "language_tag": "en-US",
+      "title": "Schneier on Security",
+      "website_url": "https://www.schneier.com/"
+    },
+    {
+      "description": "Read, think, share … Security is everyone's responsibility",
+      "feed_format": "rss",
+      "feed_url": "https://securityaffairs.com/feed",
+      "icon_url": null,
+      "id": "9799bbf1-50f4-519c-b5c6-dc60c27b8446",
+      "language_tag": "en-US",
+      "title": "Security Affairs",
+      "website_url": null
+    },
+    {
+      "description": "I write about security, privacy, Web, technology and tech policy matters.",
+      "feed_format": "rss",
+      "feed_url": "https://blog.lukaszolejnik.com/rss/",
+      "icon_url": null,
+      "id": "ce96312b-b9b5-5ea1-ad01-246eae293562",
+      "language_tag": null,
+      "title": "Security, Privacy & Tech Inquiries",
+      "website_url": "https://blog.lukaszolejnik.com/"
+    },
+    {
+      "description": "Stories from the world of hacking, cybersecurity, and rogue AI. Smashing Security isn’t your typical tech podcast. Hosted by cybersecurity keynote speaker and industry veteran Graham Cluley, it serves up weekly tales of cybercrime, hacking horror stories, privacy blunders, and tech mishaps - all with sharp insight, a sense of humour, and zero tolerance for tech waffle. Winner of the best and most entertaining cybersecurity podcast awards in 2018, 2019, 2022, 2023, and 2024, Smashing Security has",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.redcircle.com/c478d684-038f-4b13-8507-bc32af486a2c",
+      "icon_url": null,
+      "id": "891361ec-d061-5bd4-be0e-36ddc117e735",
+      "language_tag": "en",
+      "title": "Smashing Security",
+      "website_url": "https://www.smashingsecurity.com/"
+    },
+    {
+      "description": "Level up your Java code and explore what Spring can do for you.",
+      "feed_format": "rss",
+      "feed_url": "https://spring.io/security.atom",
+      "icon_url": null,
+      "id": "7dc6bad8-9d51-5de2-8fb6-a17bc6be28a4",
+      "language_tag": null,
+      "title": "Spring Security Advisories",
+      "website_url": "https://spring.io/"
+    },
+    {
+      "description": "Most trusted, widely-read independent cybersecurity news source for everyone; supported by hackers and IT professionals — Send TIPs to admin@thehackernews.com",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.feedburner.com/TheHackersNews",
+      "icon_url": null,
+      "id": "c8aa5e02-ee74-593f-8da8-66887c57d32c",
+      "language_tag": "en-us",
+      "title": "The Hacker News",
+      "website_url": "https://thehackernews.com/"
+    },
+    {
+      "description": "The First Stop For Security News",
+      "feed_format": "rss",
+      "feed_url": "https://threatpost.com/feed/",
+      "icon_url": null,
+      "id": "7c76046f-1d69-5ef2-b55e-4c8d3121b0cb",
+      "language_tag": "en-US",
+      "title": "Threatpost",
+      "website_url": null
+    },
+    {
+      "description": "Hi, I'm Troy Hunt, I write this blog, run \"Have I Been Pwned\" and am a Microsoft Regional Director who travels the world speaking at events and training technology professionals",
+      "feed_format": "rss",
+      "feed_url": "https://www.troyhunt.com/rss/",
+      "icon_url": null,
+      "id": "c0b40c39-048c-5a26-92af-acc04daae2d3",
+      "language_tag": null,
+      "title": "Troy Hunt",
+      "website_url": "https://www.troyhunt.com/"
+    },
+    {
+      "description": "A place for the [[ https://www.mediawiki.org/wiki/Wikimedia_Security_Team | Wikimedia Security Team ]].",
+      "feed_format": "atom",
+      "feed_url": "https://phabricator.wikimedia.org/phame/blog/feed/13/",
+      "icon_url": null,
+      "id": "f1ed0ada-d134-59e3-95fc-1cb023983d85",
+      "language_tag": null,
+      "title": "Wikimedia Security Team",
+      "website_url": "https://phabricator.wikimedia.org/phame/blog/view/13/"
+    },
+    {
+      "description": "Articles from www.theregister.com",
+      "feed_format": "rss",
+      "feed_url": "https://api.theregister.com/api/v1/article?orderBy=published&site_id=2&remapper=rss&query=tag:security",
+      "icon_url": null,
+      "id": "7baddad7-2014-5115-9936-3ca86e84d2f3",
+      "language_tag": null,
+      "title": "www.theregister.com - Articles",
+      "website_url": "https://www.theregister.com/"
+    }
+  ],
+  "id": "3add1d38-3b75-562c-b51f-f759d9ef3fc6",
+  "schema_version": 1,
+  "slug": "cybersecurity",
+  "title": "Cybersecurity and privacy"
+}

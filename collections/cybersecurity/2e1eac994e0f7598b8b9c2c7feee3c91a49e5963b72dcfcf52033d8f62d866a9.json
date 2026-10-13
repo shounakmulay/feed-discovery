@@ -1,0 +1,889 @@
+{
+  "description": "Security research, vulnerabilities, privacy, and defense.",
+  "feeds": [
+    {
+      "description": "Recent content in :: Orange Cyberdefense :: on Orange Cyberdefense",
+      "feed_format": "rss",
+      "feed_url": "https://sensepost.com/rss.xml",
+      "icon_url": null,
+      "id": "6031fb6b-8142-51ba-928e-de8824d36fe4",
+      "language_tag": "en-us",
+      "title": ":: Orange Cyberdefense :: on Orange Cyberdefense",
+      "website_url": "https://sensepost.com/"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
+      "icon_url": null,
+      "id": "77726660-3574-545d-8629-ea0cb83e63f5",
+      "language_tag": "en",
+      "title": "All CISA Advisories",
+      "website_url": "https://www.cisa.gov/"
+    },
+    {
+      "description": "This includes feeds from report, guidance and blog-post",
+      "feed_format": "rss",
+      "feed_url": "https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml",
+      "icon_url": null,
+      "id": "2724d262-dd84-570d-8e03-d87bc7e6f7ee",
+      "language_tag": "en",
+      "title": "All Feed",
+      "website_url": "https://www.ncsc.gov.uk/"
+    },
+    {
+      "description": "The latest AWS security, identity, and compliance launches, announcements, and how-to posts.",
+      "feed_format": "rss",
+      "feed_url": "https://aws.amazon.com/blogs/security/feed/",
+      "icon_url": null,
+      "id": "08675480-d7a7-5e45-8fbf-3347dce361b0",
+      "language_tag": "en-US",
+      "title": "AWS Security Blog",
+      "website_url": null
+    },
+    {
+      "description": "Daily source of cyber-threat information. Established 2001.",
+      "feed_format": "rss",
+      "feed_url": "https://www.bitdefender.com/nuxt/api/en-us/rss/labs/",
+      "icon_url": "https://download.bitdefender.com/resources/images/favicon/favicon-32x32.png",
+      "id": "b1bb886a-5f06-57bf-a523-46e1c0eeceb3",
+      "language_tag": null,
+      "title": "Bitdefender Labs",
+      "website_url": "https://www.bitdefender.com/en-us/blog/labs/"
+    },
+    {
+      "description": "Latest posts from Black Hills Information Security",
+      "feed_format": "rss",
+      "feed_url": "https://www.blackhillsinfosec.com/feed/",
+      "icon_url": "https://www.blackhillsinfosec.com/uploads/media/marketing-guide-header-b115afac05394a7f93149db069c1ebc7.png",
+      "id": "c7ee04f3-8c7c-53ba-8885-9eade800de32",
+      "language_tag": "en-US",
+      "title": "Black Hills Information Security",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://www.crowdstrike.com/en-us/blog/feed",
+      "icon_url": null,
+      "id": "01450420-fb46-593e-b64c-e43fc354b469",
+      "language_tag": "en-us",
+      "title": "Blog",
+      "website_url": null
+    },
+    {
+      "description": "Industry news, product updates, videos, infographics, and more from CIS.",
+      "feed_format": "rss",
+      "feed_url": "https://www.cisecurity.org/feed/blog",
+      "icon_url": "https://www.cisecurity.org/-/jssmedia/project/cisecurity/cisecurity/data/media/img/uploads/2020/04/cropped-cis-512x512-1-32x32.png?h=32&w=32&rev=023ed3a07d874562a4ebce861c4525f0",
+      "id": "06c883f9-498c-52c5-8850-b87c9abb754d",
+      "language_tag": "en",
+      "title": "Blog Feed - Center for Internet Security",
+      "website_url": "https://www.cisecurity.org/feed/blog"
+    },
+    {
+      "description": "Developer Security Platform",
+      "feed_format": "rss",
+      "feed_url": "https://snyk.io/blog/feed/",
+      "icon_url": null,
+      "id": "f82d233a-bbce-5d7e-a8ad-3e69642f4de3",
+      "language_tag": "en-US",
+      "title": "Blog RSS Feed | Snyk",
+      "website_url": "https://snyk.io/"
+    },
+    {
+      "description": "CCB Advisories",
+      "feed_format": "rss",
+      "feed_url": "https://ccb.belgium.be/advisories.xml",
+      "icon_url": null,
+      "id": "43b050a8-0ee8-5544-ae3c-f39e6b87d517",
+      "language_tag": "en",
+      "title": "CCB Advisories Feed",
+      "website_url": "https://ccb.belgium.be/"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://www.acceis.fr/feed/",
+      "icon_url": "https://www.acceis.fr/wp-content/uploads/2024/01/cropped-ACCEIS-cybersecurite_RENNES-favicon-32x32.png",
+      "id": "ee080831-9c6b-5235-bf52-f6e538f52850",
+      "language_tag": "fr-FR",
+      "title": "Centre d'expertises en cybersécurité",
+      "website_url": null
+    },
+    {
+      "description": "Centre gouvernemental de veille, d'alerte et de réponse aux attaques informatiques.",
+      "feed_format": "rss",
+      "feed_url": "https://www.cert.ssi.gouv.fr/feed/",
+      "icon_url": null,
+      "id": "8c39723f-6480-528d-809b-68210a157951",
+      "language_tag": "fr-FR",
+      "title": "CERT-FR",
+      "website_url": "https://www.cert.ssi.gouv.fr/feed/"
+    },
+    {
+      "description": "Latest Research by our Team",
+      "feed_format": "rss",
+      "feed_url": "https://research.checkpoint.com/feed/",
+      "icon_url": "https://research.checkpoint.com/wp-content/uploads/2022/10/cropped-pavicon_CPR-03-e1666694691376-32x32.png",
+      "id": "8c7d6080-70dd-5821-a225-3f9072f92f3a",
+      "language_tag": "en-US",
+      "title": "Check Point Research",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://www.cisa.gov/blog.xml",
+      "icon_url": null,
+      "id": "2ab9cc56-8f6d-56ac-9266-16c3f86797be",
+      "language_tag": "en",
+      "title": "CISA Blog",
+      "website_url": "https://www.cisa.gov/"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://www.cisa.gov/news.xml",
+      "icon_url": null,
+      "id": "10626660-85fd-5e9e-af55-fb78b065f342",
+      "language_tag": "en",
+      "title": "CISA News",
+      "website_url": "https://www.cisa.gov/"
+    },
+    {
+      "description": "Talos intelligence and world-class threat research team better protects you and your organization against known and emerging cybersecurity threats.",
+      "feed_format": "rss",
+      "feed_url": "https://blog.talosintelligence.com/rss/",
+      "icon_url": "https://blog.talosintelligence.com/favicon.png",
+      "id": "a586e1ef-b5ee-5aa7-8acd-a93438b017b4",
+      "language_tag": null,
+      "title": "Cisco Talos Blog",
+      "website_url": "https://blog.talosintelligence.com/"
+    },
+    {
+      "description": "Cybersecurity Insights blog posts",
+      "feed_format": "rss",
+      "feed_url": "https://www.nist.gov/blogs/cybersecurity-insights/rss.xml",
+      "icon_url": null,
+      "id": "03df457f-c199-57de-a844-3a4d13834511",
+      "language_tag": "en",
+      "title": "Cybersecurity Insights",
+      "website_url": "https://www.nist.gov/"
+    },
+    {
+      "description": "Startup and Technology News",
+      "feed_format": "rss",
+      "feed_url": "https://techcrunch.com/tag/cybersecurity/feed/",
+      "icon_url": null,
+      "id": "9696f116-6798-5c3b-9415-2a8c976a846b",
+      "language_tag": "en-US",
+      "title": "cybersecurity | TechCrunch",
+      "website_url": null
+    },
+    {
+      "description": "Explore true stories of the dark side of the Internet with host Jack Rhysider as he takes you on a journey through the chilling world of hacking, data breaches, and cyber crime. ¿Hablas español? Escucha en español aquí ➔ https://darknetdiaries.com/es/",
+      "feed_format": "rss",
+      "feed_url": "https://podcast.darknetdiaries.com/",
+      "icon_url": null,
+      "id": "2b48f867-f7eb-52d2-a2da-62beda1e8926",
+      "language_tag": "en-us",
+      "title": "Darknet Diaries",
+      "website_url": "https://darknetdiaries.com/"
+    },
+    {
+      "description": "Darknet.org.uk is a cybersecurity site online since 2000. It covers security tools, technical research and hacking news, alongside an archive of earlier posts.",
+      "feed_format": "rss",
+      "feed_url": "https://www.darknet.org.uk/feed/",
+      "icon_url": null,
+      "id": "ca4d7af4-d172-5b1a-83e2-3f66bd868623",
+      "language_tag": "en-US",
+      "title": "Darknet – Hacking Tools, Hacker News & Cyber Security",
+      "website_url": null
+    },
+    {
+      "description": "Datadog Security Labs is the place to read blog content about security research and tooling published by Datadog for the community.",
+      "feed_format": "rss",
+      "feed_url": "https://securitylabs.datadoghq.com/rss/feed.xml",
+      "icon_url": null,
+      "id": "f51ce0ff-817f-5837-b225-7a291e3dc385",
+      "language_tag": null,
+      "title": "Datadog Security Labs",
+      "website_url": "https://securitylabs.datadoghq.com/rss/feed.xml"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://blog.erratasec.com/feeds/posts/default",
+      "icon_url": null,
+      "id": "54aa552d-2b19-5da0-8ef9-dc8c9282b6ce",
+      "language_tag": null,
+      "title": "Errata Security",
+      "website_url": "https://blog.erratasec.com/"
+    },
+    {
+      "description": "RSS for all F5 Labs content.",
+      "feed_format": "rss",
+      "feed_url": "https://www.f5.com/labs/rss-feeds/all.xml",
+      "icon_url": null,
+      "id": "9cbbe12f-defb-5d2b-92d4-9f62cf9eb781",
+      "language_tag": null,
+      "title": "F5 Labs All",
+      "website_url": "https://www.f5.com/labs/articles/"
+    },
+    {
+      "description": "Official blog feed of Fortinet",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.fortinet.com/fortinet/blog/threat-research",
+      "icon_url": null,
+      "id": "18016732-2158-5c18-8d5a-7b3681aa9482",
+      "language_tag": null,
+      "title": "FortiGuard Labs Threat Research",
+      "website_url": "https://www.fortinet.com/bin/fortinet/allblogsrss?search=threat-research"
+    },
+    {
+      "description": "The latest news and insights from Google on security and safety on the Internet.",
+      "feed_format": "atom",
+      "feed_url": "http://feeds.feedburner.com/GoogleOnlineSecurityBlog",
+      "icon_url": null,
+      "id": "6cebd177-f4a6-5171-9adc-d48128238cbf",
+      "language_tag": null,
+      "title": "Google Online Security Blog",
+      "website_url": "http://security.googleblog.com/"
+    },
+    {
+      "description": "Deception, influence, and social engineering in the world of cyber crime.",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.megaphone.fm/hacking-humans",
+      "icon_url": null,
+      "id": "688fe38e-2c14-5347-a254-aafad61c295e",
+      "language_tag": "en",
+      "title": "Hacking Humans",
+      "website_url": null
+    },
+    {
+      "description": "Bug Bounty & Agile Pentesting Platform",
+      "feed_format": "rss",
+      "feed_url": "https://www.intigriti.com/blog/feed",
+      "icon_url": null,
+      "id": "a5c10277-3b20-56e3-aa54-765ac3eb239a",
+      "language_tag": "en",
+      "title": "Intigriti",
+      "website_url": "https://www.intigriti.com/blog"
+    },
+    {
+      "description": "The ISF Podcast brings you cutting-edge conversation, tailored to CISOs, CTOs, CROs, and other global security pros. In every episode of the ISF Podcast, Chief Executive, Steve Durbin speaks with rule-breakers, collaborators, culture builders, and business creatives who manage their enterprise with vision, transparency, authenticity, and integrity. From the Information Security Forum, the leading authority on cyber, information security, and risk management.",
+      "feed_format": "rss",
+      "feed_url": "https://audioboom.com/channels/4991893.rss",
+      "icon_url": null,
+      "id": "f1b08a9d-372c-57a0-a72e-4fb9aa186e29",
+      "language_tag": "en",
+      "title": "ISF Podcast",
+      "website_url": "https://www.securityforum.org/spotlight-on/"
+    },
+    {
+      "description": "Security Alerts and Advisories",
+      "feed_format": "rss1",
+      "feed_url": "https://www.jpcert.or.jp/english/rss/jpcert-en.rdf",
+      "icon_url": null,
+      "id": "9c15f777-cad7-5551-b835-9cace3d131e3",
+      "language_tag": null,
+      "title": "JPCERT/CC RSS Feed",
+      "website_url": "https://www.jpcert.or.jp/"
+    },
+    {
+      "description": "JPCERT Coordination Center official Blog",
+      "feed_format": "atom",
+      "feed_url": "https://blogs.jpcert.or.jp/en/atom.xml",
+      "icon_url": null,
+      "id": "e3b51ddf-0efd-544e-8356-2b3a5370507e",
+      "language_tag": null,
+      "title": "JPCERT/CCブログ 英語版",
+      "website_url": "https://blogs.jpcert.or.jp/en/"
+    },
+    {
+      "description": "The Official Blog from Kaspersky covers information to help protect you against viruses, spyware, hackers, spam & other forms of malware.",
+      "feed_format": "rss",
+      "feed_url": "https://www.kaspersky.com/blog/feed/",
+      "icon_url": "https://media.kasperskydaily.com/wp-content/uploads/sites/92/2019/06/04074830/cropped-k-favicon-new-150x150.png",
+      "id": "d7ff1e24-24df-5b19-945c-bd06302d9a7b",
+      "language_tag": "en-US",
+      "title": "Kaspersky official blog",
+      "website_url": null
+    },
+    {
+      "description": "In-depth security news and investigation",
+      "feed_format": "rss",
+      "feed_url": "https://krebsonsecurity.com/feed/",
+      "icon_url": null,
+      "id": "862ae1db-58f2-555a-85f3-98e205c332f8",
+      "language_tag": "en-US",
+      "title": "Krebs on Security",
+      "website_url": null
+    },
+    {
+      "description": "In-depth security news and investigation",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.feedburner.com/KrebsOnSecurity",
+      "icon_url": null,
+      "id": "f76b8278-97fd-5129-a607-94edfabbcdf9",
+      "language_tag": "en-US",
+      "title": "Krebs on Security",
+      "website_url": null
+    },
+    {
+      "description": "RSS feed for the latest 10 publications of type Security Advisories.",
+      "feed_format": "rss",
+      "feed_url": "https://cert.europa.eu/publications/security-advisories-rss",
+      "icon_url": null,
+      "id": "8d4c8fff-817d-530e-b66a-c411108c1061",
+      "language_tag": "en-gb",
+      "title": "Latest publications of type Security Advisories",
+      "website_url": "https://cert.europa.eu/publications/security-advisories/"
+    },
+    {
+      "description": "RSS feed for the latest 10 publications of type Threat Intelligence.",
+      "feed_format": "rss",
+      "feed_url": "https://cert.europa.eu/publications/threat-intelligence-rss",
+      "icon_url": null,
+      "id": "b4364f56-43a7-56c7-bd42-1cd4f24d18de",
+      "language_tag": "en-gb",
+      "title": "Latest publications of type Threat Intelligence",
+      "website_url": "https://cert.europa.eu/publications/threat-intelligence/"
+    },
+    {
+      "description": "Malicious Life by Cybereason tells the unknown stories of the history of cybersecurity, with comments and reflections by real hackers, security experts, journalists, and politicians.",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.redcircle.com/597cfd00-b29a-49c6-9622-03c8decfc35f",
+      "icon_url": null,
+      "id": "89b09d88-c8ef-5cc9-9c86-1be09359ff65",
+      "language_tag": "en-US",
+      "title": "Malicious Life",
+      "website_url": "https://redcircle.com/shows/malicious-life"
+    },
+    {
+      "description": "Cyber Security Software & Anti-Malware",
+      "feed_format": "rss",
+      "feed_url": "https://www.malwarebytes.com/blog/feed/index.xml",
+      "icon_url": null,
+      "id": "bfacbd58-d12a-5e16-b5b5-bff86e7c5a2c",
+      "language_tag": "en",
+      "title": "Malwarebytes",
+      "website_url": null
+    },
+    {
+      "description": "Expert coverage of cybersecurity topics",
+      "feed_format": "rss",
+      "feed_url": "https://www.microsoft.com/en-us/security/blog/feed/",
+      "icon_url": null,
+      "id": "149c531c-dc8b-585c-8f32-a680aacd0261",
+      "language_tag": "en-US",
+      "title": "Microsoft Security Blog",
+      "website_url": null
+    },
+    {
+      "description": "Recent content on MISP Open Source Threat Intelligence Platform & Open Standards For Threat Intelligence Sharing",
+      "feed_format": "rss",
+      "feed_url": "https://www.misp-project.org/feed.xml",
+      "icon_url": null,
+      "id": "59d54919-26d2-5e95-a710-fa52c8b8c29c",
+      "language_tag": "en-us",
+      "title": "MISP Open Source Threat Intelligence Platform & Open Standards For Threat Intelligence Sharing",
+      "website_url": "https://www.misp-project.org/"
+    },
+    {
+      "description": "MIT news feed about: Cybersecurity",
+      "feed_format": "rss",
+      "feed_url": "https://news.mit.edu/topic/mitcyber-security-rss.xml",
+      "icon_url": null,
+      "id": "6f8774e0-1548-53d2-a5a1-f1ad0d00787a",
+      "language_tag": "en",
+      "title": "MIT News - Cybersecurity",
+      "website_url": "https://news.mit.edu/topic/mitcyber-security-rss.xml"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://blog.mozilla.org/security/feed/",
+      "icon_url": null,
+      "id": "d4b2bd1b-ed5e-5f86-8904-76b160f973e2",
+      "language_tag": "en-US",
+      "title": "Mozilla Security Blog",
+      "website_url": null
+    },
+    {
+      "description": "News and Advice on the World's Latest Innovations",
+      "feed_format": "atom",
+      "feed_url": "https://www.zdnet.com/rss/news/",
+      "icon_url": null,
+      "id": "01892a62-1c3e-5852-b0c8-e1202943f9dc",
+      "language_tag": "en-US",
+      "title": "news – ZDNET",
+      "website_url": "https://www.zdnet.com/"
+    },
+    {
+      "description": "Cyber security research, straight from the lab! 🐀",
+      "feed_format": "rss",
+      "feed_url": "https://blog.nviso.eu/feed/",
+      "icon_url": "https://blog.nviso.eu/wp-content/uploads/2020/09/cropped-NVISO-Logo-Square-150x150.png?crop=1",
+      "id": "d1b64bbf-2986-57b8-bf19-a8ea397a6824",
+      "language_tag": "en-US",
+      "title": "NVISO Labs",
+      "website_url": null
+    },
+    {
+      "description": "Information Security Resources and Guidance",
+      "feed_format": "rss",
+      "feed_url": "https://informationsecurity.wustl.edu/feed/",
+      "icon_url": null,
+      "id": "8524b7c7-229a-5b0d-9475-8662dab2c31d",
+      "language_tag": "en-US",
+      "title": "Office of Information Security | Washington University in St. Louis",
+      "website_url": null
+    },
+    {
+      "description": "Palo Alto Networks Blog",
+      "feed_format": "rss",
+      "feed_url": "https://www.paloaltonetworks.com/blog/feed/",
+      "icon_url": null,
+      "id": "be4f569e-4899-5f2d-ac34-21796c3c851f",
+      "language_tag": "en-US",
+      "title": "Palo Alto Networks Blog",
+      "website_url": null
+    },
+    {
+      "description": "Insights, information and practical resources to help your organization protect payment data.",
+      "feed_format": "rss",
+      "feed_url": "https://blog.pcisecuritystandards.org/rss.xml",
+      "icon_url": null,
+      "id": "38b8305b-f703-5764-9b97-8c150a330eef",
+      "language_tag": "en-us",
+      "title": "PCI Perspectives",
+      "website_url": "https://blog.pcisecuritystandards.org/"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://portswigger.net/blog/rss",
+      "icon_url": null,
+      "id": "71723f46-ee67-5116-ba73-9b969dc53387",
+      "language_tag": "en-gb",
+      "title": "PortSwigger Blog",
+      "website_url": "https://portswigger.net/blog"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://portswigger.net/research/rss",
+      "icon_url": "https://portswigger.net/research/rss/icon",
+      "id": "32370423-0846-5632-a374-3c5986ba4528",
+      "language_tag": "en-gb",
+      "title": "PortSwigger Research",
+      "website_url": "https://portswigger.net/research"
+    },
+    {
+      "description": "Make zeroday hard",
+      "feed_format": "atom",
+      "feed_url": "https://projectzero.google/feed.xml",
+      "icon_url": null,
+      "id": "08fa32d0-0644-57ea-a418-b754dac4053f",
+      "language_tag": null,
+      "title": "Project Zero",
+      "website_url": "https://projectzero.google/"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://www.proofpoint.com/us/rss.xml",
+      "icon_url": null,
+      "id": "1bd61e0f-fb18-548b-a7f3-8ba1b2711bd5",
+      "language_tag": null,
+      "title": "Proofpoint News Feed",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://blog.quarkslab.com/feeds/all.rss.xml",
+      "icon_url": null,
+      "id": "a6e9547a-80fe-5423-a387-c45b426acc0c",
+      "language_tag": null,
+      "title": "Quarkslab's blog",
+      "website_url": "http://blog.quarkslab.com/"
+    },
+    {
+      "description": "Rapid7 transforms data into insight, empowering security professionals to progress and protect their organizations.",
+      "feed_format": "rss",
+      "feed_url": "https://www.rapid7.com/rss.xml",
+      "icon_url": "https://blog.rapid7.com/favicon.png",
+      "id": "f17e78b9-8f91-5c4e-9f61-3912a0ad538a",
+      "language_tag": null,
+      "title": "Rapid7 Cybersecurity Blog",
+      "website_url": "https://www.rapid7.com/blog/"
+    },
+    {
+      "description": "Strengthen Your Defenses with Threat Intelligence",
+      "feed_format": "rss",
+      "feed_url": "https://www.recordedfuture.com/feed",
+      "icon_url": null,
+      "id": "c10e321c-9f2c-5eb9-bbb0-311965fc2c70",
+      "language_tag": "en",
+      "title": "Recorded Future",
+      "website_url": "https://www.recordedfuture.com/"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://redcanary.com/feed/",
+      "icon_url": null,
+      "id": "e59707a6-6195-5509-96d9-ae55bdbcf703",
+      "language_tag": "en-US",
+      "title": "Red Canary",
+      "website_url": null
+    },
+    {
+      "description": "Discover how we reduce risk in any environment and across the open source ecosystem",
+      "feed_format": "rss",
+      "feed_url": "https://www.redhat.com/en/rss/blog/channel/security",
+      "icon_url": null,
+      "id": "a3a0e97c-5fac-5d39-b8a8-c8042fe8c48c",
+      "language_tag": "en",
+      "title": "Red Hat Security",
+      "website_url": "https://www.redhat.com/en/rss/blog/channel/security"
+    },
+    {
+      "description": "Notre métier , Protéger le vôtre",
+      "feed_format": "rss",
+      "feed_url": "https://www.intrinsec.com/blog/feed/",
+      "icon_url": "https://www.intrinsec.com/wp-content/uploads/2025/02/cropped-libellule-32x32.png",
+      "id": "6a254931-a90b-54a8-9643-811c5f617cfd",
+      "language_tag": "fr-FR",
+      "title": "Regards d’experts - INTRINSEC",
+      "website_url": null
+    },
+    {
+      "description": "Risky Business is a weekly information security podcast featuring news and in-depth interviews with industry luminaries. Launched in February 2007, Risky Business is a must-listen digest for information security pros. With a running time of approximately 50-60 minutes, Risky Business is pacy; a security podcast without the waffle.",
+      "feed_format": "rss",
+      "feed_url": "https://risky.biz/feeds/risky-business/",
+      "icon_url": null,
+      "id": "5561fed4-19d7-5802-a12d-4571578fe098",
+      "language_tag": "en",
+      "title": "Risky Business",
+      "website_url": "https://risky.biz/"
+    },
+    {
+      "description": "Protéger les données personnelles, accompagner l'innovation, préserver les libertés individuelles",
+      "feed_format": "rss",
+      "feed_url": "https://www.cnil.fr/fr/rss.xml",
+      "icon_url": null,
+      "id": "8cca8ed1-6c3d-5b01-8959-8ed1a0b5d941",
+      "language_tag": "fr",
+      "title": "RSS - Actualités CNIL",
+      "website_url": "https://www.cnil.fr/fr"
+    },
+    {
+      "description": "SANS Internet Storm Center - Cooperative Cyber Security Monitor",
+      "feed_format": "rss",
+      "feed_url": "https://isc.sans.edu/rssfeed.xml",
+      "icon_url": "https://isc.sans.edu/images/status.gif",
+      "id": "45b023a0-9e61-5855-b18d-f10f2e24ca19",
+      "language_tag": "en-us",
+      "title": "SANS Internet Storm Center, InfoCON: green",
+      "website_url": null
+    },
+    {
+      "description": "SANS Internet Storm Center - Cooperative Cyber Security Monitor",
+      "feed_format": "rss",
+      "feed_url": "https://isc.sans.edu/rssfeed_full.xml",
+      "icon_url": null,
+      "id": "4815ae11-71fb-5e4e-9ea2-51c972fa5cde",
+      "language_tag": "en-us",
+      "title": "SANS Internet Storm Center, InfoCON: green",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://www.schneier.com/feed/",
+      "icon_url": null,
+      "id": "9edfc6b7-3a2f-50cd-ae64-7488b1dd2d94",
+      "language_tag": "en-US",
+      "title": "Schneier on Security",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://www.schneier.com/feed/atom/",
+      "icon_url": null,
+      "id": "f46cf66b-8c9f-553e-a695-edb2d52febdf",
+      "language_tag": "en-US",
+      "title": "Schneier on Security",
+      "website_url": "https://www.schneier.com/"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://securelist.com/feed/",
+      "icon_url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/11/06125514/cropped-sl_favicon-32x32.png",
+      "id": "68b5e61b-1414-5a4a-ae58-ce7359d17bb2",
+      "language_tag": "en-US",
+      "title": "Securelist",
+      "website_url": null
+    },
+    {
+      "description": "Security & Identity",
+      "feed_format": "rss",
+      "feed_url": "https://cloudblog.withgoogle.com/products/identity-security/rss/",
+      "icon_url": "https://cloud.google.com/blog/products/identity-security/static/blog/images/google.a51985becaa6.png",
+      "id": "7376841e-fae6-5e73-bcca-d7e36dde977c",
+      "language_tag": "en",
+      "title": "Security & Identity",
+      "website_url": "https://cloud.google.com/blog/products/identity-security/"
+    },
+    {
+      "description": "Engineering at Meta Blog",
+      "feed_format": "rss",
+      "feed_url": "https://engineering.fb.com/category/security/feed/",
+      "icon_url": null,
+      "id": "5196d4de-9e80-5aa1-a9fe-e8dfcc4d4b9f",
+      "language_tag": "en-US",
+      "title": "Security & Privacy Archives - Engineering at Meta",
+      "website_url": null
+    },
+    {
+      "description": "Read, think, share … Security is everyone's responsibility",
+      "feed_format": "rss",
+      "feed_url": "https://securityaffairs.com/feed",
+      "icon_url": null,
+      "id": "9799bbf1-50f4-519c-b5c6-dc60c27b8446",
+      "language_tag": "en-US",
+      "title": "Security Affairs",
+      "website_url": null
+    },
+    {
+      "description": "I write about security, privacy, Web, technology and tech policy matters.",
+      "feed_format": "rss",
+      "feed_url": "https://blog.lukaszolejnik.com/rss/",
+      "icon_url": null,
+      "id": "ce96312b-b9b5-5ea1-ad01-246eae293562",
+      "language_tag": null,
+      "title": "Security, Privacy & Tech Inquiries",
+      "website_url": "https://blog.lukaszolejnik.com/"
+    },
+    {
+      "description": "Stories from the world of hacking, cybersecurity, and rogue AI. Smashing Security isn’t your typical tech podcast. Hosted by cybersecurity keynote speaker and industry veteran Graham Cluley, it serves up weekly tales of cybercrime, hacking horror stories, privacy blunders, and tech mishaps - all with sharp insight, a sense of humour, and zero tolerance for tech waffle. Winner of the best and most entertaining cybersecurity podcast awards in 2018, 2019, 2022, 2023, and 2024, Smashing Security has",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.redcircle.com/c478d684-038f-4b13-8507-bc32af486a2c",
+      "icon_url": null,
+      "id": "891361ec-d061-5bd4-be0e-36ddc117e735",
+      "language_tag": "en",
+      "title": "Smashing Security",
+      "website_url": "https://www.smashingsecurity.com/"
+    },
+    {
+      "description": "Level up your Java code and explore what Spring can do for you.",
+      "feed_format": "rss",
+      "feed_url": "https://spring.io/security.atom",
+      "icon_url": null,
+      "id": "7dc6bad8-9d51-5de2-8fb6-a17bc6be28a4",
+      "language_tag": null,
+      "title": "Spring Security Advisories",
+      "website_url": "https://spring.io/"
+    },
+    {
+      "description": "Stormshield",
+      "feed_format": "rss",
+      "feed_url": "https://www.stormshield.com/fr/feed/",
+      "icon_url": null,
+      "id": "fe165467-797b-5af8-9d0d-d36a90d9e60b",
+      "language_tag": "fr-FR",
+      "title": "Stormshield",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://www.tenable.com/blog/feed",
+      "icon_url": null,
+      "id": "f88b2999-6dc5-59c6-9dfa-08a0f8ab3827",
+      "language_tag": "en",
+      "title": "Tenable Blog",
+      "website_url": "https://www.tenable.com/"
+    },
+    {
+      "description": "Get the latest tips and stories on improving information security.",
+      "feed_format": "rss",
+      "feed_url": "https://www.greynoise.io/blog/rss.xml",
+      "icon_url": null,
+      "id": "e1395cde-1568-5aa9-b8b8-90c6fa195c22",
+      "language_tag": null,
+      "title": "The GreyNoise Blog",
+      "website_url": "https://www.greynoise.io/"
+    },
+    {
+      "description": "Most trusted, widely-read independent cybersecurity news source for everyone; supported by hackers and IT professionals — Send TIPs to admin@thehackernews.com",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.feedburner.com/TheHackersNews",
+      "icon_url": null,
+      "id": "c8aa5e02-ee74-593f-8da8-66887c57d32c",
+      "language_tag": "en-us",
+      "title": "The Hacker News",
+      "website_url": "https://thehackernews.com/"
+    },
+    {
+      "description": "Updates, ideas, and inspiration from GitHub to help developers build and design software.",
+      "feed_format": "rss",
+      "feed_url": "https://github.blog/security/feed/",
+      "icon_url": "https://github.blog/wp-content/uploads/2019/01/cropped-github-favicon-512.png?fit=32%2C32",
+      "id": "67c56e96-fdaf-528b-903b-7b95c4699723",
+      "language_tag": "en-US",
+      "title": "The latest security news for developers - The GitHub Blog",
+      "website_url": null
+    },
+    {
+      "description": "The Record by Recorded Future News gives exclusive, behind-the-scenes access to leaders, policymakers, researchers, and the shadows of the cyber underground.",
+      "feed_format": "rss",
+      "feed_url": "https://therecord.media/feed",
+      "icon_url": null,
+      "id": "b011d09a-6d71-50b8-8155-013d6679d09d",
+      "language_tag": "en",
+      "title": "The Record from Recorded Future News",
+      "website_url": "https://therecord.media/feed"
+    },
+    {
+      "description": "Recent content on The Trail of Bits Blog",
+      "feed_format": "rss",
+      "feed_url": "https://blog.trailofbits.com/index.xml",
+      "icon_url": null,
+      "id": "a563f20f-7d60-5413-9ca6-7311c6aaa3d5",
+      "language_tag": "en-us",
+      "title": "The Trail of Bits Blog",
+      "website_url": "https://blog.trailofbits.com/"
+    },
+    {
+      "description": "The First Stop For Security News",
+      "feed_format": "rss",
+      "feed_url": "https://threatpost.com/feed/",
+      "icon_url": null,
+      "id": "7c76046f-1d69-5ef2-b55e-4c8d3121b0cb",
+      "language_tag": "en-US",
+      "title": "Threatpost",
+      "website_url": null
+    },
+    {
+      "description": "Hi, I'm Troy Hunt, I write this blog, run \"Have I Been Pwned\" and am a Microsoft Regional Director who travels the world speaking at events and training technology professionals",
+      "feed_format": "rss",
+      "feed_url": "https://www.troyhunt.com/rss/",
+      "icon_url": null,
+      "id": "c0b40c39-048c-5a26-92af-acc04daae2d3",
+      "language_tag": null,
+      "title": "Troy Hunt",
+      "website_url": "https://www.troyhunt.com/"
+    },
+    {
+      "description": "Palo Alto Networks",
+      "feed_format": "rss",
+      "feed_url": "https://unit42.paloaltonetworks.com/feed/",
+      "icon_url": "https://unit42.paloaltonetworks.com/wp-content/uploads/2024/06/icon-Unit42-180x180-1.png",
+      "id": "338513a3-7d90-57b1-9d97-6eb57ac9328c",
+      "language_tag": "en-US",
+      "title": "Unit 42",
+      "website_url": null
+    },
+    {
+      "description": "Insights and analysis on cybersecurity from the leaders in data security.",
+      "feed_format": "rss",
+      "feed_url": "https://www.varonis.com/blog/rss.xml",
+      "icon_url": null,
+      "id": "c2a22c3e-a339-53a0-b307-8104817df9e7",
+      "language_tag": "en",
+      "title": "Varonis Blog",
+      "website_url": "https://www.varonis.com/blog"
+    },
+    {
+      "description": "The latest Blog posts from the VB team",
+      "feed_format": "rss",
+      "feed_url": "https://www.virusbulletin.com/rss",
+      "icon_url": null,
+      "id": "ca96b5cf-f9fe-5110-abef-41bacb0c307e",
+      "language_tag": null,
+      "title": "Virus Bulletin's blog",
+      "website_url": "https://www.virusbulletin.com/rss"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://blog.virustotal.com/feeds/posts/default",
+      "icon_url": null,
+      "id": "46b5e681-1c5a-5d49-8d10-4a4394ca2e84",
+      "language_tag": null,
+      "title": "VirusTotal Blog",
+      "website_url": "https://blog.virustotal.com/"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://blogs.vmware.com/security/feed",
+      "icon_url": null,
+      "id": "71da32b0-9550-5750-a9a0-075ff07650e0",
+      "language_tag": "en-US",
+      "title": "VMware Security Blog",
+      "website_url": null
+    },
+    {
+      "description": "Is Your Website Hackable?",
+      "feed_format": "rss",
+      "feed_url": "https://www.acunetix.com/blog/feed/",
+      "icon_url": null,
+      "id": "fce23f37-4ba4-5f79-89d3-7f5c6687dbb3",
+      "language_tag": "en-US",
+      "title": "Web Security Blog | Invicti",
+      "website_url": null
+    },
+    {
+      "description": "WeLiveSecurity",
+      "feed_format": "rss",
+      "feed_url": "https://www.welivesecurity.com/en/rss/feed/",
+      "icon_url": null,
+      "id": "1e3247de-4841-5fa9-96d3-a8b0e75beaa8",
+      "language_tag": "en",
+      "title": "WeLiveSecurity",
+      "website_url": "https://www.welivesecurity.com/"
+    },
+    {
+      "description": "A place for the [[ https://www.mediawiki.org/wiki/Wikimedia_Security_Team | Wikimedia Security Team ]].",
+      "feed_format": "atom",
+      "feed_url": "https://phabricator.wikimedia.org/phame/blog/feed/13/",
+      "icon_url": null,
+      "id": "f1ed0ada-d134-59e3-95fc-1cb023983d85",
+      "language_tag": null,
+      "title": "Wikimedia Security Team",
+      "website_url": "https://phabricator.wikimedia.org/phame/blog/view/13/"
+    },
+    {
+      "description": "Articles from www.theregister.com",
+      "feed_format": "rss",
+      "feed_url": "https://api.theregister.com/api/v1/article?orderBy=published&site_id=2&remapper=rss&query=tag:security",
+      "icon_url": null,
+      "id": "7baddad7-2014-5115-9936-3ca86e84d2f3",
+      "language_tag": null,
+      "title": "www.theregister.com - Articles",
+      "website_url": "https://www.theregister.com/"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://www.zerodayinitiative.com/blog/?format=rss",
+      "icon_url": null,
+      "id": "1cbea8ab-df6e-5270-855c-2ae8126f1b99",
+      "language_tag": "en-US",
+      "title": "Zero Day Initiative - Blog",
+      "website_url": "https://www.thezdi.com/blog/"
+    }
+  ],
+  "id": "3add1d38-3b75-562c-b51f-f759d9ef3fc6",
+  "schema_version": 1,
+  "slug": "cybersecurity",
+  "title": "Cybersecurity and privacy"
+}

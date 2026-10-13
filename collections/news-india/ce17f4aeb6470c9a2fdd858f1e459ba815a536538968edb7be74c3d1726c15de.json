@@ -1,0 +1,329 @@
+{
+  "description": "Indian news publishers and reporting.",
+  "feeds": [
+    {
+      "description": "BBC News - India",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/asia/india/rss.xml",
+      "icon_url": null,
+      "id": "04900a30-f1e6-52e3-9e3a-24e7f370ac69",
+      "language_tag": "en-gb",
+      "title": "BBC News",
+      "website_url": "https://www.bbc.co.uk/news/world/asia/india"
+    },
+    {
+      "description": "Get the latest business news today — finance, industry, budget and economic updates from India and around the world, on The Hindu.",
+      "feed_format": "rss",
+      "feed_url": "https://www.thehindu.com/business/feeder/default.rss",
+      "icon_url": null,
+      "id": "0efcc9de-ad20-5c9e-92b7-cd6130c7e60f",
+      "language_tag": "en-US",
+      "title": "Business News Today – Finance, Industry & Economy | The Hindu",
+      "website_url": null
+    },
+    {
+      "description": "Business News Today: Read latest breaking headlines for Business news, Financial news, Stock/Share market & Indian Economy news & updates on Businessline.",
+      "feed_format": "rss",
+      "feed_url": "https://www.thehindubusinessline.com/feeder/default.rss",
+      "icon_url": null,
+      "id": "abb8e9a5-1360-5148-b428-e18bc4a9739b",
+      "language_tag": "en-US",
+      "title": "Business News Today: Latest Business News, Finance News",
+      "website_url": null
+    },
+    {
+      "description": "Business News: Read the latest Business News from India and across the world. Get updates on the stock market, share market, economy, IPOs, banking, finance and corporate developments at Hindustan Times.",
+      "feed_format": "rss",
+      "feed_url": "https://www.hindustantimes.com/feeds/rss/business/rssfeed.xml",
+      "icon_url": null,
+      "id": "11d07cdb-b564-54e2-899b-eda5511753ab",
+      "language_tag": "en-US",
+      "title": "Business News: Get Latest Business News Today, Finance News, Share Market News, BSE/ NSE Update | Hindustan Times | Hindustan Times",
+      "website_url": null
+    },
+    {
+      "description": "Latest News Today, Breaking News, India News, Top Headlines",
+      "feed_format": "rss",
+      "feed_url": "https://indianexpress.com/section/business/feed/",
+      "icon_url": null,
+      "id": "37d09ecf-82e4-56c6-8bca-6d1e9360ee12",
+      "language_tag": "en-US",
+      "title": "Business | The Indian Express",
+      "website_url": null
+    },
+    {
+      "description": "The Economic Times: Latest business, finance, markets, stocks, company news from India.",
+      "feed_format": "rss",
+      "feed_url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
+      "icon_url": null,
+      "id": "d991442e-393a-5be3-bac1-7576fd6077ed",
+      "language_tag": "en-gb",
+      "title": "Economic Times",
+      "website_url": "https://economictimes.indiatimes.com/"
+    },
+    {
+      "description": "Latest News Today, Breaking News, India News, Top Headlines",
+      "feed_format": "rss",
+      "feed_url": "https://indianexpress.com/section/education/feed/",
+      "icon_url": null,
+      "id": "e3fe5990-b2ec-5d88-aa8c-d6003025b9ca",
+      "language_tag": "en-US",
+      "title": "Education | The Indian Express",
+      "website_url": null
+    },
+    {
+      "description": "Latest News Today, Breaking News, India News, Top Headlines",
+      "feed_format": "rss",
+      "feed_url": "https://indianexpress.com/section/explained/feed/",
+      "icon_url": null,
+      "id": "f0f927c8-18bb-5401-8987-9231d075caaa",
+      "language_tag": "en-US",
+      "title": "Explained | The Indian Express",
+      "website_url": null
+    },
+    {
+      "description": "Free Press Journal brings the Latest News & Top Breaking headlines on Politics and Current Affairs in India & around the World, Sports, Business, Bollywood",
+      "feed_format": "rss",
+      "feed_url": "https://www.freepressjournal.in/stories.rss",
+      "icon_url": null,
+      "id": "b85305d2-0ae4-51de-9f62-b72da106099f",
+      "language_tag": "en-us",
+      "title": "Free Press Journal",
+      "website_url": "https://www.freepressjournal.in/"
+    },
+    {
+      "description": "Business News: Get latest news on share market, personal finance news, economy news, stock market updates, company news, election results, politics news, breaking news at Business Standard. Catch all the latest Nifty Sensex news live updates.",
+      "feed_format": "rss",
+      "feed_url": "https://www.business-standard.com/rss/home_page_top_stories.rss",
+      "icon_url": null,
+      "id": "191a4887-87c0-55f9-964b-b01a753c2a01",
+      "language_tag": "en-us",
+      "title": "Home Page",
+      "website_url": "https://www.business-standard.com/"
+    },
+    {
+      "description": "National news and headlines from within or around India with live updates on major breaking events from The Hindu.",
+      "feed_format": "rss",
+      "feed_url": "https://www.thehindu.com/news/national/feeder/default.rss",
+      "icon_url": null,
+      "id": "3c30955f-0ce9-553d-b572-2c83a03522e6",
+      "language_tag": "en-US",
+      "title": "India Latest News: Top National Headlines Today & Breaking News | The Hindu",
+      "website_url": null
+    },
+    {
+      "description": "India News: Get the latest India News, breaking headlines and live updates on politics, economy, crime, policy, society and major national developments.",
+      "feed_format": "rss",
+      "feed_url": "https://www.hindustantimes.com/feeds/rss/india-news/rssfeed.xml",
+      "icon_url": null,
+      "id": "750e1b82-d0a6-5990-a5de-ccfac7e9b91f",
+      "language_tag": "en-US",
+      "title": "India News: Latest India News, Today breaking News Headlines, Real-time News coverage from India | Hindustan Times | Hindustan Times",
+      "website_url": null
+    },
+    {
+      "description": "India Today",
+      "feed_format": "rss",
+      "feed_url": "https://www.indiatoday.in/rss/home",
+      "icon_url": null,
+      "id": "e1d70a25-a199-5ecf-bacd-fa7ac7789932",
+      "language_tag": null,
+      "title": "India Today | Latest Stories",
+      "website_url": null
+    },
+    {
+      "description": "Latest news and features from theguardian.com, the world's leading liberal voice",
+      "feed_format": "rss",
+      "feed_url": "https://www.theguardian.com/world/india/rss",
+      "icon_url": null,
+      "id": "b45f0e61-0894-5596-b931-194026b9405b",
+      "language_tag": "en-gb",
+      "title": "India | The Guardian",
+      "website_url": "https://www.theguardian.com/world/india"
+    },
+    {
+      "description": "Latest News Today, Breaking News, India News, Top Headlines",
+      "feed_format": "rss",
+      "feed_url": "https://indianexpress.com/section/india/feed/",
+      "icon_url": null,
+      "id": "c9c92e2a-2a9b-5880-bcf7-f31fa2beabaa",
+      "language_tag": "en-US",
+      "title": "India | The Indian Express",
+      "website_url": null
+    },
+    {
+      "description": "Read breaking and latest breaking News in Hindi in India's No. 1 Leading Hindi Newspaper Amar Ujala covering breaking samachar in Hindi, election news, crime news, education news and more",
+      "feed_format": "rss",
+      "feed_url": "https://www.amarujala.com/rss/breaking-news.xml",
+      "icon_url": null,
+      "id": "384e3a13-8018-5518-8b1d-9a3f367346ac",
+      "language_tag": "hi",
+      "title": "Latest And Breaking Hindi News Headlines, News In Hindi | अमर उजाला हिंदी न्यूज़ | - Amar Ujala",
+      "website_url": "https://www.amarujala.com/"
+    },
+    {
+      "description": "www.livehindustan.com delivers news and information on the latest top stories, Videsh, Desh, Cricket, Entertainment, Business, Life Style, Editors Artical and other related local news.",
+      "feed_format": "rss",
+      "feed_url": "https://feed.livehindustan.com/rss/3127",
+      "icon_url": null,
+      "id": "b2c67427-9b14-501a-8093-b87d9287f276",
+      "language_tag": null,
+      "title": "Live Hindustan Rss feed",
+      "website_url": null
+    },
+    {
+      "description": "Latest News from Moneycontrol.com",
+      "feed_format": "rss",
+      "feed_url": "https://www.moneycontrol.com/rss/latestnews.xml",
+      "icon_url": null,
+      "id": "b74fa31a-ad57-5297-8495-e2fb4e9c0b4f",
+      "language_tag": null,
+      "title": "Moneycontrol Latest News",
+      "website_url": "https://www.moneycontrol.com/"
+    },
+    {
+      "description": "NDTV.com provides the latest information from and in-depth coverage of India and the world. Find breaking news, India news, top stories, elections, politics, business, cricket, movies, lifestyle, health, live TV, videos, photos and more.",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.feedburner.com/ndtvnews-top-stories",
+      "icon_url": null,
+      "id": "0ad6a1d7-7dd1-5ba6-a36b-85957fe18b80",
+      "language_tag": "en",
+      "title": "NDTV News Search Records Found 1000",
+      "website_url": "https://www.ndtv.com/"
+    },
+    {
+      "description": "bringing the 'right' side of India",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.feedburner.com/opindia",
+      "icon_url": null,
+      "id": "ff32d9b5-f999-5a8b-beb5-c67b0714b107",
+      "language_tag": "en-GB",
+      "title": "OpIndia",
+      "website_url": null
+    },
+    {
+      "description": "The Hindu’s opinion section featuring a wide range of articles, editorials, and analysis covering various topics such as current affairs, politics, social issues, and more.",
+      "feed_format": "rss",
+      "feed_url": "https://www.thehindu.com/opinion/feeder/default.rss",
+      "icon_url": null,
+      "id": "5075e8e2-da3c-564e-a787-6c4d12292b29",
+      "language_tag": "en-US",
+      "title": "Opinions | The Hindu",
+      "website_url": null
+    },
+    {
+      "description": "Pune News - Find latest Pune news and Headlines based from Pune City. Also check out latest news belongs to Pune crime, Pune education news, Pune real estate, Pune politics and more at Hindustan Times.",
+      "feed_format": "rss",
+      "feed_url": "https://www.hindustantimes.com/feeds/rss/cities/pune-news/rssfeed.xml",
+      "icon_url": null,
+      "id": "5c7c3a8e-54d8-54f1-968a-e946c9ba2638",
+      "language_tag": "en-US",
+      "title": "Pune News, Latest Pune News, Pune News Today and Headlines | Hindustan Times",
+      "website_url": null
+    },
+    {
+      "description": "Latest News Today, Breaking News, India News, Top Headlines",
+      "feed_format": "rss",
+      "feed_url": "https://indianexpress.com/section/cities/pune/feed/",
+      "icon_url": null,
+      "id": "3e4b12af-5549-5fc8-859f-1848c1a13f70",
+      "language_tag": "en-US",
+      "title": "Pune | The Indian Express",
+      "website_url": null
+    },
+    {
+      "description": "A digital daily of things that matter.",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.feedburner.com/ScrollinArticles.rss",
+      "icon_url": null,
+      "id": "42217af5-c300-5b58-9abf-cdf6e982ea3a",
+      "language_tag": "en",
+      "title": "Scroll.in",
+      "website_url": "https://scroll.in/"
+    },
+    {
+      "description": "SEBI RSS Feed",
+      "feed_format": "rss",
+      "feed_url": "https://www.sebi.gov.in/sebirss.xml",
+      "icon_url": null,
+      "id": "0bb5d160-9006-5687-b17a-a7c91848f574",
+      "language_tag": null,
+      "title": "SEBI RSS Feed",
+      "website_url": "https://www.sebi.gov.in/sebirss.xml"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://prod-qt-images.s3.amazonaws.com/production/swarajya/feed.xml",
+      "icon_url": null,
+      "id": "837dca17-aaf0-59b4-b551-951cccfb94ab",
+      "language_tag": null,
+      "title": "Swarajya",
+      "website_url": "https://swarajyamag.com/"
+    },
+    {
+      "description": "Technology News, Gaming, Gadgets and Reviews",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.feedburner.com/techgenyz",
+      "icon_url": null,
+      "id": "8aefd263-48bb-5084-93b3-a9df8242e841",
+      "language_tag": "en-US",
+      "title": "Techgenyz",
+      "website_url": null
+    },
+    {
+      "description": "The Hindu Newspaper: Get latest News on Politics, Sports, Business, Arts, Entertainment and trending news Videos from The Hindu",
+      "feed_format": "rss",
+      "feed_url": "https://www.thehindu.com/feeder/default.rss",
+      "icon_url": null,
+      "id": "08f73d0c-d67c-563b-a79a-bb7f14fedf12",
+      "language_tag": "en-US",
+      "title": "The Hindu: Latest News today from India and the World, Breaking news, Top Headlines and Trending News Videos.",
+      "website_url": null
+    },
+    {
+      "description": "The Times of India: Breaking news, views, reviews, cricket from across India",
+      "feed_format": "rss",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "icon_url": null,
+      "id": "ec46a4c3-57be-5a06-ad3d-d507f2ac8525",
+      "language_tag": "en-gb",
+      "title": "Times of India",
+      "website_url": null
+    },
+    {
+      "description": "Visit News18 English for latest news, breaking news, news headlines and updates from all the states, cities, places of India on politics, sports, entertainment, cricket, crime and more",
+      "feed_format": "rss",
+      "feed_url": "https://www.news18.com/commonfeeds/v1/eng/rss/world.xml",
+      "icon_url": null,
+      "id": "1bffa85f-f473-5757-b46f-3ed90de43f50",
+      "language_tag": "en",
+      "title": "World News in news18.com, World Latest News, World News",
+      "website_url": "https://www.news18.com/world/"
+    },
+    {
+      "description": "News in Hindi(हिन्दी में समाचार), Hindi News(हिंदी समाचार): देश के सबसे विश्वसनीय अख़बार पर पढ़ें ताज़ा ख़बरें। पढ़ें देश, विदेश, बॉलीवुड, लाइफस्टाइल और राजनीती की ब्रेकिंग ख़बरें. Read Latest Hindi News, Breaking News at Dainik Bhaskar",
+      "feed_format": "rss",
+      "feed_url": "https://www.bhaskar.com/rss-feed/1061/",
+      "icon_url": null,
+      "id": "961e7d32-20d5-51f8-a9d5-f6f732ab967b",
+      "language_tag": "hi",
+      "title": "देश | दैनिक भास्कर",
+      "website_url": "https://www.bhaskar.com/national/"
+    },
+    {
+      "description": "Latest National News Samachar - Find India\\'s latest Samachar and News Headlines today at India\\'s No. 1 gujarati news site www.divyabhaskar.co.in.",
+      "feed_format": "rss",
+      "feed_url": "https://www.divyabhaskar.co.in/rss-feed/1037/",
+      "icon_url": null,
+      "id": "c654129b-d171-586a-a5eb-33f8e39709c7",
+      "language_tag": "gu",
+      "title": "ઈન્ડિયા | દિવ્ય ભાસ્કર",
+      "website_url": "https://www.divyabhaskar.co.in/national/"
+    }
+  ],
+  "id": "2b3a4267-947e-5072-8ad0-0130327ba91a",
+  "schema_version": 1,
+  "slug": "news-india",
+  "title": "India news"
+}

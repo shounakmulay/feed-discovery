@@ -1,0 +1,539 @@
+{
+  "description": "Web platform standards, accessibility, and web organizations.",
+  "feeds": [
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://www.accessibility.org.au/feed/",
+      "icon_url": null,
+      "id": "79e83d3e-77e8-5d34-abee-a0920671b2d3",
+      "language_tag": "en-AU",
+      "title": "Centre For Accessibility Australia",
+      "website_url": null
+    },
+    {
+      "description": "Cascading Style Sheets Working Group Blog",
+      "feed_format": "atom",
+      "feed_url": "https://www.w3.org/blog/CSS/feed/atom/",
+      "icon_url": null,
+      "id": "b33333a9-0fc0-522b-860e-5cf37c7f20ea",
+      "language_tag": "en-US",
+      "title": "CSS WG Blog",
+      "website_url": "https://www.w3.org/blog/CSS"
+    },
+    {
+      "description": "News from the Wikimedia movement",
+      "feed_format": "rss",
+      "feed_url": "https://diff.wikimedia.org/feed/",
+      "icon_url": null,
+      "id": "9706652f-2482-5f8d-9a63-c1d68d433e59",
+      "language_tag": "en-US",
+      "title": "Diff",
+      "website_url": null
+    },
+    {
+      "description": "The latest items from the IETF Blog.",
+      "feed_format": "rss",
+      "feed_url": "https://www.ietf.org/blog/feed/",
+      "icon_url": null,
+      "id": "90ecbf20-1408-5041-a127-d04e45078923",
+      "language_tag": "en-gb",
+      "title": "IETF Blog",
+      "website_url": "https://www.ietf.org/blog/"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://www.w3.org/blog/International/feed/",
+      "icon_url": null,
+      "id": "b0337559-c9b2-5e28-98a9-d1ba9509f250",
+      "language_tag": "en-US",
+      "title": "Internationalization Activity Blog",
+      "website_url": null
+    },
+    {
+      "description": "Updates from the Internet Archive",
+      "feed_format": "rss",
+      "feed_url": "https://blog.archive.org/feed/",
+      "icon_url": null,
+      "id": "a3026adf-feeb-51f5-adb0-31c668f1af49",
+      "language_tag": "en-US",
+      "title": "Internet Archive Blogs",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://phabricator.wikimedia.org/phame/blog/feed/9/",
+      "icon_url": null,
+      "id": "9ab7a820-64ba-5f73-b766-098a801fe953",
+      "language_tag": null,
+      "title": "Leave it to the prose",
+      "website_url": "https://phabricator.wikimedia.org/phame/blog/view/9/"
+    },
+    {
+      "description": "Let's Encrypt is a free, automated, and open Certificate Authority brought to you by the nonprofit Internet Security Research Group (ISRG) . Read all about our work in our Annual Report .",
+      "feed_format": "rss",
+      "feed_url": "https://letsencrypt.org/feed.xml",
+      "icon_url": null,
+      "id": "7528d04d-bb3c-537b-8fa8-37ae2c9ec114",
+      "language_tag": "en-US",
+      "title": "Let's Encrypt",
+      "website_url": "https://letsencrypt.org/"
+    },
+    {
+      "description": "The Mozilla Foundation Blog",
+      "feed_format": "atom",
+      "feed_url": "https://www.mozillafoundation.org/en/blog/atom/",
+      "icon_url": null,
+      "id": "420399cd-a4c5-53da-b40d-4d68dfaf78a0",
+      "language_tag": "en",
+      "title": "Mozilla Foundation Blog",
+      "website_url": "https://www.mozillafoundation.org/en/blog/"
+    },
+    {
+      "description": "A feed of the latest posts from our blog.",
+      "feed_format": "atom",
+      "feed_url": "https://open-web-advocacy.org/feed.xml",
+      "icon_url": null,
+      "id": "4ecadf58-a47b-533a-846d-6905e316c9ee",
+      "language_tag": null,
+      "title": "Open Web Advocacy RSS Feed",
+      "website_url": "https://open-web-advocacy.org/"
+    },
+    {
+      "description": "Open Web Docs supports web platform documentation for the benefit of web developers & designers worldwide. We are a community of web developers, standards makers, and technology companies that rely on this documentation as critical digital infrastructure, and we work cooperatively to ensure its long-term success and maintenance.",
+      "feed_format": "atom",
+      "feed_url": "https://openwebdocs.org/feed.xml",
+      "icon_url": null,
+      "id": "ed81eaaf-f880-5fe9-ace0-9536751753d6",
+      "language_tag": "en",
+      "title": "Open Web Docs blog",
+      "website_url": "https://openwebdocs.org/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://github.com/WICG/aom/commits/gh-pages.atom",
+      "icon_url": null,
+      "id": "c65a85a3-5477-5158-8495-b47907604932",
+      "language_tag": "en-US",
+      "title": "Recent Commits to aom:gh-pages",
+      "website_url": "https://github.com/WICG/aom/commits/gh-pages"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://github.com/w3c/aria/commits/main.atom",
+      "icon_url": null,
+      "id": "a10605b1-3451-5e75-a718-1bde14593353",
+      "language_tag": "en-US",
+      "title": "Recent Commits to aria:main",
+      "website_url": "https://github.com/w3c/aria/commits/main"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://github.com/WICG/background-fetch/commits/gh-pages.atom",
+      "icon_url": null,
+      "id": "656a963d-7c30-53e2-9138-ff0b59d3c64d",
+      "language_tag": "en-US",
+      "title": "Recent Commits to background-fetch:gh-pages",
+      "website_url": "https://github.com/WICG/background-fetch/commits/gh-pages"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://github.com/whatwg/compat/commits/main.atom",
+      "icon_url": null,
+      "id": "5c9c472a-bf9a-5bab-bea0-7957e737f46d",
+      "language_tag": "en-US",
+      "title": "Recent Commits to compat:main",
+      "website_url": "https://github.com/whatwg/compat/commits/main"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://github.com/whatwg/console/commits/main.atom",
+      "icon_url": null,
+      "id": "ebd56000-15cd-5ecb-a0a2-b38dfd3e17f7",
+      "language_tag": "en-US",
+      "title": "Recent Commits to console:main",
+      "website_url": "https://github.com/whatwg/console/commits/main"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://github.com/w3c/css-houdini-drafts/commits/main.atom",
+      "icon_url": null,
+      "id": "2f890c01-2e96-51fa-b8fe-7e72fb8f1807",
+      "language_tag": "en-US",
+      "title": "Recent Commits to css-houdini-drafts:main",
+      "website_url": "https://github.com/w3c/css-houdini-drafts/commits/main"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://github.com/w3c/csswg-drafts/commits/main.atom",
+      "icon_url": null,
+      "id": "e3e12265-776f-5595-9265-cce3d524c184",
+      "language_tag": "en-US",
+      "title": "Recent Commits to csswg-drafts:main",
+      "website_url": "https://github.com/w3c/csswg-drafts/commits/main"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://github.com/w3ctag/design-principles/commits/main.atom",
+      "icon_url": null,
+      "id": "73a9bbf9-5b20-58e6-9247-f326b93cdda6",
+      "language_tag": "en-US",
+      "title": "Recent Commits to design-principles:main",
+      "website_url": "https://github.com/w3ctag/design-principles/commits/main"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://github.com/whatwg/dom/commits/main.atom",
+      "icon_url": null,
+      "id": "2dcfc4e9-323c-53b4-aebe-30dbcb96a303",
+      "language_tag": "en-US",
+      "title": "Recent Commits to dom:main",
+      "website_url": "https://github.com/whatwg/dom/commits/main"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://github.com/tc39/ecma262/commits/main.atom",
+      "icon_url": null,
+      "id": "b822c022-1aa6-5d62-bb51-8ee5b95bd6e9",
+      "language_tag": "en-US",
+      "title": "Recent Commits to ecma262:main",
+      "website_url": "https://github.com/tc39/ecma262/commits/main"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://github.com/whatwg/fetch/commits/main.atom",
+      "icon_url": null,
+      "id": "5f993980-839d-52ed-ae31-67c139649745",
+      "language_tag": "en-US",
+      "title": "Recent Commits to fetch:main",
+      "website_url": "https://github.com/whatwg/fetch/commits/main"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://github.com/whatwg/fs/commits/main.atom",
+      "icon_url": null,
+      "id": "e7f655d9-efa8-5911-8f5b-3c0b1c5a1fe9",
+      "language_tag": "en-US",
+      "title": "Recent Commits to fs:main",
+      "website_url": "https://github.com/whatwg/fs/commits/main"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://github.com/whatwg/fullscreen/commits/main.atom",
+      "icon_url": null,
+      "id": "8b12b2fb-97aa-5b46-b854-30a741e54d01",
+      "language_tag": "en-US",
+      "title": "Recent Commits to fullscreen:main",
+      "website_url": "https://github.com/whatwg/fullscreen/commits/main"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://github.com/w3c/fxtf-drafts/commits/main.atom",
+      "icon_url": null,
+      "id": "44bc1a5d-48c3-5ed3-811d-4b0376821a0e",
+      "language_tag": "en-US",
+      "title": "Recent Commits to fxtf-drafts:main",
+      "website_url": "https://github.com/w3c/fxtf-drafts/commits/main"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://github.com/w3c/html-aria/commits/gh-pages.atom",
+      "icon_url": null,
+      "id": "534e545b-c6c0-52c4-b739-9e7c95e37434",
+      "language_tag": "en-US",
+      "title": "Recent Commits to html-aria:gh-pages",
+      "website_url": "https://github.com/w3c/html-aria/commits/gh-pages"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://github.com/whatwg/html/commits/main.atom",
+      "icon_url": null,
+      "id": "7968ef3a-e9cd-50de-9696-5266795f47f3",
+      "language_tag": "en-US",
+      "title": "Recent Commits to html:main",
+      "website_url": "https://github.com/whatwg/html/commits/main"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://github.com/whatwg/infra/commits/main.atom",
+      "icon_url": null,
+      "id": "3e5ef0e9-0fc1-502c-8207-1fe4599e5dcc",
+      "language_tag": "en-US",
+      "title": "Recent Commits to infra:main",
+      "website_url": "https://github.com/whatwg/infra/commits/main"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://github.com/w3c/manifest-app-info/commits/main.atom",
+      "icon_url": null,
+      "id": "a4a5dbc1-2d95-5d61-9add-f8d687e9f6d4",
+      "language_tag": "en-US",
+      "title": "Recent Commits to manifest-app-info:main",
+      "website_url": "https://github.com/w3c/manifest-app-info/commits/main"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://github.com/w3c/manifest/commits/gh-pages.atom",
+      "icon_url": null,
+      "id": "6fb9d420-7ffc-5b3c-9d38-ed841abf21c8",
+      "language_tag": "en-US",
+      "title": "Recent Commits to manifest:gh-pages",
+      "website_url": "https://github.com/w3c/manifest/commits/gh-pages"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://github.com/WICG/netinfo/commits/gh-pages.atom",
+      "icon_url": null,
+      "id": "3f114ee6-b126-502e-a5ed-01a8f89f5882",
+      "language_tag": "en-US",
+      "title": "Recent Commits to netinfo:gh-pages",
+      "website_url": "https://github.com/WICG/netinfo/commits/gh-pages"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://github.com/whatwg/notifications/commits/main.atom",
+      "icon_url": null,
+      "id": "c6d7a9fd-894e-51a1-8e16-ec1187512937",
+      "language_tag": "en-US",
+      "title": "Recent Commits to notifications:main",
+      "website_url": "https://github.com/whatwg/notifications/commits/main"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://github.com/w3c/picture-in-picture/commits/main.atom",
+      "icon_url": null,
+      "id": "63f19b85-45c3-5242-83fc-9045467770b3",
+      "language_tag": "en-US",
+      "title": "Recent Commits to picture-in-picture:main",
+      "website_url": "https://github.com/w3c/picture-in-picture/commits/main"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://github.com/tc39/proposals/commits/main.atom",
+      "icon_url": null,
+      "id": "2103daa2-c842-5225-862a-b842efe9d170",
+      "language_tag": "en-US",
+      "title": "Recent Commits to proposals:main",
+      "website_url": "https://github.com/tc39/proposals/commits/main"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://github.com/WICG/resize-observer/commits/master.atom",
+      "icon_url": null,
+      "id": "0d4563e8-c133-51c7-9cf1-4ae3d8053a90",
+      "language_tag": "en-US",
+      "title": "Recent Commits to resize-observer:master",
+      "website_url": "https://github.com/WICG/resize-observer/commits/master"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://github.com/WICG/shape-detection-api/commits/gh-pages.atom",
+      "icon_url": null,
+      "id": "2c0d187b-60b0-5b47-a5db-08f20c290ec6",
+      "language_tag": "en-US",
+      "title": "Recent Commits to shape-detection-api:gh-pages",
+      "website_url": "https://github.com/WICG/shape-detection-api/commits/gh-pages"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://github.com/whatwg/storage/commits/main.atom",
+      "icon_url": null,
+      "id": "b36139b2-2f07-5062-a91c-1733f69cc87a",
+      "language_tag": "en-US",
+      "title": "Recent Commits to storage:main",
+      "website_url": "https://github.com/whatwg/storage/commits/main"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://github.com/whatwg/url/commits/main.atom",
+      "icon_url": null,
+      "id": "d98e2eaa-0f73-5bdc-ac73-6a821b2aff11",
+      "language_tag": "en-US",
+      "title": "Recent Commits to url:main",
+      "website_url": "https://github.com/whatwg/url/commits/main"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://github.com/w3c/using-aria/commits/gh-pages.atom",
+      "icon_url": null,
+      "id": "a2ec8dac-d6c7-5c56-b887-ff901205c81b",
+      "language_tag": "en-US",
+      "title": "Recent Commits to using-aria:gh-pages",
+      "website_url": "https://github.com/w3c/using-aria/commits/gh-pages"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://github.com/WICG/visual-viewport/commits/gh-pages.atom",
+      "icon_url": null,
+      "id": "582ea5e0-a554-5994-86fe-19477a6cf758",
+      "language_tag": "en-US",
+      "title": "Recent Commits to visual-viewport:gh-pages",
+      "website_url": "https://github.com/WICG/visual-viewport/commits/gh-pages"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://github.com/w3c/web-share-target/commits/main.atom",
+      "icon_url": null,
+      "id": "97e81b23-7466-53c0-8f26-45b2a5f35295",
+      "language_tag": "en-US",
+      "title": "Recent Commits to web-share-target:main",
+      "website_url": "https://github.com/w3c/web-share-target/commits/main"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://github.com/w3c/web-share/commits/main.atom",
+      "icon_url": null,
+      "id": "a572a383-d575-55cd-aa5a-3daa78c19644",
+      "language_tag": "en-US",
+      "title": "Recent Commits to web-share:main",
+      "website_url": "https://github.com/w3c/web-share/commits/main"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://github.com/w3c/webappsec-csp/commits/main.atom",
+      "icon_url": null,
+      "id": "f87c3766-14ef-5b8d-9e17-fb6018f52e1f",
+      "language_tag": "en-US",
+      "title": "Recent Commits to webappsec-csp:main",
+      "website_url": "https://github.com/w3c/webappsec-csp/commits/main"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://github.com/w3c/webappsec-permissions-policy/commits/main.atom",
+      "icon_url": null,
+      "id": "3f64ae31-ddb9-5ff5-984c-e1859659d8d2",
+      "language_tag": "en-US",
+      "title": "Recent Commits to webappsec-permissions-policy:main",
+      "website_url": "https://github.com/w3c/webappsec-permissions-policy/commits/main"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://github.com/whatwg/webidl/commits/main.atom",
+      "icon_url": null,
+      "id": "9a433f8d-d405-547c-a915-a0ffab5ca45d",
+      "language_tag": "en-US",
+      "title": "Recent Commits to webidl:main",
+      "website_url": "https://github.com/whatwg/webidl/commits/main"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://github.com/whatwg/xhr/commits/main.atom",
+      "icon_url": null,
+      "id": "afacbac4-1918-580f-a36b-87b9ee3c95a7",
+      "language_tag": "en-US",
+      "title": "Recent Commits to xhr:main",
+      "website_url": "https://github.com/whatwg/xhr/commits/main"
+    },
+    {
+      "description": "News, announcements, release info, and calendar updates from the Unicode Consortium",
+      "feed_format": "atom",
+      "feed_url": "https://blog.unicode.org/feeds/posts/default",
+      "icon_url": null,
+      "id": "06c46712-ad7d-501a-bff7-ccabd568e80f",
+      "language_tag": null,
+      "title": "The Unicode Blog",
+      "website_url": "https://blog.unicode.org/"
+    },
+    {
+      "description": "Please leave your sense of logic at the door, thanks!",
+      "feed_format": "rss",
+      "feed_url": "https://blog.whatwg.org/feed",
+      "icon_url": null,
+      "id": "e5b9921f-1026-5dab-9f04-2aa8b51cab15",
+      "language_tag": "en-US",
+      "title": "The WHATWG Blog",
+      "website_url": null
+    },
+    {
+      "description": "The W3C blog is for in-depth Web standards topics and educational materials.",
+      "feed_format": "rss",
+      "feed_url": "https://www.w3.org/blog/feed/",
+      "icon_url": null,
+      "id": "4acdf4b1-e429-5f7e-ba91-8817b73c9801",
+      "language_tag": "en",
+      "title": "W3C - Blog",
+      "website_url": "https://www.w3.org/blog/"
+    },
+    {
+      "description": "W3C News",
+      "feed_format": "rss",
+      "feed_url": "https://www.w3.org/news/feed/",
+      "icon_url": null,
+      "id": "8032c71f-8cc5-5b96-a94e-160494b720fd",
+      "language_tag": "en",
+      "title": "W3C - News",
+      "website_url": "https://www.w3.org/news/"
+    },
+    {
+      "description": "Between 2020 and 2022, Studio 24 worked with the World Wide Web Consortium (W3C) on a redesign of w3.org to more effectively communicate what the organisation does with a modern, inclusive, usable website.",
+      "feed_format": "rss",
+      "feed_url": "https://w3c.studio24.net/feeds/updates.xml",
+      "icon_url": null,
+      "id": "3d8c7b3b-ddf6-519b-825b-4a4ae2fda136",
+      "language_tag": null,
+      "title": "W3C redesign project 2020-22",
+      "website_url": "https://w3c.studio24.net/"
+    },
+    {
+      "description": "Accessibility resources free online from the international standards organization: W3C Web Accessibility Initiative (WAI).",
+      "feed_format": "atom",
+      "feed_url": "https://www.w3.org/WAI/feed.xml",
+      "icon_url": null,
+      "id": "2a246d1e-abc0-5017-9052-777ee6763c70",
+      "language_tag": null,
+      "title": "Web Accessibility Initiative (WAI)",
+      "website_url": "https://www.w3.org/WAI/"
+    },
+    {
+      "description": "The WebAIM Web Accessibility Blog",
+      "feed_format": "rss",
+      "feed_url": "https://webaim.org/blog/feed/",
+      "icon_url": null,
+      "id": "fdc4a882-d975-5a03-85e0-951342fcf05b",
+      "language_tag": "en-US",
+      "title": "WebAIM Blog",
+      "website_url": null
+    }
+  ],
+  "id": "862773e2-b0e3-5043-b0b7-8486f8128ed3",
+  "schema_version": 1,
+  "slug": "web-standards",
+  "title": "Web standards and accessibility"
+}

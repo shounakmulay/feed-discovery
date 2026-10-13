@@ -1,0 +1,29 @@
+{
+  "description": "Kotlin language and Kotlin Multiplatform development.",
+  "feeds": [
+    {
+      "description": "Developer Tools for Professionals and Teams",
+      "feed_format": "rss",
+      "feed_url": "https://blog.jetbrains.com/kotlin/feed/",
+      "icon_url": "https://blog.jetbrains.com/wp-content/uploads/2026/09/icon-512.webp",
+      "id": "71804cb3-df71-5963-8a97-709a74fc686b",
+      "language_tag": "en-US",
+      "title": "Kotlin : A concise multiplatform language developed by JetBrains | The JetBrains Blog",
+      "website_url": null
+    },
+    {
+      "description": "Best articles about programming and best practices.",
+      "feed_format": "rss",
+      "feed_url": "https://kt.academy/rss.xml",
+      "icon_url": null,
+      "id": "64c5dcfa-383f-5fdb-b16b-ee0e07537fe2",
+      "language_tag": "en",
+      "title": "kt.academy",
+      "website_url": "https://kt.academy/article"
+    }
+  ],
+  "id": "0999de77-140f-5bd2-95e6-2587ef06ee6b",
+  "schema_version": 1,
+  "slug": "kotlin",
+  "title": "Kotlin and multiplatform"
+}

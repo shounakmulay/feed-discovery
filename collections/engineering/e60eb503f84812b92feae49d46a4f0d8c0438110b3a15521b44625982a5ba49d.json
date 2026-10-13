@@ -1,0 +1,4099 @@
+{
+  "description": "Engineering teams, architecture, and software delivery.",
+  "feeds": [
+    {
+      "description": "0xADADA",
+      "feed_format": "rss",
+      "feed_url": "https://0xadada.pub/rss.xml",
+      "icon_url": null,
+      "id": "ef2430ea-e231-5c5d-928f-356410125c36",
+      "language_tag": null,
+      "title": "0xADADA",
+      "website_url": "https://0xadada.pub/"
+    },
+    {
+      "description": "Posts on software craftsmanship and consulting from 8th Light's designers and crafters.",
+      "feed_format": "rss",
+      "feed_url": "https://8thlight.com/insights/feed/rss.xml",
+      "icon_url": null,
+      "id": "0ed4dcb2-96ba-5466-930b-aa52c9e3ed36",
+      "language_tag": "en-US",
+      "title": "8th Light Insights",
+      "website_url": "https://8thlight.com/insights"
+    },
+    {
+      "description": "9lessons is a popular tech blog maintained by Srinivas Tamada from India. Topics focus on Programming, Javascript, Angular, React JS, PHP, Java, Jquery, Mysql, Database, Ionic and web resources.",
+      "feed_format": "rss",
+      "feed_url": "https://feeds2.feedburner.com/9lesson",
+      "icon_url": null,
+      "id": "32db077c-00ba-5fc8-9b11-9b4129056c26",
+      "language_tag": "en-us",
+      "title": "9lessons Programming Blog",
+      "website_url": "http://www.9lessons.info/"
+    },
+    {
+      "description": "description goes here",
+      "feed_format": "rss",
+      "feed_url": "https://themodernlife.github.io/feed.xml",
+      "icon_url": null,
+      "id": "b4202fcf-4ddc-5d68-b395-9df5dd763ab4",
+      "language_tag": null,
+      "title": ":: the modern life ::",
+      "website_url": "http://themodernlife.net/"
+    },
+    {
+      "description": "Some random thoughts about crypto. Notes from a course I teach. Pictures of my dachshunds.",
+      "feed_format": "rss",
+      "feed_url": "https://blog.cryptographyengineering.com/feed/",
+      "icon_url": null,
+      "id": "4e8f889f-6790-557f-b9e2-ae09071013dc",
+      "language_tag": "en",
+      "title": "A Few Thoughts on Cryptographic Engineering",
+      "website_url": null
+    },
+    {
+      "description": "a blog about sound & signals by windytan [oona räisänen]",
+      "feed_format": "atom",
+      "feed_url": "https://www.windytan.com/feeds/posts/default",
+      "icon_url": null,
+      "id": "15210f14-f04e-5f16-ac22-140051117778",
+      "language_tag": null,
+      "title": "absorptions",
+      "website_url": "https://www.windytan.com/"
+    },
+    {
+      "description": "Tales of a software craftsman",
+      "feed_format": "rss",
+      "feed_url": "https://masnun.com/feed/",
+      "icon_url": null,
+      "id": "50d38ea9-3602-56c2-9745-dc34de573499",
+      "language_tag": "en-US",
+      "title": "Abu Ashraf Masnun",
+      "website_url": null
+    },
+    {
+      "description": "Addy Osmani is an engineering and evangelism leader and a Member of Technical Staff at Anthropic, where he works on Claude Code. He spent over 14 years at Google leading developer experience across Chrome and, in recent years, AI (Gemini, coding agents, and agentic engineering), most recently as a Director at Google Cloud AI.",
+      "feed_format": "rss",
+      "feed_url": "https://addyosmani.com/rss.xml",
+      "icon_url": null,
+      "id": "ba842076-29a1-5e5a-b6e8-e3b83a953272",
+      "language_tag": null,
+      "title": "AddyOsmani.com",
+      "website_url": "https://addyosmani.com/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://advancedweb.hu/atom.xml",
+      "icon_url": null,
+      "id": "b61ab27c-6b47-594e-8391-a75090a3a1d2",
+      "language_tag": null,
+      "title": "Advanced Web Machinery",
+      "website_url": "https://advancedweb.hu/"
+    },
+    {
+      "description": "Stories for Software QA Engineers shifting from manual to automated testing.",
+      "feed_format": "atom",
+      "feed_url": "https://www.tjmaher.com/feeds/posts/default",
+      "icon_url": null,
+      "id": "0d906683-0b7b-513f-bcad-70b638f766d5",
+      "language_tag": null,
+      "title": "Adventures in Automation",
+      "website_url": "https://www.tjmaher.com/"
+    },
+    {
+      "description": "Pretty much whatever comes into my head.",
+      "feed_format": "rss",
+      "feed_url": "https://aerotwist.com/blog/feed/",
+      "icon_url": null,
+      "id": "6d6d1158-01ef-54ad-96be-38c478eef7c9",
+      "language_tag": "en",
+      "title": "Aerotwist Blog",
+      "website_url": "https://aerotwist.com/"
+    },
+    {
+      "description": "Random thoughts from top of my head - afronski.pl",
+      "feed_format": "rss",
+      "feed_url": "http://www.afronski.pl/feed.xml",
+      "icon_url": null,
+      "id": "65fb4d20-8aa2-5f7b-ba4d-5cf97caec716",
+      "language_tag": null,
+      "title": "afronski.pl",
+      "website_url": "http://www.afronski.pl/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "http://feeds2.feedburner.com/PetrMitrichev",
+      "icon_url": null,
+      "id": "22d4294c-4eb9-5601-a7b0-552bdc374d47",
+      "language_tag": null,
+      "title": "Algorithms Weekly by Petr Mitrichev",
+      "website_url": "http://blog.mitrichev.ch/"
+    },
+    {
+      "description": "American Express Technology Open Source and Blog",
+      "feed_format": "atom",
+      "feed_url": "https://americanexpress.io/feed.xml",
+      "icon_url": null,
+      "id": "6522b91c-3865-5ddc-addb-6e5ced66a0d5",
+      "language_tag": null,
+      "title": "American Express Technology",
+      "website_url": "https://americanexpress.io/"
+    },
+    {
+      "description": "A blog on PHP, JavaScript, and more",
+      "feed_format": "atom",
+      "feed_url": "https://www.amitmerchant.com/feed.xml",
+      "icon_url": null,
+      "id": "9396ecbf-dbb9-5489-a25c-58ab988ca9aa",
+      "language_tag": null,
+      "title": "Amit Merchant",
+      "website_url": "https://www.amitmerchant.com/"
+    },
+    {
+      "description": "Recent content about iOS development with Swift from Andrew Bancroft.",
+      "feed_format": "rss",
+      "feed_url": "https://www.andrewcbancroft.com/index.xml",
+      "icon_url": null,
+      "id": "6b4cb80f-9b66-5a8a-a93f-a80aa074f62e",
+      "language_tag": "en-us",
+      "title": "Andrew Bancroft",
+      "website_url": "https://www.andrewcbancroft.com/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://aphyr.com/posts.atom",
+      "icon_url": null,
+      "id": "30e41358-63dc-5885-9907-86dee59bfd01",
+      "language_tag": null,
+      "title": "Aphyr: Posts",
+      "website_url": "https://aphyr.com/"
+    },
+    {
+      "description": "Recent content on ariya.io",
+      "feed_format": "rss",
+      "feed_url": "https://ariya.io/index.xml",
+      "icon_url": null,
+      "id": "a473bd54-0cdb-54d9-84a3-f6593881c759",
+      "language_tag": "en",
+      "title": "ariya.io",
+      "website_url": "https://ariya.io/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://lucumr.pocoo.org/feed.atom",
+      "icon_url": null,
+      "id": "9c760b21-594d-59fd-a889-64552e97644a",
+      "language_tag": "en",
+      "title": "Armin Ronacher's Thoughts and Writings",
+      "website_url": "https://lucumr.pocoo.org/"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://artsy.github.io/feed",
+      "icon_url": null,
+      "id": "67ccaccf-3537-5fc8-ad17-e58fd3a75896",
+      "language_tag": null,
+      "title": "Artsy Engineering",
+      "website_url": "https://artsy.github.io/"
+    },
+    {
+      "description": "Atomic Object’s blog on everything we find fascinating.",
+      "feed_format": "rss",
+      "feed_url": "https://spin.atomicobject.com/feed/",
+      "icon_url": null,
+      "id": "a9352b23-3364-5e87-8e02-4d1e37899235",
+      "language_tag": "en-US",
+      "title": "Atomic Spin",
+      "website_url": null
+    },
+    {
+      "description": "Company Updates, Technology Articles from Auth0",
+      "feed_format": "rss",
+      "feed_url": "https://auth0.com/blog/rss.xml",
+      "icon_url": null,
+      "id": "80405272-b620-5848-b3ee-a0a83082b1a4",
+      "language_tag": "en-us",
+      "title": "Auth0 Blog",
+      "website_url": "https://auth0.com/blog/"
+    },
+    {
+      "description": "Follow the main news in the area of ​​technology. Software development, design and UX, ML, DevOps and much more!",
+      "feed_format": "rss",
+      "feed_url": "https://blog.avenuecode.com/rss.xml",
+      "icon_url": null,
+      "id": "66dbec0a-eea2-5df7-81bb-1407775b03f5",
+      "language_tag": "en-us",
+      "title": "Avenue Code Snippets",
+      "website_url": "https://blog.avenuecode.com/"
+    },
+    {
+      "description": "Digital accessibility consultants, WCAG audits & training | Axess Lab",
+      "feed_format": "rss",
+      "feed_url": "https://axesslab.com/feed/",
+      "icon_url": null,
+      "id": "ce0a04a9-0de8-52a8-8147-35e565f7c954",
+      "language_tag": "en-US",
+      "title": "Axess Lab",
+      "website_url": null
+    },
+    {
+      "description": "Real-life conversations start with stories that inspire.",
+      "feed_format": "rss",
+      "feed_url": "https://cms.babbel.news/feed/?post_type=english_edition",
+      "icon_url": null,
+      "id": "ab958df0-74d7-5211-81de-9e0c2fb113f9",
+      "language_tag": "en",
+      "title": "Babbel",
+      "website_url": null
+    },
+    {
+      "description": "Misadventures in Concurrent and Parallel programming, plus random comments on software performance and various OSS contributions.",
+      "feed_format": "atom",
+      "feed_url": "https://bad-concurrency.blogspot.com/feeds/posts/default",
+      "icon_url": null,
+      "id": "1e8433e2-046f-59c9-805b-dba487787fec",
+      "language_tag": null,
+      "title": "Bad Concurrency",
+      "website_url": "https://bad-concurrency.blogspot.com/"
+    },
+    {
+      "description": "364 статьи от авторов компании Badoo",
+      "feed_format": "rss",
+      "feed_url": "https://habr.com/ru/rss/companies/badoo/articles/?fl=ru",
+      "icon_url": "https://habrastorage.org/webt/ym/el/wk/ymelwk3zy1gawz4nkejl_-ammtc.png",
+      "id": "1708d07a-07b8-5b28-873c-b40824460306",
+      "language_tag": "ru",
+      "title": "Badoo - Big Dating с 2006 год / Статьи",
+      "website_url": "https://habr.com/ru/companies/badoo/articles/"
+    },
+    {
+      "description": "364 статьи от авторов компании Badoo",
+      "feed_format": "rss",
+      "feed_url": "https://habr.com/ru/rss/companies/badoo/articles/?fl=en",
+      "icon_url": "https://habrastorage.org/webt/ym/el/wk/ymelwk3zy1gawz4nkejl_-ammtc.png",
+      "id": "b07f431f-5631-526a-8548-d611a14e6bba",
+      "language_tag": "ru",
+      "title": "Badoo - Big Dating с 2006 год / Статьи",
+      "website_url": "https://habr.com/ru/companies/badoo/articles/"
+    },
+    {
+      "description": "Dr. Zaius Dr. Zaius",
+      "feed_format": "rss",
+      "feed_url": "https://bandcamptech.wordpress.com/feed/",
+      "icon_url": null,
+      "id": "360bef81-339f-5b2a-9536-2a5f9ff1bfa7",
+      "language_tag": "en",
+      "title": "Bandcamp Tech",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://feeds.baymard.com/baymard?_ga=1.110790726.2145183607.1414082693",
+      "icon_url": null,
+      "id": "6f5c3abe-2b04-5010-8d4c-2daf417d1540",
+      "language_tag": "en-US",
+      "title": "Baymard Institute",
+      "website_url": "https://baymard.com/"
+    },
+    {
+      "description": "The official blog of Bazaarvoice R&D",
+      "feed_format": "rss",
+      "feed_url": "https://blog.developer.bazaarvoice.com/feed/",
+      "icon_url": null,
+      "id": "fb0dc9b6-377b-535a-941d-68b0aca11a8f",
+      "language_tag": "en-US",
+      "title": "bazaarvoice: engineering",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://begriffs.com/atom.xml",
+      "icon_url": null,
+      "id": "b7fb0c82-2eba-5459-9060-fe5bd5f426ea",
+      "language_tag": null,
+      "title": "begriffs.com",
+      "website_url": "https://begriffs.com/"
+    },
+    {
+      "description": "The official blog of the Benchling engineering team. - Medium",
+      "feed_format": "rss",
+      "feed_url": "https://benchling.engineering/feed",
+      "icon_url": null,
+      "id": "84be2ead-a67e-5338-a113-02d313fd164d",
+      "language_tag": null,
+      "title": "Benchling Engineering - Medium",
+      "website_url": "https://benchling.engineering/?source=rss----3d4aa8fb07ea---4"
+    },
+    {
+      "description": "Gleb Bahmutov PhD",
+      "feed_format": "atom",
+      "feed_url": "https://glebbahmutov.com/blog/atom.xml",
+      "icon_url": null,
+      "id": "dc3881c3-293b-5d8f-bea5-3718795eb239",
+      "language_tag": null,
+      "title": "Better world by better software",
+      "website_url": "https://glebbahmutov.com/blog/"
+    },
+    {
+      "description": "code.blender.org",
+      "feed_format": "rss",
+      "feed_url": "https://code.blender.org/feed/",
+      "icon_url": null,
+      "id": "faa9f9fb-13ed-58b6-b804-e6e514554a89",
+      "language_tag": "en-US",
+      "title": "Blender Developers Blog",
+      "website_url": null
+    },
+    {
+      "description": "Freelance web/software development and (actually!) managed hosting.",
+      "feed_format": "rss",
+      "feed_url": "https://blobfolio.com/feed.xml",
+      "icon_url": null,
+      "id": "ab7d1485-b558-5702-a63c-f300ce3a00da",
+      "language_tag": "en-US",
+      "title": "Blobfolio",
+      "website_url": "https://blobfolio.com/"
+    },
+    {
+      "description": "The Bloco team’s thoughts on developing great products. We discuss product design, development and marketing, from generic subjects to specific Android details.",
+      "feed_format": "rss",
+      "feed_url": "https://www.bloco.io/blog?format=rss",
+      "icon_url": null,
+      "id": "ec0c8abf-e4bf-53bc-adff-d36ef4579639",
+      "language_tag": "en-US",
+      "title": "Blog about Android Development, Design and Product by Bloco",
+      "website_url": "https://www.bloco.io/blog/"
+    },
+    {
+      "description": "The Accessibility Experts",
+      "feed_format": "rss",
+      "feed_url": "https://www.tpgi.com/blog/feed/",
+      "icon_url": null,
+      "id": "090f129c-8e30-5b62-b715-83b521554c0b",
+      "language_tag": "en-US",
+      "title": "Blog Archives - TPGi — a Vispero company",
+      "website_url": null
+    },
+    {
+      "description": "Recent content in Blog on Codename One",
+      "feed_format": "rss",
+      "feed_url": "https://www.codenameone.com/blog/index.xml",
+      "icon_url": null,
+      "id": "8025c464-f5ab-5453-bbea-e414e16f08a6",
+      "language_tag": "en-us",
+      "title": "Blog on Codename One",
+      "website_url": "https://www.codenameone.com/blog/"
+    },
+    {
+      "description": "Recent content in Blog on Codename One",
+      "feed_format": "rss",
+      "feed_url": "https://www.codenameone.com/blog/feed.xml",
+      "icon_url": null,
+      "id": "cbdd0c09-46f6-5383-a1d7-ee6a0e076961",
+      "language_tag": "en-us",
+      "title": "Blog on Codename One",
+      "website_url": "https://www.codenameone.com/blog/"
+    },
+    {
+      "description": "Recent content in Blog on Optimal",
+      "feed_format": "rss",
+      "feed_url": "https://thisisoptimal.com/blog/index.xml",
+      "icon_url": null,
+      "id": "88d967f8-48e7-531c-a6d3-6ae386027805",
+      "language_tag": "en-us",
+      "title": "Blog on Optimal",
+      "website_url": "https://thisisoptimal.com/blog/"
+    },
+    {
+      "description": "Apollo GraphQL blog posts",
+      "feed_format": "rss",
+      "feed_url": "https://www.apollographql.com/blog/rss.xml",
+      "icon_url": "https://www.apollographql.com/og.png",
+      "id": "d7aaf0f4-2b7c-5a6c-b06a-23286acb5df2",
+      "language_tag": null,
+      "title": "Blog posts | RSS Feed",
+      "website_url": "https://www.apollographql.com/"
+    },
+    {
+      "description": "Cloud Application Platform",
+      "feed_format": "rss",
+      "feed_url": "https://www.heroku.com/blog/feed/",
+      "icon_url": null,
+      "id": "7992e7bb-f7d0-5af6-9d33-99c909b29a0b",
+      "language_tag": "en-US",
+      "title": "Blog | Heroku",
+      "website_url": null
+    },
+    {
+      "description": "My technical blog containing articles about programming languages, functional programming and general CS.",
+      "feed_format": "rss",
+      "feed_url": "https://jelv.is/blog/rss.xml",
+      "icon_url": null,
+      "id": "4c6b82a1-9cc8-5a6c-9a1c-aba2793af57a",
+      "language_tag": null,
+      "title": "blog | jelv.is",
+      "website_url": "http://jelv.is/"
+    },
+    {
+      "description": "Helping you Achieve, Maintain & Prove Digital Compliance",
+      "feed_format": "rss",
+      "feed_url": "https://www.boia.org/blog/rss.xml",
+      "icon_url": null,
+      "id": "06279138-a1eb-5736-b405-2b4d54e606b7",
+      "language_tag": "en",
+      "title": "Blog-Main",
+      "website_url": "https://www.boia.org/blog"
+    },
+    {
+      "description": "Marcelo Rinesi's blog",
+      "feed_format": "rss",
+      "feed_url": "https://blog.rinesi.com/feed/",
+      "icon_url": null,
+      "id": "d3e152bf-3270-5931-9b34-dcd621cc7905",
+      "language_tag": "en",
+      "title": "blog.rinesi.com",
+      "website_url": "https://blog.rinesi.com/feed/"
+    },
+    {
+      "description": "Recent content in Blogs on Evil Trout Inc.",
+      "feed_format": "rss",
+      "feed_url": "https://eviltrout.com/blog/feed.xml",
+      "icon_url": null,
+      "id": "cbae7b42-baff-5970-9606-c7be2d9f156e",
+      "language_tag": "en-ca",
+      "title": "Blogs on Evil Trout Inc.",
+      "website_url": "https://eviltrout.com/blog/feed.xml"
+    },
+    {
+      "description": "Stories from the teams who enable Blueground through technology",
+      "feed_format": "rss",
+      "feed_url": "https://engineering.theblueground.com/rss/",
+      "icon_url": "https://engineering.theblueground.com/favicon.png",
+      "id": "be786714-a03f-5fe1-bac7-db21b8580c78",
+      "language_tag": null,
+      "title": "Blueground Engineering blog",
+      "website_url": "https://engineering.theblueground.com/"
+    },
+    {
+      "description": "A blog about cybersecurity research, education, and news",
+      "feed_format": "rss",
+      "feed_url": "https://bohops.com/feed/",
+      "icon_url": null,
+      "id": "2d511ac3-81af-5103-beb3-d768b871d051",
+      "language_tag": "en",
+      "title": "bohops",
+      "website_url": null
+    },
+    {
+      "description": "Official blog for the Bootstrap framework.",
+      "feed_format": "rss",
+      "feed_url": "https://blog.getbootstrap.com/feed.xml",
+      "icon_url": null,
+      "id": "abaa0697-5d41-53df-937c-70749f514dfd",
+      "language_tag": null,
+      "title": "Bootstrap Blog",
+      "website_url": "https://blog.getbootstrap.com/"
+    },
+    {
+      "description": "Brandwatch's Company Website",
+      "feed_format": "rss",
+      "feed_url": "https://www.brandwatch.com/feed/",
+      "icon_url": null,
+      "id": "ab7838df-246a-5aed-a811-fbc24ba6ea50",
+      "language_tag": "en-US",
+      "title": "Brandwatch",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://brendaneich.com/feed/",
+      "icon_url": null,
+      "id": "2d4ae554-e998-59eb-bb75-4a982d87dc4c",
+      "language_tag": "en-US",
+      "title": "Brendan Eich",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://www.brendangregg.com/blog/rss.xml",
+      "icon_url": null,
+      "id": "968964ff-b8fe-56ab-acea-5b30e9654897",
+      "language_tag": null,
+      "title": "Brendan Gregg's Blog",
+      "website_url": "http://www.brendangregg.com/blog"
+    },
+    {
+      "description": "Read about the latest innovation and trends in testing.",
+      "feed_format": "rss",
+      "feed_url": "https://www.browserstack.com/blog/rss/",
+      "icon_url": null,
+      "id": "f5dda035-4354-5dd5-9615-251de33e84a4",
+      "language_tag": null,
+      "title": "BrowserStack Blog",
+      "website_url": "https://www.browserstack.com/blog/"
+    },
+    {
+      "description": "Recent content on C++ Stories",
+      "feed_format": "rss",
+      "feed_url": "https://www.cppstories.com/index.xml",
+      "icon_url": null,
+      "id": "12218e1f-d670-5415-89dd-ec0f36399502",
+      "language_tag": "en-us",
+      "title": "C++ Stories",
+      "website_url": "https://www.cppstories.com/"
+    },
+    {
+      "description": "Web performance insights and best practices",
+      "feed_format": "rss",
+      "feed_url": "https://calibreapp.com/blog/rss.xml",
+      "icon_url": null,
+      "id": "2961a8ce-d5bf-5cf6-8921-782c36a174ab",
+      "language_tag": "en",
+      "title": "Calibre Blog",
+      "website_url": "https://calibreapp.com/blog"
+    },
+    {
+      "description": "The technology behind Canva. We're sharing how we solve complex engineering problems to empower everyone in the world to design.",
+      "feed_format": "rss",
+      "feed_url": "https://www.canva.dev/blog/engineering/feed.xml",
+      "icon_url": null,
+      "id": "09759bac-8359-59bf-b157-c0b810e2c26a",
+      "language_tag": null,
+      "title": "Canva - Engineering Blog",
+      "website_url": "https://www.canva.dev/blog/engineering/"
+    },
+    {
+      "description": "Recent content on Carlos Becker",
+      "feed_format": "rss",
+      "feed_url": "https://carlosbecker.com/index.xml",
+      "icon_url": null,
+      "id": "f467bde3-dbe0-5931-bee9-e5095cd4a482",
+      "language_tag": "en-us",
+      "title": "Carlos Becker",
+      "website_url": "https://carlosbecker.com/"
+    },
+    {
+      "description": "Cash App Code Blog",
+      "feed_format": "atom",
+      "feed_url": "https://code.cash.app/feed.xml",
+      "icon_url": null,
+      "id": "adb976c1-bfee-5a19-a01d-a1bcc96f5a87",
+      "language_tag": null,
+      "title": "Cash App Code Blog",
+      "website_url": "https://code.cash.app/"
+    },
+    {
+      "description": "catonmat.net",
+      "feed_format": "rss",
+      "feed_url": "https://catonmat.net/feed",
+      "icon_url": null,
+      "id": "ba7fe8d3-7667-529d-b758-563626ce1a00",
+      "language_tag": "en",
+      "title": "catonmat.net",
+      "website_url": "https://catonmat.net/"
+    },
+    {
+      "description": "The chronicles of a self-taught designer and developer who started building on the web when HTML tables were being phased out and floats were the hot new thing.",
+      "feed_format": "rss",
+      "feed_url": "https://chenhuijing.com/rss.xml",
+      "icon_url": null,
+      "id": "5aa1b117-a643-5145-a0a7-3bb5b29446ec",
+      "language_tag": null,
+      "title": "Chen Hui Jing",
+      "website_url": "https://chenhuijing.com/"
+    },
+    {
+      "description": "Enterprise network security",
+      "feed_format": "rss",
+      "feed_url": "https://umbrella.cisco.com/feed",
+      "icon_url": null,
+      "id": "ecee9575-c81e-5e5c-965c-894640a384b8",
+      "language_tag": "en-US",
+      "title": "Cisco Umbrella",
+      "website_url": null
+    },
+    {
+      "description": "Always a student, the Clever engineering blog",
+      "feed_format": "rss",
+      "feed_url": "https://engineering.clever.com/feed/",
+      "icon_url": null,
+      "id": "481e3581-2847-5864-96b1-aa1a30a74cf4",
+      "language_tag": "en-US",
+      "title": "Clever Engineering Blog",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://cloud.blog.csc.fi/feeds/posts/default",
+      "icon_url": null,
+      "id": "537310f6-e329-5564-bbc5-e1ed815c505e",
+      "language_tag": null,
+      "title": "Cloud blog from CSCfi",
+      "website_url": "https://cloud.blog.csc.fi/"
+    },
+    {
+      "description": "Responsive web design and development, progressive web apps",
+      "feed_format": "rss",
+      "feed_url": "https://cloudfour.com/feed/",
+      "icon_url": null,
+      "id": "96473506-69e4-5f56-82e3-c008f83bb0ac",
+      "language_tag": "en-US",
+      "title": "Cloud Four",
+      "website_url": null
+    },
+    {
+      "description": "Stories about our company, our products and our customers, and how our solutions empower enterprises globally.",
+      "feed_format": "rss",
+      "feed_url": "https://www.cloudbees.com/blog/rss.xml",
+      "icon_url": null,
+      "id": "e5e1f208-a6f2-5b5e-9978-be37c5a7257c",
+      "language_tag": null,
+      "title": "CloudBees Blog",
+      "website_url": "https://www.cloudbees.com/"
+    },
+    {
+      "description": "Technical deep dives, product updates, and insights from the teams that are helping to build a better Internet.",
+      "feed_format": "rss",
+      "feed_url": "https://blog.cloudflare.com/rss/",
+      "icon_url": null,
+      "id": "7c1f7b35-7f9a-5fe7-894a-a22727529c45",
+      "language_tag": "en-us",
+      "title": "Cloudflare Blog",
+      "website_url": "https://blog.cloudflare.com/"
+    },
+    {
+      "description": "Technical deep dives, product updates, and insights from the teams that are helping to build a better Internet.",
+      "feed_format": "rss",
+      "feed_url": "https://blog.cloudflare.com/rss",
+      "icon_url": null,
+      "id": "d818a694-ee81-573f-818f-c76d37f994a0",
+      "language_tag": "en-us",
+      "title": "Cloudflare Blog",
+      "website_url": "https://blog.cloudflare.com/"
+    },
+    {
+      "description": "Cloudinary is a SaaS that takes the hassle out of managing your websites images.",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.feedburner.com/CloudinaryBlog",
+      "icon_url": null,
+      "id": "9020ec88-17e2-5e75-918e-260b3d15b1f9",
+      "language_tag": "en-us",
+      "title": "Cloudinary Blog",
+      "website_url": "https://cloudinary.com/blog"
+    },
+    {
+      "description": "Insights from a Facebook engineer on the back of a horse.",
+      "feed_format": "rss",
+      "feed_url": "https://codebeforethehorse.tumblr.com/rss",
+      "icon_url": null,
+      "id": "62426e75-1bd9-5f39-a038-95bba8069cb6",
+      "language_tag": null,
+      "title": "Code Before the Horse",
+      "website_url": "https://codebeforethehorse.tumblr.com/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://codewithoutrules.com/atom.xml",
+      "icon_url": null,
+      "id": "77145e35-7751-54b9-990b-f656b384b5f5",
+      "language_tag": null,
+      "title": "Code Without Rules",
+      "website_url": "https://codewithoutrules.com/"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://code.flickr.net/feed/",
+      "icon_url": null,
+      "id": "d2bd9ab8-0ef9-5361-beac-2a8b93eb1d1b",
+      "language_tag": "en-US",
+      "title": "code.flickr.com",
+      "website_url": null
+    },
+    {
+      "description": "Codelitt: Curating Talent, Crafting Success",
+      "feed_format": "rss",
+      "feed_url": "https://www.codelitt.com/blog-feed.xml",
+      "icon_url": null,
+      "id": "6ea5f08e-67bc-5e85-9dcb-1b0ae1c33e33",
+      "language_tag": null,
+      "title": "Codelitt",
+      "website_url": "https://www.codelitt.com/blog"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://blog.codepen.io/feed/",
+      "icon_url": null,
+      "id": "22053e0f-1716-5373-868b-7fd5d25be315",
+      "language_tag": "en-US",
+      "title": "CodePen",
+      "website_url": null
+    },
+    {
+      "description": "programming and human factors",
+      "feed_format": "rss",
+      "feed_url": "https://blog.codinghorror.com/rss/",
+      "icon_url": null,
+      "id": "467ad362-edaf-5c75-8ca7-961766c5cdf0",
+      "language_tag": null,
+      "title": "Coding Horror",
+      "website_url": "https://blog.codinghorror.com/"
+    },
+    {
+      "description": "Dense essays on augmenting intelligence, lame justifications for product updates, and an awkwardly honest startup diary.",
+      "feed_format": "rss",
+      "feed_url": "https://fibery.com/blog/rss.xml",
+      "icon_url": null,
+      "id": "37ea1a24-c0ac-578c-8e21-87a267a0acb7",
+      "language_tag": null,
+      "title": "Complex, not complicated",
+      "website_url": "https://fibery.com/"
+    },
+    {
+      "description": "Henrik Lau Eriksson on the conduct of code",
+      "feed_format": "atom",
+      "feed_url": "https://conductofcode.io/feed.xml",
+      "icon_url": null,
+      "id": "ab61d585-b4b0-583c-a246-66695bd3296f",
+      "language_tag": "en-us",
+      "title": "Conduct of Code",
+      "website_url": "https://conductofcode.io/"
+    },
+    {
+      "description": "Confluent is building the foundational platform for data in motion so any organization can innovate and win in a digital-first world.",
+      "feed_format": "rss",
+      "feed_url": "https://www.confluent.io/rss.xml",
+      "icon_url": null,
+      "id": "99fb6af7-58ef-5889-acf6-f361c50ed1af",
+      "language_tag": "en-US",
+      "title": "Confluent: Data in motion",
+      "website_url": "https://www.confluent.io/"
+    },
+    {
+      "description": "A blog about developing at Curalate . How we handle big data architecture, design for the consumer web, and help our customers get the most out of their imagery.",
+      "feed_format": "rss",
+      "feed_url": "https://engineering.curalate.com/feed.xml",
+      "icon_url": null,
+      "id": "9806bdf2-92eb-5584-be3e-02ada2c75940",
+      "language_tag": null,
+      "title": "Curalate Engineering Blog",
+      "website_url": "http://engineering.curalate.com/"
+    },
+    {
+      "description": "Video Hosting & Live Streaming Solutions",
+      "feed_format": "rss",
+      "feed_url": "https://www.dacast.com/feed/",
+      "icon_url": "https://prod-images.dacast.com/wp-content/uploads/2019/07/cropped-favicon-32x32.png",
+      "id": "afa7484a-0d3d-5a6f-b8c5-1af86aab2d54",
+      "language_tag": "en-US",
+      "title": "Dacast",
+      "website_url": null
+    },
+    {
+      "description": "The Data and AI Company",
+      "feed_format": "rss",
+      "feed_url": "https://www.databricks.com/feed",
+      "icon_url": null,
+      "id": "4b7228e9-28f7-5d90-8923-8f2cb7814926",
+      "language_tag": "en",
+      "title": "Databricks",
+      "website_url": "https://www.databricks.com/"
+    },
+    {
+      "description": "The acme of foolishness",
+      "feed_format": "rss",
+      "feed_url": "https://dave.cheney.net/feed",
+      "icon_url": null,
+      "id": "89c5664f-0cf0-5c96-9d3e-33beff4485cb",
+      "language_tag": "en-US",
+      "title": "Dave Cheney",
+      "website_url": null
+    },
+    {
+      "description": "A blog featuring tutorials about JavaScript, HTML5, AJAX, PHP, CSS, WordPress, and everything else development.",
+      "feed_format": "atom",
+      "feed_url": "https://davidwalsh.name/feed/atom",
+      "icon_url": null,
+      "id": "35be9f16-a0f4-5f27-bc80-0309b98095d9",
+      "language_tag": "en-US",
+      "title": "David Walsh Blog",
+      "website_url": "https://davidwalsh.name/"
+    },
+    {
+      "description": "I'm a Technical Program Manager at Xbox Game Studios. I write about technical leadership, developer tools, and making great games.",
+      "feed_format": "rss",
+      "feed_url": "https://deanhume.com/rss/",
+      "icon_url": null,
+      "id": "7bc90e1f-6261-51a4-8be1-f7044a1f890c",
+      "language_tag": null,
+      "title": "Dean Hume's Blog",
+      "website_url": "https://deanhume.com/"
+    },
+    {
+      "description": "DebugBear Blog",
+      "feed_format": "rss",
+      "feed_url": "https://www.debugbear.com/blog/rss.xml",
+      "icon_url": null,
+      "id": "301f6eec-1c45-570f-bfc7-1db1801a6488",
+      "language_tag": "en",
+      "title": "DebugBear Blog",
+      "website_url": "https://www.debugbear.com/blog"
+    },
+    {
+      "description": "Ruminations on Computers, Programming and Life",
+      "feed_format": "rss",
+      "feed_url": "https://rhettinger.wordpress.com/feed/",
+      "icon_url": null,
+      "id": "ea3bc414-9cd9-5776-bbe0-89047de833cd",
+      "language_tag": "en",
+      "title": "Deep Thoughts by Raymond Hettinger",
+      "website_url": null
+    },
+    {
+      "description": "Deliveroo Tech blog",
+      "feed_format": "rss",
+      "feed_url": "https://deliveroo.engineering/feed.xml",
+      "icon_url": null,
+      "id": "0e1ab9f9-ec8c-570f-95fc-41f764ad2848",
+      "language_tag": null,
+      "title": "deliveroo.engineering",
+      "website_url": "https://deliveroo.engineering/"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://www.deque.com/feed/",
+      "icon_url": null,
+      "id": "d9632666-0dc3-53ee-b328-806c5ddbf609",
+      "language_tag": "en-US",
+      "title": "Deque",
+      "website_url": null
+    },
+    {
+      "description": "A blog about Frameworks (CakePHP), MVC, Snippets, Tips and more",
+      "feed_format": "rss",
+      "feed_url": "https://www.dereuromark.de/feed/",
+      "icon_url": null,
+      "id": "fc24e1dd-dd36-5064-a9d5-fbe325645b36",
+      "language_tag": "en-US",
+      "title": "DerEuroMark",
+      "website_url": null
+    },
+    {
+      "description": "Recent content on devroom.io",
+      "feed_format": "rss",
+      "feed_url": "https://www.devroom.io/feed.xml",
+      "icon_url": null,
+      "id": "3a7887a1-e373-5dee-a311-ab196b04d668",
+      "language_tag": "en",
+      "title": "devroom.io",
+      "website_url": "https://www.devroom.io/"
+    },
+    {
+      "description": "Digital Accessibility Testing, Accessibility Platform & Tools",
+      "feed_format": "rss",
+      "feed_url": "https://www.barrierbreak.com/feed/",
+      "icon_url": null,
+      "id": "58186376-3fb2-5b6b-a18d-d3b737d17dd2",
+      "language_tag": "en-US",
+      "title": "Digital Accessibility Testing | A11yNow Compliance Platform | A11yInspect Testing Tools | BarrierBreak",
+      "website_url": null
+    },
+    {
+      "description": "Learn about Discord's updates, insights, community stories, educational resources, and much more.",
+      "feed_format": "rss",
+      "feed_url": "https://discord.com/blog/rss.xml",
+      "icon_url": null,
+      "id": "3e2663b7-a15b-59d9-b0f5-52f467b93b77",
+      "language_tag": null,
+      "title": "Discord Blog",
+      "website_url": "https://discord.com/"
+    },
+    {
+      "description": "Recent content on Docker Pirates ARMed with explosive stuff",
+      "feed_format": "rss",
+      "feed_url": "https://blog.hypriot.com/index.xml",
+      "icon_url": null,
+      "id": "174fe332-4d00-5a7e-8cd9-99cd7cf19111",
+      "language_tag": "en-us",
+      "title": "Docker Pirates ARMed with explosive stuff",
+      "website_url": "https://blog.hypriot.com/index.xml"
+    },
+    {
+      "description": "Thoughts about life, tech and everything",
+      "feed_format": "rss",
+      "feed_url": "https://domenicoluciani.com/feed.xml",
+      "icon_url": null,
+      "id": "0ac3b9fc-e162-501a-bbfd-96c1b52d896b",
+      "language_tag": "en",
+      "title": "Domenico Luciani",
+      "website_url": "https://domenicoluciani.com/"
+    },
+    {
+      "description": "Dragan Djuric's Clojure Blog, Artificial Intelligence, Deep Learning, Bayesian Data Analysis, CUDA, GPU, OpenCL, Functional Programming, Probabilistic Programming, Data Science.",
+      "feed_format": "rss",
+      "feed_url": "https://dragan.rocks/feed.xml",
+      "icon_url": null,
+      "id": "9996a8c5-b7ac-5907-8ba6-7d52b9abfaff",
+      "language_tag": null,
+      "title": "Dragan Djuric",
+      "website_url": "http://dragan.rocks/"
+    },
+    {
+      "description": "Drew DeVault's blog - Blog",
+      "feed_format": "rss",
+      "feed_url": "https://drewdevault.com/blog/index.xml",
+      "icon_url": null,
+      "id": "b64dbea2-598a-58b3-a206-f109a51f11cf",
+      "language_tag": "en-US",
+      "title": "Drew DeVault's blog",
+      "website_url": "https://drewdevault.com/"
+    },
+    {
+      "description": "null",
+      "feed_format": "rss",
+      "feed_url": "https://dropbox.tech/frontend/feed",
+      "icon_url": null,
+      "id": "843e0e77-062c-5c23-b71c-c50df1fa3338",
+      "language_tag": "en",
+      "title": "Dropbox Tech Blog",
+      "website_url": null
+    },
+    {
+      "description": "null",
+      "feed_format": "rss",
+      "feed_url": "https://dropbox.tech/feed",
+      "icon_url": null,
+      "id": "d4c1c038-eb3a-5535-a462-7699c76e55da",
+      "language_tag": "en",
+      "title": "Dropbox Tech Blog",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://www.ebayinc.com/stories/news/rss/",
+      "icon_url": null,
+      "id": "dd403a20-6ac8-58a7-8a2f-5b79f138bd70",
+      "language_tag": null,
+      "title": "eBay Newsroom",
+      "website_url": "https://www.ebayinc.com/stories/news/rss/"
+    },
+    {
+      "description": "Recent content on Edgar's blog",
+      "feed_format": "rss",
+      "feed_url": "https://hyegar.com/index.xml",
+      "icon_url": null,
+      "id": "2ca910ea-dea2-5d12-988e-23e4a757bd73",
+      "language_tag": "en-us",
+      "title": "Edgar's blog",
+      "website_url": "https://hyegar.com/"
+    },
+    {
+      "description": "The limits of your language are the limits of your world.",
+      "feed_format": "rss",
+      "feed_url": "https://eaf4.com/rss/",
+      "icon_url": null,
+      "id": "0718bc8e-f339-5b30-a490-14750b8204f5",
+      "language_tag": null,
+      "title": "ef4's Dev Blog",
+      "website_url": "https://eaf4.com/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://eli.thegreenplace.net/feeds/all.atom.xml",
+      "icon_url": null,
+      "id": "5444304b-b69d-5d8d-96e1-2908cb2d0709",
+      "language_tag": null,
+      "title": "Eli Bendersky's website",
+      "website_url": "https://eli.thegreenplace.net/"
+    },
+    {
+      "description": "Grow your audience with easy-to-use sharing tools.",
+      "feed_format": "rss",
+      "feed_url": "https://sharethis.com/engineering/feed/",
+      "icon_url": null,
+      "id": "019efb19-529d-527b-8dd8-0926429d0c08",
+      "language_tag": "en-US",
+      "title": "Engineering Archives - ShareThis",
+      "website_url": null
+    },
+    {
+      "description": "Engineering at Meta Blog",
+      "feed_format": "rss",
+      "feed_url": "https://engineering.fb.com/feed/",
+      "icon_url": null,
+      "id": "0240e174-5cc4-57b9-99f3-0238b4b8401d",
+      "language_tag": "en-US",
+      "title": "Engineering at Meta",
+      "website_url": null
+    },
+    {
+      "description": "Premise engineers close the information gap in a complex, evolving world. We empower millions around the globe to collect and share information with decision makers, providing them with Data for Every Decision™ - Medium",
+      "feed_format": "rss",
+      "feed_url": "https://engineering.premise.com/feed",
+      "icon_url": "https://cdn-images-1.medium.com/proxy/1*TGH72Nnw24QL3iV9IOm4VA.png",
+      "id": "964ad7eb-31a3-51f6-a310-77ff4f85c436",
+      "language_tag": null,
+      "title": "Engineering at Premise - Medium",
+      "website_url": "https://engineering.premise.com/?source=rss----c5fada0a103d---4"
+    },
+    {
+      "description": "Hear directly from Slack's engineers about what we build, why and how we build it, and how you can use it.",
+      "feed_format": "rss",
+      "feed_url": "https://slack.engineering/feed/",
+      "icon_url": null,
+      "id": "fcf03128-018d-5b5c-8e1b-ee5a60e917df",
+      "language_tag": "en-US",
+      "title": "Engineering at Slack",
+      "website_url": null
+    },
+    {
+      "description": "A blog by the Guardian's internal engineering team. We build and run the Guardian website, mobile apps, editorial tools, revenue products, advertising, and data and identity platforms. This blog is where we share our experiences and approaches, including software development tips, code examples, open source software and code stories behind product development",
+      "feed_format": "rss",
+      "feed_url": "https://www.theguardian.com/info/series/engineering-blog/rss",
+      "icon_url": null,
+      "id": "25da7ef8-9d46-55b1-aaeb-9936a5375c94",
+      "language_tag": "en-gb",
+      "title": "Engineering blog | The Guardian",
+      "website_url": "https://www.theguardian.com/info/series/engineering-blog"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://eng.wealthfront.com/feed/",
+      "icon_url": null,
+      "id": "b22d5d74-3416-5ab3-887a-34b126a7eb11",
+      "language_tag": "en-US",
+      "title": "Engineering Blog – Wealthfront",
+      "website_url": null
+    },
+    {
+      "description": "Recent content on Engineering Health",
+      "feed_format": "rss",
+      "feed_url": "https://engineering.cerner.com/index.xml",
+      "icon_url": null,
+      "id": "5913cd7f-4e30-5930-8729-f0a6ae80e3dd",
+      "language_tag": "en",
+      "title": "Engineering Health",
+      "website_url": "https://engineering.cerner.com/"
+    },
+    {
+      "description": "Cloud Application Platform",
+      "feed_format": "rss",
+      "feed_url": "https://www.heroku.com/blog/category/engineering/feed/",
+      "icon_url": "https://www.heroku.com/wp-content/uploads/2025/01/apple-touch-icon-180x180-1.png?w=32",
+      "id": "85a6155f-2c95-5a4e-a8eb-ab491d1f1fff",
+      "language_tag": "en-US",
+      "title": "Engineering | Heroku",
+      "website_url": null
+    },
+    {
+      "description": "Home of Erik Runyon. Technical Director for the University of Notre Dame Web Team.",
+      "feed_format": "rss",
+      "feed_url": "https://erikrunyon.com/feed.xml",
+      "icon_url": null,
+      "id": "7fb9786f-a50c-57e2-b3bf-12105c3730a2",
+      "language_tag": null,
+      "title": "Erik Runyon",
+      "website_url": "https://erikrunyon.com/"
+    },
+    {
+      "description": "The engineers who make Etsy make our living with a craft we love: software. This is where we'll write about our craft and our collective experience building and running the world's most vibrant handmade marketplace.",
+      "feed_format": "rss",
+      "feed_url": "https://www.etsy.com/codeascraft/rss",
+      "icon_url": null,
+      "id": "90163c9f-b128-5ec2-b0d6-2c0f2df1f76d",
+      "language_tag": "en-US",
+      "title": "Etsy Engineering | Code as Craft",
+      "website_url": "http://www.etsy.com/codeascraft/rss"
+    },
+    {
+      "description": "I'm Evan Hahn, a programmer.",
+      "feed_format": "rss",
+      "feed_url": "https://evanhahn.com/blog/index.xml",
+      "icon_url": null,
+      "id": "518001c5-8adb-58f1-9012-530968a17e15",
+      "language_tag": "en-us",
+      "title": "Evan Hahn (dot com)",
+      "website_url": null
+    },
+    {
+      "description": "I'm a software engineer at Datadog in New York. I previously worked at Bluecore , fixed interesting bugs at Twitter, and taught a database class at Columbia as an adjunct. I was a co-founder and CTO of Mitro, a password manager for groups and organizations , along with Vijay Pandurangan and Adam Hilss . Before that, I earned a Ph. D. from MIT , researching distributed OLTP databases with Sam Madden . Even earlier in my life, I worked at Google in New York for a bit more than a year, and I was a ",
+      "feed_format": "rss",
+      "feed_url": "https://www.evanjones.ca/index.rss",
+      "icon_url": null,
+      "id": "82d0ddbf-18ea-5dd7-8e84-332c3ad843da",
+      "language_tag": "en",
+      "title": "Evan Jones - Software Engineer | Computer Scientist",
+      "website_url": "https://www.evanjones.ca/"
+    },
+    {
+      "description": "Evan Miller’s News",
+      "feed_format": "rss",
+      "feed_url": "https://www.evanmiller.org/news.xml",
+      "icon_url": null,
+      "id": "20d1f839-c587-5ee9-93dc-23d67d3382c4",
+      "language_tag": "en-us",
+      "title": "Evan Miller’s News",
+      "website_url": null
+    },
+    {
+      "description": "Evil Martians is a developer tools consultancy founded in 2006. Creators of PostCSS, imgproxy, and 100+ open source projects with 25 billion downloads.",
+      "feed_format": "atom",
+      "feed_url": "https://evilmartians.com/chronicles.atom",
+      "icon_url": null,
+      "id": "c7e243ca-50f2-5814-a74d-6174734442b5",
+      "language_tag": null,
+      "title": "Evil Martians",
+      "website_url": "https://evilmartians.com/chronicles"
+    },
+    {
+      "description": "Exyte Blog: Our take on things we care about.",
+      "feed_format": "rss",
+      "feed_url": "https://exyte.com/feed/rss/main",
+      "icon_url": "https://{{domain}}/img/exyte-logo.jpg",
+      "id": "f75ef5ec-65c2-5aac-98eb-3157a44c83a3",
+      "language_tag": "en",
+      "title": "Exyte Blog",
+      "website_url": "https://{{domain}}/"
+    },
+    {
+      "description": "Eric Lippert's blog",
+      "feed_format": "rss",
+      "feed_url": "https://ericlippert.com/feed/",
+      "icon_url": null,
+      "id": "170a36b6-b28b-5237-8db0-90fa8c9b4146",
+      "language_tag": "en",
+      "title": "Fabulous adventures in coding",
+      "website_url": null
+    },
+    {
+      "description": "The latest news and announcements from Facebook Platform including APIs, SDKs, social plugins and Parse.",
+      "feed_format": "atom",
+      "feed_url": "https://developers.facebook.com/blog/feed",
+      "icon_url": "https://static.xx.fbcdn.net/rsrc.php/yB/r/2sFJRNmJ5OP.ico",
+      "id": "1684dc57-3490-5098-9353-29bffa6ba669",
+      "language_tag": "en-US",
+      "title": "Facebook Developers",
+      "website_url": "https://developers.facebook.com/blog/"
+    },
+    {
+      "description": "Fastly's edge cloud platform helps the world's most popular digital businesses keep pace with their customer expectations by delivering fast, secure, and scalable online experiences.",
+      "feed_format": "rss",
+      "feed_url": "https://www.fastly.com/blog_rss.xml",
+      "icon_url": null,
+      "id": "b2a417e2-4ecd-5538-b9af-5ef083a905f5",
+      "language_tag": "en",
+      "title": "Fastly Blog",
+      "website_url": "https://www.fastly.com/blog/"
+    },
+    {
+      "description": "Posts from 2008 - 2018",
+      "feed_format": "rss",
+      "feed_url": "https://blog.fedecarg.com/feed/",
+      "icon_url": null,
+      "id": "e22a16a7-eeb5-5a0c-bf32-9e8ef5f3ea77",
+      "language_tag": "en",
+      "title": "Federico Cargnelutti",
+      "website_url": null
+    },
+    {
+      "description": "Tools to solve complex problems",
+      "feed_format": "rss",
+      "feed_url": "https://tomassetti.me/feed/",
+      "icon_url": null,
+      "id": "50644dd7-32c6-5909-b650-d27dde1abbce",
+      "language_tag": "en-US",
+      "title": "Federico Tomassetti",
+      "website_url": null
+    },
+    {
+      "description": "Welcome to Shortcut, Figma’s blog for telling stories about people, and the priorities, plans, and pivots they discover along the path of bringing new ideas to life.",
+      "feed_format": "atom",
+      "feed_url": "https://www.figma.com/blog/feed/atom.xml",
+      "icon_url": null,
+      "id": "d1093eac-cbfc-5608-a805-b285d2485902",
+      "language_tag": null,
+      "title": "Figma Blog | Shortcut",
+      "website_url": "https://www.figma.com/blog/"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://words.filippo.io/rss/",
+      "icon_url": null,
+      "id": "e08cf1b1-9f3f-5c7a-89c4-457e3f93df0e",
+      "language_tag": null,
+      "title": "Filippo Valsorda",
+      "website_url": "https://words.filippo.io/"
+    },
+    {
+      "description": "Technology and techniques from the Findmypast Tech teams",
+      "feed_format": "rss",
+      "feed_url": "https://tech.findmypast.com/feed.xml",
+      "icon_url": null,
+      "id": "936d05bf-d750-5605-b082-d2a4728ae75e",
+      "language_tag": null,
+      "title": "Findmypast Tech",
+      "website_url": "https://tech.findmypast.com/"
+    },
+    {
+      "description": "The Fingerprint device intelligence platform works across web and mobile applications to identify all visitors with industry-leading accuracy — even if they’re anonymous.",
+      "feed_format": "rss",
+      "feed_url": "https://fingerprint.com/rss.xml",
+      "icon_url": null,
+      "id": "ef9c8442-f1fb-5332-abf2-f080e15ed6f7",
+      "language_tag": null,
+      "title": "Fingerprint Blog RSS Feed",
+      "website_url": "https://fingerprint.com/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://tech.finn.no/atom.xml",
+      "icon_url": null,
+      "id": "e601e86b-3d06-5ebd-8d0c-a0da9687b550",
+      "language_tag": null,
+      "title": "FINN Technology",
+      "website_url": "https://tech.finn.no/"
+    },
+    {
+      "description": "The official Firebase Blog",
+      "feed_format": "rss",
+      "feed_url": "https://firebase.blog/rss.xml",
+      "icon_url": null,
+      "id": "1d736f92-6ddb-5d22-afbb-8d1573c3257b",
+      "language_tag": null,
+      "title": "Firebase Blog",
+      "website_url": "https://firebase.blog/"
+    },
+    {
+      "description": "Recent content on flurries of latent creativity",
+      "feed_format": "rss",
+      "feed_url": "https://blog.singleton.io/index.xml",
+      "icon_url": null,
+      "id": "ce1ef0a9-6344-5b29-92c4-92884293a330",
+      "language_tag": "en",
+      "title": "flurries of latent creativity",
+      "website_url": "https://blog.singleton.io/"
+    },
+    {
+      "description": "All blogposts on freek.dev",
+      "feed_format": "atom",
+      "feed_url": "https://freek.dev/feed",
+      "icon_url": null,
+      "id": "24512185-5f87-5b1c-a681-acef35ac06ec",
+      "language_tag": "en-US",
+      "title": "freek.dev - all blogposts",
+      "website_url": null
+    },
+    {
+      "description": "Every day we work to build an artificial intelligent personal coach used by our [Android](https://play.google.com/store/apps/dev?id=6324331771210995731 \"Freeletics Bodyweight for Android\") & [iOS](https://itunes.apple.com/us/developer/freeletics-gmbh/id579309595 \"Freeletics Bodyweight for iOS\") apps that helps over 51 million people around the world become their best version. Our engineering team takes the same approach to become their best version of their code. We continuously strive to be bet",
+      "feed_format": "atom",
+      "feed_url": "https://freeletics.engineering/feed.xml",
+      "icon_url": null,
+      "id": "682d1803-76de-5fc5-860d-fed06176835e",
+      "language_tag": null,
+      "title": "Freeletics Engineering Blog",
+      "website_url": "https://freeletics.engineering/"
+    },
+    {
+      "description": "If you build it, it will run.",
+      "feed_format": "rss",
+      "feed_url": "https://fullstack.info/feed/",
+      "icon_url": null,
+      "id": "eb23c6e1-929b-5cfd-80ed-505d802405e8",
+      "language_tag": "en-US",
+      "title": "FullStack – Ofer Zelig's Blog",
+      "website_url": null
+    },
+    {
+      "description": "Scott Johnson writing about the usual array of nerd stuff: AWS / Ansible / Ruby / Rails / Elixir / Misc / Hyde.",
+      "feed_format": "rss",
+      "feed_url": "https://fuzzyblog.io/blog/feed.xml",
+      "icon_url": null,
+      "id": "6ba3d804-cdd7-51ab-af46-72a97f083369",
+      "language_tag": null,
+      "title": "FuzzyBlog",
+      "website_url": "https://fuzzyblog.io/blog/"
+    },
+    {
+      "description": "Written by thoughtbot, your expert partner for design and development.",
+      "feed_format": "atom",
+      "feed_url": "https://feed.thoughtbot.com/",
+      "icon_url": null,
+      "id": "26fb0f62-6afa-5505-b0aa-5b6dee885585",
+      "language_tag": null,
+      "title": "Giant Robots Smashing Into Other Giant Robots",
+      "website_url": "https://thoughtbot.com/blog"
+    },
+    {
+      "description": "GitLab Blog RSS feed",
+      "feed_format": "atom",
+      "feed_url": "https://about.gitlab.com/atom.xml",
+      "icon_url": null,
+      "id": "259e6d15-29bf-54dc-8412-9d642e83739c",
+      "language_tag": null,
+      "title": "GitLab",
+      "website_url": "https://about.gitlab.com/blog"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://docs.gitlab.com/releases/releases.xml",
+      "icon_url": null,
+      "id": "1c43b387-9a59-5957-8f92-f9ba92b27587",
+      "language_tag": null,
+      "title": "GitLab Monthly Releases",
+      "website_url": "https://docs.gitlab.com/releases/"
+    },
+    {
+      "description": "Helping recurring revenue businesses to go further",
+      "feed_format": "rss",
+      "feed_url": "https://gocardless.com/content-platform/rss/resources.xml",
+      "icon_url": null,
+      "id": "b9f221e7-901a-5c34-8312-548fcfe296fe",
+      "language_tag": "en",
+      "title": "GoCardless Resources",
+      "website_url": "https://gocardless.com/"
+    },
+    {
+      "description": "Updates on changes and additions to the Google Developers Blog.",
+      "feed_format": "rss",
+      "feed_url": "https://developers.googleblog.com/feeds/posts/default/",
+      "icon_url": null,
+      "id": "012cf642-6f7e-5b06-bf30-a89b47b6e3c1",
+      "language_tag": "en-us",
+      "title": "Google Developers Blog",
+      "website_url": "https://developers.googleblog.com/rss/"
+    },
+    {
+      "description": "Updates on changes and additions to the Google Developers Blog.",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.feedburner.com/GDBcode",
+      "icon_url": null,
+      "id": "5af025db-9b4d-557a-bfc8-77b94de240b9",
+      "language_tag": "en-us",
+      "title": "Google Developers Blog",
+      "website_url": "https://developers.googleblog.com/rss/"
+    },
+    {
+      "description": "News about Google's Open Source projects and programs.",
+      "feed_format": "atom",
+      "feed_url": "https://feeds.feedburner.com/GoogleOpenSourceBlog",
+      "icon_url": null,
+      "id": "0c988db2-9466-58ce-b8ba-da83e104df3e",
+      "language_tag": null,
+      "title": "Google Open Source Blog",
+      "website_url": "http://opensource.googleblog.com/"
+    },
+    {
+      "description": "Official news for web professionals about Google Search, related products, and events.",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.feedburner.com/blogspot/amDG",
+      "icon_url": null,
+      "id": "812ec17d-3ba0-53f4-98ea-c462a467514f",
+      "language_tag": null,
+      "title": "Google Search Central Blog",
+      "website_url": "https://developers.google.com/search/blog/"
+    },
+    {
+      "description": "Recent content in Google Tag Manager and Google Analytics on Simo Ahava's blog",
+      "feed_format": "rss",
+      "feed_url": "https://www.simoahava.com/index.xml",
+      "icon_url": null,
+      "id": "330db4b3-a215-5b9a-855e-d42e5a3b2e11",
+      "language_tag": "en-us",
+      "title": "Google Tag Manager and Google Analytics on Simo Ahava's blog",
+      "website_url": "https://www.simoahava.com/"
+    },
+    {
+      "description": "If it ain't broke, you're not trying hard enough.",
+      "feed_format": "atom",
+      "feed_url": "http://feeds.feedburner.com/blogspot/RLXA",
+      "icon_url": null,
+      "id": "0309523f-1b41-5b6e-8973-77082890eac7",
+      "language_tag": null,
+      "title": "Google Testing Blog",
+      "website_url": "http://testing.googleblog.com/"
+    },
+    {
+      "description": "Turn visitors into customers.",
+      "feed_format": "rss",
+      "feed_url": "https://www.gosquared.com/blog/feed",
+      "icon_url": null,
+      "id": "48386ae5-1459-5923-b8e0-278c35b18211",
+      "language_tag": "en-US",
+      "title": "GoSquared Blog",
+      "website_url": null
+    },
+    {
+      "description": "Grab's Engineering team solves critical transportation challenges and makes transport freedom a reality for 620 million people in Southeast Asia.",
+      "feed_format": "rss",
+      "feed_url": "https://engineering.grab.com/feed.xml",
+      "icon_url": null,
+      "id": "c2f6de98-242e-5ba6-a682-52f538713d53",
+      "language_tag": null,
+      "title": "Grab Tech",
+      "website_url": "https://engineering.grab.com/"
+    },
+    {
+      "description": "Recent content on Graham King",
+      "feed_format": "rss",
+      "feed_url": "https://darkcoding.net/index.xml",
+      "icon_url": null,
+      "id": "b2935360-5a36-5c37-8f97-3ccc2ffae54f",
+      "language_tag": "en",
+      "title": "Graham King",
+      "website_url": "https://darkcoding.net/"
+    },
+    {
+      "description": "Our blog home page. Here you can learn more about Guardsquare, our products and mobile application security.",
+      "feed_format": "rss",
+      "feed_url": "https://www.guardsquare.com/blog/rss.xml",
+      "icon_url": null,
+      "id": "a4384b2a-7252-56fa-8d90-3e7280c6f917",
+      "language_tag": "en",
+      "title": "Guardsquare Blog",
+      "website_url": "https://www.guardsquare.com/blog"
+    },
+    {
+      "description": "Read about the latest technology and frameworks we use at Haptik for creating Intelligent Virtual Assistants.",
+      "feed_format": "rss",
+      "feed_url": "https://www.haptik.ai/tech/rss.xml",
+      "icon_url": null,
+      "id": "fd713c9a-7c32-5874-89ed-5258bb40c24e",
+      "language_tag": "en-us",
+      "title": "Haptik Tech Blog",
+      "website_url": "https://www.haptik.ai/tech"
+    },
+    {
+      "description": "Knowledge & news from us to you.",
+      "feed_format": "rss",
+      "feed_url": "https://hashrocket.com/blog/posts.rss",
+      "icon_url": null,
+      "id": "9b98aa06-edc7-5004-8f1e-59db18e538ab",
+      "language_tag": null,
+      "title": "Hashrocket",
+      "website_url": "https://hashrocket.com/blog.rss"
+    },
+    {
+      "description": "Thoughts on programming...",
+      "feed_format": "rss",
+      "feed_url": "https://henrikwarne.com/feed/",
+      "icon_url": null,
+      "id": "f610775e-e366-54c8-90f8-0f8028d64fca",
+      "language_tag": "en",
+      "title": "Henrik Warne's blog",
+      "website_url": null
+    },
+    {
+      "description": "Cloud Application Platform",
+      "feed_format": "rss",
+      "feed_url": "https://www.heroku.com/feed/",
+      "icon_url": "https://www.heroku.com/wp-content/uploads/2025/01/apple-touch-icon-180x180-1.png?w=32",
+      "id": "e70cc06d-974c-59c6-9704-3730f15cd192",
+      "language_tag": "en-US",
+      "title": "Heroku",
+      "website_url": null
+    },
+    {
+      "description": "270 статей от авторов компании hh.ru",
+      "feed_format": "rss",
+      "feed_url": "https://habr.com/ru/rss/companies/hh/articles/?fl=ru",
+      "icon_url": "https://habrastorage.org/webt/ym/el/wk/ymelwk3zy1gawz4nkejl_-ammtc.png",
+      "id": "5785b890-06c8-50bc-9c4c-19575d507cbc",
+      "language_tag": "ru",
+      "title": "hh.ru - HR Tech с 23 мая 2000 г. / Статьи",
+      "website_url": "https://habr.com/ru/companies/hh/articles/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://blog.arkency.com/feed.xml",
+      "icon_url": null,
+      "id": "42e50b77-d645-56fb-bfda-67f0c79106b1",
+      "language_tag": null,
+      "title": "Hi, we're Arkency",
+      "website_url": "https://blog.arkency.com/"
+    },
+    {
+      "description": "Building bigger, faster, more reliable websites.",
+      "feed_format": "rss",
+      "feed_url": "https://highscalability.com/rss/",
+      "icon_url": null,
+      "id": "2497a41b-09aa-5b91-9845-18fe8f40af74",
+      "language_tag": null,
+      "title": "High Scalability",
+      "website_url": "https://highscalability.com/"
+    },
+    {
+      "description": "Useful articles for web developers in Ruby, Javascript, Elixir, and more",
+      "feed_format": "atom",
+      "feed_url": "https://www.honeybadger.io/blog/feed.xml",
+      "icon_url": null,
+      "id": "f469bf5a-958a-59c5-bc19-531ef907acdf",
+      "language_tag": null,
+      "title": "Honeybadger Developer Blog",
+      "website_url": "https://www.honeybadger.io/blog/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://hookrace.net/blog/feed/",
+      "icon_url": null,
+      "id": "d3467cad-c287-5dcf-9ea7-95a36d0b266c",
+      "language_tag": null,
+      "title": "HookRace Blog",
+      "website_url": "https://hookrace.net/"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://www.hostinger.com/blog/feed/",
+      "icon_url": null,
+      "id": "c4b259cc-8ad6-572f-aa01-eaead0774644",
+      "language_tag": "en-US",
+      "title": "Hostinger Blog",
+      "website_url": null
+    },
+    {
+      "description": "HTTP Toolkit",
+      "feed_format": "rss",
+      "feed_url": "https://httptoolkit.com/rss.xml",
+      "icon_url": null,
+      "id": "cefb5b2e-4f70-5499-972e-0ab2e8b60d11",
+      "language_tag": null,
+      "title": "HTTP Toolkit",
+      "website_url": "https://httptoolkit.com/blog/"
+    },
+    {
+      "description": "The HubSpot Product Blog is where we riff about topics of interest to us from engineering, to UX, to product management and beyond.",
+      "feed_format": "rss",
+      "feed_url": "https://product.hubspot.com/blog/rss.xml",
+      "icon_url": null,
+      "id": "f066bff4-9b8e-54a6-90a7-f3f4f536fc30",
+      "language_tag": "en-us",
+      "title": "HubSpot Product Blog (Live)",
+      "website_url": "https://product.hubspot.com/blog"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://huonw.github.io/blog/atom.xml",
+      "icon_url": null,
+      "id": "1117c012-a104-5ef6-af04-ef903431931b",
+      "language_tag": null,
+      "title": "Huon on the internet",
+      "website_url": "https://huonw.github.io/blog/"
+    },
+    {
+      "description": "Documenting All Ruby Specialities",
+      "feed_format": "atom",
+      "feed_url": "https://idiosyncratic-ruby.com/feed.xml",
+      "icon_url": null,
+      "id": "12804583-c5f3-5c64-8467-21031c76ecbd",
+      "language_tag": null,
+      "title": "Idiosyncratic Ruby",
+      "website_url": "https://idiosyncratic-ruby.com/index/"
+    },
+    {
+      "description": "Igalia is an open source consulting firm specialised in the development of innovative projects and solutions. Our engineers have expertise in a wide range of technological areas, including browsers and client-side web technologies, graphics pipeline, compilers and virtual machines. We have the most WPE, WebKit, Chromium/Blink and Firefox expertise found in the consulting business, including many reviewers and committers. Igalia designs, develops, customises and optimises GNU/Linux-based solution",
+      "feed_format": "atom",
+      "feed_url": "https://www.igalia.com/feed.xml",
+      "icon_url": null,
+      "id": "e77e9eb1-6428-5d87-b531-6d93e31b162a",
+      "language_tag": null,
+      "title": "Igalia",
+      "website_url": "https://www.igalia.com/"
+    },
+    {
+      "description": "Distinguished Engineer and Technical Advisor to the CEO at Shopify, on a mission to make commerce better for everyone.",
+      "feed_format": "rss",
+      "feed_url": "https://ilya.grigorik.com/essays/rss/",
+      "icon_url": null,
+      "id": "a53bea07-a13c-5628-9831-e535f47fb489",
+      "language_tag": null,
+      "title": "Ilya Grigorik",
+      "website_url": "https://ilya.grigorik.com/"
+    },
+    {
+      "description": "We help people get jobs.",
+      "feed_format": "rss",
+      "feed_url": "https://engineering.indeedblog.com/feed/",
+      "icon_url": null,
+      "id": "aa6d8986-9844-5a47-8f01-adbcc271bbf4",
+      "language_tag": "en-us",
+      "title": "Indeed Engineering Blog",
+      "website_url": null
+    },
+    {
+      "description": "Alex Russell on browsers, standards, and the process of progress.",
+      "feed_format": "atom",
+      "feed_url": "https://infrequently.org/feed/",
+      "icon_url": null,
+      "id": "ae068082-74c6-5d48-8f59-eeb1c60f5324",
+      "language_tag": null,
+      "title": "Infrequently Noted",
+      "website_url": "https://infrequently.org/"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://innovation.ebayinc.com/stories/rss",
+      "icon_url": null,
+      "id": "0867fb60-15ca-504e-b6e4-f7926ccd37e2",
+      "language_tag": null,
+      "title": "Innovation Stories",
+      "website_url": "https://innovation.ebayinc.com/stories/rss"
+    },
+    {
+      "description": "Articles, videos and experiments by iO Developers",
+      "feed_format": "rss",
+      "feed_url": "https://techhub.iodigital.com/feed.xml",
+      "icon_url": null,
+      "id": "2033f0f6-0aad-5a6f-8a79-3b12a9641f4c",
+      "language_tag": "en-us",
+      "title": "iO tech_hub",
+      "website_url": "https://techhub.iodigital.com/blog"
+    },
+    {
+      "description": "All the latest information about the IPFS Project in one place: blog posts, release notes, videos, news coverage, and more.",
+      "feed_format": "rss",
+      "feed_url": "https://blog.ipfs.tech/index.xml",
+      "icon_url": null,
+      "id": "53857b58-158e-5ac5-98d9-122d2665ec69",
+      "language_tag": null,
+      "title": "IPFS Blog & News",
+      "website_url": "https://blog.ipfs.tech/"
+    },
+    {
+      "description": "Lazarus Lazaridis' personal blog with posts mostly related to programming and opensource. And cats.",
+      "feed_format": "rss",
+      "feed_url": "https://iridakos.com/feed.xml",
+      "icon_url": null,
+      "id": "6f5b1915-7f84-577f-b499-317bb4780105",
+      "language_tag": null,
+      "title": "iridakos",
+      "website_url": "https://iridakos.com/"
+    },
+    {
+      "description": "Thoughts, stories and ideas.",
+      "feed_format": "rss",
+      "feed_url": "https://jack.ofspades.com/rss/index.html",
+      "icon_url": null,
+      "id": "68f1f235-b7ef-5087-93b7-497f5a0e63df",
+      "language_tag": null,
+      "title": "Jack Tarantino",
+      "website_url": "https://jack.ofspades.com/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://jakewharton.com/atom.xml",
+      "icon_url": null,
+      "id": "0adbaa8e-6bfe-5495-b16f-c70dc87c15cd",
+      "language_tag": null,
+      "title": "Jake Wharton",
+      "website_url": "https://jakewharton.com/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://jaketrent.com/post/feed.xml",
+      "icon_url": null,
+      "id": "10ef29eb-e3cd-5d76-be85-566a02bce099",
+      "language_tag": null,
+      "title": "jaketrent.com",
+      "website_url": "https://jaketrent.com/post"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://archive.jlongster.com/atom.xml",
+      "icon_url": null,
+      "id": "bf88c32f-f880-50fb-aace-9f6780cc4fba",
+      "language_tag": null,
+      "title": "James Long",
+      "website_url": "https://archive.jlongster.com/"
+    },
+    {
+      "description": "OCaml and Systems rolled into one",
+      "feed_format": "rss",
+      "feed_url": "https://blog.janestreet.com/feed.xml",
+      "icon_url": null,
+      "id": "3984d3e0-8c26-540c-807a-befe9cb2d23a",
+      "language_tag": null,
+      "title": "Jane Street Blog",
+      "website_url": "https://blog.janestreet.com/"
+    },
+    {
+      "description": "Best Practices and Lessons Learned from Writing Awesome Java and SQL Code. Get some hands-on insight on what's behind developing jOOQ.",
+      "feed_format": "rss",
+      "feed_url": "https://blog.jooq.org/feed/",
+      "icon_url": null,
+      "id": "645773df-03b6-587d-88d7-03773368fc5b",
+      "language_tag": "en-US",
+      "title": "Java, SQL and jOOQ.",
+      "website_url": null
+    },
+    {
+      "description": "experiences in software development",
+      "feed_format": "atom",
+      "feed_url": "http://feeds.feedburner.com/jayfields/mjKQ",
+      "icon_url": null,
+      "id": "74d6cdef-9801-50b7-88d8-c90f2c264e35",
+      "language_tag": null,
+      "title": "Jay Fields' Thoughts",
+      "website_url": "http://blog.jayfields.com/"
+    },
+    {
+      "description": "Curiosity in Practice",
+      "feed_format": "rss",
+      "feed_url": "https://jerrygamblin.com/feed/",
+      "icon_url": null,
+      "id": "52ac137d-a49f-5a1f-8d2d-71e231151cc9",
+      "language_tag": "en-US",
+      "title": "JerryGamblin.com",
+      "website_url": null
+    },
+    {
+      "description": "Seasoned full-stack developer from sunny Los Angeles. Started my programming adventures at an early age, writing code for fun.",
+      "feed_format": "atom",
+      "feed_url": "https://jes.al/atom.xml",
+      "icon_url": null,
+      "id": "5c8ca7c6-efb4-5494-9e12-35b9f2e2e472",
+      "language_tag": null,
+      "title": "Jesal Gadhia",
+      "website_url": "https://jes.al/"
+    },
+    {
+      "description": "430 статей от авторов компании JetBrains",
+      "feed_format": "rss",
+      "feed_url": "https://habr.com/ru/rss/companies/jetbrains/articles/?fl=ru",
+      "icon_url": "https://habrastorage.org/webt/ym/el/wk/ymelwk3zy1gawz4nkejl_-ammtc.png",
+      "id": "cf1246f3-ec6a-5185-be91-6703942e60ab",
+      "language_tag": "ru",
+      "title": "JetBrains - Делаем эффективные инструменты для разработчиков с 1 февраля 2000 г. / Статьи",
+      "website_url": "https://habr.com/ru/companies/JetBrains/articles/"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://www.joelonsoftware.com/feed/",
+      "icon_url": null,
+      "id": "80b33de9-a100-5d27-9f90-65ace05ea13e",
+      "language_tag": "en-US",
+      "title": "Joel on Software",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://codeblog.jonskeet.uk/feed/",
+      "icon_url": null,
+      "id": "7d1a266c-80b5-561e-b2cc-f3d4f2aa7f38",
+      "language_tag": "en",
+      "title": "Jon Skeet's coding blog",
+      "website_url": null
+    },
+    {
+      "description": "Friendly articles and tutorials for front-end web developers. ❤️",
+      "feed_format": "rss",
+      "feed_url": "https://www.joshwcomeau.com/rss.xml",
+      "icon_url": null,
+      "id": "bca38538-7ab2-523b-9a1b-e4aae5fdddd1",
+      "language_tag": null,
+      "title": "Josh Comeau's blog",
+      "website_url": "https://www.joshwcomeau.com/"
+    },
+    {
+      "description": "Parsing, performance, and low-level programming.",
+      "feed_format": "rss",
+      "feed_url": "https://blog.reverberate.org/feed.xml",
+      "icon_url": null,
+      "id": "0c7c8036-f9fb-51d8-8d20-5198888644fc",
+      "language_tag": null,
+      "title": "Josh Haberman",
+      "website_url": "https://blog.reverberate.org/"
+    },
+    {
+      "description": "Shipping Fixes Everything",
+      "feed_format": "rss",
+      "feed_url": "https://joshtronic.com/rss.xml",
+      "icon_url": null,
+      "id": "8d1c4d51-7935-562c-ac55-2271b86dc860",
+      "language_tag": "en",
+      "title": "Joshtronic",
+      "website_url": "https://joshtronic.com/"
+    },
+    {
+      "description": "Juan Treminio - Dallas based senior web developer",
+      "feed_format": "rss",
+      "feed_url": "https://jtreminio.com/feed",
+      "icon_url": null,
+      "id": "ac457318-974a-5051-831a-e338c0cb385b",
+      "language_tag": null,
+      "title": "Juan Treminio - Senior Web Developer Blog",
+      "website_url": "https://jtreminio.com/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://jvns.ca/atom.xml",
+      "icon_url": null,
+      "id": "bc25474f-e0ea-5378-bed8-92278d1011c9",
+      "language_tag": null,
+      "title": "Julia Evans",
+      "website_url": "https://jvns.ca/"
+    },
+    {
+      "description": "Senior Software Engineer & Stutterer Conference Speaker. Happy husband & dad. Maintains Corcel PHP, elePHPant.me and PHPMG. Engineering Manager @ Paddle",
+      "feed_format": "rss",
+      "feed_url": "https://blog.jgrossi.com/feed/",
+      "icon_url": null,
+      "id": "85911c64-78a0-5c7e-a9da-a0a55a548fd4",
+      "language_tag": "en-US",
+      "title": "Junior Grossi",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://www.justinweiss.com/atom.xml",
+      "icon_url": null,
+      "id": "0227c463-0eb4-529f-8a81-8155aaf8bac1",
+      "language_tag": null,
+      "title": "Justin Weiss",
+      "website_url": "https://www.justinweiss.com/"
+    },
+    {
+      "description": "Khan Academy Engineering's blog",
+      "feed_format": "rss",
+      "feed_url": "https://engineering.khanacademy.org/rss.xml",
+      "icon_url": null,
+      "id": "90bb0d2a-1920-5260-9255-f7f035b5e541",
+      "language_tag": null,
+      "title": "KA Engineering",
+      "website_url": "http://engineering.khanacademy.org/"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://kaiostech.com/feed/",
+      "icon_url": null,
+      "id": "9bfa8c14-84f8-5d82-8d05-e10f483499d9",
+      "language_tag": "en-US",
+      "title": "KaiOS",
+      "website_url": null
+    },
+    {
+      "description": "The golden age is before us, not behind us",
+      "feed_format": "rss",
+      "feed_url": "https://kevin.burke.dev/feed/",
+      "icon_url": null,
+      "id": "a864b81c-f4f5-5fbc-bbea-b6801fa927f7",
+      "language_tag": "en-US",
+      "title": "Kevin Burke",
+      "website_url": null
+    },
+    {
+      "description": "Kinvolk Blog",
+      "feed_format": "atom",
+      "feed_url": "https://kinvolk.io/blog/atom.xml",
+      "icon_url": "https://kinvolk.io/img/logo.svg",
+      "id": "9217e7dd-4f77-5059-b927-dbbeab88a670",
+      "language_tag": null,
+      "title": "Kinvolk Blog",
+      "website_url": "https://kinvolk.io/blog"
+    },
+    {
+      "description": "Kinvolk Blog",
+      "feed_format": "rss",
+      "feed_url": "https://kinvolk.io/blog/rss.xml",
+      "icon_url": null,
+      "id": "f5195686-4357-5315-8829-5e5a621d8c42",
+      "language_tag": "en",
+      "title": "Kinvolk Blog",
+      "website_url": "https://kinvolk.io/blog"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://devblog.kogan.com/blog?format=rss",
+      "icon_url": null,
+      "id": "cd4cbb85-9940-52de-ba44-681b8446df59",
+      "language_tag": "en-US",
+      "title": "Kogan.com Dev Blog",
+      "website_url": "https://devblog.kogan.com/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://lackingrhoticity.blogspot.com/feeds/posts/default",
+      "icon_url": null,
+      "id": "89990ab5-8533-59c7-9b9c-5178179df556",
+      "language_tag": null,
+      "title": "Lacking Rhoticity",
+      "website_url": "https://lackingrhoticity.blogspot.com/"
+    },
+    {
+      "description": "All about engineering at Blinkit —India’s beloved instant delivery platform. - Medium",
+      "feed_format": "rss",
+      "feed_url": "https://lambda.blinkit.com/feed",
+      "icon_url": null,
+      "id": "bbf3e2c9-6ab2-594c-ad0b-022637177cc0",
+      "language_tag": null,
+      "title": "Lambda by Blinkit - Medium",
+      "website_url": "https://lambda.blinkit.com/?source=rss----42df4a1e8725---4"
+    },
+    {
+      "description": "Your official Laravel news source.",
+      "feed_format": "rss",
+      "feed_url": "https://feed.laravel-news.com/",
+      "icon_url": null,
+      "id": "94270426-a7f9-5e20-b009-37586bd3257a",
+      "language_tag": "en-US",
+      "title": "Laravel News",
+      "website_url": null
+    },
+    {
+      "description": "Larry Gadea's random ramblings",
+      "feed_format": "rss",
+      "feed_url": "https://lg.io/feed.xml",
+      "icon_url": null,
+      "id": "e00d4127-e08c-5fcd-a57b-dd25f7b86d85",
+      "language_tag": null,
+      "title": "Larry Land",
+      "website_url": "https://lg.io/"
+    },
+    {
+      "description": "Web standards, Software Engineering, Product, Usability, and more",
+      "feed_format": "atom",
+      "feed_url": "https://lea.verou.me/feed.xml",
+      "icon_url": null,
+      "id": "65430bbf-8765-5f0d-a51a-bece21137182",
+      "language_tag": null,
+      "title": "Lea Verou’s blog",
+      "website_url": "https://lea.verou.me/"
+    },
+    {
+      "description": "In-depth articles and tutorials on user interface design, including color, typography, design process, and more.",
+      "feed_format": "atom",
+      "feed_url": "https://www.learnui.design/feed.xml",
+      "icon_url": null,
+      "id": "f460553a-382a-5d5f-9711-6d5ecd61612f",
+      "language_tag": null,
+      "title": "Learn UI Design - Blog",
+      "website_url": "https://learnui.design/"
+    },
+    {
+      "description": "Python, Pandas, and Git courses, mentored by Reuven Lerner",
+      "feed_format": "rss",
+      "feed_url": "https://lernerpython.com/feed/",
+      "icon_url": null,
+      "id": "a2a559b4-919e-5233-9d28-4dafca9f8ed4",
+      "language_tag": "en-US",
+      "title": "LernerPython",
+      "website_url": null
+    },
+    {
+      "description": "All about Machine Learning, Linux, Android, Web and of course Life",
+      "feed_format": "atom",
+      "feed_url": "https://lifepluslinux.blogspot.com/feeds/posts/default",
+      "icon_url": null,
+      "id": "aefa3da6-9252-5f10-8898-11835af6f806",
+      "language_tag": null,
+      "title": "Life plus Linux",
+      "website_url": "https://lifepluslinux.blogspot.com/"
+    },
+    {
+      "description": "linux, android, aosp, embedded",
+      "feed_format": "rss",
+      "feed_url": "https://nativeguru.wordpress.com/feed/",
+      "icon_url": null,
+      "id": "18b21848-c5cb-586d-81a4-e3252b52e256",
+      "language_tag": "en",
+      "title": "Linux, Embedded, Android and Security blog",
+      "website_url": null
+    },
+    {
+      "description": "Linux and Open Source Blog",
+      "feed_format": "rss",
+      "feed_url": "https://linuxblog.io/feed/",
+      "icon_url": null,
+      "id": "48884029-0520-5448-ac10-6594ccc4147e",
+      "language_tag": "en-US",
+      "title": "LinuxBlog.io",
+      "website_url": null
+    },
+    {
+      "description": "Localizely blog about software localization.",
+      "feed_format": "rss",
+      "feed_url": "https://localizely.com/feed.xml",
+      "icon_url": null,
+      "id": "f6ba7e94-d62f-5618-b063-a96ef9c45742",
+      "language_tag": "en-US",
+      "title": "Localizely Blog",
+      "website_url": "https://localizely.com/blog/"
+    },
+    {
+      "description": "Join our engineers where we talk about solutions to problems presented by big data and the race for big speed.",
+      "feed_format": "rss",
+      "feed_url": "https://eng.localytics.com/rss/",
+      "icon_url": null,
+      "id": "12d70cfb-9294-5f70-abb5-87c1badd9fed",
+      "language_tag": null,
+      "title": "LocalyticsEng",
+      "website_url": "https://eng.localytics.com/"
+    },
+    {
+      "description": "Resources to Help Product Teams Ship Amazing Digital Experiences",
+      "feed_format": "rss",
+      "feed_url": "https://blog.logrocket.com/feed/",
+      "icon_url": null,
+      "id": "a9ed6ae9-cee4-53f2-9a23-938df8f6a637",
+      "language_tag": "en-US",
+      "title": "LogRocket Blog",
+      "website_url": null
+    },
+    {
+      "description": "Cloud Architect and Fullstack Developer",
+      "feed_format": "rss",
+      "feed_url": "https://loige.co/rss.xml",
+      "icon_url": null,
+      "id": "9b1ff89e-a325-52ec-98d8-456a6a2f376a",
+      "language_tag": null,
+      "title": "Luciano Mammino",
+      "website_url": "https://loige.co/"
+    },
+    {
+      "description": "Stories from Lyft Engineering. - Medium",
+      "feed_format": "rss",
+      "feed_url": "https://eng.lyft.com/feed",
+      "icon_url": null,
+      "id": "e2c42151-3216-5039-a596-dcc51a6073b3",
+      "language_tag": null,
+      "title": "Lyft Engineering - Medium",
+      "website_url": "https://eng.lyft.com/?source=rss----25cd379abb8---4"
+    },
+    {
+      "description": "Speed optimization tips for improving the performance of your website",
+      "feed_format": "rss",
+      "feed_url": "https://machmetrics.com/speed-blog/feed/",
+      "icon_url": null,
+      "id": "d9f04d84-255f-5ac7-966d-2cc458df11c5",
+      "language_tag": "en-US",
+      "title": "MachMetrics Speed Blog",
+      "website_url": null
+    },
+    {
+      "description": "News from MapTiler mapping platform",
+      "feed_format": "rss",
+      "feed_url": "https://www.maptiler.com/news/feed/posts.xml",
+      "icon_url": null,
+      "id": "024d7e07-6ac0-5b04-b209-c1df070e63ab",
+      "language_tag": "en",
+      "title": "MapTiler News",
+      "website_url": "https://www.maptiler.com/"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://idea.popcount.org/rss.xml",
+      "icon_url": null,
+      "id": "52f4bd45-a666-5453-a963-6b374abf9c31",
+      "language_tag": "en-gb",
+      "title": "Marek's idea of the day",
+      "website_url": "https://idea.popcount.org/"
+    },
+    {
+      "description": "Master feed of news and updates from martinfowler.com",
+      "feed_format": "atom",
+      "feed_url": "https://martinfowler.com/feed.atom",
+      "icon_url": null,
+      "id": "a726b0d8-279d-594d-aac3-f134d8c6034a",
+      "language_tag": null,
+      "title": "Martin Fowler",
+      "website_url": "https://martinfowler.com/"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://feeds.feedburner.com/martinkl?format=xml",
+      "icon_url": null,
+      "id": "56447b9e-cfb9-50af-b6f8-b23603e5c519",
+      "language_tag": "en",
+      "title": "Martin Kleppmann's blog",
+      "website_url": null
+    },
+    {
+      "description": "Mary Rose Cook's website. I'm a staff product engineer and tech lead at Airtable in San Francisco.",
+      "feed_format": "rss",
+      "feed_url": "https://maryrosecook.com/blog/feed.xml",
+      "icon_url": null,
+      "id": "751c85ac-6f4c-5e13-81b7-b6d17132bf92",
+      "language_tag": null,
+      "title": "Mary Rose Cook",
+      "website_url": "https://maryrosecook.com/"
+    },
+    {
+      "description": "Helping Your Journey to Senior Developer",
+      "feed_format": "rss",
+      "feed_url": "https://blog.master.dev/feed/",
+      "icon_url": null,
+      "id": "b80cd834-f874-58e8-8d1e-6bf57d4982c9",
+      "language_tag": "en-US",
+      "title": "Master.dev Blog RSS Feed",
+      "website_url": null
+    },
+    {
+      "description": "Recent content on Math ∩ Programming",
+      "feed_format": "rss",
+      "feed_url": "https://www.jeremykun.com/index.xml",
+      "icon_url": null,
+      "id": "42f7d699-2f2f-5625-ab57-e05dc56836e2",
+      "language_tag": "en-us",
+      "title": "Math ∩ Programming",
+      "website_url": "https://www.jeremykun.com/"
+    },
+    {
+      "description": "Formerly known as Idontgetoutmuch's Weblog",
+      "feed_format": "rss",
+      "feed_url": "https://idontgetoutmuch.wordpress.com/feed/",
+      "icon_url": null,
+      "id": "1e5ed988-5739-57e7-93e0-375cc2ce5d21",
+      "language_tag": "en",
+      "title": "Maths, Stats & Functional Programming",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://www.mattcutts.com/blog/feed/",
+      "icon_url": null,
+      "id": "308bc89b-1d03-5fc2-92ed-72767ae2e91c",
+      "language_tag": "en-US",
+      "title": "Matt Cutts: Gadgets, Google, and SEO",
+      "website_url": null
+    },
+    {
+      "description": "Matt Might's blog",
+      "feed_format": "rss",
+      "feed_url": "https://matt.might.net/articles/feed.rss",
+      "icon_url": null,
+      "id": "89c007ab-70cd-51aa-b35c-81beb7306a57",
+      "language_tag": "en-us",
+      "title": "Matt Might's blog",
+      "website_url": "http://matt.might.net/"
+    },
+    {
+      "description": "Browser internals, accessibility, ARIA, HTML and CSS articles",
+      "feed_format": "rss",
+      "feed_url": "https://www.maxdesign.com.au/feed.xml",
+      "icon_url": null,
+      "id": "96d58299-ab88-5a6d-b8a3-56324c3ce1da",
+      "language_tag": "en-au",
+      "title": "Max Design articles",
+      "website_url": "https://www.maxdesign.com.au/articles/"
+    },
+    {
+      "description": "Software development, Developer Relations, developer tools, AI, and lessons learned while building things.",
+      "feed_format": "atom",
+      "feed_url": "https://www.michaelcrump.net/feed.xml",
+      "icon_url": null,
+      "id": "8ed4c119-fd5e-57f1-911a-13afbd87b830",
+      "language_tag": null,
+      "title": "Michael Crump",
+      "website_url": "https://www.michaelcrump.net/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://mherman.org/feed.xml",
+      "icon_url": null,
+      "id": "abe5a98f-de9e-54c3-af87-90fe2f121546",
+      "language_tag": null,
+      "title": "Michael Herman",
+      "website_url": "https://mherman.org/"
+    },
+    {
+      "description": "Get the latest information, insights, and news from Microsoft.",
+      "feed_format": "rss",
+      "feed_url": "https://devblogs.microsoft.com/landingpage/",
+      "icon_url": "https://devblogs.microsoft.com/wp-content/uploads/2024/10/Microsoft-favicon-48x48.jpg",
+      "id": "3067b2ec-3b0a-5d00-8944-f213c310d754",
+      "language_tag": "en-US",
+      "title": "Microsoft for Developers",
+      "website_url": null
+    },
+    {
+      "description": "Get the latest information, insights, and news from Microsoft.",
+      "feed_format": "rss",
+      "feed_url": "https://devblogs.microsoft.com/feed/",
+      "icon_url": "https://devblogs.microsoft.com/wp-content/uploads/2024/10/Microsoft-favicon-48x48.jpg",
+      "id": "b2321ccd-ecb8-5287-b175-e402791986c5",
+      "language_tag": "en-US",
+      "title": "Microsoft for Developers",
+      "website_url": null
+    },
+    {
+      "description": "Read the latest updates about all things Python at Microsoft",
+      "feed_format": "rss",
+      "feed_url": "https://devblogs.microsoft.com/python/feed/",
+      "icon_url": null,
+      "id": "49486b3e-ff6e-558b-9a40-14ff373c4ea7",
+      "language_tag": "en-US",
+      "title": "Microsoft for Python Developers Blog",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://miqu.me/atom.xml",
+      "icon_url": null,
+      "id": "12a9e250-8c20-5748-84cd-0aef3fbeb897",
+      "language_tag": null,
+      "title": "miqu.me",
+      "website_url": "http://miqu.me/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://feeds.feedburner.com/mishadoff",
+      "icon_url": null,
+      "id": "799a2b17-ec38-5fbf-af0b-c6fbe72c7825",
+      "language_tag": null,
+      "title": "mishadoff thoughts",
+      "website_url": "http://mishadoff.com/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://meowni.ca/atom.xml",
+      "icon_url": null,
+      "id": "4f6779df-7081-5f5b-8381-2a326ee637b7",
+      "language_tag": null,
+      "title": "Monica Dinculescu",
+      "website_url": "https://meowni.ca/"
+    },
+    {
+      "description": "hacks.mozilla.org",
+      "feed_format": "rss",
+      "feed_url": "https://hacks.mozilla.org/feed/",
+      "icon_url": null,
+      "id": "b9abaa25-cbea-5ecc-aca5-53e56b7b3723",
+      "language_tag": "en-US",
+      "title": "Mozilla Hacks – the Web developer blog",
+      "website_url": null
+    },
+    {
+      "description": "Making visual and interactive stuff",
+      "feed_format": "atom",
+      "feed_url": "https://muffinman.io/atom.xml",
+      "icon_url": null,
+      "id": "173588ae-6e09-59aa-b0be-1a0845faead1",
+      "language_tag": "en",
+      "title": "Muffin Man",
+      "website_url": "https://muffinman.io/"
+    },
+    {
+      "description": "The blog of Nate Berkopec, Ruby on Rails programmer.",
+      "feed_format": "rss",
+      "feed_url": "https://www.nateberkopec.com/feed.xml",
+      "icon_url": null,
+      "id": "d3f4bc23-210c-5158-bee8-8fa68cdbc1f1",
+      "language_tag": null,
+      "title": "Nate Berkopec",
+      "website_url": "https://www.nateberkopec.com/"
+    },
+    {
+      "description": "Nearform – Latest from our Insights & Digital Community",
+      "feed_format": "rss",
+      "feed_url": "https://nearform.com/feed/rss.xml",
+      "icon_url": null,
+      "id": "15ad2058-0f32-5a47-ace1-8785a52368d6",
+      "language_tag": "en-GB",
+      "title": "Nearform – Latest from our Insights & Digital Community",
+      "website_url": "https://nearform.com/insights"
+    },
+    {
+      "description": "Ramblings through technology, politics, culture and philosophy by the creator of the Python programming language.",
+      "feed_format": "atom",
+      "feed_url": "https://neopythonic.blogspot.com/feeds/posts/default",
+      "icon_url": null,
+      "id": "7c01f428-ff9d-5572-a4ab-1332b50ab706",
+      "language_tag": null,
+      "title": "Neopythonic",
+      "website_url": "https://neopythonic.blogspot.com/"
+    },
+    {
+      "description": "News and Blogs",
+      "feed_format": "rss",
+      "feed_url": "https://abilitynet.org.uk/news-blogs/feed.rss",
+      "icon_url": null,
+      "id": "aa1d13df-4506-5536-95fc-6f5126ee4a9e",
+      "language_tag": "en",
+      "title": "News and Blog",
+      "website_url": "https://abilitynet.org.uk/news-blogs"
+    },
+    {
+      "description": "Nextdoor is the neighborhood hub for trusted connections and the exchange of helpful information, goods, and services. We believe that by bringing neighbors together, we can cultivate a kinder world where everyone has a neighborhood they can rely on. - Medium",
+      "feed_format": "rss",
+      "feed_url": "https://engblog.nextdoor.com/feed",
+      "icon_url": null,
+      "id": "8fdb5f9b-f294-5c3b-8042-79c728448d08",
+      "language_tag": null,
+      "title": "Nextdoor Engineering - Medium",
+      "website_url": "https://engblog.nextdoor.com/?source=rss----5e54f11cdfdf---4"
+    },
+    {
+      "description": "Software Imagineering",
+      "feed_format": "rss",
+      "feed_url": "https://nickcraver.com/blog/feed.xml",
+      "icon_url": null,
+      "id": "d9792e1c-b618-51eb-818d-726f7b29e054",
+      "language_tag": "en-US",
+      "title": "Nick Craver",
+      "website_url": null
+    },
+    {
+      "description": "Recent content on Nick Desaulniers",
+      "feed_format": "rss",
+      "feed_url": "https://nickdesaulniers.github.io/index.xml",
+      "icon_url": null,
+      "id": "51149ef8-4965-596f-b3c1-96a73d1cee98",
+      "language_tag": "en-us",
+      "title": "Nick Desaulniers",
+      "website_url": "https://nickdesaulniers.github.io/"
+    },
+    {
+      "description": "Tackling software development with a dose of humor",
+      "feed_format": "atom",
+      "feed_url": "https://nikola-breznjak.com/blog/feed/atom/",
+      "icon_url": null,
+      "id": "07a35e16-3923-5993-a03f-3dd0104361d1",
+      "language_tag": "en-US",
+      "title": "Nikola Brežnjak blog",
+      "website_url": "https://nikola-breznjak.com/blog"
+    },
+    {
+      "description": "You. Me. Java.",
+      "feed_format": "rss",
+      "feed_url": "https://nipafx.dev/feed.xml",
+      "icon_url": "https://nipafx.dev/logo-bg.png",
+      "id": "727c82f9-fa37-56cf-b054-b049e798511e",
+      "language_tag": "en-us",
+      "title": "nipafx",
+      "website_url": "https://nipafx.dev/"
+    },
+    {
+      "description": "The latest articles and announcements from Nielsen Norman Group",
+      "feed_format": "rss",
+      "feed_url": "https://www.nngroup.com/feed/rss/",
+      "icon_url": null,
+      "id": "19390383-9ca4-53ee-a7d3-87816f435ce6",
+      "language_tag": "en-us",
+      "title": "NN/g latest articles and announcements",
+      "website_url": "https://www.nngroup.com/feed/rss/"
+    },
+    {
+      "description": "Making the world programmable",
+      "feed_format": "rss",
+      "feed_url": "https://nordicapis.com/feed/",
+      "icon_url": null,
+      "id": "fec20e0e-adf7-5228-8737-1acc5c708466",
+      "language_tag": "en-US",
+      "title": "Nordic APIs",
+      "website_url": null
+    },
+    {
+      "description": "Mac OS X and Cocoa programming",
+      "feed_format": "rss",
+      "feed_url": "https://www.mikeash.com/pyblog/rss.py",
+      "icon_url": null,
+      "id": "b4ae9e7e-4ff3-57f8-898a-b23f347bfff3",
+      "language_tag": null,
+      "title": "NSBlog",
+      "website_url": "http://www.mikeash.com/pyblog/"
+    },
+    {
+      "description": "NSHipster is a journal of the overlooked bits in Objective-C, Swift, and Cocoa.",
+      "feed_format": "atom",
+      "feed_url": "https://nshipster.com/feed.xml",
+      "icon_url": null,
+      "id": "371ee03b-09d0-5a64-a33f-4f6b5d382130",
+      "language_tag": "en-US",
+      "title": "NSHipster",
+      "website_url": "https://nshipster.com/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://nullprogram.com/feed/",
+      "icon_url": null,
+      "id": "625aab6e-18d0-5a03-98af-ceff63c6e74a",
+      "language_tag": null,
+      "title": "null program",
+      "website_url": "https://nullprogram.com/"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://blogs.nvidia.com/feed/",
+      "icon_url": null,
+      "id": "dc6eabbe-af6c-5c49-8e2e-8f923f9d9cc7",
+      "language_tag": "en-US",
+      "title": "NVIDIA Blog",
+      "website_url": null
+    },
+    {
+      "description": "News and tutorials for developers, data scientists, and IT admins",
+      "feed_format": "atom",
+      "feed_url": "https://developer.nvidia.com/blog/feed",
+      "icon_url": null,
+      "id": "24cb339b-ac5c-5e1c-aea0-52f4f1a78e30",
+      "language_tag": null,
+      "title": "NVIDIA Technical Blog",
+      "website_url": "https://developer.nvidia.com/blog"
+    },
+    {
+      "description": "We do technology-based consulting, branding, design, and development. Making the web better one site at a time, with a focus on performance, usability & SEO",
+      "feed_format": "rss",
+      "feed_url": "https://nystudio107.com/blog/feed",
+      "icon_url": null,
+      "id": "0827e94f-dc3a-5cfc-9a80-780e14b974bd",
+      "language_tag": "en",
+      "title": "nystudio107 | Articles on modern web development.",
+      "website_url": "https://nystudio107.com/"
+    },
+    {
+      "description": "Le blog d'OCTO Technology, cabinet de conseil et de réalisation IT",
+      "feed_format": "rss",
+      "feed_url": "https://blog.octo.com/feed",
+      "icon_url": null,
+      "id": "a17c4bad-8a60-5cc6-85f3-a9baa067ddfb",
+      "language_tag": "fr-FR",
+      "title": "OCTO Talks !",
+      "website_url": "https://blog.octo.com/"
+    },
+    {
+      "description": "Scalable, accessible, and performant web applications with a human-centered design.",
+      "feed_format": "atom",
+      "feed_url": "https://www.oddbird.net/feed.atom",
+      "icon_url": null,
+      "id": "89231b1e-1a34-571e-ae46-4c0870effb96",
+      "language_tag": null,
+      "title": "OddBird",
+      "website_url": "https://www.oddbird.net/"
+    },
+    {
+      "description": "Secure, scalable, and highly available authentication and user management for any app.",
+      "feed_format": "rss",
+      "feed_url": "https://developer.okta.com/feed.xml",
+      "icon_url": null,
+      "id": "6d624829-6e7c-5d12-bcbe-e44070a19115",
+      "language_tag": null,
+      "title": "Okta Developer",
+      "website_url": "https://developer.okta.com/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://oleb.net/blog/atom.xml",
+      "icon_url": null,
+      "id": "cf2d49e6-80e9-58cd-97ad-53d1ff16f2df",
+      "language_tag": null,
+      "title": "Ole Begemann",
+      "website_url": "https://oleb.net/blog/"
+    },
+    {
+      "description": "A blog by Dan Abramov",
+      "feed_format": "rss",
+      "feed_url": "https://overreacted.io/rss.xml",
+      "icon_url": null,
+      "id": "d7c3206d-c8e9-536d-aa0a-8fe7098a6043",
+      "language_tag": null,
+      "title": "overreacted — A blog by Dan Abramov",
+      "website_url": "https://overreacted.io/"
+    },
+    {
+      "description": "Palantir Blog - Medium",
+      "feed_format": "rss",
+      "feed_url": "https://blog.palantir.com/feed",
+      "icon_url": null,
+      "id": "ddf77e7c-e86b-56be-8c09-36ff853b7a9c",
+      "language_tag": null,
+      "title": "Palantir Blog - Medium",
+      "website_url": "https://blog.palantir.com/?source=rss----3c87dc14372f---4"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://blog.pamelafox.org/feeds/posts/default",
+      "icon_url": null,
+      "id": "0f59cfbe-f3aa-5979-9220-d4b2bd25d1ea",
+      "language_tag": null,
+      "title": "pamela fox's blog",
+      "website_url": "https://blog.pamelafox.org/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://feeds2.feedburner.com/patshaughnessy",
+      "icon_url": null,
+      "id": "fba48aa7-9531-5121-87c1-bd370d417c4c",
+      "language_tag": null,
+      "title": "Pat Shaughnessy",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://feeds.feedburner.com/paul-irish",
+      "icon_url": null,
+      "id": "7df9f299-6c65-59b1-bf48-e2236b4c0005",
+      "language_tag": null,
+      "title": "Paul Irish",
+      "website_url": "https://paulirish.com/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://performance.shopify.com/blogs/blog.atom",
+      "icon_url": null,
+      "id": "cef41944-5e65-55eb-8f50-e279bf561942",
+      "language_tag": "en",
+      "title": "Performance @ Shopify - Blog",
+      "website_url": "https://performance.shopify.com/blogs/blog"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://mattwarren.org/atom.xml",
+      "icon_url": null,
+      "id": "f8c0d80b-ace1-5206-b114-a59ac25e01c4",
+      "language_tag": null,
+      "title": "Performance is a Feature!",
+      "website_url": "http://www.mattwarren.org/"
+    },
+    {
+      "description": "Articles by Peter Norvig",
+      "feed_format": "rss",
+      "feed_url": "https://www.norvig.com/rss-feed.xml",
+      "icon_url": null,
+      "id": "e309cbfc-b226-51ef-89be-7aba026c09b6",
+      "language_tag": "en-us",
+      "title": "Peter Norvig",
+      "website_url": "http://www.norvig.com/"
+    },
+    {
+      "description": "AI-powered tools from Swift roots to web frontiers. Every commit lands on GitHub for you to fork & remix.",
+      "feed_format": "rss",
+      "feed_url": "https://steipete.me/rss.xml",
+      "icon_url": null,
+      "id": "9c0ee767-34bf-5df2-8670-34f9e4a6e47d",
+      "language_tag": null,
+      "title": "Peter Steinberger",
+      "website_url": "https://steipete.me/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://feeds.feedburner.com/philipwalton",
+      "icon_url": null,
+      "id": "53046c97-926d-5d0b-a0ef-0f63335331d5",
+      "language_tag": null,
+      "title": "Philip Walton",
+      "website_url": "https://philipwalton.com/"
+    },
+    {
+      "description": "Inventive engineers building the first visual discovery engine, 300 billion ideas and counting. - Medium",
+      "feed_format": "rss",
+      "feed_url": "https://medium.com/feed/pinterest-engineering",
+      "icon_url": null,
+      "id": "30e75446-6723-5850-b42d-651557cc33d8",
+      "language_tag": null,
+      "title": "Pinterest Engineering Blog - Medium",
+      "website_url": "https://medium.com/pinterest-engineering?source=rss----4c5a5f6279b6---4"
+    },
+    {
+      "description": "PHP, Symfony, Design Patterns",
+      "feed_format": "rss",
+      "feed_url": "http://piotrpasich.com/feed/",
+      "icon_url": null,
+      "id": "00cc6fb3-566f-5c13-9779-ded965af3645",
+      "language_tag": "en-US",
+      "title": "Piotr Pasich",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://planet.mozilla.org/releng/atom.xml",
+      "icon_url": null,
+      "id": "35639089-416f-5df4-8808-7a13b3f85cad",
+      "language_tag": null,
+      "title": "Planet Release Engineering",
+      "website_url": "https://planet.mozilla.org/releng/"
+    },
+    {
+      "description": "Plausible is a lightweight and open-source Google Analytics alternative. Your website data is 100% yours and the privacy of your visitors is respected.",
+      "feed_format": "atom",
+      "feed_url": "https://plausible.io/blog/feed.xml",
+      "icon_url": null,
+      "id": "18d12845-441a-5cfa-9be1-1db2cdea17a0",
+      "language_tag": null,
+      "title": "Plausible Analytics",
+      "website_url": "https://plausible.io/"
+    },
+    {
+      "description": "Polypane has everything a browser has, plus all the tools you need to build responsive, fast, accessible, and SEO-friendly websites and apps, with multi-viewport synchronised previews and accessibility tooling.",
+      "feed_format": "rss",
+      "feed_url": "https://polypane.app/rss.xml",
+      "icon_url": null,
+      "id": "f16d580b-b95f-58ea-80bd-1fd332a5b49a",
+      "language_tag": null,
+      "title": "Polypane Blog",
+      "website_url": "https://polypane.app/"
+    },
+    {
+      "description": "Latest articles published on Pony Foo",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.feedburner.com/ponyfoo",
+      "icon_url": null,
+      "id": "7e1c181e-93f9-5ed4-93a9-357b0cbd3384",
+      "language_tag": "en",
+      "title": "Pony Foo",
+      "website_url": "https://ponyfoo.com/"
+    },
+    {
+      "description": "Web Accessibility Resources",
+      "feed_format": "rss",
+      "feed_url": "https://blog.pope.tech/feed/",
+      "icon_url": null,
+      "id": "761d7e0a-95ba-518d-a7fd-9a0929b0ba03",
+      "language_tag": "en-US",
+      "title": "Pope Tech Resources",
+      "website_url": null
+    },
+    {
+      "description": "The official Postman blog",
+      "feed_format": "rss",
+      "feed_url": "https://blog.postman.com/feed/",
+      "icon_url": "https://blog.postman.com/wp-content/uploads/2021/11/cropped-favicon-32x32.png",
+      "id": "046e69ac-3b39-5860-bd59-cc2a6df3a213",
+      "language_tag": "en-US",
+      "title": "Postman Blog",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://postmarkapp.com/blog/feed.atom",
+      "icon_url": null,
+      "id": "ba36571c-8ab3-5ffa-95c8-1b86267eb175",
+      "language_tag": null,
+      "title": "Postmark (en-US)",
+      "website_url": "https://postmarkapp.com/blog"
+    },
+    {
+      "description": "Recent content in Posts on Made of Bugs",
+      "feed_format": "rss",
+      "feed_url": "https://blog.nelhage.com/atom.xml",
+      "icon_url": null,
+      "id": "5a6d2709-ff1f-56d6-9bac-5e3d0353ad19",
+      "language_tag": "en-us",
+      "title": "Posts on Made of Bugs",
+      "website_url": "https://blog.nelhage.com/post/"
+    },
+    {
+      "description": "Recent content in Posts on Matt Aimonetti",
+      "feed_format": "rss",
+      "feed_url": "https://matt.aimonetti.net/posts/index.xml",
+      "icon_url": null,
+      "id": "220e183f-16ad-5ce6-ad4a-534b3e13ee9b",
+      "language_tag": "en-us",
+      "title": "Posts on Matt Aimonetti",
+      "website_url": "https://matt.aimonetti.net/posts/"
+    },
+    {
+      "description": "Practically Efficient is Eddie Smith's personal blog.",
+      "feed_format": "rss",
+      "feed_url": "https://www.practicallyefficient.com/feed.xml",
+      "icon_url": null,
+      "id": "cfe3d136-ec74-5f77-9648-92dae81acad4",
+      "language_tag": null,
+      "title": "Practically Efficient",
+      "website_url": "http://www.practicallyefficient.com/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://preshing.com/feed",
+      "icon_url": null,
+      "id": "7879cca7-86a7-5ec3-82fa-e0f30bee5400",
+      "language_tag": null,
+      "title": "Preshing on Programming",
+      "website_url": "https://preshing.com/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://prog21.dadgum.com/atom.xml",
+      "icon_url": null,
+      "id": "bd276348-c72d-57a2-bda5-1d6946b06a1b",
+      "language_tag": null,
+      "title": "Programming in the 21st Century",
+      "website_url": "http://prog21.dadgum.com/"
+    },
+    {
+      "description": "Learn about new PubNub releases, industry trends, and app development tips.",
+      "feed_format": "rss",
+      "feed_url": "https://www.pubnub.com/feed/blog/",
+      "icon_url": null,
+      "id": "05b5208d-16f8-5e61-a54c-7004a7b72ab9",
+      "language_tag": "en-EN",
+      "title": "PubNub Blog",
+      "website_url": "https://www.pubnub.com/"
+    },
+    {
+      "description": "Pragmatic code – Happy users",
+      "feed_format": "rss",
+      "feed_url": "https://engineering.q42.nl/rss/",
+      "icon_url": null,
+      "id": "888de061-43f5-5072-a22d-2054668f1af9",
+      "language_tag": null,
+      "title": "Q42 Engineering",
+      "website_url": "https://engineering.q42.nl/"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://qubika.com/feed/",
+      "icon_url": "https://qubika.com/wp-content/uploads/2024/10/qubika-fav-120x120.png",
+      "id": "be398034-2ef5-5709-9b3f-cad948074f13",
+      "language_tag": "en-US",
+      "title": "Qubika",
+      "website_url": null
+    },
+    {
+      "description": "I build software products and write on the Internet.",
+      "feed_format": "rss",
+      "feed_url": "https://radek.io/rss",
+      "icon_url": null,
+      "id": "18126b32-4ea2-5cbf-8afe-0dd40be98bc1",
+      "language_tag": null,
+      "title": "Radek Pazdera — Full-stack Product Engineer",
+      "website_url": "https://radek.io/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://raganwald.com/atom.xml",
+      "icon_url": null,
+      "id": "4eb10503-72c5-50ae-a02c-839aa0398c5c",
+      "language_tag": null,
+      "title": "raganwald.com",
+      "website_url": "https://raganwald.com/"
+    },
+    {
+      "description": "Recent content on Ramblings from Jessie",
+      "feed_format": "rss",
+      "feed_url": "https://blog.jessfraz.com/index.xml",
+      "icon_url": null,
+      "id": "b29a7e7c-c28b-5937-9f63-a94417e9a553",
+      "language_tag": "en-us",
+      "title": "Ramblings from Jessie",
+      "website_url": "https://blog.jessfraz.com/"
+    },
+    {
+      "description": "Razorpay’s Engineering blog, decoding how we build India’s Financial Infrastructure backbone - Medium",
+      "feed_format": "rss",
+      "feed_url": "https://engineering.razorpay.com/feed",
+      "icon_url": "https://cdn-images-1.medium.com/proxy/1*TGH72Nnw24QL3iV9IOm4VA.png",
+      "id": "22c4341d-a500-52bc-ab23-5a5938e76abd",
+      "language_tag": null,
+      "title": "Razorpay Engineering - Medium",
+      "website_url": "https://engineering.razorpay.com/?source=rss----6407ad2e59af---4"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://www.rea-group.com/category/tech/feed/",
+      "icon_url": null,
+      "id": "e7c673ca-bdfe-5427-b798-95a78f058b2a",
+      "language_tag": "en-US",
+      "title": "REA Group Tech Blog | Engineering blog from the REA Group",
+      "website_url": null
+    },
+    {
+      "description": "ReactJS News!",
+      "feed_format": "rss",
+      "feed_url": "https://reactjsnews.com/feed.xml",
+      "icon_url": null,
+      "id": "67391518-c713-5899-b4e8-eefb91d7b06a",
+      "language_tag": null,
+      "title": "ReactJS News",
+      "website_url": "https://reactjsnews.com/"
+    },
+    {
+      "description": "Tips from experts, thoughts from leaders, news from the front line. Join the conversation beyond hyperconverged infrastructure to the enterprise cloud.",
+      "feed_format": "rss",
+      "feed_url": "https://www.nutanix.com/blog.rssfeed.xml",
+      "icon_url": "https://www.nutanix.com/content/dam/nutanix/images/thumb.png",
+      "id": "2af839cc-dab9-5ef4-94b4-5088ae402b2b",
+      "language_tag": "en_us",
+      "title": "Read the Latest Blogs from Nutanix",
+      "website_url": "https://www.nutanix.com/blog"
+    },
+    {
+      "description": "Web development",
+      "feed_format": "rss",
+      "feed_url": "https://redonion.se/en/feed/",
+      "icon_url": null,
+      "id": "481e92da-dd38-5c1d-8aa2-abd4bf2ac763",
+      "language_tag": "en-US",
+      "title": "Red Onion – Professional Web Development",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://www.red-lang.org/feeds/posts/default",
+      "icon_url": null,
+      "id": "d7fa4e53-3815-5127-acc4-595e0b569f8f",
+      "language_tag": null,
+      "title": "Red Programming Language",
+      "website_url": "https://www.red-lang.org/"
+    },
+    {
+      "description": "332 статьи от авторов компании red_mad_robot",
+      "feed_format": "rss",
+      "feed_url": "https://habr.com/ru/rss/companies/redmadrobot/articles/?fl=ru",
+      "icon_url": "https://habrastorage.org/webt/ym/el/wk/ymelwk3zy1gawz4nkejl_-ammtc.png",
+      "id": "158e98e1-7ef1-54ad-a0e1-e621cd853199",
+      "language_tag": "ru",
+      "title": "red_mad_robot - №1 в разработке цифровых решений для бизнеса с 16 ноября 2008 г. / Статьи",
+      "website_url": "https://habr.com/ru/companies/redmadrobot/articles/"
+    },
+    {
+      "description": "332 статьи от авторов компании red_mad_robot",
+      "feed_format": "rss",
+      "feed_url": "https://habr.com/ru/rss/companies/redmadrobot/articles/?fl=en",
+      "icon_url": "https://habrastorage.org/webt/ym/el/wk/ymelwk3zy1gawz4nkejl_-ammtc.png",
+      "id": "2d2aec88-1197-5cfe-b7d9-6d0d59929223",
+      "language_tag": "ru",
+      "title": "red_mad_robot - №1 в разработке цифровых решений для бизнеса с 16 ноября 2008 г. / Статьи",
+      "website_url": "https://habr.com/ru/companies/redmadrobot/articles/"
+    },
+    {
+      "description": "A mix of software development, processes, machine learning and data.",
+      "feed_format": "rss",
+      "feed_url": "https://regulargeek.com/feed/",
+      "icon_url": null,
+      "id": "b1a9ae3c-16df-58ce-857c-536730aca2f6",
+      "language_tag": "en",
+      "title": "Regular Geek",
+      "website_url": null
+    },
+    {
+      "description": "Code with purpose with our engineering team.",
+      "feed_format": "rss",
+      "feed_url": "https://engineering.remind.com/feed.xml",
+      "icon_url": null,
+      "id": "7ae6d371-7d17-5a53-b395-82135abc2aa5",
+      "language_tag": null,
+      "title": "Remind Engineering",
+      "website_url": "http://engineering.remind.com/"
+    },
+    {
+      "description": "Node.js Tutorials & Resources",
+      "feed_format": "rss",
+      "feed_url": "https://blog.risingstack.com/feed/",
+      "icon_url": null,
+      "id": "a717b700-a108-59a3-9483-17b3f4618733",
+      "language_tag": "en-US",
+      "title": "RisingStack Engineering",
+      "website_url": null
+    },
+    {
+      "description": "A blog about software development, Java and open source.",
+      "feed_format": "rss",
+      "feed_url": "https://mirocupak.com/feed.xml",
+      "icon_url": null,
+      "id": "3dc8e20b-6114-53f8-a333-8ea5a6d28870",
+      "language_tag": null,
+      "title": "Road to Craftsmanship",
+      "website_url": "https://mirocupak.com/"
+    },
+    {
+      "description": "Pragmatism in today's world",
+      "feed_format": "rss",
+      "feed_url": "https://akrabat.com/feed/",
+      "icon_url": null,
+      "id": "452143eb-39e7-5181-8cd4-cbe227839516",
+      "language_tag": "en-US",
+      "title": "Rob Allen",
+      "website_url": null
+    },
+    {
+      "description": "A remote-sensing PhD student talking about interesting things...",
+      "feed_format": "rss",
+      "feed_url": "https://blog.rtwilson.com/feed/",
+      "icon_url": null,
+      "id": "7211a60f-dae1-5f09-acdc-f28f5828ecb3",
+      "language_tag": "en-US",
+      "title": "Robin's Blog",
+      "website_url": null
+    },
+    {
+      "description": "RocksDB is an embeddable persistent key-value store for fast storage.",
+      "feed_format": "rss",
+      "feed_url": "https://rocksdb.org/feed.xml",
+      "icon_url": null,
+      "id": "49ecebc8-bf63-5e53-8a9c-dd10bdabffc4",
+      "language_tag": null,
+      "title": "RocksDB",
+      "website_url": "https://rocksdb.org/feed.xml"
+    },
+    {
+      "description": "Premium Linux Tutorials Since 2001",
+      "feed_format": "rss",
+      "feed_url": "https://www.rosehosting.com/blog/feed/",
+      "icon_url": null,
+      "id": "acc82ac7-583e-5e9a-8f56-fe3503a3e1fd",
+      "language_tag": "en-US",
+      "title": "RoseHosting",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://ruslanspivak.com/feeds/all.atom.xml",
+      "icon_url": null,
+      "id": "6a2ba80a-49b0-5954-afd6-1248e54b597c",
+      "language_tag": null,
+      "title": "Ruslan's Blog",
+      "website_url": "https://ruslanspivak.com/"
+    },
+    {
+      "description": "Writing about software, performance, Ruby, Discourse, and technology.",
+      "feed_format": "rss",
+      "feed_url": "https://samsaffron.com/feed.xml",
+      "icon_url": null,
+      "id": "1d9519f7-07e3-5265-8beb-baa335a9c3dd",
+      "language_tag": null,
+      "title": "Sam Saffron",
+      "website_url": "https://samsaffron.com/"
+    },
+    {
+      "description": "Practical stuff apart from my work in system design and software architecture.",
+      "feed_format": "rss",
+      "feed_url": "https://www.schakko.de/feed/",
+      "icon_url": null,
+      "id": "5eaee6e0-652a-5bb1-a0b3-e75228812c9d",
+      "language_tag": "en-US",
+      "title": "schakko.de",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://scientiamobile.com/blog/feed/",
+      "icon_url": null,
+      "id": "e2f40270-9a3a-5f95-b227-fa4c2d94301c",
+      "language_tag": "en-US",
+      "title": "ScientiaMobile Blog | Device Detection & Mobile Trends",
+      "website_url": null
+    },
+    {
+      "description": "Helping businesses to be more accessible and inclusive of disabled people",
+      "feed_format": "rss",
+      "feed_url": "https://business.scope.org.uk/feed/",
+      "icon_url": null,
+      "id": "fda2c83e-6822-503c-9d3e-92a793ac93be",
+      "language_tag": "en-GB",
+      "title": "Scope for business",
+      "website_url": null
+    },
+    {
+      "description": "Scott Hanselman on Programming, User Experience, The Zen of Computers and Life in General",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.hanselman.com/ScottHanselman",
+      "icon_url": null,
+      "id": "bfc007b9-b1b4-59a5-94e7-a59ab4407b94",
+      "language_tag": null,
+      "title": "Scott Hanselman's Blog",
+      "website_url": "https://www.hanselman.com/blog/"
+    },
+    {
+      "description": "This feed is brought to you by Scott Logic's team of technical authors and bloggers, covering topics including HTML5, iOS, C#, process, UX and practically anything else relating to software development.",
+      "feed_format": "atom",
+      "feed_url": "https://blog.scottlogic.com/atom.xml",
+      "icon_url": null,
+      "id": "4aabd7ae-9fea-55d0-900d-7c479628285d",
+      "language_tag": null,
+      "title": "Scott Logic",
+      "website_url": "https://blog.scottlogic.com/"
+    },
+    {
+      "description": "Search",
+      "feed_format": "rss",
+      "feed_url": "http://feeds.feedburner.com/InsideSearch",
+      "icon_url": null,
+      "id": "fdc8d01d-ebd4-5492-ac95-3277cab47ba6",
+      "language_tag": "en-us",
+      "title": "Search",
+      "website_url": "https://blog.google/products-and-platforms/products/search/"
+    },
+    {
+      "description": "Updates on changes and additions to the SEI Blog.",
+      "feed_format": "rss",
+      "feed_url": "https://www.sei.cmu.edu/blog/feeds/latest/rss/",
+      "icon_url": null,
+      "id": "6d2fd46f-45dd-5d90-8b1f-733396164e0c",
+      "language_tag": "en-us",
+      "title": "SEI Blog",
+      "website_url": "http://www.sei.cmu.edu/feeds/latest/"
+    },
+    {
+      "description": "The best CI/CD tool for high-performance engineering teams.",
+      "feed_format": "rss",
+      "feed_url": "https://semaphore.io/feed",
+      "icon_url": "https://semaphore.io/wp-content/uploads/2022/07/cropped-semaphore_logo2-32x32.png",
+      "id": "cd3aa06a-0169-5dd7-8926-5c3754b58bf1",
+      "language_tag": "en-US",
+      "title": "Semaphore",
+      "website_url": null
+    },
+    {
+      "description": "λ λ λ",
+      "feed_format": "rss",
+      "feed_url": "https://blog.fogus.me/feed.xml",
+      "icon_url": null,
+      "id": "ae26ea47-13eb-5efc-bfb3-6bda27feb3a9",
+      "language_tag": "en-US",
+      "title": "Send More Paramedics",
+      "website_url": null
+    },
+    {
+      "description": "Team sensible.io blog",
+      "feed_format": "atom",
+      "feed_url": "https://blog.sensible.io/rss",
+      "icon_url": null,
+      "id": "420c72e5-93e8-5bfb-aad4-54e3322fa66f",
+      "language_tag": null,
+      "title": "sensible.io blog",
+      "website_url": "http://blog.sensible.io/"
+    },
+    {
+      "description": "Product, Engineering, and Marketing updates from the developers of Sentry.",
+      "feed_format": "rss",
+      "feed_url": "https://blog.sentry.io/feed.xml",
+      "icon_url": null,
+      "id": "5e7fea3f-9e4b-56ee-be1a-5d532c6c75b4",
+      "language_tag": "en-us",
+      "title": "Sentry Blog",
+      "website_url": "https://blog.sentry.io/"
+    },
+    {
+      "description": "Link Building Strategies & SEO Tips",
+      "feed_format": "rss",
+      "feed_url": "https://ahrefs.com/blog/feed/",
+      "icon_url": null,
+      "id": "1d941fff-28cf-5b4d-af17-cfd12ab7ba35",
+      "language_tag": "en-US",
+      "title": "SEO Blog by Ahrefs",
+      "website_url": null
+    },
+    {
+      "description": "Articles about serverless architecture, AWS Lambda, and cloud computing.",
+      "feed_format": "rss",
+      "feed_url": "https://www.serverless.com/blog/rss.xml",
+      "icon_url": null,
+      "id": "e6d23002-a144-5c3b-808f-791f791db1bf",
+      "language_tag": "en",
+      "title": "Serverless Blog",
+      "website_url": "https://www.serverless.com/"
+    },
+    {
+      "description": "Grow your audience with easy-to-use sharing tools.",
+      "feed_format": "rss",
+      "feed_url": "https://sharethis.com/feed/",
+      "icon_url": null,
+      "id": "312c3625-890d-554a-8377-5a73726357ef",
+      "language_tag": "en-US",
+      "title": "ShareThis",
+      "website_url": null
+    },
+    {
+      "description": "Stories and resources from the teams who build and scale Shopify, the leading cloud-based, multi-channel commerce platform.",
+      "feed_format": "atom",
+      "feed_url": "https://shopify.engineering/blog.atom",
+      "icon_url": null,
+      "id": "dba9d678-2303-51c1-ae77-d2339301f79c",
+      "language_tag": null,
+      "title": "Shopify Engineering",
+      "website_url": "https://shopify.engineering/"
+    },
+    {
+      "description": "Signal Blog",
+      "feed_format": "rss",
+      "feed_url": "https://signal.org/blog/rss.xml",
+      "icon_url": null,
+      "id": "18d51035-f8c3-5b05-a25a-633c375d5eb3",
+      "language_tag": "en-us",
+      "title": "Signal Blog",
+      "website_url": "https://signal.org/blog/"
+    },
+    {
+      "description": "Enterprise Web Apps Done Right",
+      "feed_format": "rss",
+      "feed_url": "https://www.sitepen.com/rss.xml",
+      "icon_url": null,
+      "id": "ef4dc342-bc1c-5cf0-81d7-fa6d47806d06",
+      "language_tag": "en",
+      "title": "Sitepen",
+      "website_url": "https://www.sitepen.com/blog"
+    },
+    {
+      "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
+      "feed_format": "rss",
+      "feed_url": "https://www.sitepoint.com/sitepoint.rss",
+      "icon_url": null,
+      "id": "4448db61-15d8-5054-a005-3ebeabd5066e",
+      "language_tag": "en",
+      "title": "SitePoint",
+      "website_url": "https://www.sitepoint.com/"
+    },
+    {
+      "description": "Updates, articles and insights from the Sketch team.",
+      "feed_format": "atom",
+      "feed_url": "https://www.sketch.com/blog/feed.xml",
+      "icon_url": "https://www.sketch.com/images/metadata/preview-square.jpg",
+      "id": "09bb07d4-b607-520b-b747-c7f1c713febf",
+      "language_tag": null,
+      "title": "Sketch Blog",
+      "website_url": "https://www.sketch.com/"
+    },
+    {
+      "description": "Insights from the development team at Small Improvements",
+      "feed_format": "rss",
+      "feed_url": "https://tech.small-improvements.com/feed/",
+      "icon_url": null,
+      "id": "162120f1-a034-520e-a5bb-c987a59d0ae9",
+      "language_tag": "en-US",
+      "title": "Small Improvements Tech Blog",
+      "website_url": null
+    },
+    {
+      "description": "Pseudo-Random Thoughts on Computers, Society, and Security",
+      "feed_format": "rss",
+      "feed_url": "https://www.cs.columbia.edu/~smb/blog/control/blog.xml",
+      "icon_url": null,
+      "id": "25aa60c4-7375-5c56-96a4-3750219c4744",
+      "language_tag": null,
+      "title": "SMBlog -- Steve Bellovin's Blog",
+      "website_url": "https://www.cs.columbia.edu/~smb/blog"
+    },
+    {
+      "description": "Everything and Nothing",
+      "feed_format": "atom",
+      "feed_url": "https://snook.ca/posts/index.xml",
+      "icon_url": null,
+      "id": "3ff964ee-34f2-5fe8-80a7-35cf25a4dc3c",
+      "language_tag": "en",
+      "title": "Snook.ca",
+      "website_url": "https://snook.ca/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://sophiebits.com/atom.xml",
+      "icon_url": null,
+      "id": "fedd89ff-7960-5e30-833e-0b301a343e53",
+      "language_tag": null,
+      "title": "Sophie Alpert",
+      "website_url": "http://sophiebits.com/"
+    },
+    {
+      "description": "Revenue system insights for real estate and local service businesses.",
+      "feed_format": "rss",
+      "feed_url": "https://blog.soshace.com/feed/",
+      "icon_url": "https://blog.soshace.com/wp-content/uploads/2026/07/cropped-Avatar-—-profile-photo-1000x1000-1-32x32.png",
+      "id": "fb519762-2018-5aa9-a1ba-94cd60b083cd",
+      "language_tag": "en-US",
+      "title": "Soshace Digital Blog",
+      "website_url": null
+    },
+    {
+      "description": "SoundCloud's developer blog.",
+      "feed_format": "rss",
+      "feed_url": "https://developers.soundcloud.com/blog/blog.rss",
+      "icon_url": null,
+      "id": "e824e2fa-7be1-5bfa-8289-db8e22096e08",
+      "language_tag": null,
+      "title": "SoundCloud Backstage Blog",
+      "website_url": "https://developers.soundcloud.com/blog"
+    },
+    {
+      "description": "Speed matters. Get the latest on how the areas of design and performance overlap with a focus on creating great user experiences.",
+      "feed_format": "rss",
+      "feed_url": "https://www.speedcurve.com/blog/rss/",
+      "icon_url": null,
+      "id": "bda7ace2-dec8-5588-93e2-ad18fcdde11c",
+      "language_tag": null,
+      "title": "SpeedCurve Blog",
+      "website_url": "https://www.speedcurve.com/blog/"
+    },
+    {
+      "description": "Spotify’s official technology blog",
+      "feed_format": "rss",
+      "feed_url": "https://engineering.atspotify.com/feed",
+      "icon_url": null,
+      "id": "447b2f2d-4565-5139-b673-7e3ec812f6e0",
+      "language_tag": "en-US",
+      "title": "Spotify Engineering",
+      "website_url": null
+    },
+    {
+      "description": "The Official DuckDuckGo Blog",
+      "feed_format": "rss",
+      "feed_url": "https://spreadprivacy.com/rss/",
+      "icon_url": null,
+      "id": "83c73382-daac-5561-ad51-7eb7ed6cd733",
+      "language_tag": null,
+      "title": "Spread Privacy",
+      "website_url": "https://spreadprivacy.com/"
+    },
+    {
+      "description": "Buying and selling sound like simple things - and they should be. Somewhere along the way, they got complicated. At Square, we're working hard to make commerce easy for everyone.",
+      "feed_format": "rss",
+      "feed_url": "https://developer.squareup.com/blog/rss.xml",
+      "icon_url": "https://images.ctfassets.net/1wryd5vd9xez/17qESd8XPuZvSCU3GHMHrf/00c097e5856c932fb00eb4070726a574/0_AO2qs_6tDwapITR_.jpg",
+      "id": "8f0820f2-9351-5e70-b2be-0994fabcffc3",
+      "language_tag": null,
+      "title": "Square Corner Blog RSS Feed",
+      "website_url": "https://developer.squareup.com/"
+    },
+    {
+      "description": "At Squarespace, our mission is to provide creative tools that help anyone bring their ideas to life. In this blog you'll learn about the ups and downs of our engineering endeavors.",
+      "feed_format": "rss",
+      "feed_url": "https://engineering.squarespace.com/blog?format=rss",
+      "icon_url": null,
+      "id": "84b3bee6-bb84-5851-9833-b055c9b85f46",
+      "language_tag": "en-US",
+      "title": "Squarespace Engineering Blog",
+      "website_url": "https://engineering.squarespace.com/"
+    },
+    {
+      "description": "Learn Python, Java, JavaScript/Node, Machine Learning, and Web Development through articles, code examples, and tutorials for developers of all skill levels.",
+      "feed_format": "rss",
+      "feed_url": "https://stackabuse.com/rss/",
+      "icon_url": null,
+      "id": "385063c1-1401-5574-8df7-864a513bc3e7",
+      "language_tag": null,
+      "title": "Stack Abuse",
+      "website_url": "https://stackabuse.com/"
+    },
+    {
+      "description": "Essays, opinions, and advice on the act of computer programming from Stack Overflow.",
+      "feed_format": "rss",
+      "feed_url": "https://stackoverflow.blog/feed",
+      "icon_url": null,
+      "id": "493ee80a-b214-5275-ac1d-930885bc1adb",
+      "language_tag": "en-US",
+      "title": "Stack Overflow Blog",
+      "website_url": null
+    },
+    {
+      "description": "News, articles and all things JavaScript ecosystem - straight from the StackBlitz team! ⚡️",
+      "feed_format": "rss",
+      "feed_url": "https://blog.stackblitz.com/rss.xml",
+      "icon_url": null,
+      "id": "3a4d5be3-22dc-5451-9409-f457c119a7b5",
+      "language_tag": null,
+      "title": "StackBlitz Blog",
+      "website_url": "https://blog.stackblitz.com/"
+    },
+    {
+      "description": "Thoughts and Musings on the world of Java and beyond",
+      "feed_format": "atom",
+      "feed_url": "http://feeds.feedburner.com/StephenColebournesBlog",
+      "icon_url": null,
+      "id": "36dd9d7d-0d06-52a4-8350-243be33e8bbb",
+      "language_tag": null,
+      "title": "Stephen Colebourne's blog",
+      "website_url": "http://blog.joda.org/"
+    },
+    {
+      "description": "Random whining and stuff.",
+      "feed_format": "atom",
+      "feed_url": "https://steve-yegge.blogspot.com/feeds/posts/default",
+      "icon_url": null,
+      "id": "c6f9e31a-7139-5f34-a5e6-c3c58da4d4ab",
+      "language_tag": null,
+      "title": "Stevey's Blog Rants",
+      "website_url": "https://steve-yegge.blogspot.com/"
+    },
+    {
+      "description": "Stitch Fix is a full-stack startup creating unique solutions in data-driven merchandising, massively scaled personal styling, and complex logistics.",
+      "feed_format": "rss",
+      "feed_url": "https://multithreaded.stitchfix.com/feed.xml",
+      "icon_url": null,
+      "id": "c90f077d-469b-5d2f-9557-0c39a12c8351",
+      "language_tag": null,
+      "title": "Stitch Fix Technology – Multithreaded",
+      "website_url": "https://multithreaded.stitchfix.com/"
+    },
+    {
+      "description": "Stories by Brujo Benavides on Medium",
+      "feed_format": "rss",
+      "feed_url": "https://medium.com/feed/@elbrujohalcon",
+      "icon_url": null,
+      "id": "a652545f-96c2-5168-94a8-a2eaf6f49137",
+      "language_tag": null,
+      "title": "Stories by Brujo Benavides on Medium",
+      "website_url": "https://medium.com/@elbrujohalcon?source=rss-788b9596f013------2"
+    },
+    {
+      "description": "Stories by Daniel Schmidt on Medium",
+      "feed_format": "rss",
+      "feed_url": "https://medium.com/feed/@dschmidt1992",
+      "icon_url": null,
+      "id": "979358a4-10d1-543b-9472-d87c44ceae4d",
+      "language_tag": null,
+      "title": "Stories by Daniel Schmidt on Medium",
+      "website_url": "https://medium.com/@dschmidt1992?source=rss-d14afae26ab6------2"
+    },
+    {
+      "description": "Stories by Headspace on Medium",
+      "feed_format": "rss",
+      "feed_url": "https://medium.com/feed/@headspace",
+      "icon_url": "https://cdn-images-1.medium.com/fit/c/150/150/0*fsAXrVXInzvbRQMm.png",
+      "id": "261ff3b1-afd1-5a6c-bc7b-fd365263a881",
+      "language_tag": null,
+      "title": "Stories by Headspace on Medium",
+      "website_url": "https://medium.com/@headspace?source=rss-3da90e297190------2"
+    },
+    {
+      "description": "Stories by IceRock Development on Medium",
+      "feed_format": "rss",
+      "feed_url": "https://medium.com/feed/@icerock",
+      "icon_url": "https://cdn-images-1.medium.com/fit/c/150/150/2*GI4a7QPl8mwKeWrSGjAgJQ.png",
+      "id": "9fc8a31f-edd8-518c-88e3-528c13cc6d44",
+      "language_tag": null,
+      "title": "Stories by IceRock Development on Medium",
+      "website_url": "https://medium.com/@icerock?source=rss-2f461fccc401------2"
+    },
+    {
+      "description": "Stories by Kirill Shevch on Medium",
+      "feed_format": "rss",
+      "feed_url": "https://medium.com/feed/@kirill_shevch",
+      "icon_url": null,
+      "id": "7fa94fe5-2983-51c1-b7e6-a97593509a79",
+      "language_tag": null,
+      "title": "Stories by Kirill Shevch on Medium",
+      "website_url": "https://medium.com/@kirill_shevch?source=rss-53a304cfe7d0------2"
+    },
+    {
+      "description": "Stories by Pinterest Engineering on Medium",
+      "feed_format": "rss",
+      "feed_url": "https://medium.com/feed/@Pinterest_Engineering",
+      "icon_url": null,
+      "id": "ddec998e-4363-5dcb-a865-8e1f91094818",
+      "language_tag": null,
+      "title": "Stories by Pinterest Engineering on Medium",
+      "website_url": "https://medium.com/@Pinterest_Engineering?source=rss-ef81ef829bcb------2"
+    },
+    {
+      "description": "Stories by Skyscanner Engineering on Medium",
+      "feed_format": "rss",
+      "feed_url": "https://medium.com/feed/@SkyscannerEng",
+      "icon_url": null,
+      "id": "306f6f96-5bf5-5c0d-989c-959dbb7c706b",
+      "language_tag": null,
+      "title": "Stories by Skyscanner Engineering on Medium",
+      "website_url": "https://medium.com/@SkyscannerEng?source=rss-401f3b3c958f------2"
+    },
+    {
+      "description": "The Stripe Blog",
+      "feed_format": "rss",
+      "feed_url": "https://stripe.com/blog/feed.rss",
+      "icon_url": null,
+      "id": "fc0dc1bf-e251-5aa5-93fc-5c27f78cfed6",
+      "language_tag": null,
+      "title": "Stripe Blog",
+      "website_url": "https://stripe.com/blog"
+    },
+    {
+      "description": "Curiosity at Work",
+      "feed_format": "rss",
+      "feed_url": "https://www.surveymonkey.com/feed/",
+      "icon_url": null,
+      "id": "37cb9847-cd83-53ad-935e-3d11984c39e1",
+      "language_tag": "en-US",
+      "title": "SurveyMonkey",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://www.swift.org/atom.xml",
+      "icon_url": null,
+      "id": "b08fae59-820e-5dbe-9fe8-179371040f97",
+      "language_tag": null,
+      "title": "Swift.org",
+      "website_url": null
+    },
+    {
+      "description": "A geek with a hat",
+      "feed_format": "rss",
+      "feed_url": "https://swizec.com/rss.xml",
+      "icon_url": null,
+      "id": "2998208a-d4a7-5213-adc3-c19edb957e57",
+      "language_tag": "en-us",
+      "title": "Swizec Teller",
+      "website_url": "https://swizec.com/"
+    },
+    {
+      "description": "Software engineer and open source creator. This is my digital garden.",
+      "feed_format": "rss",
+      "feed_url": "https://tania.dev/rss.xml",
+      "icon_url": null,
+      "id": "9485ee59-f446-5a59-870d-2b38d6dc2041",
+      "language_tag": null,
+      "title": "Tania Rascia | RSS Feed",
+      "website_url": "https://www.taniarascia.com/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://target.github.io/feed.xml",
+      "icon_url": null,
+      "id": "c1c9e8f4-c6c8-560a-98ad-818acb809960",
+      "language_tag": "en",
+      "title": "target tech",
+      "website_url": "https://target.github.io/"
+    },
+    {
+      "description": "Updates and stories from Teamwork.com Engine Room - Medium",
+      "feed_format": "rss",
+      "feed_url": "https://engineroom.teamwork.com/feed",
+      "icon_url": null,
+      "id": "7aa5ee60-7d32-58ff-a263-4a6d46c7cb5e",
+      "language_tag": null,
+      "title": "Teamwork Engine Room - Medium",
+      "website_url": "https://engineroom.teamwork.com/?source=rss----cea4eecd5960---4"
+    },
+    {
+      "description": "Recent content on tech_gibberish",
+      "feed_format": "rss",
+      "feed_url": "https://blog.pchudzik.com/index.xml",
+      "icon_url": null,
+      "id": "192fc3e8-b441-527f-b67d-deb5a95dd1ac",
+      "language_tag": "en-us",
+      "title": "tech_gibberish",
+      "website_url": "https://blog.pchudzik.com/"
+    },
+    {
+      "description": "Technology, innovation, engineering, design, development. The home of the BBC's digital services.",
+      "feed_format": "rss",
+      "feed_url": "https://www.bbc.co.uk/blogs/internet/rss",
+      "icon_url": null,
+      "id": "ae61c50b-2d25-5f7b-842f-2f085f0dc63c",
+      "language_tag": "en",
+      "title": "Technology + Creativity at the BBC Feed",
+      "website_url": "https://www.bbc.co.uk/blogs/internet"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://tenderlovemaking.com/atom.xml",
+      "icon_url": null,
+      "id": "7009cdd8-f79d-5abd-942f-09c5cd902067",
+      "language_tag": null,
+      "title": "Tenderlove Making",
+      "website_url": "https://tenderlovemaking.com/"
+    },
+    {
+      "description": "A feed of the latest posts from the TetraLogical blog.",
+      "feed_format": "atom",
+      "feed_url": "https://tetralogical.com/feed.xml",
+      "icon_url": null,
+      "id": "0aeeaca8-29a0-51de-a2b4-cd374fdbe8e3",
+      "language_tag": null,
+      "title": "TetraLogical Blog",
+      "website_url": "https://tetralogical.com/"
+    },
+    {
+      "description": "Creative engineers and data scientists building a world where you can belong anywhere. http://airbnb.io - Medium",
+      "feed_format": "rss",
+      "feed_url": "https://medium.com/feed/airbnb-engineering",
+      "icon_url": null,
+      "id": "1fae9bf3-e5e9-586b-b055-4ff7bf2aec31",
+      "language_tag": null,
+      "title": "The Airbnb Tech Blog - Medium",
+      "website_url": "https://medium.com/airbnb-engineering?source=rss----53c7c27702d5---4"
+    },
+    {
+      "description": "assorted ramblings by Jamis Buck",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.feedburner.com/buckblog",
+      "icon_url": null,
+      "id": "71aa1223-8dc5-56a0-8558-cb09e6e23981",
+      "language_tag": null,
+      "title": "The Buckblog",
+      "website_url": "http://weblog.jamisbuck.org/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://blog.cleancoder.com/atom.xml",
+      "icon_url": null,
+      "id": "97128816-84f6-5c4c-b160-8e383d23ea6e",
+      "language_tag": null,
+      "title": "The Clean Code Blog",
+      "website_url": "http://blog.cleancoder.com/"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://www.thecodedself.com/feed.xml",
+      "icon_url": null,
+      "id": "2516e2e1-aac7-546f-9ea8-b0115a7be005",
+      "language_tag": null,
+      "title": "The Coded Self",
+      "website_url": "https://www.thecodedself.com/"
+    },
+    {
+      "description": "A language for humans and computers",
+      "feed_format": "atom",
+      "feed_url": "https://crystal-lang.org/feed.xml",
+      "icon_url": null,
+      "id": "d94b5f62-ad99-5696-89a4-7aa5702b8ed4",
+      "language_tag": "en",
+      "title": "The Crystal Programming Language",
+      "website_url": "https://crystal-lang.org/"
+    },
+    {
+      "description": "Curious Perversions in Information Technology",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.feedburner.com/TheDailyWtf",
+      "icon_url": null,
+      "id": "790d18a4-7e53-50cc-80fb-9d1bca401efe",
+      "language_tag": null,
+      "title": "The Daily WTF",
+      "website_url": "http://thedailywtf.com/"
+    },
+    {
+      "description": "CSS layout problems, solved with an algorithmic approach",
+      "feed_format": "rss",
+      "feed_url": "https://every-layout.dev/feed.xml",
+      "icon_url": null,
+      "id": "2cc1c925-b75d-5df6-953a-a5f37070128c",
+      "language_tag": "en-us",
+      "title": "The Every Layout Blog",
+      "website_url": "https://every-layout.dev/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "http://feeds.feedburner.com/FirebaseBlog",
+      "icon_url": null,
+      "id": "836eb11b-2af2-53c1-9e4a-7dd9b439ef96",
+      "language_tag": null,
+      "title": "The Firebase Blog",
+      "website_url": "http://firebase.googleblog.com/"
+    },
+    {
+      "description": "News, tips, and tricks from the team at Fly",
+      "feed_format": "atom",
+      "feed_url": "https://fly.io/blog/feed.xml",
+      "icon_url": null,
+      "id": "32f41c2e-5789-550d-ba1a-9764c43dd418",
+      "language_tag": null,
+      "title": "The Fly Blog",
+      "website_url": "https://fly.io/blog/"
+    },
+    {
+      "description": "Updates, ideas, and inspiration from GitHub to help developers build and design software.",
+      "feed_format": "rss",
+      "feed_url": "https://github.blog/feed/",
+      "icon_url": null,
+      "id": "39a098e5-ee69-596b-9c7f-e5d0e248fcf5",
+      "language_tag": "en-US",
+      "title": "The GitHub Blog",
+      "website_url": null
+    },
+    {
+      "description": "We help ambitious, people-first engineering leaders get hard things done on mobile.",
+      "feed_format": "rss",
+      "feed_url": "https://novoda.com/blog/feed/",
+      "icon_url": null,
+      "id": "b25e15bd-fe14-57a5-be63-d64628ef01c6",
+      "language_tag": "en-GB",
+      "title": "The home of good stories - Novoda",
+      "website_url": null
+    },
+    {
+      "description": "Developer Tools for Professionals and Teams",
+      "feed_format": "rss",
+      "feed_url": "https://blog.jetbrains.com/feed/",
+      "icon_url": null,
+      "id": "25700a90-090b-5115-8f8c-ee16ac7621be",
+      "language_tag": "en-US",
+      "title": "The JetBrains Blog",
+      "website_url": null
+    },
+    {
+      "description": "Updates, ideas, and inspiration from GitHub to help developers build and design software.",
+      "feed_format": "atom",
+      "feed_url": "https://github.blog/engineering.atom",
+      "icon_url": null,
+      "id": "45701678-e6e5-5bba-904e-acff639900cd",
+      "language_tag": "en-US",
+      "title": "The latest from GitHub's engineering team - The GitHub Blog",
+      "website_url": "https://github.blog/engineering/"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://feedpress.me/mozblog",
+      "icon_url": null,
+      "id": "4e9d9a5f-5bf3-5313-91b9-20a66ab59f26",
+      "language_tag": "en-US",
+      "title": "The Moz Blog",
+      "website_url": null
+    },
+    {
+      "description": "Recent content on The Observation Deck",
+      "feed_format": "rss",
+      "feed_url": "https://bcantrill.dtrace.org/index.xml",
+      "icon_url": null,
+      "id": "97849a94-9407-5bcf-81ef-7465ea6f4feb",
+      "language_tag": "en-us",
+      "title": "The Observation Deck",
+      "website_url": "https://bcantrill.dtrace.org/"
+    },
+    {
+      "description": "Practical development throughout the evolution of Windows.",
+      "feed_format": "rss",
+      "feed_url": "https://devblogs.microsoft.com/oldnewthing/feed/",
+      "icon_url": null,
+      "id": "fb58e201-923f-5460-af08-117a424f0e7a",
+      "language_tag": "en-US",
+      "title": "The Old New Thing",
+      "website_url": null
+    },
+    {
+      "description": "Programming tutorials on Go, JavaScript, mobile development, and more.",
+      "feed_format": "rss",
+      "feed_url": "https://www.thepolyglotdeveloper.com/blog/index.xml",
+      "icon_url": null,
+      "id": "c16b2ab7-31c4-5d31-b119-00514adb465f",
+      "language_tag": "en",
+      "title": "The Polyglot Developer",
+      "website_url": "https://www.thepolyglotdeveloper.com/blog/"
+    },
+    {
+      "description": "Observations across the software engineering industry.",
+      "feed_format": "rss",
+      "feed_url": "https://blog.pragmaticengineer.com/rss/",
+      "icon_url": null,
+      "id": "f97d00a4-87d4-5fd2-a3e9-628f4d51712e",
+      "language_tag": null,
+      "title": "The Pragmatic Engineer",
+      "website_url": "https://blog.pragmaticengineer.com/"
+    },
+    {
+      "description": "Recent content on Thinking Inside a Bigger Box",
+      "feed_format": "rss",
+      "feed_url": "https://johannesbrodwall.com/index.xml",
+      "icon_url": null,
+      "id": "72fd58f7-6f08-50aa-8986-f9ba9d2e3ba8",
+      "language_tag": "en-us",
+      "title": "Thinking Inside a Bigger Box",
+      "website_url": "https://jhannes.github.io/"
+    },
+    {
+      "description": "Distributed systems in theory and in practice.",
+      "feed_format": "atom",
+      "feed_url": "http://blog.thislongrun.com/feeds/posts/default",
+      "icon_url": null,
+      "id": "8de7c290-7f57-53be-8916-7e3cd791ae2b",
+      "language_tag": null,
+      "title": "This long run",
+      "website_url": "http://blog.thislongrun.com/"
+    },
+    {
+      "description": "Opinions, insights, announcements and occurrences straight from the individuals at Tollwerk",
+      "feed_format": "atom",
+      "feed_url": "https://tollwerk.de/blog.atom",
+      "icon_url": null,
+      "id": "01cb61fe-da0b-549e-8a7c-0fdb262ae0f0",
+      "language_tag": null,
+      "title": "tollwerk Blog",
+      "website_url": "https://tollwerk.de/blog"
+    },
+    {
+      "description": "A hub for in-depth business, design, and technology tutorials and trends. Our research and publications are authored by expert professionals from the Toptal network.",
+      "feed_format": "rss",
+      "feed_url": "https://www.toptal.com/blog.rss",
+      "icon_url": null,
+      "id": "d150684a-2833-59d7-a58d-e167b387da2d",
+      "language_tag": null,
+      "title": "Toptal Blog",
+      "website_url": "https://www.toptal.com/blog"
+    },
+    {
+      "description": "Insights, experiences and learnings from trivago's tech teams.",
+      "feed_format": "rss",
+      "feed_url": "https://tech.trivago.com/rss.xml",
+      "icon_url": null,
+      "id": "2152d8b8-3f28-5186-9c5c-905c200efb39",
+      "language_tag": "en-us",
+      "title": "trivago tech blog",
+      "website_url": "https://tech.trivago.com/"
+    },
+    {
+      "description": "We, y'know, build Tumblr and stuff.",
+      "feed_format": "rss",
+      "feed_url": "https://engineering.tumblr.com/rss",
+      "icon_url": null,
+      "id": "9acff406-a59c-5f41-b253-99be7428cae4",
+      "language_tag": null,
+      "title": "Tumblr Engineering",
+      "website_url": "https://engineering.tumblr.com/"
+    },
+    {
+      "description": "Explore the latest company news, product updates, technical tutorials, and best practices from Twilio, the industry-leading customer engagement platform.",
+      "feed_format": "rss",
+      "feed_url": "https://www.twilio.com/en-us/blog.feed.xml",
+      "icon_url": null,
+      "id": "cedbf559-f066-579e-871d-0ac177d26517",
+      "language_tag": "en",
+      "title": "Twilio Blog",
+      "website_url": "https://www.twilio.com/en-us/blog"
+    },
+    {
+      "description": "The personal blog of Una Kravets. Web development, design, and platform news.",
+      "feed_format": "rss",
+      "feed_url": "https://una.im/rss.xml",
+      "icon_url": null,
+      "id": "6845f7d2-535f-5e19-92d7-a4a095f5d9cd",
+      "language_tag": null,
+      "title": "Una Kravets Online",
+      "website_url": "https://una.im/"
+    },
+    {
+      "description": "Professional Matlab consulting, development and training",
+      "feed_format": "rss",
+      "feed_url": "https://undocumentedmatlab.com/feed",
+      "icon_url": null,
+      "id": "8b0bde5d-e762-58ff-b5bc-a9c2434c0a3e",
+      "language_tag": "en-US",
+      "title": "Undocumented Matlab",
+      "website_url": null
+    },
+    {
+      "description": "Upcoder blog posts",
+      "feed_format": "rss",
+      "feed_url": "https://upcoder.com/feed",
+      "icon_url": null,
+      "id": "829784ee-ec71-543d-91e8-d6e24c056059",
+      "language_tag": "en-us",
+      "title": "Upcoder",
+      "website_url": "https://upcoder.com/feed"
+    },
+    {
+      "description": "Understanding how Core Java really works can help you write simpler, faster applications.",
+      "feed_format": "atom",
+      "feed_url": "https://blog.vanillajava.blog/feeds/posts/default",
+      "icon_url": null,
+      "id": "59ed5ee4-7cd5-546b-a2a1-98005b9f9545",
+      "language_tag": null,
+      "title": "Vanilla Java",
+      "website_url": "https://blog.vanillajava.blog/"
+    },
+    {
+      "description": "Articles written by Viget",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.feedburner.com/Viget",
+      "icon_url": null,
+      "id": "6861d664-654b-5f0f-8eaf-66fedca9147c",
+      "language_tag": "en-us",
+      "title": "Viget Articles",
+      "website_url": "https://www.viget.com/"
+    },
+    {
+      "description": "The Engineering Blog from Vinted. These are the voyages of code tailors that help create Vinted.",
+      "feed_format": "atom",
+      "feed_url": "https://vinted.engineering//atom.xml",
+      "icon_url": null,
+      "id": "f5431397-170a-596f-ab26-d85172c30c44",
+      "language_tag": null,
+      "title": "Vinted Engineering",
+      "website_url": "https://vinted.engineering//"
+    },
+    {
+      "description": "High-Performance Java Persistence, Hibernate, and SQL",
+      "feed_format": "rss",
+      "feed_url": "https://vladmihalcea.com/feed/",
+      "icon_url": null,
+      "id": "eb656b69-bbb4-52dd-a9ae-f34f809ea337",
+      "language_tag": "en-US",
+      "title": "Vlad Mihalcea",
+      "website_url": null
+    },
+    {
+      "description": "Welcome to Wasm Labs! We are a group of developers at VMware's Office of the CTO working on WebAssembly (Wasm), helping developers adopt this technology",
+      "feed_format": "rss",
+      "feed_url": "https://wasmlabs.dev/rss.xml",
+      "icon_url": null,
+      "id": "4f45c0ab-2542-5996-9b7a-4f69e3c0d9d8",
+      "language_tag": "en",
+      "title": "Wasm Labs at VMware OCTO",
+      "website_url": "https://wasmlabs.dev/"
+    },
+    {
+      "description": "Engineering at Meta Blog",
+      "feed_format": "rss",
+      "feed_url": "https://engineering.fb.com/category/web/feed/",
+      "icon_url": null,
+      "id": "dc361d26-9c62-55d0-9a0d-c3d4d9b88f7f",
+      "language_tag": "en-US",
+      "title": "Web Archives - Engineering at Meta",
+      "website_url": null
+    },
+    {
+      "description": "News, new chapters and blog posts",
+      "feed_format": "rss",
+      "feed_url": "https://browser.engineering/rss.xml",
+      "icon_url": null,
+      "id": "79fc153d-89ab-5695-8050-e7e5904e3a96",
+      "language_tag": "en",
+      "title": "Web Browser Engineering",
+      "website_url": null
+    },
+    {
+      "description": "Do not use",
+      "feed_format": "rss",
+      "feed_url": "https://blogs.bing.com/webmaster/feed/",
+      "icon_url": null,
+      "id": "02f78605-a161-5837-bfc0-bc2ce4961130",
+      "language_tag": "en-US",
+      "title": "Webmaster",
+      "website_url": "https://blogs.bing.com/webmaster/feed/"
+    },
+    {
+      "description": "programming, language design, and human factors",
+      "feed_format": "rss",
+      "feed_url": "https://www.wilfred.me.uk/rss.xml",
+      "icon_url": null,
+      "id": "86c64127-9cb7-5130-877c-4619285b999c",
+      "language_tag": null,
+      "title": "Wilfred Hughes::Blog",
+      "website_url": "https://www.wilfred.me.uk/"
+    },
+    {
+      "description": "This is the engineering blog from the hackers at Wingify",
+      "feed_format": "rss",
+      "feed_url": "https://engineering.wingify.com/atom.xml",
+      "icon_url": null,
+      "id": "9163e32d-ee16-5de3-b0f7-82e5bfa2140a",
+      "language_tag": null,
+      "title": "Wingify Engineering",
+      "website_url": "https://engineering.wingify.com/"
+    },
+    {
+      "description": "Managed Hosting for WordPress",
+      "feed_format": "rss",
+      "feed_url": "https://wpengine.com/gb/feed/",
+      "icon_url": "https://wpengine.com/wp-content/uploads/2025/08/WPEngineCogMark_512x512-150x150.png",
+      "id": "3491987d-1330-5791-902a-658b9acc7968",
+      "language_tag": "en-GB",
+      "title": "WP Engine®",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://rachelbythebay.com/w/atom.xml",
+      "icon_url": null,
+      "id": "94805c81-d216-5aef-9a44-feafa3d9c110",
+      "language_tag": null,
+      "title": "Writing - rachelbythebay",
+      "website_url": "https://rachelbythebay.com/w/"
+    },
+    {
+      "description": "This blog series creates a small operating system in the Rust programming language. Each post is a small tutorial and includes all needed code.",
+      "feed_format": "rss",
+      "feed_url": "https://os.phil-opp.com/rss.xml",
+      "icon_url": null,
+      "id": "c4a3095a-70dc-5677-9f7c-9c58a8188a8c",
+      "language_tag": "en",
+      "title": "Writing an OS in Rust",
+      "website_url": "https://os.phil-opp.com/"
+    },
+    {
+      "description": "A peek under the purple rug!",
+      "feed_format": "rss",
+      "feed_url": "https://yahooeng.tumblr.com/rss",
+      "icon_url": null,
+      "id": "62ae5d03-2300-5dc8-8ffb-3efe46fc6948",
+      "language_tag": null,
+      "title": "Yahoo Engineering",
+      "website_url": "https://yahooeng.tumblr.com/"
+    },
+    {
+      "description": "Yegor Bugayenko",
+      "feed_format": "atom",
+      "feed_url": "https://www.yegor256.com/rss.xml",
+      "icon_url": null,
+      "id": "54b7cfcf-c73e-55e7-b8c1-9bb49c0f1276",
+      "language_tag": null,
+      "title": "Yegor Bugayenko",
+      "website_url": "https://www.yegor256.com/"
+    },
+    {
+      "description": "News from the Yelp Engineering and Product Teams",
+      "feed_format": "rss",
+      "feed_url": "https://engineeringblog.yelp.com/feed.xml",
+      "icon_url": null,
+      "id": "dcfcf9f8-46bd-5798-8b19-e0349b2046b3",
+      "language_tag": null,
+      "title": "Yelp Engineering and Product Blog",
+      "website_url": "https://engineeringblog.yelp.com/"
+    },
+    {
+      "description": "Random stuff I'm making and thinking",
+      "feed_format": "atom",
+      "feed_url": "https://yifan.lu/feed.xml",
+      "icon_url": null,
+      "id": "e8ccea8b-d540-5a2b-848e-b3351150766a",
+      "language_tag": null,
+      "title": "Yifan Lu",
+      "website_url": "https://yifan.lu/"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://www.yubico.com/feed/",
+      "icon_url": null,
+      "id": "d75a83d5-e25d-579f-8cbf-2248c24c3530",
+      "language_tag": "en-US",
+      "title": "Yubico",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://zachholman.com/atom.xml",
+      "icon_url": null,
+      "id": "258b5f39-2430-5814-b4ad-f09d2e053068",
+      "language_tag": null,
+      "title": "Zach Holman",
+      "website_url": "http://zachholman.com/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://engineering.zalando.com/atom.xml",
+      "icon_url": null,
+      "id": "b1065e8f-7b5a-59a4-aab3-aae866000c51",
+      "language_tag": null,
+      "title": "Zalando Engineering Blog",
+      "website_url": "https://engineering.zalando.com/"
+    },
+    {
+      "description": "At ZMG, we know tech no longer simply drives culture in today’s hyper-connected world, tech is culture. Understanding and embracing tech has become essential to how we live, how we work, how we have fun, how we shop, how we learn, and finally how we connect with world around us. - Medium",
+      "feed_format": "rss",
+      "feed_url": "https://engineering.ziffmedia.com/feed",
+      "icon_url": null,
+      "id": "d3fe9279-8259-50e5-b61b-e42cba9d29ac",
+      "language_tag": null,
+      "title": "Ziff Media Engineering - Medium",
+      "website_url": "https://engineering.ziffmedia.com/?source=rss----d6bb34696ef5---4"
+    },
+    {
+      "description": "Zolmeister - Blog",
+      "feed_format": "atom",
+      "feed_url": "https://zolmeister.com/feeds/posts/default",
+      "icon_url": null,
+      "id": "6dc2be12-bfd9-58a6-a8be-2240cd05d4ee",
+      "language_tag": null,
+      "title": "Zolmeister",
+      "website_url": "https://zolmeister.com/"
+    },
+    {
+      "description": "Recent content on {bjørn:johansen}",
+      "feed_format": "rss",
+      "feed_url": "https://bjornjohansen.com/feed.xml",
+      "icon_url": null,
+      "id": "e48cec27-60de-589b-a27c-4a6e534bd8a7",
+      "language_tag": "en-US",
+      "title": "{bjørn:johansen}",
+      "website_url": "https://bjornjohansen.com/"
+    },
+    {
+      "description": "1 019 статей от авторов компании «Лаборатория Касперского»",
+      "feed_format": "rss",
+      "feed_url": "https://habr.com/ru/rss/companies/kaspersky/articles/?fl=ru",
+      "icon_url": "https://habrastorage.org/webt/ym/el/wk/ymelwk3zy1gawz4nkejl_-ammtc.png",
+      "id": "77cab6dc-b38a-5066-86c6-85bfabdd92dc",
+      "language_tag": "ru",
+      "title": "«Лаборатория Касперского» - Ловим вирусы, исследуем угрозы, спасаем мир с 21 июля 1997 г. / Статьи",
+      "website_url": "https://habr.com/ru/companies/kaspersky/articles/"
+    },
+    {
+      "description": "35 статей от авторов компании Кошелёк",
+      "feed_format": "rss",
+      "feed_url": "https://habr.com/ru/rss/companies/koshelek/articles/?fl=ru",
+      "icon_url": "https://habrastorage.org/webt/ym/el/wk/ymelwk3zy1gawz4nkejl_-ammtc.png",
+      "id": "d91bcae6-6afa-551b-855a-2ec26401b539",
+      "language_tag": "ru",
+      "title": "Кошелёк - Создаём приложение, с которым покупают с 2013 год / Статьи",
+      "website_url": "https://habr.com/ru/companies/koshelek/articles/"
+    },
+    {
+      "description": "1 447 статей от авторов компании Яндекс",
+      "feed_format": "rss",
+      "feed_url": "https://habr.com/ru/rss/companies/yandex/articles/?fl=ru",
+      "icon_url": "https://habrastorage.org/webt/ym/el/wk/ymelwk3zy1gawz4nkejl_-ammtc.png",
+      "id": "1718c7fb-dceb-5fda-83b4-a68eefe82186",
+      "language_tag": "ru",
+      "title": "Яндекс - Как мы делаем Яндекс с 23 сентября 1997 г. / Статьи",
+      "website_url": "https://habr.com/ru/companies/yandex/articles/"
+    },
+    {
+      "description": "Recent content in 👋 Hey there! I’m Ilija. on Ilija Eftimov 👨‍🚀",
+      "feed_format": "rss",
+      "feed_url": "https://ieftimov.com/index.xml",
+      "icon_url": null,
+      "id": "d1fed51a-395c-5f31-ba44-df84746d1926",
+      "language_tag": "en",
+      "title": "👋 Hey there! I’m Ilija. on Ilija Eftimov 👨‍🚀",
+      "website_url": "https://ieftimov.com/"
+    }
+  ],
+  "id": "107e5e79-92d6-51ab-b3bf-494bcf33198d",
+  "schema_version": 1,
+  "slug": "engineering",
+  "title": "Engineering blogs"
+}

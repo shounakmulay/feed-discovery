@@ -1,0 +1,149 @@
+{
+  "description": "Apple devices, software, and ecosystem news.",
+  "feeds": [
+    {
+      "description": "Apple News & Mac Rumors Breaking All Day",
+      "feed_format": "rss",
+      "feed_url": "https://9to5mac.com/feed/",
+      "icon_url": "https://9to5mac.com/wp-content/uploads/sites/6/2019/10/cropped-cropped-mac1-1.png?w=32",
+      "id": "3e188fb8-dc3a-58a0-8614-c0b035a66715",
+      "language_tag": "en-US",
+      "title": "9to5Mac",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?user=Apple",
+      "icon_url": null,
+      "id": "f8e3dba3-ae13-5bdd-9e28-9ca4784ac1a0",
+      "language_tag": null,
+      "title": "Apple",
+      "website_url": "https://www.youtube.com/channel/UCE_M8A5yxnLfW0KghEeajjw"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://www.apple.com/newsroom/rss-feed.rss",
+      "icon_url": null,
+      "id": "3b860ccd-1de3-54cd-9ed8-602574f0bfb5",
+      "language_tag": null,
+      "title": "Apple Newsroom",
+      "website_url": null
+    },
+    {
+      "description": "AppleInsider News Feed",
+      "feed_format": "rss",
+      "feed_url": "https://appleinsider.com/rss/news/",
+      "icon_url": null,
+      "id": "f3576eb7-abf8-5d26-924f-29ff37230f46",
+      "language_tag": "en-US",
+      "title": "AppleInsider News",
+      "website_url": null
+    },
+    {
+      "description": "Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals.",
+      "feed_format": "rss",
+      "feed_url": "https://www.cultofmac.com/feed",
+      "icon_url": null,
+      "id": "69543bf2-59b9-548f-a271-7e9a0e8551fa",
+      "language_tag": "en-US",
+      "title": "Cult of Mac",
+      "website_url": null
+    },
+    {
+      "description": "By John Gruber",
+      "feed_format": "atom",
+      "feed_url": "https://daringfireball.net/feeds/main",
+      "icon_url": null,
+      "id": "64f8dd41-c0ab-5ad3-9afc-77d88312f351",
+      "language_tag": null,
+      "title": "Daring Fireball",
+      "website_url": "https://daringfireball.net/"
+    },
+    {
+      "description": "More news and rumors, more help and how-tos, more app and accessory reviews, more iPhone and iPad and iPod touch. More of everything you love. iMore.",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.feedburner.com/TheiPhoneBlog",
+      "icon_url": null,
+      "id": "0157ea56-50a4-5c38-92d2-a6fdad41d2b5",
+      "language_tag": "en",
+      "title": "iMore - The #1 iPhone, iPad, and iPod touch blog",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?user=macrumors",
+      "icon_url": null,
+      "id": "c7f9a3fc-100c-53e2-b33d-1a134c50b378",
+      "language_tag": null,
+      "title": "MacRumors",
+      "website_url": "https://www.youtube.com/channel/UCaFGDBmGK_jw66u3av2Ysjw"
+    },
+    {
+      "description": "Apple, iPhone, iPad, Mac News and Rumors",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.macrumors.com/MacRumors-Mac",
+      "icon_url": null,
+      "id": "98a8fe57-f5b3-5dec-9039-26bdb75f51ad",
+      "language_tag": "en",
+      "title": "MacRumors: Mac News and Rumors - Mac Blog",
+      "website_url": null
+    },
+    {
+      "description": "Apple news, app reviews, and stories by Federico Viticci and John Voorhees.",
+      "feed_format": "rss",
+      "feed_url": "https://www.macstories.net/feed/",
+      "icon_url": null,
+      "id": "6d5fe7dd-8fc0-5cb8-9753-d2e4d8a2a5a9",
+      "language_tag": "en-US",
+      "title": "MacStories",
+      "website_url": null
+    },
+    {
+      "description": "Macworld is your best source for all things Apple. We give you the scoop on what's new, what's best and how to make the most out of the products you love.",
+      "feed_format": "rss",
+      "feed_url": "https://www.macworld.com/feed",
+      "icon_url": null,
+      "id": "e47615da-cf7f-5b94-b33b-92c7a4f4d822",
+      "language_tag": "en",
+      "title": "Macworld",
+      "website_url": "https://www.macworld.com/"
+    },
+    {
+      "description": "I’m Marco Arment, creator of Overcast, technology podcaster and writer, and coffee enthusiast.",
+      "feed_format": "rss",
+      "feed_url": "https://marco.org/rss",
+      "icon_url": null,
+      "id": "94f6e7da-0bd9-5e9b-8430-2c02d021d5be",
+      "language_tag": null,
+      "title": "Marco.org",
+      "website_url": "https://marco.org/"
+    },
+    {
+      "description": "News, tips, tricks, apps, and more for Mac, iPhone, iPad, and the entire Apple ecosystem",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.feedburner.com/osxdaily",
+      "icon_url": null,
+      "id": "d1937977-14ab-545d-8cd6-76010654aa61",
+      "language_tag": "en-US",
+      "title": "OS X Daily",
+      "website_url": null
+    },
+    {
+      "description": "Making Sense of Technology",
+      "feed_format": "rss",
+      "feed_url": "https://loopinsight.com/feed/",
+      "icon_url": null,
+      "id": "97d5e8d9-3ac0-5512-8601-30d96445109d",
+      "language_tag": "en-US",
+      "title": "The Loop",
+      "website_url": null
+    }
+  ],
+  "id": "0807957d-32ea-56e4-95f4-3bfd2acd3b6a",
+  "schema_version": 1,
+  "slug": "apple",
+  "title": "Apple news"
+}

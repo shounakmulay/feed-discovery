@@ -1,0 +1,449 @@
+{
+  "description": "Science research, discoveries, and scientific reporting.",
+  "feeds": [
+    {
+      "description": "Tune in every weekday for quick reports and commentaries on the world of science—it'll just take a minute",
+      "feed_format": "rss",
+      "feed_url": "http://rss.sciam.com/sciam/60secsciencepodcast",
+      "icon_url": null,
+      "id": "6764adb5-1f83-5876-afdf-b623c7e7a200",
+      "language_tag": "en-us",
+      "title": "60-Second Science",
+      "website_url": null
+    },
+    {
+      "description": "Top science stories featured on ScienceDaily's home page.",
+      "feed_format": "rss",
+      "feed_url": "https://www.sciencedaily.com/rss/top/science.xml",
+      "icon_url": null,
+      "id": "c0fa5a46-84e4-5997-9bb4-c5d23920095a",
+      "language_tag": "en-us",
+      "title": "All Top News -- ScienceDaily",
+      "website_url": "https://www.sciencedaily.com/news/top/"
+    },
+    {
+      "description": "Astronomy news. New! Earth-like extrasolar planet found; double helix nebula; supermassive black holes, astronomy articles, astronomy pictures. Updated daily.",
+      "feed_format": "rss",
+      "feed_url": "https://www.sciencedaily.com/rss/space_time/astronomy.xml",
+      "icon_url": null,
+      "id": "7861afd3-41e5-5ad3-8d06-59fba5539a4f",
+      "language_tag": "en-us",
+      "title": "Astronomy News -- ScienceDaily",
+      "website_url": "https://www.sciencedaily.com/news/space_time/astronomy/"
+    },
+    {
+      "description": "BBC News - Science & Environment",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "icon_url": null,
+      "id": "1c559476-7295-5010-846c-2b0751997532",
+      "language_tag": "en-gb",
+      "title": "BBC News",
+      "website_url": "https://www.bbc.co.uk/news/science_and_environment"
+    },
+    {
+      "description": "Climate change and climate prediction. Read science articles on regional climates and global climate shifts. Updated daily.",
+      "feed_format": "rss",
+      "feed_url": "https://www.sciencedaily.com/rss/earth_climate/climate.xml",
+      "icon_url": null,
+      "id": "6a2553b6-546a-57a9-8941-b108eea152dc",
+      "language_tag": "en-us",
+      "title": "Climate News -- ScienceDaily",
+      "website_url": "https://www.sciencedaily.com/news/earth_climate/climate/"
+    },
+    {
+      "description": "Explorations in the world of science.",
+      "feed_format": "rss",
+      "feed_url": "https://podcasts.files.bbci.co.uk/p002w557.rss",
+      "icon_url": null,
+      "id": "588ab6e9-0df8-5bdd-9d43-40c84e2ceaa2",
+      "language_tag": "en",
+      "title": "Discovery",
+      "website_url": "http://www.bbc.co.uk/programmes/p002w557"
+    },
+    {
+      "description": "Strength in Numbers",
+      "feed_format": "rss",
+      "feed_url": "https://flowingdata.com/feed",
+      "icon_url": null,
+      "id": "e784e685-0929-531a-9dac-0893b96a2f45",
+      "language_tag": "en-US",
+      "title": "FlowingData",
+      "website_url": null
+    },
+    {
+      "description": "The hidden side of everything",
+      "feed_format": "rss",
+      "feed_url": "https://freakonomics.com/feed/",
+      "icon_url": null,
+      "id": "b19b172c-dec1-5577-ba72-72352610ceef",
+      "language_tag": "en-US",
+      "title": "Freakonomics",
+      "website_url": null
+    },
+    {
+      "description": "Food with a side of science and history. Every other week, co-hosts Cynthia Graber and Nicola Twilley serve up a brand new episode exploring the hidden history and surprising science behind a different food- or farming-related topic, from aquaculture to ancient feasts, from cutlery to chile peppers, and from microbes to Malbec. We interview experts, visit labs, fields, and archaeological digs, and generally have lots of fun while discovering new ways to think about and understand the world throu",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.megaphone.fm/VMP6255701211",
+      "icon_url": null,
+      "id": "38823df1-2e85-5a16-9d8c-c4c9e5e37f70",
+      "language_tag": "en",
+      "title": "Gastropod",
+      "website_url": null
+    },
+    {
+      "description": "Why do I feel stuck? How can I become more creative? What can I do to improve my relationships? If you’ve ever asked yourself these questions, you’re not alone. On Hidden Brain, we help you understand your own mind — and the minds of the people around you. (We're routinely rated the #1 science podcast in the United States.) Hosted by veteran science journalist Shankar Vedantam.",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.simplecast.com/kwWc0lhf",
+      "icon_url": null,
+      "id": "6f197561-1115-5543-9953-5d7b08a004eb",
+      "language_tag": "en",
+      "title": "Hidden Brain",
+      "website_url": null
+    },
+    {
+      "description": "Unseeable forces control human behavior and shape our ideas, beliefs, and assumptions. Invisibilia—Latin for invisible things—fuses narrative storytelling with science that will make you see your own life differently.",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.npr.org/510307/podcast.xml",
+      "icon_url": null,
+      "id": "a6b82fc0-d267-55cc-b0b4-6134fcdb8cb6",
+      "language_tag": "en",
+      "title": "Invisibilia",
+      "website_url": "https://www.npr.org/podcasts/510307/invisibilia"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://www.sciencedaily.com/rss/all.xml",
+      "icon_url": null,
+      "id": "7557c621-0563-567e-a13d-9c60196ee78e",
+      "language_tag": "en-us",
+      "title": "Latest Science News -- ScienceDaily",
+      "website_url": "https://www.sciencedaily.com/news/"
+    },
+    {
+      "description": "MIT News is dedicated to communicating to the media and the public the news and achievements of the students, faculty, staff and the greater MIT community.",
+      "feed_format": "rss",
+      "feed_url": "https://news.mit.edu/rss/research",
+      "icon_url": null,
+      "id": "9b5fa97a-74cf-5c7b-b580-e9f94587eb65",
+      "language_tag": "en",
+      "title": "MIT News",
+      "website_url": "https://news.mit.edu/rss/research?_=4483"
+    },
+    {
+      "description": "MIT news feed about: Science, Technology, and Society | Technology and society | Program in STS | History of science | History of MIT",
+      "feed_format": "rss",
+      "feed_url": "https://news.mit.edu/rss/topic/science-technology-and-society",
+      "icon_url": null,
+      "id": "9806e3e2-51e2-5c72-863a-e14970c94766",
+      "language_tag": "en",
+      "title": "MIT News - Science, Technology, and Society | Technology and society | Program in STS | History of science | History of MIT",
+      "website_url": "https://news.mit.edu/rss/topic/science-technology-and-society"
+    },
+    {
+      "description": "Official National Aeronautics and Space Administration Website",
+      "feed_format": "rss",
+      "feed_url": "https://www.nasa.gov/feed/",
+      "icon_url": null,
+      "id": "a10bab1c-85f3-5868-b249-fedda5b7f5b9",
+      "language_tag": "en-US",
+      "title": "NASA",
+      "website_url": null
+    },
+    {
+      "description": "Nature is the foremost international weekly scientific journal in the world and is the flagship journal for Nature Portfolio. It publishes the finest peer-reviewed research in all fields of science and technology on the basis of its originality, importance, interdisciplinary interest, timeliness, accessibility, elegance and surprising conclusions. Nature publishes landmark papers, award winning news, leading comment and expert opinion on important, topical scientific news and events that enable ",
+      "feed_format": "rss1",
+      "feed_url": "https://www.nature.com/nature.rss",
+      "icon_url": null,
+      "id": "2c3e4545-85f5-594e-b0fd-8058e2b493e2",
+      "language_tag": "en",
+      "title": "Nature",
+      "website_url": "http://feeds.nature.com/nature/rss/current"
+    },
+    {
+      "description": "Neuroscience News provides research news for neuroscience, neurology, psychology, AI, brain science, mental health, robotics and cognitive sciences.",
+      "feed_format": "rss",
+      "feed_url": "https://neurosciencenews.com/feed/",
+      "icon_url": null,
+      "id": "3080450b-7bf9-580b-93cd-dc425b51f114",
+      "language_tag": "en-US",
+      "title": "Neuroscience News",
+      "website_url": null
+    },
+    {
+      "description": "Neuroscience research. Learn how the brain's physical, chemical and electrical structure can affect everything from motivation and sensory perception to disease recovery.",
+      "feed_format": "rss",
+      "feed_url": "https://sciencedaily.com/rss/mind_brain/neuroscience.xml",
+      "icon_url": null,
+      "id": "aa6cd5f7-468a-5e3e-a687-482b546b487f",
+      "language_tag": "en-us",
+      "title": "Neuroscience News -- ScienceDaily",
+      "website_url": "https://www.sciencedaily.com/news/mind_brain/neuroscience/"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+      "icon_url": null,
+      "id": "0066ab32-7c20-5a6b-a960-42e113dfe7df",
+      "language_tag": "en-us",
+      "title": "NYT > Science",
+      "website_url": "https://www.nytimes.com/section/science"
+    },
+    {
+      "description": "Phys.org internet news portal provides the latest news on science including: Physics, Nanotechnology, Life Sciences, Space Science, Earth Science, Environment, Health and Medicine.",
+      "feed_format": "rss",
+      "feed_url": "https://phys.org/rss-feed/",
+      "icon_url": null,
+      "id": "e9297568-876c-53a1-aec0-62021ec86d2e",
+      "language_tag": "en-us",
+      "title": "Phys.org - latest science and technology news stories",
+      "website_url": "https://phys.org/"
+    },
+    {
+      "description": "Awe-inspiring science reporting, technology news, and DIY projects. Skunks to space robots, primates to climates. That's Popular Science, 150 years strong.",
+      "feed_format": "rss",
+      "feed_url": "https://www.popsci.com/feed/",
+      "icon_url": null,
+      "id": "3e3dc6fc-fa00-5d80-b29e-84f6e3bbc134",
+      "language_tag": "en-US",
+      "title": "Popular Science",
+      "website_url": "https://www.popsci.com/"
+    },
+    {
+      "description": "Professional comedians with so-so STEM pedigrees take you through this week in science. Incompetently. Featuring hosts Matt Kirshen, Andy Wood (and sometimes Jesse Case or Brooks Wheelan) along with a rotating cast of special guests from the worlds of comedy and science.",
+      "feed_format": "rss",
+      "feed_url": "https://rss.libsyn.com/shows/35408/destinations/88459.xml",
+      "icon_url": null,
+      "id": "2305aaf1-fe8d-54d7-9ba7-971da0292d01",
+      "language_tag": "en",
+      "title": "Probably Science",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://www.spring.org.uk/feed",
+      "icon_url": null,
+      "id": "6f737d02-38dd-5d4d-a05a-de891f4c561d",
+      "language_tag": "en-US",
+      "title": "PsyBlog",
+      "website_url": null
+    },
+    {
+      "description": "Follow the All About Psychology Blog to learn all about the wonderful world of psychology.",
+      "feed_format": "rss",
+      "feed_url": "https://www.all-about-psychology.com/psychology.xml",
+      "icon_url": null,
+      "id": "91d5f419-ed7a-5747-8778-95a3721545a8",
+      "language_tag": "en-us",
+      "title": "Psychology Blog",
+      "website_url": null
+    },
+    {
+      "description": "From Social Psychology Network",
+      "feed_format": "rss",
+      "feed_url": "http://feeds.socialpsychology.org/psychology-headlines",
+      "icon_url": null,
+      "id": "0e6dc2af-e679-5924-8759-61f0e1306448",
+      "language_tag": "en-us",
+      "title": "Psychology Headlines Around the World",
+      "website_url": "http://www.socialpsychology.org/"
+    },
+    {
+      "description": "Illuminating science",
+      "feed_format": "rss",
+      "feed_url": "https://www.quantamagazine.org/feed/",
+      "icon_url": null,
+      "id": "d7521a27-67c4-51ea-9e0f-a1ff0daa76f4",
+      "language_tag": "en-US",
+      "title": "Quanta Magazine",
+      "website_url": null
+    },
+    {
+      "description": "Quantum Computer Research. Read the latest news in developing quantum computers.",
+      "feed_format": "rss",
+      "feed_url": "https://www.sciencedaily.com/rss/computers_math/quantum_computers.xml",
+      "icon_url": null,
+      "id": "1ebadde0-9a38-5735-89f9-075c06a3a9f6",
+      "language_tag": "en-us",
+      "title": "Quantum Computers News -- ScienceDaily",
+      "website_url": "https://www.sciencedaily.com/news/computers_math/quantum_computers/"
+    },
+    {
+      "description": "Radiolab is on a curiosity bender. We ask deep questions and use investigative journalism to get the answers. A given episode might whirl you through science, legal history, and into the home of someone halfway across the world. The show is known for innovative sound design, smashing information into music. It is hosted by Lulu Miller and Latif Nasser.",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.simplecast.com/EmVW7VGp",
+      "icon_url": null,
+      "id": "05a9297f-b1b8-5b27-a43b-6e10906d2444",
+      "language_tag": "en-us",
+      "title": "Radiolab",
+      "website_url": null
+    },
+    {
+      "description": "This community is a place to share and discuss new scientific research. Read about the latest advances in astronomy, biology, medicine, physics, social science, and more. Find and submit new publications and popular science coverage of current research.",
+      "feed_format": "atom",
+      "feed_url": "https://www.reddit.com/r/science/.rss",
+      "icon_url": "https://www.redditstatic.com/icon.png/",
+      "id": "fe7586d1-a5e6-5400-8969-73f35d3f36d4",
+      "language_tag": null,
+      "title": "Reddit Science",
+      "website_url": "https://www.reddit.com/r/science/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqZQJ4600a9wIfMPbYc60OQ",
+      "icon_url": null,
+      "id": "9b16e803-259a-5141-a88f-2d6610bf5460",
+      "language_tag": null,
+      "title": "Sabin Civil Engineering",
+      "website_url": "https://www.youtube.com/channel/UCqZQJ4600a9wIfMPbYc60OQ"
+    },
+    {
+      "description": "Join Dr. Sydnee McElroy and her husband Justin McElroy for a tour of all the dumb, bad, gross, weird and wrong ways we've tried to fix people.",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.simplecast.com/y1LF_sn2",
+      "icon_url": null,
+      "id": "9bf30a05-7c57-5f5a-b23b-6ebfc847b7f1",
+      "language_tag": "en",
+      "title": "Sawbones: A Marital Tour of Misguided Medicine",
+      "website_url": null
+    },
+    {
+      "description": "The Future Is Here",
+      "feed_format": "rss",
+      "feed_url": "https://gizmodo.com/tag/science/feed",
+      "icon_url": null,
+      "id": "ed23a58e-7f94-5ea5-b617-2ec726c9705d",
+      "language_tag": "en-US",
+      "title": "Science",
+      "website_url": null
+    },
+    {
+      "description": "Channel Description",
+      "feed_format": "rss",
+      "feed_url": "https://www.wired.com/feed/category/science/latest/rss",
+      "icon_url": null,
+      "id": "1210f977-1891-5f28-b9cf-c9f115008d19",
+      "language_tag": "en-US",
+      "title": "Science Latest",
+      "website_url": "https://www.wired.com/"
+    },
+    {
+      "description": "INDEPENDENT JOURNALISM SINCE 1921",
+      "feed_format": "rss",
+      "feed_url": "https://www.sciencenews.org/feed",
+      "icon_url": null,
+      "id": "16376c10-aec8-5e58-9fc8-c6500806076f",
+      "language_tag": "en-US",
+      "title": "Science News",
+      "website_url": null
+    },
+    {
+      "description": "Stay updated with the latest science news and discoveries. Explore articles covering scientific advancements, research breakthroughs, and more. Expand your knowledge with The Hindu Science",
+      "feed_format": "rss",
+      "feed_url": "https://www.thehindu.com/sci-tech/science/feeder/default.rss",
+      "icon_url": null,
+      "id": "b8a24aa7-c098-5d4c-8577-4c9b2a34a229",
+      "language_tag": "en-US",
+      "title": "Science News | Latest Updates on Scientific Discoveries | The Hindu",
+      "website_url": null
+    },
+    {
+      "description": "Latest News Today, Breaking News, India News, Top Headlines",
+      "feed_format": "rss",
+      "feed_url": "https://indianexpress.com/section/technology/science/feed/",
+      "icon_url": null,
+      "id": "1d0bf54b-a5a4-5799-83c7-486a79e7c81b",
+      "language_tag": "en-US",
+      "title": "Science | The Indian Express",
+      "website_url": null
+    },
+    {
+      "description": "The Best in Science News and Amazing Breakthroughs",
+      "feed_format": "rss",
+      "feed_url": "https://www.sciencealert.com/feed",
+      "icon_url": null,
+      "id": "191579b4-0795-5cb1-baf6-5e8c5542ccf2",
+      "language_tag": "en-US",
+      "title": "ScienceAlert",
+      "website_url": null
+    },
+    {
+      "description": "Scientific American is the essential guide to the most awe-inspiring advances in science and technology, explaining how they change our understanding of the world and shape our lives.",
+      "feed_format": "rss",
+      "feed_url": "http://rss.sciam.com/ScientificAmerican-Global",
+      "icon_url": null,
+      "id": "3c67eae1-35b2-5e7d-a6ed-5cebba25601b",
+      "language_tag": "en-us",
+      "title": "Scientific American Content: Global",
+      "website_url": "https://www.scientificamerican.com/"
+    },
+    {
+      "description": "Dr Karl's a curious optimist. Join him as he explores the latest developments in science with leading researchers and communicators. And remember, it's never too late for a happy childhood. Series Producer: Isabelle Benton Technical Producer: Maya Cook Contact: shirtloadspodcast@gmail.com Watch Shirtloads on Youtube! www.youtube.com/watch?v=D5v8fnD27rc&list=PLbDH9bxN-EryKiiRoeFnOm0Ejif3-rdIx",
+      "feed_format": "rss",
+      "feed_url": "https://rss.libsyn.com/shows/88719/destinations/436327.xml",
+      "icon_url": null,
+      "id": "b4f0011a-5332-5e69-88ae-140bf5abbeee",
+      "language_tag": "en",
+      "title": "Shirtloads of Science",
+      "website_url": null
+    },
+    {
+      "description": "SingularityHub chronicles the technological frontier with coverage of the breakthroughs, players, and issues shaping the future.",
+      "feed_format": "rss",
+      "feed_url": "https://singularityhub.com/feed/",
+      "icon_url": null,
+      "id": "e4058ac7-ce67-5688-869b-51867e3854cf",
+      "language_tag": "en-US",
+      "title": "SingularityHub",
+      "website_url": null
+    },
+    {
+      "description": "Want TED Talks on the go? Everyday, this feed brings you our latest talks in audio format. Hear thought-provoking ideas on every subject imaginable – from Artificial Intelligence to Zoology, and everything in between – given by the world's leading thinkers and doers. This collection of talks, given at TED and TEDx conferences around the globe, is also available in video format. Hosted on Acast. See acast.com/privacy for more information.",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.acast.com/public/shows/67587e77c705e441797aff96",
+      "icon_url": null,
+      "id": "c65a1fb4-02cd-5c6f-91fb-8bbf05567fb2",
+      "language_tag": "en",
+      "title": "TED Talks Daily",
+      "website_url": "https://www.ted.com/"
+    },
+    {
+      "description": "A witty, irreverent look at the world through scientists' eyes, guest hosted by Prof. Adam Rutherford and Jess Fostekew.",
+      "feed_format": "rss",
+      "feed_url": "https://podcasts.files.bbci.co.uk/b00snr0w.rss",
+      "icon_url": null,
+      "id": "ee8d655f-79c5-5c5a-9add-61d847d7b3b5",
+      "language_tag": "en",
+      "title": "The Infinite Monkey Cage",
+      "website_url": "http://www.bbc.co.uk/programmes/b00snr0w"
+    },
+    {
+      "description": "The kickass science and technology radio show that delivers an irreverent look at the week in science and technology.",
+      "feed_format": "rss",
+      "feed_url": "https://www.twis.org/feed/",
+      "icon_url": null,
+      "id": "86c6376c-b823-5141-8c1e-316845e9cfc0",
+      "language_tag": "en-US",
+      "title": "This Week in Science – The Kickass Science Podcast",
+      "website_url": null
+    },
+    {
+      "description": "Top stories featured on ScienceDaily's Plants & Animals, Earth & Climate, and Fossils & Ruins sections.",
+      "feed_format": "rss",
+      "feed_url": "https://www.sciencedaily.com/rss/top/environment.xml",
+      "icon_url": null,
+      "id": "f1667e9c-7805-537d-bf84-710b93375d38",
+      "language_tag": "en-us",
+      "title": "Top Environment News -- ScienceDaily",
+      "website_url": "https://www.sciencedaily.com/news/top/environment/"
+    }
+  ],
+  "id": "ca5c9bd7-fc52-5724-bc3f-33f1eb9608a7",
+  "schema_version": 1,
+  "slug": "science",
+  "title": "Science"
+}

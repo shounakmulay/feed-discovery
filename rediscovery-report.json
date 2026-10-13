@@ -1,0 +1,630 @@
+{
+  "advertised_feed_links": [
+    {
+      "category": "frontend",
+      "feed_url": "https://www.alwaystwisted.com/feed.xml",
+      "source_url": "https://www.alwaystwisted.com/",
+      "title": "Stu Robson",
+      "website_url": "https://www.alwaystwisted.com/"
+    },
+    {
+      "category": "engineering",
+      "feed_url": "https://antirez.com/rss",
+      "source_url": "https://antirez.com/latest/0",
+      "title": "Antirez",
+      "website_url": "https://antirez.com/latest/0"
+    },
+    {
+      "category": "frontend",
+      "feed_url": "https://ashleynolan.co.uk/feed.xml",
+      "source_url": "https://ashleynolan.co.uk/",
+      "title": "Front-end development Blog and Portfolio for Ashley Watson-Nolan",
+      "website_url": "https://ashleynolan.co.uk/"
+    },
+    {
+      "category": "engineering",
+      "feed_url": "https://bcantrill.dtrace.org/index.xml",
+      "source_url": "https://bcantrill.dtrace.org/",
+      "title": "The Observation Deck",
+      "website_url": "https://bcantrill.dtrace.org/"
+    },
+    {
+      "category": "developer-blogs",
+      "feed_url": "https://bjornjohansen.com/feed.xml",
+      "source_url": "https://bjornjohansen.com/",
+      "title": "{bjørn:johansen}",
+      "website_url": "https://bjornjohansen.com/"
+    },
+    {
+      "category": "engineering",
+      "feed_url": "https://blog.apps.npr.org/atom.xml",
+      "source_url": "https://blog.apps.npr.org/",
+      "title": "Atom Feed for NPR Editorial Graphics team blog",
+      "website_url": "https://blog.apps.npr.org/"
+    },
+    {
+      "category": "engineering",
+      "feed_url": "https://www.codelitt.com/blog-feed.xml",
+      "source_url": "https://www.codelitt.com/blog",
+      "title": "Codelitt - RSS",
+      "website_url": "https://www.codelitt.com/blog"
+    },
+    {
+      "category": "engineering",
+      "feed_url": "https://www.cloudbees.com/blog/rss.xml",
+      "source_url": "https://www.cloudbees.com/blog",
+      "title": "RSS Feed",
+      "website_url": "https://www.cloudbees.com/blog"
+    },
+    {
+      "category": "developer-blogs",
+      "feed_url": "https://blog.yonatan.dev/rss/",
+      "source_url": "https://blog.yonatan.dev/",
+      "title": "Yonatan's dev blog",
+      "website_url": "https://blog.yonatan.dev/"
+    },
+    {
+      "category": "languages",
+      "feed_url": "https://go.dev/blog/feed.atom",
+      "source_url": "https://go.dev/blog/",
+      "title": "The Go Blog",
+      "website_url": "https://go.dev/blog/"
+    },
+    {
+      "category": "engineering",
+      "feed_url": "https://www.heroku.com/feed/",
+      "source_url": "https://www.heroku.com/blog/category/engineering/",
+      "title": "Heroku » Feed",
+      "website_url": "https://www.heroku.com/blog/category/engineering/"
+    },
+    {
+      "category": "engineering",
+      "feed_url": "https://www.heroku.com/blog/category/engineering/feed/",
+      "source_url": "https://www.heroku.com/blog/category/engineering/",
+      "title": "Heroku » Engineering Category Feed",
+      "website_url": "https://www.heroku.com/blog/category/engineering/"
+    },
+    {
+      "category": "engineering",
+      "feed_url": "https://www.honeybadger.io/blog/feed.xml",
+      "source_url": "https://www.honeybadger.io/blog/",
+      "title": "Honeybadger Developer Blog",
+      "website_url": "https://www.honeybadger.io/blog/"
+    },
+    {
+      "category": "engineering",
+      "feed_url": "https://blog.muffn.io/index.xml",
+      "source_url": "https://blog.muffn.io/",
+      "title": "Monstermuffin",
+      "website_url": "https://blog.muffn.io/"
+    },
+    {
+      "category": "engineering",
+      "feed_url": "https://qubika.com/feed/",
+      "source_url": "https://qubika.com/mooveit/",
+      "title": "Qubika » Feed",
+      "website_url": "https://qubika.com/mooveit/"
+    },
+    {
+      "category": "engineering",
+      "feed_url": "https://www.sketch.com/blog/feed.xml",
+      "source_url": "https://www.sketch.com/blog/",
+      "title": "RSS Feed for the Sketch Blog",
+      "website_url": "https://www.sketch.com/blog/"
+    },
+    {
+      "category": "developer-blogs",
+      "feed_url": "https://blogs.igalia.com/blee/feed.xml",
+      "source_url": "https://blogs.igalia.com/blee/",
+      "title": "Byungwoo's Blog",
+      "website_url": "https://blogs.igalia.com/blee/"
+    },
+    {
+      "category": "engineering",
+      "feed_url": "https://capgemini.github.io/feed.xml",
+      "source_url": "https://capgemini.github.io/",
+      "title": "Capgemini Software Engineering Feed",
+      "website_url": "https://capgemini.github.io/"
+    },
+    {
+      "category": "engineering",
+      "feed_url": "https://code.dblock.org/feed.xml",
+      "source_url": "https://code.dblock.org/",
+      "title": "code.dblock.org | tech blog Feed",
+      "website_url": "https://code.dblock.org/"
+    },
+    {
+      "category": "engineering",
+      "feed_url": "https://nipafx.dev/feed.xml",
+      "source_url": "https://nipafx.dev/",
+      "title": "nipafx",
+      "website_url": "https://nipafx.dev/"
+    },
+    {
+      "category": "engineering",
+      "feed_url": "https://developer.squareup.com/blog/rss.xml",
+      "source_url": "https://developer.squareup.com/blog/",
+      "title": "Square Corner Blog RSS Feed",
+      "website_url": "https://developer.squareup.com/blog/"
+    },
+    {
+      "category": "engineering",
+      "feed_url": "https://craftcms.com/accessibility.rss",
+      "source_url": "https://craftcms.com/accessibility",
+      "title": "Accessibility RSS feed for craftcms.com",
+      "website_url": "https://craftcms.com/accessibility"
+    },
+    {
+      "category": "engineering",
+      "feed_url": "https://www.nutanix.com/blog.rssfeed.xml",
+      "source_url": "https://www.nutanix.com/blog",
+      "title": "Read the Latest Blogs from Nutanix | RSS",
+      "website_url": "https://www.nutanix.com/blog"
+    },
+    {
+      "category": "engineering",
+      "feed_url": "https://www.swift.org/atom.xml",
+      "source_url": "https://www.swift.org/blog/",
+      "title": "Swift.org (Atom Feed)",
+      "website_url": "https://www.swift.org/blog/"
+    },
+    {
+      "category": "developer-tools",
+      "feed_url": "https://developer.wordpress.com/feed/",
+      "source_url": "https://developer.wordpress.com/",
+      "title": "WordPress.com Developer Resources » Feed",
+      "website_url": "https://developer.wordpress.com/"
+    },
+    {
+      "category": "engineering",
+      "feed_url": "https://engineering.linecorp.com/en/blog",
+      "source_url": "https://engineering.linecorp.com/en/blog",
+      "title": "Blog - LINE ENGINEERING",
+      "website_url": "https://engineering.linecorp.com/en/blog"
+    },
+    {
+      "category": "engineering",
+      "feed_url": "https://feeds.feedburner.com/JohnResig",
+      "source_url": "https://johnresig.com/category/blog/",
+      "title": "RSS",
+      "website_url": "https://johnresig.com/category/blog/"
+    },
+    {
+      "category": "developer-blogs",
+      "feed_url": "https://ashleynolan.co.uk/feed.xml",
+      "source_url": "https://www.ashleynolan.co.uk/",
+      "title": "Front-end development Blog and Portfolio for Ashley Watson-Nolan",
+      "website_url": "https://www.ashleynolan.co.uk/"
+    },
+    {
+      "category": "engineering",
+      "feed_url": "https://wpengine.com/gb/feed/",
+      "source_url": "https://wpengine.com/blog/",
+      "title": "WP Engine® » Feed",
+      "website_url": "https://wpengine.com/blog/"
+    },
+    {
+      "category": "developer-tools",
+      "feed_url": "https://gsap.com/blog/rss.xml",
+      "source_url": "https://gsap.com/blog/",
+      "title": "GSAP | Docs & Learning RSS Feed",
+      "website_url": "https://gsap.com/blog/"
+    },
+    {
+      "category": "developer-tools",
+      "feed_url": "https://gsap.com/blog/atom.xml",
+      "source_url": "https://gsap.com/blog/",
+      "title": "GSAP | Docs & Learning Atom Feed",
+      "website_url": "https://gsap.com/blog/"
+    },
+    {
+      "category": "engineering",
+      "feed_url": "https://jakeyesbeck.com/atom.xml",
+      "source_url": "https://jakeyesbeck.com/",
+      "title": "RSS",
+      "website_url": "https://jakeyesbeck.com/"
+    },
+    {
+      "category": "developer-blogs",
+      "feed_url": "https://jrsinclair.com/index.rss",
+      "source_url": "https://jrsinclair.com/",
+      "title": "RSS",
+      "website_url": "https://jrsinclair.com/"
+    },
+    {
+      "category": "engineering",
+      "feed_url": "https://kinvolk.io/blog/rss.xml",
+      "source_url": "https://kinvolk.io/blog/",
+      "title": "Kinvolk RSS Feed",
+      "website_url": "https://kinvolk.io/blog/"
+    },
+    {
+      "category": "engineering",
+      "feed_url": "https://kinvolk.io/blog/atom.xml",
+      "source_url": "https://kinvolk.io/blog/",
+      "title": "Kinvolk Atom Feed",
+      "website_url": "https://kinvolk.io/blog/"
+    },
+    {
+      "category": "engineering",
+      "feed_url": "https://www.learnui.design/feed.xml",
+      "source_url": "https://www.learnui.design/blog/",
+      "title": "Learn UI Design - Blog",
+      "website_url": "https://www.learnui.design/blog/"
+    },
+    {
+      "category": "developer-blogs",
+      "feed_url": "https://mallonbacka.com/feed.xml",
+      "source_url": "https://mallonbacka.com/",
+      "title": "RSS Feed Matthew Hallonbacka blog",
+      "website_url": "https://mallonbacka.com/"
+    },
+    {
+      "category": "frontend",
+      "feed_url": "https://www.marcozehe.de/rss.xml",
+      "source_url": "https://marcozehe.de/",
+      "title": "Marco Zehe",
+      "website_url": "https://marcozehe.de/"
+    },
+    {
+      "category": "developer-blogs",
+      "feed_url": "https://nooshu.com/feed/feed-rss.xml",
+      "source_url": "https://nooshu.com/",
+      "title": "Nooshu - Matt Hobbs blog post RSS Feed.",
+      "website_url": "https://nooshu.com/"
+    },
+    {
+      "category": "developer-blogs",
+      "feed_url": "https://nooshu.com/feed/feed-atom.xml",
+      "source_url": "https://nooshu.com/",
+      "title": "Nooshu - Matt Hobbs blog post Atom Feed.",
+      "website_url": "https://nooshu.com/"
+    },
+    {
+      "category": "developer-blogs",
+      "feed_url": "https://nooshu.com/feed/full-rss.xml",
+      "source_url": "https://nooshu.com/",
+      "title": "Nooshu - Matt Hobbs full archive RSS Feed.",
+      "website_url": "https://nooshu.com/"
+    },
+    {
+      "category": "developer-blogs",
+      "feed_url": "https://nooshu.com/feed/full-atom.xml",
+      "source_url": "https://nooshu.com/",
+      "title": "Nooshu - Matt Hobbs full archive Atom Feed.",
+      "website_url": "https://nooshu.com/"
+    },
+    {
+      "category": "engineering",
+      "feed_url": "https://ocramius.github.io/atom.xml",
+      "source_url": "http://ocramius.github.io/",
+      "title": " activity feed",
+      "website_url": "http://ocramius.github.io/"
+    },
+    {
+      "category": "developer-blogs",
+      "feed_url": "https://ognjen.io/feed.xml",
+      "source_url": "https://ognjen.io/",
+      "title": "Ognjen Regoje • ognjen.io Feed",
+      "website_url": "https://ognjen.io/"
+    },
+    {
+      "category": "engineering",
+      "feed_url": "https://steipete.me/rss.xml",
+      "source_url": "https://steipete.me/",
+      "title": "Peter Steinberger",
+      "website_url": "https://steipete.me/"
+    },
+    {
+      "category": "engineering",
+      "feed_url": "https://planet.mozilla.org/automation/atom.xml",
+      "source_url": "https://planet.mozilla.org/ateam/",
+      "title": "Mozilla Automation Team",
+      "website_url": "https://planet.mozilla.org/ateam/"
+    },
+    {
+      "category": "developer-blogs",
+      "feed_url": "https://grayduck.mn/feeds/all.atom.xml",
+      "source_url": "https://grayduck.mn/",
+      "title": " Atom Feed",
+      "website_url": "https://grayduck.mn/"
+    },
+    {
+      "category": "developer-blogs",
+      "feed_url": "https://publishing-project.rivendellweb.net/rss.xml",
+      "source_url": "https://publishing-project.rivendellweb.net/",
+      "title": "The Publishing Project - RSS",
+      "website_url": "https://publishing-project.rivendellweb.net/"
+    },
+    {
+      "category": "developer-blogs",
+      "feed_url": "https://publishing-project.rivendellweb.net/atom.xml",
+      "source_url": "https://publishing-project.rivendellweb.net/",
+      "title": "The Publishing Project - Atom",
+      "website_url": "https://publishing-project.rivendellweb.net/"
+    },
+    {
+      "category": "frontend",
+      "feed_url": "https://remotesynthesis.com/rss.xml",
+      "source_url": "https://remotesynthesis.com/",
+      "title": "Remote Synthesis",
+      "website_url": "https://remotesynthesis.com/"
+    },
+    {
+      "category": "developer-blogs",
+      "feed_url": "https://remotesynthesis.com/rss.xml",
+      "source_url": "https://remotesynthesis.com/",
+      "title": "Remote Synthesis",
+      "website_url": "https://remotesynthesis.com/"
+    },
+    {
+      "category": "developer-blogs",
+      "feed_url": "https://shortdiv.com/index.xml",
+      "source_url": "https://shortdiv.com/",
+      "title": "rss",
+      "website_url": "https://shortdiv.com/"
+    },
+    {
+      "category": "developer-blogs",
+      "feed_url": "https://www.simonplend.com/blog/rss.xml",
+      "source_url": "https://simonplend.com/",
+      "title": "Blog",
+      "website_url": "https://simonplend.com/"
+    },
+    {
+      "category": "engineering",
+      "feed_url": "https://blog.soshace.com/feed/",
+      "source_url": "https://blog.soshace.com/engineering-open-source-and-interview-heavy-web-development-podcasts/",
+      "title": "Soshace Digital Blog » Feed",
+      "website_url": "https://blog.soshace.com/engineering-open-source-and-interview-heavy-web-development-podcasts/"
+    },
+    {
+      "category": "developer-blogs",
+      "feed_url": "https://stuffandnonsense.co.uk/blog/feed",
+      "source_url": "https://stuffandnonsense.co.uk/blog/",
+      "title": "Blogging and All that Malarkey",
+      "website_url": "https://stuffandnonsense.co.uk/blog/"
+    },
+    {
+      "category": "developer-blogs",
+      "feed_url": "https://stuffandnonsense.co.uk/portfolio/feed.xml",
+      "source_url": "https://stuffandnonsense.co.uk/blog/",
+      "title": "Blogging and All that Malarkey",
+      "website_url": "https://stuffandnonsense.co.uk/blog/"
+    },
+    {
+      "category": "developer-blogs",
+      "feed_url": "https://tantek.com/updates.atom",
+      "source_url": "https://tantek.com/",
+      "title": "Tantek Çelik",
+      "website_url": "https://tantek.com/"
+    },
+    {
+      "category": "engineering",
+      "feed_url": "https://tech.nextroll.com/feed.xml",
+      "source_url": "https://tech.nextroll.com/blog/",
+      "title": "NextRoll",
+      "website_url": "https://tech.nextroll.com/blog/"
+    },
+    {
+      "category": "engineering",
+      "feed_url": "https://tech.gc.com/atom.xml",
+      "source_url": "https://tech.gc.com/",
+      "title": "GameChanger Tech Blog Atom Feed",
+      "website_url": "https://tech.gc.com/"
+    },
+    {
+      "category": "engineering",
+      "feed_url": "https://techblog.thescore.com/feed.xml",
+      "source_url": "https://techblog.thescore.com/",
+      "title": "theScore Tech Blog",
+      "website_url": "https://techblog.thescore.com/"
+    },
+    {
+      "category": "engineering",
+      "feed_url": "https://tomassetti.me/feed/",
+      "source_url": "https://tomassetti.me/",
+      "title": "Federico Tomassetti » Feed",
+      "website_url": "https://tomassetti.me/"
+    },
+    {
+      "category": "developer-blogs",
+      "feed_url": "https://trib.tv/feed",
+      "source_url": "https://trib.tv/",
+      "title": "Andrew Betts",
+      "website_url": "https://trib.tv/"
+    },
+    {
+      "category": "developer-blogs",
+      "feed_url": "https://utilitybend.com/rss.xml",
+      "source_url": "https://utilitybend.com/",
+      "title": "utilitybend",
+      "website_url": "https://utilitybend.com/"
+    },
+    {
+      "category": "frontend",
+      "feed_url": "https://wdrl.info/feed/xml",
+      "source_url": "https://wdrl.info/",
+      "title": "RSS Feed for Web Development Reading List",
+      "website_url": "https://wdrl.info/"
+    },
+    {
+      "category": "developer-blogs",
+      "feed_url": "https://samthor.au/rss.xml",
+      "source_url": "https://samthor.au/",
+      "title": "Sam Thorogood",
+      "website_url": "https://samthor.au/"
+    },
+    {
+      "category": "engineering",
+      "feed_url": "https://www.aboutwayfair.com/careers/tech-blog.rss",
+      "source_url": "https://www.aboutwayfair.com/careers/tech-blog",
+      "title": "Wayfair Tech Blog",
+      "website_url": "https://www.aboutwayfair.com/careers/tech-blog"
+    },
+    {
+      "category": "engineering",
+      "feed_url": "https://www.atlassian.com/blog/feed",
+      "source_url": "https://atlassianblog.wpengine.com/",
+      "title": "Inside Atlassian » Feed",
+      "website_url": "https://atlassianblog.wpengine.com/"
+    },
+    {
+      "category": "engineering",
+      "feed_url": "https://bjornjohansen.com/feed.xml",
+      "source_url": "https://bjornjohansen.com/",
+      "title": "{bjørn:johansen}",
+      "website_url": "https://bjornjohansen.com/"
+    },
+    {
+      "category": "frontend",
+      "feed_url": "https://www.blog.gov.uk/feed/",
+      "source_url": "https://www.blog.gov.uk/",
+      "title": "GOV.UK blogs » Feed",
+      "website_url": "https://www.blog.gov.uk/"
+    },
+    {
+      "category": "engineering",
+      "feed_url": "http://www.born2data.com/index-2.html",
+      "source_url": "http://www.born2data.com/",
+      "title": "Center for Automotive Research » Feed",
+      "website_url": "http://www.born2data.com/"
+    },
+    {
+      "category": "developer-blogs",
+      "feed_url": "https://chenhuijing.com/rss.xml",
+      "source_url": "https://chenhuijing.com/",
+      "title": "Chen Hui Jing",
+      "website_url": "https://chenhuijing.com/"
+    },
+    {
+      "category": "engineering",
+      "feed_url": "https://chenhuijing.com/rss.xml",
+      "source_url": "https://chenhuijing.com/",
+      "title": "Chen Hui Jing",
+      "website_url": "https://chenhuijing.com/"
+    },
+    {
+      "category": "frontend",
+      "feed_url": "https://chenhuijing.com/rss.xml",
+      "source_url": "https://chenhuijing.com/",
+      "title": "Chen Hui Jing",
+      "website_url": "https://chenhuijing.com/"
+    },
+    {
+      "category": "engineering",
+      "feed_url": "https://www.codenameone.com/blog/index.xml",
+      "source_url": "https://www.codenameone.com/blog/",
+      "title": "rss",
+      "website_url": "https://www.codenameone.com/blog/"
+    },
+    {
+      "category": "engineering",
+      "feed_url": "https://www.codenameone.com/blog/feed.xml",
+      "source_url": "https://www.codenameone.com/blog/",
+      "title": "feed",
+      "website_url": "https://www.codenameone.com/blog/"
+    },
+    {
+      "category": "engineering",
+      "feed_url": "https://www.codenameone.com/blog/index.xml",
+      "source_url": "https://www.codenameone.com/blog/",
+      "title": "Codename One Blog RSS",
+      "website_url": "https://www.codenameone.com/blog/"
+    },
+    {
+      "category": "engineering",
+      "feed_url": "https://www.devroom.io/feed.xml",
+      "source_url": "https://www.devroom.io/",
+      "title": "devroom.io",
+      "website_url": "https://www.devroom.io/"
+    },
+    {
+      "category": "developer-blogs",
+      "feed_url": "https://www.ekioh.com/feed/",
+      "source_url": "https://www.ekioh.com/",
+      "title": "Ekioh » Feed",
+      "website_url": "https://www.ekioh.com/"
+    },
+    {
+      "category": "engineering",
+      "feed_url": "https://www.erlang-solutions.com/feed/",
+      "source_url": "https://www.erlang-solutions.com/blog/",
+      "title": "Erlang Solutions » Feed",
+      "website_url": "https://www.erlang-solutions.com/blog/"
+    },
+    {
+      "category": "developer-blogs",
+      "feed_url": "https://www.quirksmode.org/quirksblog/rss.xml",
+      "source_url": "https://www.quirksmode.org/blog/",
+      "title": "rss",
+      "website_url": "https://www.quirksmode.org/blog/"
+    },
+    {
+      "category": "frontend",
+      "feed_url": "https://www.quirksmode.org/quirksblog/rss.xml",
+      "source_url": "https://www.quirksmode.org/blog/",
+      "title": "rss",
+      "website_url": "https://www.quirksmode.org/blog/"
+    },
+    {
+      "category": "engineering",
+      "feed_url": "https://sharethis.com/feed/",
+      "source_url": "https://sharethis.com/engineering/",
+      "title": "ShareThis » Feed",
+      "website_url": "https://sharethis.com/engineering/"
+    },
+    {
+      "category": "engineering",
+      "feed_url": "https://sharethis.com/engineering/feed/",
+      "source_url": "https://sharethis.com/engineering/",
+      "title": "ShareThis » Engineering Category Feed",
+      "website_url": "https://sharethis.com/engineering/"
+    },
+    {
+      "category": "frontend",
+      "feed_url": "https://www.sitepen.com/rss.xml",
+      "source_url": "https://www.sitepen.com/blog",
+      "title": "SitePen RSS Feed",
+      "website_url": "https://www.sitepen.com/blog"
+    },
+    {
+      "category": "frontend",
+      "feed_url": "https://www.sitepen.com/atom.xml",
+      "source_url": "https://www.sitepen.com/blog",
+      "title": "SitePen Atom Feed",
+      "website_url": "https://www.sitepen.com/blog"
+    },
+    {
+      "category": "developer-blogs",
+      "feed_url": "https://www.valentinog.com/feed.xml",
+      "source_url": "https://www.valentinog.com/blog/",
+      "title": "Valentino Gagliardi Blog",
+      "website_url": "https://www.valentinog.com/blog/"
+    },
+    {
+      "category": "developer-blogs",
+      "feed_url": "https://valhead.com/feed/",
+      "source_url": "https://valhead.com/",
+      "title": "Val Head RSS Feed",
+      "website_url": "https://valhead.com/"
+    },
+    {
+      "category": "frontend",
+      "feed_url": "https://zellwk.com/rss.xml",
+      "source_url": "https://zellwk.com/blog/",
+      "title": "Feed for articles",
+      "website_url": "https://zellwk.com/blog/"
+    },
+    {
+      "category": "developer-blogs",
+      "feed_url": "https://zellwk.com/rss.xml",
+      "source_url": "https://zellwk.com/",
+      "title": "Feed for articles",
+      "website_url": "https://zellwk.com/"
+    }
+  ],
+  "checked_at": "2026-10-12T13:23:02.497556Z",
+  "new_unique_candidates": 51,
+  "publisher_pages_checked": 155
+}

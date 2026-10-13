@@ -1,0 +1,89 @@
+{
+  "description": "Cloud platforms, containers, observability, and infrastructure.",
+  "feeds": [
+    {
+      "description": "Just another Amazon Web Services site",
+      "feed_format": "rss",
+      "feed_url": "https://aws.amazon.com/blogs/architecture/feed/",
+      "icon_url": null,
+      "id": "337e241f-338b-5542-803d-eeb9f9d7aaed",
+      "language_tag": "en-US",
+      "title": "AWS Architecture Blog",
+      "website_url": null
+    },
+    {
+      "description": "Announcements, Updates, and Launches",
+      "feed_format": "rss",
+      "feed_url": "https://aws.amazon.com/blogs/aws/feed/",
+      "icon_url": null,
+      "id": "d199867b-550c-53c2-bed1-5c02a9c1cfd5",
+      "language_tag": "en-US",
+      "title": "AWS News Blog",
+      "website_url": null
+    },
+    {
+      "description": "Recent content in Blog on OpenTelemetry",
+      "feed_format": "rss",
+      "feed_url": "https://opentelemetry.io/blog/index.xml",
+      "icon_url": null,
+      "id": "fc296bda-2c62-5fec-94b3-c4236198cb6c",
+      "language_tag": "en-US",
+      "title": "Blog on OpenTelemetry",
+      "website_url": "https://opentelemetry.io/blog/"
+    },
+    {
+      "description": "Technical deep dives, product updates, and insights from the teams that are helping to build a better Internet.",
+      "feed_format": "rss",
+      "feed_url": "https://blog.cloudflare.com/rss/",
+      "icon_url": null,
+      "id": "7c1f7b35-7f9a-5fe7-894a-a22727529c45",
+      "language_tag": "en-us",
+      "title": "Cloudflare Blog",
+      "website_url": "https://blog.cloudflare.com/"
+    },
+    {
+      "description": "Just another Amazon Web Services site",
+      "feed_format": "rss",
+      "feed_url": "https://aws.amazon.com/blogs/containers/feed/",
+      "icon_url": null,
+      "id": "4f3ecff4-3784-5006-b32d-2d86fa0fcd12",
+      "language_tag": "en-US",
+      "title": "Containers",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://www.docker.com/feed/",
+      "icon_url": null,
+      "id": "06bd1a0b-1f07-5c6f-a7c8-ab8b208a7a31",
+      "language_tag": "en-US",
+      "title": "Docker",
+      "website_url": null
+    },
+    {
+      "description": "The Kubernetes blog is used by the project to communicate new features, community reports, and any news that might be relevant to the Kubernetes community.",
+      "feed_format": "rss",
+      "feed_url": "https://kubernetes.io/feed.xml",
+      "icon_url": null,
+      "id": "89cd2866-0825-57da-a7d1-afc5e230b19e",
+      "language_tag": "en",
+      "title": "Kubernetes Blog",
+      "website_url": "https://kubernetes.io/"
+    },
+    {
+      "description": "Get the latest Azure news, updates, and announcements from the Azure blog. From product updates to hot topics, hear from the Azure experts.",
+      "feed_format": "rss",
+      "feed_url": "https://azure.microsoft.com/en-us/blog/feed/",
+      "icon_url": null,
+      "id": "f9ea7a32-ac9f-5066-9f1f-c1a14952777f",
+      "language_tag": "en-US",
+      "title": "Microsoft Azure Blog",
+      "website_url": null
+    }
+  ],
+  "id": "5a6c9e73-af78-5c45-a9f6-955bec1cec85",
+  "schema_version": 1,
+  "slug": "cloud-devops",
+  "title": "Cloud, DevOps, and infrastructure"
+}

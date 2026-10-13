@@ -1,0 +1,277 @@
+[
+  {
+    "candidate_count": 1073,
+    "category": "developer-blogs",
+    "directory_url": "https://github.com/simevidas/web-dev-feeds",
+    "document_sha256": "94fbbec02a240f0a87ed8a226906f8445b39f5b063e664f87f42a9a396cf41c5",
+    "group_categories": {
+      "Browsers": "browsers",
+      "Companies": "engineering",
+      "Governments": "open-data",
+      "Guides": "frontend",
+      "Magazines": "frontend",
+      "Organizations": "web-standards",
+      "People": "developer-blogs",
+      "Standards": "web-standards",
+      "Tools": "developer-tools"
+    },
+    "name": "Web developer feeds",
+    "retrieved_at": "2026-10-12T13:16:45.407035Z",
+    "url": "https://raw.githubusercontent.com/simevidas/web-dev-feeds/master/feeds.opml"
+  },
+  {
+    "candidate_count": 422,
+    "category": "engineering",
+    "directory_url": "https://github.com/kilimchoi/engineering-blogs",
+    "document_sha256": "cf0be43b305e5f070f0e16287ac27ed15104a5455826083ec4677e970f8b7d6a",
+    "name": "Engineering blogs",
+    "retrieved_at": "2026-10-12T13:16:45.524459Z",
+    "url": "https://raw.githubusercontent.com/kilimchoi/engineering-blogs/master/engineering_blogs.opml"
+  },
+  {
+    "candidate_count": 252,
+    "category": "frontend",
+    "directory_url": "https://github.com/impressivewebs/frontend-feeds",
+    "document_sha256": "f01426ac39ed257e2a8ac2397fd0231c72d6322ae4fea9f875c6cf45d41c98d1",
+    "group_categories": {
+      "Browsers, Engines, etc.": "browsers",
+      "Company/Startup Blogs": "engineering",
+      "Libraries, Frameworks, etc.": "developer-tools"
+    },
+    "name": "Frontend feeds",
+    "retrieved_at": "2026-10-12T13:16:45.658355Z",
+    "url": "https://raw.githubusercontent.com/impressivewebs/frontend-feeds/master/frontend-feeds.opml"
+  },
+  {
+    "candidate_count": 143,
+    "category": "technology",
+    "directory_url": "https://github.com/tuan3w/awesome-tech-rss",
+    "document_sha256": "4b8d80ea8522636d20a71d169b29839191e7758508f12cb2014049581ba71141",
+    "group_categories": {
+      "Design": "design",
+      "Engineering blogs": "engineering",
+      "Learning": "learning",
+      "Machine Learning": "ai-ml",
+      "Marketing": "business-startups",
+      "Neuroscience": "science",
+      "Others": "technology",
+      "Products & Ideas": "technology",
+      "Psychology": "science",
+      "Science": "science",
+      "Startup": "business-startups",
+      "Tech News": "technology"
+    },
+    "name": "Awesome tech RSS",
+    "retrieved_at": "2026-10-12T13:16:45.776964Z",
+    "url": "https://raw.githubusercontent.com/tuan3w/awesome-tech-rss/main/feeds.opml"
+  },
+  {
+    "candidate_count": 23,
+    "category": "android-development",
+    "directory_url": "https://github.com/plenaryapp/awesome-rss-feeds",
+    "document_sha256": "d6a7d6389611c249a6ce165350ec46128b2ab0a9875c4f9aeb744b4deb0aca71",
+    "name": "Plenary Android Development",
+    "retrieved_at": "2026-10-12T13:16:45.865647Z",
+    "url": "https://raw.githubusercontent.com/plenaryapp/awesome-rss-feeds/master/recommended/without_category/Android%20Development.opml"
+  },
+  {
+    "candidate_count": 15,
+    "category": "ios-swift",
+    "directory_url": "https://github.com/plenaryapp/awesome-rss-feeds",
+    "document_sha256": "7adaab415749d294c1af70fe8521bfef989367a1150d57e00291966144b0b837",
+    "name": "Plenary iOS Development",
+    "retrieved_at": "2026-10-12T13:16:45.967987Z",
+    "url": "https://raw.githubusercontent.com/plenaryapp/awesome-rss-feeds/master/recommended/without_category/iOS%20Development.opml"
+  },
+  {
+    "candidate_count": 40,
+    "category": "languages",
+    "directory_url": "https://github.com/plenaryapp/awesome-rss-feeds",
+    "document_sha256": "4050b8c7af4d6bdbad922e1e939293d45e1a5db8da52c913baba1bd5eab61858",
+    "name": "Plenary Programming",
+    "retrieved_at": "2026-10-12T13:16:46.061248Z",
+    "url": "https://raw.githubusercontent.com/plenaryapp/awesome-rss-feeds/master/recommended/without_category/Programming.opml"
+  },
+  {
+    "candidate_count": 5,
+    "category": "frontend",
+    "directory_url": "https://github.com/plenaryapp/awesome-rss-feeds",
+    "document_sha256": "d5646251b92847c738ec9c9e1ced64dc148a88c48df0bea17b3869bcc855730d",
+    "name": "Plenary Web Development",
+    "retrieved_at": "2026-10-12T13:16:46.138898Z",
+    "url": "https://raw.githubusercontent.com/plenaryapp/awesome-rss-feeds/master/recommended/without_category/Web%20Development.opml"
+  },
+  {
+    "candidate_count": 21,
+    "category": "cybersecurity",
+    "directory_url": "https://github.com/plenaryapp/awesome-rss-feeds",
+    "document_sha256": "dbbdbd5b1b2178f8336c53f09a802bbdd03168171149ec96a00eee5d2c718913",
+    "name": "Plenary Cyber security",
+    "retrieved_at": "2026-10-12T13:16:46.215525Z",
+    "url": "https://raw.githubusercontent.com/plenaryapp/awesome-rss-feeds/master/recommended/without_category/Cyber%20security.opml"
+  },
+  {
+    "candidate_count": 28,
+    "category": "technology",
+    "directory_url": "https://github.com/plenaryapp/awesome-rss-feeds",
+    "document_sha256": "f93bb35a0a43c1b8361c5dcb013b4345a2a8f915b0be0955109b9a57f0253bd1",
+    "name": "Plenary Tech",
+    "retrieved_at": "2026-10-12T13:16:46.290904Z",
+    "url": "https://raw.githubusercontent.com/plenaryapp/awesome-rss-feeds/master/recommended/without_category/Tech.opml"
+  },
+  {
+    "candidate_count": 17,
+    "category": "android",
+    "directory_url": "https://github.com/plenaryapp/awesome-rss-feeds",
+    "document_sha256": "fb9a693ae999ae2deaeae71ff19479b70a232b30ed3c20694bd257feaf716b0b",
+    "name": "Plenary Android",
+    "retrieved_at": "2026-10-12T13:16:46.370514Z",
+    "url": "https://raw.githubusercontent.com/plenaryapp/awesome-rss-feeds/master/recommended/without_category/Android.opml"
+  },
+  {
+    "candidate_count": 16,
+    "category": "apple",
+    "directory_url": "https://github.com/plenaryapp/awesome-rss-feeds",
+    "document_sha256": "4dd4d3181092150e575e491cf8f668fe8c2d186337f9fe81d21debb29bb8ac27",
+    "name": "Plenary Apple",
+    "retrieved_at": "2026-10-12T13:16:46.469420Z",
+    "url": "https://raw.githubusercontent.com/plenaryapp/awesome-rss-feeds/master/recommended/without_category/Apple.opml"
+  },
+  {
+    "candidate_count": 23,
+    "category": "science",
+    "directory_url": "https://github.com/plenaryapp/awesome-rss-feeds",
+    "document_sha256": "5c97653e71ad3ae97c2b306fa930e2ec364c6c18e732901516ed0093f224ee5a",
+    "name": "Plenary Science",
+    "retrieved_at": "2026-10-12T13:16:46.568008Z",
+    "url": "https://raw.githubusercontent.com/plenaryapp/awesome-rss-feeds/master/recommended/without_category/Science.opml"
+  },
+  {
+    "candidate_count": 6,
+    "category": "space",
+    "directory_url": "https://github.com/plenaryapp/awesome-rss-feeds",
+    "document_sha256": "76cfb9faab2f2484a08aac015932a107252255291ea3dffae8e612ffd77f1665",
+    "name": "Plenary Space",
+    "retrieved_at": "2026-10-12T13:16:46.725653Z",
+    "url": "https://raw.githubusercontent.com/plenaryapp/awesome-rss-feeds/master/recommended/without_category/Space.opml"
+  },
+  {
+    "candidate_count": 12,
+    "category": "environment",
+    "directory_url": "https://github.com/plenaryapp/awesome-rss-feeds",
+    "document_sha256": "804f301a24610aed543d093ef8561607b17da98d4a2777b4fa29f3c84d970ab4",
+    "name": "Plenary Environment",
+    "retrieved_at": "2026-10-12T13:16:46.891425Z",
+    "url": "https://raw.githubusercontent.com/plenaryapp/awesome-rss-feeds/master/recommended/without_category/Environment.opml"
+  },
+  {
+    "candidate_count": 10,
+    "category": "news-world",
+    "directory_url": "https://github.com/plenaryapp/awesome-rss-feeds",
+    "document_sha256": "e7dd527f5d72307c001b120fd21e4400184af97db780d0f9a863016217c807db",
+    "name": "Plenary News",
+    "retrieved_at": "2026-10-12T13:16:47.010667Z",
+    "url": "https://raw.githubusercontent.com/plenaryapp/awesome-rss-feeds/master/recommended/without_category/News.opml"
+  },
+  {
+    "candidate_count": 17,
+    "category": "business-startups",
+    "directory_url": "https://github.com/plenaryapp/awesome-rss-feeds",
+    "document_sha256": "d1b58bdb8bc8734ea346a262c8db185679cc536b22384479109210ba7b5eb3f4",
+    "name": "Plenary Business & Economy",
+    "retrieved_at": "2026-10-12T13:16:47.120448Z",
+    "url": "https://raw.githubusercontent.com/plenaryapp/awesome-rss-feeds/master/recommended/without_category/Business%20%26%20Economy.opml"
+  },
+  {
+    "candidate_count": 18,
+    "category": "business-startups",
+    "directory_url": "https://github.com/plenaryapp/awesome-rss-feeds",
+    "document_sha256": "03698eb4b1f0601adb2a023c91632d62475a3ce60175d6499bbe5780d3eb54e3",
+    "name": "Plenary Startups",
+    "retrieved_at": "2026-10-12T13:16:47.225778Z",
+    "url": "https://raw.githubusercontent.com/plenaryapp/awesome-rss-feeds/master/recommended/without_category/Startups.opml"
+  },
+  {
+    "candidate_count": 8,
+    "category": "design",
+    "directory_url": "https://github.com/plenaryapp/awesome-rss-feeds",
+    "document_sha256": "f4277d1b6fd43b085c81d06ffe4aae229c0155a2da1a2711b5d41e64f961872f",
+    "name": "Plenary UI - UX",
+    "retrieved_at": "2026-10-12T13:16:47.300396Z",
+    "url": "https://raw.githubusercontent.com/plenaryapp/awesome-rss-feeds/master/recommended/without_category/UI%20-%20UX.opml"
+  },
+  {
+    "candidate_count": 14,
+    "category": "gaming",
+    "directory_url": "https://github.com/plenaryapp/awesome-rss-feeds",
+    "document_sha256": "6a917917509ebf489f1adc6284ac74996ca70f1a64e90bd8ee8d7e7b8a70c27c",
+    "name": "Plenary Gaming",
+    "retrieved_at": "2026-10-12T13:16:47.387219Z",
+    "url": "https://raw.githubusercontent.com/plenaryapp/awesome-rss-feeds/master/recommended/without_category/Gaming.opml"
+  },
+  {
+    "candidate_count": 8,
+    "category": "developer-tools",
+    "directory_url": "https://github.com/plenaryapp/awesome-rss-feeds",
+    "document_sha256": "58b07b66430559d17640d1621e554e23d50344bfcdb39b99a2145a252403f423",
+    "name": "Plenary DIY",
+    "retrieved_at": "2026-10-12T13:16:47.456828Z",
+    "url": "https://raw.githubusercontent.com/plenaryapp/awesome-rss-feeds/master/recommended/without_category/DIY.opml"
+  },
+  {
+    "candidate_count": 36,
+    "category": "news-india",
+    "directory_url": "https://github.com/plenaryapp/awesome-rss-feeds",
+    "document_sha256": "cb864943a10665763c6608123c0e717107a5a5b9e72026ab37a4bbb19964f048",
+    "name": "Plenary India",
+    "retrieved_at": "2026-10-12T13:16:47.539129Z",
+    "url": "https://raw.githubusercontent.com/plenaryapp/awesome-rss-feeds/master/countries/without_category/India.opml"
+  },
+  {
+    "candidate_count": 5,
+    "category": "news-world",
+    "directory_url": "https://github.com/plenaryapp/awesome-rss-feeds",
+    "document_sha256": "60d689b12d67e83b9c1f6da6b2af83868c3ad2dd857dbe1e06889ce8ed3b54ef",
+    "name": "Plenary United Kingdom",
+    "retrieved_at": "2026-10-12T13:16:47.607094Z",
+    "url": "https://raw.githubusercontent.com/plenaryapp/awesome-rss-feeds/master/countries/without_category/United%20Kingdom.opml"
+  },
+  {
+    "candidate_count": 10,
+    "category": "news-world",
+    "directory_url": "https://github.com/plenaryapp/awesome-rss-feeds",
+    "document_sha256": "2abe43271ea93d3ae286513e005994060a011bfc15e5396779a707ed797be703",
+    "name": "Plenary United States",
+    "retrieved_at": "2026-10-12T13:16:47.670061Z",
+    "url": "https://raw.githubusercontent.com/plenaryapp/awesome-rss-feeds/master/countries/without_category/United%20States.opml"
+  },
+  {
+    "candidate_count": 320,
+    "category": "developer-blogs",
+    "directory_url": "https://github.com/krossovochkin/k.rss.opml",
+    "document_sha256": "210fb397d2c1d8fc38f1f1885071cf8733d24650b13b84d9889b84318df5329f",
+    "group_categories": {
+      "AI": "ai-ml",
+      "Android": "android-development",
+      "Company Blogs": "engineering",
+      "Design": "design",
+      "Flutter": "flutter",
+      "Java": "languages",
+      "Kotlin": "kotlin",
+      "Personal Blogs": "developer-blogs"
+    },
+    "name": "Mobile and Kotlin developer feeds",
+    "retrieved_at": "2026-10-12T13:28:54.067157Z",
+    "url": "https://raw.githubusercontent.com/krossovochkin/k.rss.opml/master/subscriptions.xml"
+  },
+  {
+    "candidate_count": 197,
+    "category": "engineering",
+    "directory_url": "https://github.com/pierrafleur/bibliopen-source",
+    "document_sha256": "596e27e3becd4b9189a01346c78998b75cee86d45fe53bb0f63a744c3621de9d",
+    "format": "csv",
+    "name": "Cloud, software, and security feeds",
+    "retrieved_at": "2026-10-12T13:28:54.071650Z",
+    "url": "https://raw.githubusercontent.com/pierrafleur/bibliopen-source/main/bibliopen-source.csv"
+  }
+]

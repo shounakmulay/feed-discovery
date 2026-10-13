@@ -1,0 +1,79 @@
+{
+  "description": "Database engines, data infrastructure, and storage.",
+  "feeds": [
+    {
+      "description": "Official Database Blog of Amazon Web Services",
+      "feed_format": "rss",
+      "feed_url": "https://aws.amazon.com/blogs/database/feed/",
+      "icon_url": null,
+      "id": "b4f259c7-e1e6-5b88-beb0-d8f5baea8b66",
+      "language_tag": "en-US",
+      "title": "AWS Database Blog",
+      "website_url": null
+    },
+    {
+      "description": "Welcome to the ClickHouse Blog!",
+      "feed_format": "rss",
+      "feed_url": "https://clickhouse.com/rss.xml",
+      "icon_url": null,
+      "id": "e521834b-3cdc-5676-8b38-99dddb701588",
+      "language_tag": "en-US",
+      "title": "ClickHouse Blog",
+      "website_url": "https://clickhouse.com/blog"
+    },
+    {
+      "description": "PostgreSQL experts from Crunchy Data share advice, performance tips, and guides on successfully running PostgreSQL and Kubernetes solutions",
+      "feed_format": "rss",
+      "feed_url": "https://www.crunchydata.com/blog/rss.xml",
+      "icon_url": null,
+      "id": "f0cc09da-ab96-5065-b698-bfce80fce05f",
+      "language_tag": "en-us",
+      "title": "CrunchyData Blog",
+      "website_url": null
+    },
+    {
+      "description": "DuckDB is an in-process SQL database management system focused on analytical query processing. It is designed to be easy to install and easy to use. DuckDB has no external dependencies. DuckDB has bindings for C/C++, Python, R, Java, Node.js, Go and other languages.",
+      "feed_format": "atom",
+      "feed_url": "https://duckdb.org/feed.xml",
+      "icon_url": null,
+      "id": "89cf4272-ed19-5bae-862d-787c0d3bc1b0",
+      "language_tag": null,
+      "title": "DuckDB",
+      "website_url": "https://duckdb.org/"
+    },
+    {
+      "description": "MongoDB news and information.",
+      "feed_format": "rss",
+      "feed_url": "https://www.mongodb.com/company/blog/rss",
+      "icon_url": null,
+      "id": "07d00892-5f97-5e0c-9e5b-a12c8cdc28aa",
+      "language_tag": null,
+      "title": "MongoDB | Blog",
+      "website_url": "https://www.mongodb.com/blog"
+    },
+    {
+      "description": "Latest news from Supabase",
+      "feed_format": "rss",
+      "feed_url": "https://supabase.com/rss.xml",
+      "icon_url": null,
+      "id": "ce1636a5-9d50-56ab-85a7-14db1aa330d3",
+      "language_tag": "en",
+      "title": "Supabase Blog",
+      "website_url": "https://supabase.com/"
+    },
+    {
+      "description": "Insights, product updates, and tips from TigerData (Creators of TimescaleDB) engineers on Postgres, time series & AI. IoT, crypto, and analytics tutorials & use cases.",
+      "feed_format": "rss",
+      "feed_url": "https://www.tigerdata.com/blog/rss",
+      "icon_url": null,
+      "id": "eac95105-b9d2-5004-9d34-4109ec253cf6",
+      "language_tag": null,
+      "title": "Tiger Data Blog",
+      "website_url": "https://www.tigerdata.com/blog"
+    }
+  ],
+  "id": "3cc45e9f-1414-56ac-ac5c-6aa8092eb9e8",
+  "schema_version": 1,
+  "slug": "databases",
+  "title": "Databases"
+}

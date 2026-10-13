@@ -1,0 +1,199 @@
+[
+  {
+    "category": "developer-blogs",
+    "directory_url": "https://github.com/simevidas/web-dev-feeds",
+    "group_categories": {
+      "Browsers": "browsers",
+      "Companies": "engineering",
+      "Governments": "open-data",
+      "Guides": "frontend",
+      "Magazines": "frontend",
+      "Organizations": "web-standards",
+      "People": "developer-blogs",
+      "Standards": "web-standards",
+      "Tools": "developer-tools"
+    },
+    "name": "Web developer feeds",
+    "url": "https://raw.githubusercontent.com/simevidas/web-dev-feeds/master/feeds.opml"
+  },
+  {
+    "category": "engineering",
+    "directory_url": "https://github.com/kilimchoi/engineering-blogs",
+    "name": "Engineering blogs",
+    "url": "https://raw.githubusercontent.com/kilimchoi/engineering-blogs/master/engineering_blogs.opml"
+  },
+  {
+    "category": "frontend",
+    "directory_url": "https://github.com/impressivewebs/frontend-feeds",
+    "group_categories": {
+      "Browsers, Engines, etc.": "browsers",
+      "Company/Startup Blogs": "engineering",
+      "Libraries, Frameworks, etc.": "developer-tools"
+    },
+    "name": "Frontend feeds",
+    "url": "https://raw.githubusercontent.com/impressivewebs/frontend-feeds/master/frontend-feeds.opml"
+  },
+  {
+    "category": "technology",
+    "directory_url": "https://github.com/tuan3w/awesome-tech-rss",
+    "group_categories": {
+      "Design": "design",
+      "Engineering blogs": "engineering",
+      "Learning": "learning",
+      "Machine Learning": "ai-ml",
+      "Marketing": "business-startups",
+      "Neuroscience": "science",
+      "Others": "technology",
+      "Products & Ideas": "technology",
+      "Psychology": "science",
+      "Science": "science",
+      "Startup": "business-startups",
+      "Tech News": "technology"
+    },
+    "name": "Awesome tech RSS",
+    "url": "https://raw.githubusercontent.com/tuan3w/awesome-tech-rss/main/feeds.opml"
+  },
+  {
+    "category": "android-development",
+    "directory_url": "https://github.com/plenaryapp/awesome-rss-feeds",
+    "name": "Plenary Android Development",
+    "url": "https://raw.githubusercontent.com/plenaryapp/awesome-rss-feeds/master/recommended/without_category/Android%20Development.opml"
+  },
+  {
+    "category": "ios-swift",
+    "directory_url": "https://github.com/plenaryapp/awesome-rss-feeds",
+    "name": "Plenary iOS Development",
+    "url": "https://raw.githubusercontent.com/plenaryapp/awesome-rss-feeds/master/recommended/without_category/iOS%20Development.opml"
+  },
+  {
+    "category": "programming",
+    "directory_url": "https://github.com/plenaryapp/awesome-rss-feeds",
+    "name": "Plenary Programming",
+    "url": "https://raw.githubusercontent.com/plenaryapp/awesome-rss-feeds/master/recommended/without_category/Programming.opml"
+  },
+  {
+    "category": "frontend",
+    "directory_url": "https://github.com/plenaryapp/awesome-rss-feeds",
+    "name": "Plenary Web Development",
+    "url": "https://raw.githubusercontent.com/plenaryapp/awesome-rss-feeds/master/recommended/without_category/Web%20Development.opml"
+  },
+  {
+    "category": "cybersecurity",
+    "directory_url": "https://github.com/plenaryapp/awesome-rss-feeds",
+    "name": "Plenary Cyber security",
+    "url": "https://raw.githubusercontent.com/plenaryapp/awesome-rss-feeds/master/recommended/without_category/Cyber%20security.opml"
+  },
+  {
+    "category": "technology",
+    "directory_url": "https://github.com/plenaryapp/awesome-rss-feeds",
+    "name": "Plenary Tech",
+    "url": "https://raw.githubusercontent.com/plenaryapp/awesome-rss-feeds/master/recommended/without_category/Tech.opml"
+  },
+  {
+    "category": "android",
+    "directory_url": "https://github.com/plenaryapp/awesome-rss-feeds",
+    "name": "Plenary Android",
+    "url": "https://raw.githubusercontent.com/plenaryapp/awesome-rss-feeds/master/recommended/without_category/Android.opml"
+  },
+  {
+    "category": "apple",
+    "directory_url": "https://github.com/plenaryapp/awesome-rss-feeds",
+    "name": "Plenary Apple",
+    "url": "https://raw.githubusercontent.com/plenaryapp/awesome-rss-feeds/master/recommended/without_category/Apple.opml"
+  },
+  {
+    "category": "science",
+    "directory_url": "https://github.com/plenaryapp/awesome-rss-feeds",
+    "name": "Plenary Science",
+    "url": "https://raw.githubusercontent.com/plenaryapp/awesome-rss-feeds/master/recommended/without_category/Science.opml"
+  },
+  {
+    "category": "space",
+    "directory_url": "https://github.com/plenaryapp/awesome-rss-feeds",
+    "name": "Plenary Space",
+    "url": "https://raw.githubusercontent.com/plenaryapp/awesome-rss-feeds/master/recommended/without_category/Space.opml"
+  },
+  {
+    "category": "environment",
+    "directory_url": "https://github.com/plenaryapp/awesome-rss-feeds",
+    "name": "Plenary Environment",
+    "url": "https://raw.githubusercontent.com/plenaryapp/awesome-rss-feeds/master/recommended/without_category/Environment.opml"
+  },
+  {
+    "category": "news-world",
+    "directory_url": "https://github.com/plenaryapp/awesome-rss-feeds",
+    "name": "Plenary News",
+    "url": "https://raw.githubusercontent.com/plenaryapp/awesome-rss-feeds/master/recommended/without_category/News.opml"
+  },
+  {
+    "category": "business-startups",
+    "directory_url": "https://github.com/plenaryapp/awesome-rss-feeds",
+    "name": "Plenary Business & Economy",
+    "url": "https://raw.githubusercontent.com/plenaryapp/awesome-rss-feeds/master/recommended/without_category/Business%20%26%20Economy.opml"
+  },
+  {
+    "category": "business-startups",
+    "directory_url": "https://github.com/plenaryapp/awesome-rss-feeds",
+    "name": "Plenary Startups",
+    "url": "https://raw.githubusercontent.com/plenaryapp/awesome-rss-feeds/master/recommended/without_category/Startups.opml"
+  },
+  {
+    "category": "design",
+    "directory_url": "https://github.com/plenaryapp/awesome-rss-feeds",
+    "name": "Plenary UI - UX",
+    "url": "https://raw.githubusercontent.com/plenaryapp/awesome-rss-feeds/master/recommended/without_category/UI%20-%20UX.opml"
+  },
+  {
+    "category": "gaming",
+    "directory_url": "https://github.com/plenaryapp/awesome-rss-feeds",
+    "name": "Plenary Gaming",
+    "url": "https://raw.githubusercontent.com/plenaryapp/awesome-rss-feeds/master/recommended/without_category/Gaming.opml"
+  },
+  {
+    "category": "hardware-makers",
+    "directory_url": "https://github.com/plenaryapp/awesome-rss-feeds",
+    "name": "Plenary DIY",
+    "url": "https://raw.githubusercontent.com/plenaryapp/awesome-rss-feeds/master/recommended/without_category/DIY.opml"
+  },
+  {
+    "category": "news-india",
+    "directory_url": "https://github.com/plenaryapp/awesome-rss-feeds",
+    "name": "Plenary India",
+    "url": "https://raw.githubusercontent.com/plenaryapp/awesome-rss-feeds/master/countries/without_category/India.opml"
+  },
+  {
+    "category": "news-world",
+    "directory_url": "https://github.com/plenaryapp/awesome-rss-feeds",
+    "name": "Plenary United Kingdom",
+    "url": "https://raw.githubusercontent.com/plenaryapp/awesome-rss-feeds/master/countries/without_category/United%20Kingdom.opml"
+  },
+  {
+    "category": "news-world",
+    "directory_url": "https://github.com/plenaryapp/awesome-rss-feeds",
+    "name": "Plenary United States",
+    "url": "https://raw.githubusercontent.com/plenaryapp/awesome-rss-feeds/master/countries/without_category/United%20States.opml"
+  },
+  {
+    "category": "developer-blogs",
+    "directory_url": "https://github.com/krossovochkin/k.rss.opml",
+    "group_categories": {
+      "AI": "ai-ml",
+      "Android": "android-development",
+      "Company Blogs": "engineering",
+      "Design": "design",
+      "Flutter": "flutter",
+      "Java": "languages",
+      "Kotlin": "kotlin",
+      "Personal Blogs": "developer-blogs"
+    },
+    "name": "Mobile and Kotlin developer feeds",
+    "url": "https://raw.githubusercontent.com/krossovochkin/k.rss.opml/master/subscriptions.xml"
+  },
+  {
+    "category": "engineering",
+    "directory_url": "https://github.com/pierrafleur/bibliopen-source",
+    "format": "csv",
+    "name": "Cloud, software, and security feeds",
+    "url": "https://raw.githubusercontent.com/pierrafleur/bibliopen-source/main/bibliopen-source.csv"
+  }
+]

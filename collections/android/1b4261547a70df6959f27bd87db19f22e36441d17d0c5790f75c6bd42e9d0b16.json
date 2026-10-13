@@ -1,0 +1,149 @@
+{
+  "description": "Android devices, apps, and ecosystem news.",
+  "feeds": [
+    {
+      "description": "All About Android delivers everything you want to know about Android each week--the biggest news, freshest hardware, best apps and geekiest how-tos--with Android enthusiasts Jason Howell, Ron Richards, Huyen Tue Dao, and a variety of special guests along the way. Although the show is no longer in production, you can enjoy over a decade of Android in our archives.",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.twit.tv/aaa.xml",
+      "icon_url": null,
+      "id": "d14368d2-2e4d-518d-a30c-f9aca5d6162b",
+      "language_tag": "en-US",
+      "title": "All About Android (Audio)",
+      "website_url": "https://twit.tv/shows/all-about-android"
+    },
+    {
+      "description": "Android",
+      "feed_format": "rss",
+      "feed_url": "https://blog.google/products-and-platforms/platforms/android/rss/",
+      "icon_url": null,
+      "id": "ef346cc3-129e-5a16-8f77-d0e40565bf14",
+      "language_tag": "en-us",
+      "title": "Android",
+      "website_url": "https://blog.google/products-and-platforms/platforms/android/"
+    },
+    {
+      "description": "Android News, Reviews, How To",
+      "feed_format": "rss",
+      "feed_url": "https://www.androidauthority.com/feed/",
+      "icon_url": null,
+      "id": "73d2ce3e-5d4b-5431-8443-ef6da6ca3680",
+      "language_tag": "en-US",
+      "title": "Android Authority",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?user=AndroidAuthority",
+      "icon_url": null,
+      "id": "788bc17f-1b8d-536e-b854-f047f92f03d9",
+      "language_tag": null,
+      "title": "Android Authority",
+      "website_url": "https://www.youtube.com/channel/UCgyqtNWZmIxTx3b6OxTSALw"
+    },
+    {
+      "description": "The Android Authority Podcast – discussing topics in Android every week. The Android Authority Podcast brings you all the top stories and features based on your favorite mobile operating system: Android. We help make Android more accessible to all, and dive deeper into the details when we can, there's something in here for everyone. Check out androidauthority.com for all the best news and reviews for your favorite phones and tablets, then join our community forums to join in on the discussion. D",
+      "feed_format": "rss",
+      "feed_url": "https://rss.libsyn.com/shows/62117/destinations/242501.xml",
+      "icon_url": null,
+      "id": "46056872-1533-5439-b137-bea2ba5d4f7c",
+      "language_tag": "en",
+      "title": "Android Authority Podcast",
+      "website_url": null
+    },
+    {
+      "description": "The Android and Google Podcast for Everyone. Hosted by Daniel Bader.",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.feedburner.com/AndroidCentralPodcast",
+      "icon_url": null,
+      "id": "1a600aa5-d3a4-5d52-88a9-e07e9d653968",
+      "language_tag": "en",
+      "title": "Android Central Podcast",
+      "website_url": null
+    },
+    {
+      "description": "At Blind Android Users, we strive to make using Android as easy as possible for every blind person who's starting the Android journey.We bridge the dividing gap that stands between blind people, both new to Android and those familiar with the platform, on the use of the platform and revealing what makes the OS the platform to be on!The Blind Android Users Podcast believes that, no blind person should be struggling with their Android device, thus, we have determine to embark on a mission of under",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.acast.com/public/shows/63e9d2d002ceee00117badba",
+      "icon_url": null,
+      "id": "5a0633ce-2883-5999-9ea3-e830519d82a8",
+      "language_tag": "en",
+      "title": "Blind Android Users Podcast",
+      "website_url": "https://www.blindandroidusers.com/"
+    },
+    {
+      "description": "Breaking news for Android fans",
+      "feed_format": "rss",
+      "feed_url": "https://www.cultofandroid.com/feed/",
+      "icon_url": null,
+      "id": "20c7ae85-ed5b-5e9b-80f7-43438f078985",
+      "language_tag": "en-US",
+      "title": "Cult of Android",
+      "website_url": null
+    },
+    {
+      "description": "GCam APK | LineageOS | AI Mods",
+      "feed_format": "rss",
+      "feed_url": "https://cyanogenmods.org/feed/",
+      "icon_url": null,
+      "id": "0f8e0887-4b63-5f69-9c3c-ce8c5031cbe5",
+      "language_tag": "en-US",
+      "title": "Cyanogen Mods",
+      "website_url": null
+    },
+    {
+      "description": "Opinionated Android news.",
+      "feed_format": "rss",
+      "feed_url": "https://www.droid-life.com/feed/",
+      "icon_url": null,
+      "id": "4ada1925-116f-5f8c-a639-3200bb8cc784",
+      "language_tag": "en-US",
+      "title": "Droid Life",
+      "website_url": null
+    },
+    {
+      "description": "GSMArena.com is the ultimate resource for GSM handset information. This feed contains the latest articles (news and reviews) in chronological order.",
+      "feed_format": "rss",
+      "feed_url": "https://www.gsmarena.com/rss-news-reviews.php3",
+      "icon_url": null,
+      "id": "46f9df8b-0b6b-5fa4-8929-bee08da57510",
+      "language_tag": "en-us",
+      "title": "GSMArena.com - Latest articles",
+      "website_url": "https://www.gsmarena.com/"
+    },
+    {
+      "description": "All the latest content from the Android Central team",
+      "feed_format": "rss",
+      "feed_url": "http://feeds.androidcentral.com/androidcentral",
+      "icon_url": null,
+      "id": "09051b27-3aae-53f0-b902-0edc9964472d",
+      "language_tag": "en",
+      "title": "Latest from Android Central",
+      "website_url": null
+    },
+    {
+      "description": "Android Phone News, Rumors, Reviews, Apps, Forums & More!",
+      "feed_format": "rss",
+      "feed_url": "https://feeds2.feedburner.com/AndroidPhoneFans",
+      "icon_url": null,
+      "id": "ea08a1d4-369f-5c1b-9685-5f5ad4af3d78",
+      "language_tag": "en-US",
+      "title": "Phandroid",
+      "website_url": null
+    },
+    {
+      "description": "The latest in android news, rumours, and updates, including device news and apps!",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
+      "icon_url": null,
+      "id": "5cf287f1-7c43-5fcb-b04d-4d4fbf5693c4",
+      "language_tag": "en-US",
+      "title": "TalkAndroid",
+      "website_url": null
+    }
+  ],
+  "id": "14bca583-bc93-5ef2-8164-132924f16817",
+  "schema_version": 1,
+  "slug": "android",
+  "title": "Android news"
+}

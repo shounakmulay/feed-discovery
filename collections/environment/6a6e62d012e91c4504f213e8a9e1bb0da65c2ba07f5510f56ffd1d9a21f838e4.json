@@ -1,0 +1,109 @@
+{
+  "description": "Climate, energy, conservation, and the environment.",
+  "feeds": [
+    {
+      "description": "RSS feed for news, views and features from the front lines of conservation",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.feedburner.com/ConservationInternationalBlog",
+      "icon_url": null,
+      "id": "a495d3b7-3bc2-546c-8d87-77d087256fa5",
+      "language_tag": null,
+      "title": "\"Human Nature\" Blog Feed",
+      "website_url": "https://www.conservation.org/"
+    },
+    {
+      "description": "We've entered a new epoch: the Anthropocene, and nothing is as it was. Not the trees, not the seas – not the forests, farms, or fields – and not the global economy that depends on all of these. What does this mean for your investments, your family's future, and the future of man? Each week, we dive into these issues to help you Navigate the New Reality.",
+      "feed_format": "rss",
+      "feed_url": "https://rss.libsyn.com/shows/81028/destinations/375080.xml",
+      "icon_url": null,
+      "id": "a0f50d6d-cca3-5cb5-afe5-7e0ca51fa1e9",
+      "language_tag": "en",
+      "title": "Bionic Planet: Reversing Climate Change by Restoring Nature",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCam5sCp6mzGBcn8ZBB2RBJg",
+      "icon_url": null,
+      "id": "e52142ec-8999-51e9-835f-611da7f61a63",
+      "language_tag": null,
+      "title": "Conservation International",
+      "website_url": "https://www.youtube.com/channel/UCam5sCp6mzGBcn8ZBB2RBJg"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://theconversation.com/au/environment/articles.atom",
+      "icon_url": null,
+      "id": "d21cd696-1ea7-5ffb-947d-707b81b21082",
+      "language_tag": "en-US",
+      "title": "Environment + Energy – The Conversation",
+      "website_url": "https://theconversation.com/"
+    },
+    {
+      "description": "World news on global warming, climate change, wildlife, pollution, carbon business and climate politics. News from Indian environment including wildlife like tiger, lion, elephants. Also, news from United Nations.",
+      "feed_format": "rss",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/2647163.cms",
+      "icon_url": null,
+      "id": "6ab6db10-59db-5aae-9c5e-09bcc96e7348",
+      "language_tag": "en-gb",
+      "title": "Environment News, Earth News, Global Warming, Wild Life, Carbon Trading, Climate Business, Climate Change & Pollution News",
+      "website_url": "https://timesofindia.indiatimes.com/articlelist/2647163.cms"
+    },
+    {
+      "description": "Latest environmental news, opinion and analysis from the Guardian.",
+      "feed_format": "rss",
+      "feed_url": "https://www.theguardian.com/us/environment/rss",
+      "icon_url": null,
+      "id": "93d3c601-9372-531f-a715-f646cfd2312c",
+      "language_tag": "en-gb",
+      "title": "Environment | The Guardian",
+      "website_url": "https://www.theguardian.com/us/environment"
+    },
+    {
+      "description": "At Good Good Good we help you feel more hopeful and do more good.",
+      "feed_format": "rss",
+      "feed_url": "https://www.goodgoodgood.co/articles/rss.xml",
+      "icon_url": null,
+      "id": "38a7f4eb-d9af-5dfe-adc9-5d84001dae34",
+      "language_tag": null,
+      "title": "Good Good Good",
+      "website_url": "https://www.goodgoodgood.co/"
+    },
+    {
+      "description": "Breaking news on the environment, climate change, pollution, and endangered species. Also featuring Climate Connections, a special series on climate change co-produced by NPR and National Geographic.",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.npr.org/1025/rss.xml",
+      "icon_url": null,
+      "id": "c6b017c5-e3ad-59dc-8cac-3420ae7c6a08",
+      "language_tag": "en",
+      "title": "NPR Topics: Environment",
+      "website_url": "https://www.npr.org/templates/story/story.php?storyId=1025"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Climate.xml",
+      "icon_url": null,
+      "id": "eebc69ef-cb1d-5aae-ba21-f0b5c143a4d1",
+      "language_tag": "en-us",
+      "title": "NYT > Climate and Environment",
+      "website_url": "https://www.nytimes.com/section/climate"
+    },
+    {
+      "description": "Eco Friendly Natural Organic Sustainable Living",
+      "feed_format": "rss",
+      "feed_url": "https://prakati.in/feed/",
+      "icon_url": null,
+      "id": "7c085fcc-b111-5836-a0e5-03b582e57342",
+      "language_tag": "en-US",
+      "title": "Prakati India",
+      "website_url": null
+    }
+  ],
+  "id": "3968362c-dfe7-5144-b9d7-648e1d3743a6",
+  "schema_version": 1,
+  "slug": "environment",
+  "title": "Climate and environment"
+}

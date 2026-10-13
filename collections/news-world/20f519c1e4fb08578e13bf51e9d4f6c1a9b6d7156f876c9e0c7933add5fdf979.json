@@ -1,0 +1,329 @@
+{
+  "description": "General news and international reporting.",
+  "feeds": [
+    {
+      "description": "Breaking News, World News and Video from Al Jazeera",
+      "feed_format": "rss",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "icon_url": null,
+      "id": "c9bcc774-2f95-55c3-8e7f-6e51bd869a7e",
+      "language_tag": "en",
+      "title": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "website_url": null
+    },
+    {
+      "description": "BBC News - Europe",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+      "icon_url": null,
+      "id": "16f82f15-2c3f-5f82-b3b7-349de372d773",
+      "language_tag": "en-gb",
+      "title": "BBC News",
+      "website_url": "https://www.bbc.co.uk/news/world/europe"
+    },
+    {
+      "description": "BBC News - World",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "icon_url": null,
+      "id": "882b31d2-1f9e-5a7c-84e0-cf2cabe10e3e",
+      "language_tag": "en-gb",
+      "title": "BBC News",
+      "website_url": "https://www.bbc.co.uk/news/world"
+    },
+    {
+      "description": "BBC News - Business",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.bbci.co.uk/news/business/rss.xml",
+      "icon_url": null,
+      "id": "9f023766-47e8-5ab1-9e6a-1421eb8dc654",
+      "language_tag": "en-gb",
+      "title": "BBC News",
+      "website_url": "https://www.bbc.co.uk/news/business"
+    },
+    {
+      "description": "BBC News - US & Canada",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+      "icon_url": null,
+      "id": "b17911d4-6468-5ef4-9714-5426db55ab41",
+      "language_tag": "en-gb",
+      "title": "BBC News",
+      "website_url": "https://www.bbc.co.uk/news/world/us_and_canada"
+    },
+    {
+      "description": "BBC News - Asia",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+      "icon_url": null,
+      "id": "bd6b3410-5d7e-5489-8206-8261d31af550",
+      "language_tag": "en-gb",
+      "title": "BBC News",
+      "website_url": "https://www.bbc.co.uk/news/world/asia"
+    },
+    {
+      "description": "BBC News - Africa",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
+      "icon_url": null,
+      "id": "ee3595da-3212-5562-8f86-fc5e03bc125d",
+      "language_tag": "en-gb",
+      "title": "BBC News",
+      "website_url": "https://www.bbc.co.uk/news/world/africa"
+    },
+    {
+      "description": "BBC News - News Front Page",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.bbci.co.uk/news/rss.xml",
+      "icon_url": null,
+      "id": "f5287ad1-2d70-5d67-a395-7aa949b46670",
+      "language_tag": "en-gb",
+      "title": "BBC News",
+      "website_url": "https://www.bbc.co.uk/news"
+    },
+    {
+      "description": "CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.",
+      "feed_format": "rss",
+      "feed_url": "http://rss.cnn.com/rss/edition.rss",
+      "icon_url": "http://i2.cdn.turner.com/cnn/2015/images/09/24/cnn.digital.png",
+      "id": "5d834792-b751-5c6a-ada5-cb0f980f321e",
+      "language_tag": "en-US",
+      "title": "CNN.com - RSS Channel - App International Edition",
+      "website_url": "https://www.cnn.com/app-international-edition/index.html"
+    },
+    {
+      "description": "CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.",
+      "feed_format": "rss",
+      "feed_url": "http://rss.cnn.com/rss/edition_world.rss",
+      "icon_url": null,
+      "id": "c3581393-1abb-56ce-b819-661a8d24bdcf",
+      "language_tag": "en-US",
+      "title": "CNN.com - RSS Channel - World",
+      "website_url": "https://www.cnn.com/world/index.html"
+    },
+    {
+      "description": "Simply The Best 7 Days A Week",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.feedburner.com/daily-express-news-showbiz",
+      "icon_url": "https://cdn.images.express.co.uk/img/logorss.gif",
+      "id": "600555f2-1bdb-5204-b9aa-69ef0e46620f",
+      "language_tag": "en-gb",
+      "title": "Daily Express :: News Feed",
+      "website_url": "https://www.express.co.uk/"
+    },
+    {
+      "description": "Daily Mail Online - get the latest breaking news, showbiz & celebrity photos, sport news & rumours, viral videos and top stories from Daily Mail and Mail on Sunday newspapers.",
+      "feed_format": "rss",
+      "feed_url": "https://www.dailymail.com/home/index.rss",
+      "icon_url": "https://i.dailymail.com/i/furniture/mastHead_1_rss.png",
+      "id": "978c6e98-c635-592e-b480-905037bae502",
+      "language_tag": "en-gb",
+      "title": "Home | Mail Online",
+      "website_url": "https://www.dailymail.com/?ns_mchannel=rss&ns_campaign=1490&ito=1490"
+    },
+    {
+      "description": "CNBC International is the world leader for news on business, technology, China, trade, oil prices, the Middle East and markets.",
+      "feed_format": "rss",
+      "feed_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "icon_url": null,
+      "id": "1490a4dc-d8ea-5020-a9c3-8ef7c8df164c",
+      "language_tag": "en-us",
+      "title": "International: Top News And Analysis",
+      "website_url": null
+    },
+    {
+      "description": "Discover the latest breaking news feed with Fox. Find out what the latest news is and read about the latest news happening today.",
+      "feed_format": "rss",
+      "feed_url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+      "icon_url": "https://global.fncstatic.com/static/orion/styles/img/fox-news/logos/fox-news-desktop.png",
+      "id": "60ac92e0-fae7-5841-af4d-f751bc09ad37",
+      "language_tag": "en-us",
+      "title": "Latest & Breaking News on Fox News",
+      "website_url": "https://www.foxnews.com/"
+    },
+    {
+      "description": "NDTV.com provides the latest information from and in-depth coverage of India and the world. Find breaking news, India news, top stories, elections, politics, business, cricket, movies, lifestyle, health, live TV, videos, photos and more.",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.feedburner.com/ndtvnews-world-news",
+      "icon_url": null,
+      "id": "03e9b55f-e0bf-59be-92de-e8a9caeb5e57",
+      "language_tag": "en",
+      "title": "NDTV News Search Records Found 1000",
+      "website_url": "https://www.ndtv.com/"
+    },
+    {
+      "description": "Top stories in the U.S. and world news, politics, health, science, business, music, arts and culture. Nonprofit journalism with a mission. This is NPR.",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.npr.org/1002/rss.xml",
+      "icon_url": null,
+      "id": "0d7f41dc-6567-5386-808e-bfa807c653f8",
+      "language_tag": "en",
+      "title": "NPR Topics: Home Page Top Stories",
+      "website_url": "https://www.npr.org/templates/story/story.php?storyId=1002"
+    },
+    {
+      "description": "NPR news, audio, and podcasts. Coverage of breaking stories, national and world news, politics, business, science, technology, and extended coverage of major national and world events.",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.npr.org/1001/rss.xml",
+      "icon_url": null,
+      "id": "0a65907a-f341-5984-b4d5-0079e9af2da8",
+      "language_tag": "en",
+      "title": "NPR Topics: News",
+      "website_url": "https://www.npr.org/templates/story/story.php?storyId=1001"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+      "icon_url": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png",
+      "id": "f906f6d8-8e90-56cb-9e98-a83fb9d852e2",
+      "language_tag": "en-us",
+      "title": "NYT > Top Stories",
+      "website_url": "https://www.nytimes.com/"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "icon_url": null,
+      "id": "146eb15f-caae-5fce-83ba-5fb329e678dd",
+      "language_tag": "en-us",
+      "title": "NYT > World News",
+      "website_url": "https://www.nytimes.com/section/world"
+    },
+    {
+      "description": "The unofficial guide to official Washington, every morning and weekday afternoons.",
+      "feed_format": "rss",
+      "feed_url": "https://rss.politico.com/playbook.xml",
+      "icon_url": null,
+      "id": "b4ad6da1-62be-5474-bf8b-5e1327eee3aa",
+      "language_tag": "en-us",
+      "title": "Playbook",
+      "website_url": "https://rss.politico.com/playbook.xml"
+    },
+    {
+      "description": "Visit now for the latest news direct from The Independent UK and updated throughout the day",
+      "feed_format": "rss",
+      "feed_url": "https://www.independent.co.uk/news/uk/rss",
+      "icon_url": null,
+      "id": "280aa013-39f6-5c49-904d-117944cdb0b3",
+      "language_tag": "en-gb",
+      "title": "The Independent UK",
+      "website_url": "https://www.independent.co.uk/news/uk/rss"
+    },
+    {
+      "description": "Google News",
+      "feed_format": "rss",
+      "feed_url": "https://news.google.com/rss?hl=en-IN&gl=IN&ceid=IN:en",
+      "icon_url": null,
+      "id": "285d2796-21be-57f1-af31-da1ac93e15db",
+      "language_tag": "en-IN",
+      "title": "Top stories - Google News",
+      "website_url": "https://news.google.com/?hl=en-IN&gl=IN&ceid=IN:en"
+    },
+    {
+      "description": "CNBC is the world leader in business news and real-time financial market coverage. Find fast, actionable information.",
+      "feed_format": "rss",
+      "feed_url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+      "icon_url": null,
+      "id": "b2964391-b474-5fb1-ac1a-3cbadced28f2",
+      "language_tag": "en-us",
+      "title": "US Top News and Analysis",
+      "website_url": null
+    },
+    {
+      "description": "The Washington Post World section provides information and analysis of breaking world news stories. In addition to our world news and video, Post World News offers discussions and blogs on major international news and economic issues.",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.washingtonpost.com/rss/world",
+      "icon_url": null,
+      "id": "1ab7588e-781c-52f8-916e-a43504884b6d",
+      "language_tag": null,
+      "title": "World",
+      "website_url": "https://www.washingtonpost.com/"
+    },
+    {
+      "description": "Latest World & Nation news from the Los Angeles Times — breaking news, politics, global events, and in-depth reporting from around the world.",
+      "feed_format": "rss",
+      "feed_url": "https://www.latimes.com/world-nation/rss2.0.xml",
+      "icon_url": null,
+      "id": "49a26596-1c54-52e3-b659-179fc46cb508",
+      "language_tag": "en-US",
+      "title": "World & Nation",
+      "website_url": "https://www.latimes.com/"
+    },
+    {
+      "description": "HuffPost - United States",
+      "feed_format": "rss",
+      "feed_url": "https://chaski.huffpost.com/us/auto/vertical/world-news",
+      "icon_url": null,
+      "id": "c5406e33-c326-5b11-99ab-868637fb0e9c",
+      "language_tag": "en-US",
+      "title": "World News",
+      "website_url": "https://www.huffpost.com/news/world-news"
+    },
+    {
+      "description": "Latest World news news, comment and analysis from the Guardian, the world's leading liberal voice",
+      "feed_format": "rss",
+      "feed_url": "https://www.theguardian.com/world/rss",
+      "icon_url": null,
+      "id": "ea88616f-8991-5d17-9e37-5484b8986d2d",
+      "language_tag": "en-gb",
+      "title": "World news | The Guardian",
+      "website_url": "https://www.theguardian.com/world"
+    },
+    {
+      "description": "World News Today: Read the latest world news headlines, Current International breaking news world wide. In depth analysis and top news headlines world wide.",
+      "feed_format": "rss",
+      "feed_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "icon_url": null,
+      "id": "035cf00f-eddd-5161-8e4d-189f388737ce",
+      "language_tag": "en-gb",
+      "title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
+      "website_url": "https://timesofindia.indiatimes.com/world"
+    },
+    {
+      "description": "World News: Read the latest World News, international headlines, politics, conflicts, business, technology and global developments from around the world.",
+      "feed_format": "rss",
+      "feed_url": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
+      "icon_url": null,
+      "id": "507c031d-ec3d-5508-9e32-52c954b44e47",
+      "language_tag": "en-US",
+      "title": "World News: Breaking World News Today, International News, Live World News | Hindustan Times | Hindustan Times",
+      "website_url": null
+    },
+    {
+      "description": "World news: Get the latest international news, breaking global events and in-depth analysis from The Hindu, covering politics, conflicts, diplomacy, economy and more.",
+      "feed_format": "rss",
+      "feed_url": "https://www.thehindu.com/news/international/feeder/default.rss",
+      "icon_url": null,
+      "id": "e87d5f4d-585f-57d7-b2d0-217246164f66",
+      "language_tag": "en-US",
+      "title": "World News: Latest International News & Updates | The Hindu",
+      "website_url": null
+    },
+    {
+      "description": "Latest News Today, Breaking News, India News, Top Headlines",
+      "feed_format": "rss",
+      "feed_url": "https://indianexpress.com/section/world/feed/",
+      "icon_url": null,
+      "id": "cf6abdb7-8b32-5501-b886-d194a5421bdf",
+      "language_tag": "en-US",
+      "title": "World | The Indian Express",
+      "website_url": null
+    },
+    {
+      "description": "World News",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.a.dj.com/rss/RSSWorldNews.xml",
+      "icon_url": "http://online.wsj.com/img/wsj_sm_logo.gif",
+      "id": "56f085fa-3108-5a27-b01e-4a829aeeb990",
+      "language_tag": "en-us",
+      "title": "WSJ.com: World News",
+      "website_url": "http://online.wsj.com/page/2_0006.html"
+    }
+  ],
+  "id": "13f4ed4b-c889-5252-a4f8-bd885607ee5f",
+  "schema_version": 1,
+  "slug": "news-world",
+  "title": "World news"
+}

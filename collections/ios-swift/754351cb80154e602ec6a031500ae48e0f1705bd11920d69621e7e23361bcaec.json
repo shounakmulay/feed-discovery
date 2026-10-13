@@ -1,0 +1,209 @@
+{
+  "description": "Apple platform development, Swift, and iOS.",
+  "feeds": [
+    {
+      "description": "Principal Software Engineer @ Just Eat Takeaway, London.",
+      "feed_format": "rss",
+      "feed_url": "https://albertodebortoli.com/rss/",
+      "icon_url": null,
+      "id": "0bb5747e-d868-5390-bbf2-f68e4e7d4289",
+      "language_tag": null,
+      "title": "Alberto De Bortoli",
+      "website_url": "https://albertodebortoli.com/"
+    },
+    {
+      "description": "Performant, sleek and elegant.",
+      "feed_format": "rss",
+      "feed_url": "https://augmentedcode.io/feed/",
+      "icon_url": null,
+      "id": "3c60cf65-69bf-5cc1-a186-74ae39c5346a",
+      "language_tag": "en",
+      "title": "Augmented Code",
+      "website_url": null
+    },
+    {
+      "description": "Recent content on Benoit Pasquier",
+      "feed_format": "rss",
+      "feed_url": "https://benoitpasquier.com/index.xml",
+      "icon_url": null,
+      "id": "65e29af8-41b5-5539-8eae-7a91ad01079e",
+      "language_tag": "en-us",
+      "title": "Benoit Pasquier",
+      "website_url": "https://benoitpasquier.com/"
+    },
+    {
+      "description": "SwiftRocks is Bruno Rocha's blog about Swift / iOS and the software engineering industry.",
+      "feed_format": "atom",
+      "feed_url": "https://swiftrocks.com/rss.xml",
+      "icon_url": null,
+      "id": "7a71f869-33d6-5726-9d0b-e9a64be1ce8f",
+      "language_tag": null,
+      "title": "Bruno Rocha",
+      "website_url": "https://swiftrocks.com/"
+    },
+    {
+      "description": "News, tips, and tutorials from Hacking with Swift",
+      "feed_format": "rss",
+      "feed_url": "https://www.hackingwithswift.com/articles/rss",
+      "icon_url": null,
+      "id": "70d84f37-ca6d-5a5c-a736-6f848d6f484a",
+      "language_tag": null,
+      "title": "Hacking with Swift",
+      "website_url": null
+    },
+    {
+      "description": "Brent Simmons's weblog.",
+      "feed_format": "rss",
+      "feed_url": "https://inessential.com/xml/rss.xml",
+      "icon_url": null,
+      "id": "4e16cd66-4638-5b27-99c5-4ca0f10aea79",
+      "language_tag": "en",
+      "title": "inessential.com",
+      "website_url": "https://inessential.com/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://www.kodeco.com/feed",
+      "icon_url": null,
+      "id": "fe0ec647-9faa-5a92-be3d-95faf737f463",
+      "language_tag": null,
+      "title": "Kodeco | High quality programming tutorials: iOS, Android, Swift, Kotlin, Unity, and more",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://developer.apple.com/news/rss/news.rss",
+      "icon_url": null,
+      "id": "7a8f5115-6cf1-59f9-aa4b-9c5385103a8d",
+      "language_tag": "en",
+      "title": "Latest News - Apple Developer",
+      "website_url": null
+    },
+    {
+      "description": "Recent content on Mobile A11y",
+      "feed_format": "rss",
+      "feed_url": "https://mobilea11y.com/index.xml",
+      "icon_url": null,
+      "id": "433b8dc1-062b-566e-857e-5c366b7db81f",
+      "language_tag": "en",
+      "title": "Mobile A11y",
+      "website_url": "https://mobilea11y.com/"
+    },
+    {
+      "description": "We are a software development company based in New Zealand passionate about iOS and macOS app development.",
+      "feed_format": "rss",
+      "feed_url": "https://nilcoalescing.com/feed.rss",
+      "icon_url": null,
+      "id": "218eee43-c444-5377-a5f9-6181d8a6e378",
+      "language_tag": "en",
+      "title": "Nil Coalescing",
+      "website_url": "https://nilcoalescing.com/"
+    },
+    {
+      "description": "NSHipster is a journal of the overlooked bits in Objective-C, Swift, and Cocoa.",
+      "feed_format": "atom",
+      "feed_url": "https://nshipster.com/feed.xml",
+      "icon_url": null,
+      "id": "371ee03b-09d0-5a64-a33f-4f6b5d382130",
+      "language_tag": "en-US",
+      "title": "NSHipster",
+      "website_url": "https://nshipster.com/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://oleb.net/blog/atom.xml",
+      "icon_url": null,
+      "id": "cf2d49e6-80e9-58cd-97ad-53d1ff16f2df",
+      "language_tag": null,
+      "title": "Ole Begemann",
+      "website_url": "https://oleb.net/blog/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://www.pointfree.co/blog/feed/atom.xml",
+      "icon_url": null,
+      "id": "353bd281-b6e9-51bf-a273-2c6d5b72aa1d",
+      "language_tag": null,
+      "title": "Point-Free Pointers",
+      "website_url": "https://www.pointfree.co/blog"
+    },
+    {
+      "description": "Weekly Swift articles, podcasts and tips by John Sundell",
+      "feed_format": "rss",
+      "feed_url": "https://swiftbysundell.com/feed.rss",
+      "icon_url": null,
+      "id": "dfd4f97f-0baa-58d0-b3f7-f87dbd73217f",
+      "language_tag": "en-us",
+      "title": "Swift by Sundell",
+      "website_url": "https://www.swiftbysundell.com/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://www.swift.org/atom.xml",
+      "icon_url": null,
+      "id": "b08fae59-820e-5dbe-9fe8-179371040f97",
+      "language_tag": null,
+      "title": "Swift.org",
+      "website_url": null
+    },
+    {
+      "description": "A weekly blog about Swift, SwiftUI and Xcode Tips and Tricks",
+      "feed_format": "rss",
+      "feed_url": "https://www.avanderlee.com/feed/",
+      "icon_url": null,
+      "id": "3103c743-82bc-5984-9477-5e2709d3b5cd",
+      "language_tag": "en-US",
+      "title": "SwiftLee",
+      "website_url": null
+    },
+    {
+      "description": "Recent content on The Atomic Birdhouse",
+      "feed_format": "rss",
+      "feed_url": "https://atomicbird.com/index.xml",
+      "icon_url": null,
+      "id": "4d5bbdbb-fcfe-55cb-8a1a-c130f02215e0",
+      "language_tag": "en",
+      "title": "The Atomic Birdhouse",
+      "website_url": "https://atomicbird.com/"
+    },
+    {
+      "description": "The personal website of the one and only Joe Fabisevich, and indie developer building Red Panda Club Inc. Formerly an iOS developer working on civic integrity, societal health, misinformation, and other wild things @Twitter.",
+      "feed_format": "rss",
+      "feed_url": "https://fabisevi.ch/feed.xml",
+      "icon_url": null,
+      "id": "d6dad4c8-2e05-5d2c-9bac-10463bb9bf57",
+      "language_tag": null,
+      "title": "The One And Only Blog Of Joe Fabisevich",
+      "website_url": "https://fabisevi.ch/"
+    },
+    {
+      "description": "From development and design to marketing and support, Under the Radar was all about independent app development. It was rarely longer than 30 minutes. Hosted by Marco Arment and David Smith.",
+      "feed_format": "rss",
+      "feed_url": "https://relay.fm/radar/feed",
+      "icon_url": null,
+      "id": "ecbe0f58-ae13-5eed-ac2d-f80d96723bb8",
+      "language_tag": "en-US",
+      "title": "Under the Radar",
+      "website_url": "https://relay.fm/radar"
+    },
+    {
+      "description": "Recent content on Use Your Loaf - iOS Development News & Tips",
+      "feed_format": "rss",
+      "feed_url": "https://useyourloaf.com/blog/rss.xml",
+      "icon_url": null,
+      "id": "085daba2-327d-55a2-987f-d11779caa027",
+      "language_tag": "en-GB",
+      "title": "Use Your Loaf - iOS Development News & Tips",
+      "website_url": "https://useyourloaf.com/blog/"
+    }
+  ],
+  "id": "45913ce2-abf0-51e1-9c66-56a1b7a19de7",
+  "schema_version": 1,
+  "slug": "ios-swift",
+  "title": "iOS and Swift"
+}

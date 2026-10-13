@@ -1,0 +1,379 @@
+{
+  "description": "Android apps, APIs, tooling, and development.",
+  "feeds": [
+    {
+      "description": "Android",
+      "feed_format": "rss",
+      "feed_url": "https://blog.google/products-and-platforms/platforms/android/rss/",
+      "icon_url": null,
+      "id": "ef346cc3-129e-5a16-8f77-d0e40565bf14",
+      "language_tag": "en-us",
+      "title": "Android",
+      "website_url": "https://blog.google/products-and-platforms/platforms/android/"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://www.valueof.io/blog?format=rss",
+      "icon_url": null,
+      "id": "a2338e67-0016-5099-8669-053c0ce1ea44",
+      "language_tag": "en-US",
+      "title": "Android Blog - Mobile Dev Notes",
+      "website_url": "https://www.valueof.io/"
+    },
+    {
+      "description": "This is a personal blog. Mail me if you want to use materials from it.",
+      "feed_format": "atom",
+      "feed_url": "https://dmitrysamoylenko.com/feed.xml",
+      "icon_url": null,
+      "id": "b111523b-1993-596d-892d-be4b05b51bb3",
+      "language_tag": null,
+      "title": "Android Developer Blog",
+      "website_url": "https://dmitrysamoylenko.com/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?user=androiddevelopers",
+      "icon_url": null,
+      "id": "ff7f6fd8-825d-5d8d-9b12-b8d86c521475",
+      "language_tag": null,
+      "title": "Android Developers",
+      "website_url": "https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg"
+    },
+    {
+      "description": "Articles on modern tools and resources to help you build experiences that people love, faster and easier, across every Android device. - Medium",
+      "feed_format": "rss",
+      "feed_url": "https://medium.com/feed/androiddevelopers",
+      "icon_url": null,
+      "id": "da87d993-6d76-5106-a6b7-c622b0ab325e",
+      "language_tag": null,
+      "title": "Android Developers - Medium",
+      "website_url": "https://medium.com/androiddevelopers?source=rss----95b274b437c2---4"
+    },
+    {
+      "description": "Android Backstage, a podcast by and for Android developers. Hosted by developers from the Android engineering team, this show covers topics of interest to Android programmers, with in-depth discussions and interviews with engineers on the Android team at Google. Subscribe to Android Developers YouTube → https://goo.gle/AndroidDevs",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.feedburner.com/blogspot/androiddevelopersbackstage",
+      "icon_url": null,
+      "id": "ce6a3a96-19b9-5a1f-a258-d5f91b63fadb",
+      "language_tag": "en",
+      "title": "Android Developers Backstage",
+      "website_url": null
+    },
+    {
+      "description": "The official Android Developers blog covering the latest news on app development tools, platform updates, training, and documentation for developers across every Android device.",
+      "feed_format": "atom",
+      "feed_url": "https://android-developers.googleblog.com/feeds/posts/default",
+      "icon_url": null,
+      "id": "73586f5d-bdcc-5d87-b422-a9c6fa5adb76",
+      "language_tag": null,
+      "title": "Android Developers Blog",
+      "website_url": "https://android-developers.googleblog.com/"
+    },
+    {
+      "description": "An Open Handset Alliance Project.",
+      "feed_format": "atom",
+      "feed_url": "https://feeds.feedburner.com/blogspot/hsDu",
+      "icon_url": null,
+      "id": "8d4a42d5-834b-5aed-b892-61d3285ff4a5",
+      "language_tag": null,
+      "title": "Android Developers Blog",
+      "website_url": "http://android-developers.googleblog.com/"
+    },
+    {
+      "description": "Latest stories tagged with Android in The Airbnb Tech Blog on Medium",
+      "feed_format": "rss",
+      "feed_url": "https://medium.com/feed/airbnb-engineering/tagged/android",
+      "icon_url": null,
+      "id": "3a4b8521-ebb2-59b3-926c-cce5308bb86a",
+      "language_tag": null,
+      "title": "Android in The Airbnb Tech Blog on Medium",
+      "website_url": "https://medium.com/airbnb-engineering/tagged/android?source=rss----53c7c27702d5--android"
+    },
+    {
+      "description": "Provides official announcements for new versions of Android Studio and other Android developer tools.",
+      "feed_format": "atom",
+      "feed_url": "https://androidstudio.googleblog.com/feeds/posts/default",
+      "icon_url": null,
+      "id": "7268bccf-1ee9-5927-94ef-196ea5704250",
+      "language_tag": null,
+      "title": "Android Studio Release Updates",
+      "website_url": "https://androidstudio.googleblog.com/"
+    },
+    {
+      "description": "Android Weekly is a free newsletter that helps you to stay cutting-edge with your Android Development",
+      "feed_format": "rss",
+      "feed_url": "https://androidweekly.net/rss.xml",
+      "icon_url": null,
+      "id": "44c6a270-01fc-5206-965e-62179f356eb4",
+      "language_tag": null,
+      "title": "Android Weekly",
+      "website_url": "https://androidweekly.net/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://feeds.feedburner.com/android/lUne?format=xml",
+      "icon_url": null,
+      "id": "4d7d41e5-925f-5ff3-b2d4-5d4c0fc550fb",
+      "language_tag": null,
+      "title": "AndroidX - Release Notes",
+      "website_url": null
+    },
+    {
+      "description": "Android Developer Tutorials",
+      "feed_format": "rss",
+      "feed_url": "https://blog.blundellapps.co.uk/feed/",
+      "icon_url": null,
+      "id": "2ac51c76-6bbf-58ca-927f-47a445aa1c2a",
+      "language_tag": "en-GB",
+      "title": "Blundell",
+      "website_url": null
+    },
+    {
+      "description": "Software Development Blog",
+      "feed_format": "rss",
+      "feed_url": "https://chrynan.codes/rss/",
+      "icon_url": null,
+      "id": "c5daee29-ad96-54bb-8f9a-8554dcbcec15",
+      "language_tag": null,
+      "title": "Chris Keenan Codes",
+      "website_url": "https://chrynan.codes/"
+    },
+    {
+      "description": "CommonsWare is your home for Android app development support, offering books, training, consulting, and other resources.",
+      "feed_format": "atom",
+      "feed_url": "https://commonsware.com/blog/feed.atom",
+      "icon_url": null,
+      "id": "a1aa7de3-16f5-5dfb-86fb-a4be96493461",
+      "language_tag": null,
+      "title": "CommonsWare",
+      "website_url": "https://commonsware.com/"
+    },
+    {
+      "description": "Developer Tools for Professionals and Teams",
+      "feed_format": "rss",
+      "feed_url": "https://blog.jetbrains.com/blog/feed/",
+      "icon_url": null,
+      "id": "34d377f4-2fff-5667-b116-9182c56dc3c2",
+      "language_tag": "en-US",
+      "title": "Company | The JetBrains Blog",
+      "website_url": null
+    },
+    {
+      "description": "Thoughts on life, the universe and the mystery of it all; but actually mostly just code.",
+      "feed_format": "rss",
+      "feed_url": "https://blog.danlew.net/rss/",
+      "icon_url": null,
+      "id": "fc43c2a2-347b-59ec-b816-cc17c39438dc",
+      "language_tag": null,
+      "title": "Dan Lew Codes",
+      "website_url": "https://blog.danlew.net/"
+    },
+    {
+      "description": "News for Android developers with the who, what, where, when and how of the Android community. News / Articles / Talks / Tools / Open source!",
+      "feed_format": "atom",
+      "feed_url": "https://www.reddit.com/r/androiddev.rss",
+      "icon_url": null,
+      "id": "b79ebb68-377c-578d-b1ef-456896e8bcb1",
+      "language_tag": null,
+      "title": "Developing Android Apps",
+      "website_url": "https://www.reddit.com/r/androiddev"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKubKoe1CBw_-n_GXetEQbg",
+      "icon_url": null,
+      "id": "142c843b-6d2b-5894-918c-e118196da7be",
+      "language_tag": null,
+      "title": "droidcon SF",
+      "website_url": "https://www.youtube.com/channel/UCKubKoe1CBw_-n_GXetEQbg"
+    },
+    {
+      "description": "One of the most popular newsletters about Android development. I write the content I’d want to read. Complex concepts explained in easy terms.",
+      "feed_format": "rss",
+      "feed_url": "https://newsletter.jorgecastillo.dev/feed",
+      "icon_url": "https://substackcdn.com/image/fetch/$s_!WRki!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6ca654b5-2f3a-4c94-8faf-31819bc1e396_1024x1024.png",
+      "id": "eb4bfcc0-a93f-5f9b-b5e4-9e052deb4c48",
+      "language_tag": "en",
+      "title": "Effective Android",
+      "website_url": "https://newsletter.jorgecastillo.dev/"
+    },
+    {
+      "description": "Fragmented is an AI developer podcast for engineers who want to go beyond vibe coding and ship real software. We cover AI-assisted development the way working engineers actually use it: prompting strategies, code review, testing, debugging, workflows, and building production-grade software with AI tools. No hype. No \"I shipped a SaaS in a weekend\" stories. Just tactics that work. Hosted by Kaushik Gopal and Iury Souza — software engineers using AI daily to build and ship real products. From vibe",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.simplecast.com/LpAGSLnY",
+      "icon_url": null,
+      "id": "f4918d9b-b845-5448-9695-f9ce624c713f",
+      "language_tag": "en-us",
+      "title": "Fragmented - AI Developer Podcast",
+      "website_url": null
+    },
+    {
+      "description": "Getting Down to the Nitty Gritty of Android Development",
+      "feed_format": "rss",
+      "feed_url": "https://www.grokkingandroid.com/feed/",
+      "icon_url": null,
+      "id": "2a43ad8c-4586-545d-8315-0d3c2bdaed0c",
+      "language_tag": "en-US",
+      "title": "Grokking Android",
+      "website_url": null
+    },
+    {
+      "description": "Sam Edwards - Handstands, Travel, Android & Web",
+      "feed_format": "rss",
+      "feed_url": "https://handstandsam.com/feed/",
+      "icon_url": null,
+      "id": "3040f475-7aba-5ac0-8da8-fe46f43e9eed",
+      "language_tag": "en-US",
+      "title": "Handstand Sam",
+      "website_url": null
+    },
+    {
+      "description": "Recent content on Hannes Dorfmann",
+      "feed_format": "rss",
+      "feed_url": "https://hannesdorfmann.com/index.xml",
+      "icon_url": null,
+      "id": "78b8f139-e6b7-52b9-aefd-5fae8537fc84",
+      "language_tag": "en-us",
+      "title": "Hannes Dorfmann",
+      "website_url": "https://hannesdorfmann.com/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://jakewharton.com/atom.xml",
+      "icon_url": null,
+      "id": "0adbaa8e-6bfe-5495-b16f-c70dc87c15cd",
+      "language_tag": null,
+      "title": "Jake Wharton",
+      "website_url": "https://jakewharton.com/"
+    },
+    {
+      "description": "jetc.dev is your home for all things Jetpack Compose!",
+      "feed_format": "atom",
+      "feed_url": "https://jetc.dev/feed/issues.xml",
+      "icon_url": null,
+      "id": "27b2dc74-fab7-5d34-84fc-8de0b405b673",
+      "language_tag": null,
+      "title": "jetc.dev | Issues",
+      "website_url": "https://jetc.dev/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://www.kodeco.com/feed",
+      "icon_url": null,
+      "id": "fe0ec647-9faa-5a92-be3d-95faf737f463",
+      "language_tag": null,
+      "title": "Kodeco | High quality programming tutorials: iOS, Android, Swift, Kotlin, Unity, and more",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLQ176FUIyIUa6SChjajjVc-LMzxWiz6dy",
+      "icon_url": null,
+      "id": "d636d5d5-14e5-5015-a18b-f9ec47758c44",
+      "language_tag": null,
+      "title": "Kotlin",
+      "website_url": null
+    },
+    {
+      "description": "A blog about Android development & testing, Best Practices, Tips and Tricks",
+      "feed_format": "rss",
+      "feed_url": "https://alexzh.com/rss/",
+      "icon_url": "https://alexzh.com/favicon.png",
+      "id": "8cbca588-483d-5e77-8a46-55c912112881",
+      "language_tag": null,
+      "title": "Mobile development with Alex",
+      "website_url": "https://alexzh.com/"
+    },
+    {
+      "description": "A premier blog on Kotlin.",
+      "feed_format": "rss",
+      "feed_url": "https://okkotlin.com/rss.xml",
+      "icon_url": null,
+      "id": "38dfd07d-b288-5b20-b2f0-1620108797b0",
+      "language_tag": null,
+      "title": "OkKotlin",
+      "website_url": "https://okkotlin.com/"
+    },
+    {
+      "description": "Jesse Wilson on programming.",
+      "feed_format": "rss",
+      "feed_url": "https://publicobject.com/rss/",
+      "icon_url": null,
+      "id": "04599ae7-19d6-5aa1-8a1f-f438fb93c2ff",
+      "language_tag": null,
+      "title": "Public Object",
+      "website_url": "https://publicobject.com/"
+    },
+    {
+      "description": "A wild developer appears. He works at Square . Find him on Twitter and Bluesky .",
+      "feed_format": "rss",
+      "feed_url": "https://saket.me/feed/",
+      "icon_url": null,
+      "id": "62ef362d-15ef-50f6-b4a7-56ecefac9fa4",
+      "language_tag": "en-US",
+      "title": "Saket Narayan",
+      "website_url": null
+    },
+    {
+      "description": "Recent content on Sid Patil",
+      "feed_format": "rss",
+      "feed_url": "https://siddroid.com/index.xml",
+      "icon_url": null,
+      "id": "5929907c-540d-5f51-bd13-48adda90bfea",
+      "language_tag": "en-us",
+      "title": "Sid Patil",
+      "website_url": "https://siddroid.com/"
+    },
+    {
+      "description": "Android Freelancer Blog",
+      "feed_format": "rss",
+      "feed_url": "https://www.techyourchance.com/feed/",
+      "icon_url": "https://www.techyourchance.com/wp-content/uploads/2020/08/icon.svg",
+      "id": "222539d6-0009-5c08-814b-4c6a9b6420f9",
+      "language_tag": "en-US",
+      "title": "TechYourChance",
+      "website_url": null
+    },
+    {
+      "description": "Musings on Kotlin, mobile, open source, and building good things.",
+      "feed_format": "rss",
+      "feed_url": "https://www.zacsweers.dev/rss/",
+      "icon_url": null,
+      "id": "9a03848f-3d3c-5377-b8d3-2ae7a5f26441",
+      "language_tag": null,
+      "title": "Zac Sweers",
+      "website_url": "https://www.zacsweers.dev/"
+    },
+    {
+      "description": "An Android Love Affair",
+      "feed_format": "atom",
+      "feed_url": "https://zarah.dev/feed.xml",
+      "icon_url": null,
+      "id": "ad7851f0-69b4-509e-92fe-082f7e4baa9a",
+      "language_tag": null,
+      "title": "Zarah Dominguez",
+      "website_url": "https://zarah.dev/"
+    },
+    {
+      "description": "Recent content on zsmb.co",
+      "feed_format": "rss",
+      "feed_url": "https://zsmb.co/index.xml",
+      "icon_url": null,
+      "id": "e153bcd4-f3bb-5794-9b25-8a27f550bbfb",
+      "language_tag": "en-us",
+      "title": "zsmb.co",
+      "website_url": "https://zsmb.co/"
+    }
+  ],
+  "id": "d30bef0b-1b88-56ad-b973-a7a2947cfd01",
+  "schema_version": 1,
+  "slug": "android-development",
+  "title": "Android development"
+}

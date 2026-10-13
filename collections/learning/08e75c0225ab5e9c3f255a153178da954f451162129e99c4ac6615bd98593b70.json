@@ -1,0 +1,69 @@
+{
+  "description": "Learning, education, and personal productivity.",
+  "feeds": [
+    {
+      "description": "Big Think",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.feedburner.com/bigthink/main",
+      "icon_url": null,
+      "id": "b21a158a-ca12-5f4c-afac-9ae52147535f",
+      "language_tag": "en-us",
+      "title": "Big Think",
+      "website_url": "https://bigthink.com/"
+    },
+    {
+      "description": "Commoncog helps you get good at business faster. Read by 9k+ investors and operators.",
+      "feed_format": "rss",
+      "feed_url": "https://commoncog.com/rss/",
+      "icon_url": null,
+      "id": "393301bd-5a81-5a5c-9f0d-bdf5aed3414e",
+      "language_tag": null,
+      "title": "Commoncog",
+      "website_url": "https://commoncog.com/"
+    },
+    {
+      "description": "Mastering the best of what other people have already figured out",
+      "feed_format": "rss",
+      "feed_url": "https://fs.blog/feed/",
+      "icon_url": null,
+      "id": "b7e0db59-7d8d-55d7-bb06-4ad19fd9c104",
+      "language_tag": "en-US",
+      "title": "Farnam Street",
+      "website_url": null
+    },
+    {
+      "description": "Your mind at work",
+      "feed_format": "rss",
+      "feed_url": "https://nesslabs.com/feed",
+      "icon_url": null,
+      "id": "d32ae8e3-c537-51fb-9420-a15cef7706f0",
+      "language_tag": "en",
+      "title": "Ness Labs",
+      "website_url": null
+    },
+    {
+      "description": "Learn faster, achieve more",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.feedburner.com/scotthyoung/HAHx",
+      "icon_url": null,
+      "id": "0966e4ec-3720-54e9-b3fc-1e3f8787aba1",
+      "language_tag": "en-US",
+      "title": "Scott H Young",
+      "website_url": null
+    },
+    {
+      "description": "Finding wonder, nostalgia, and meaning in the ordinary",
+      "feed_format": "rss",
+      "feed_url": "https://coffeeandjunk.substack.com/feed",
+      "icon_url": null,
+      "id": "91be236e-1d5e-54db-bcc0-60b79cc7ef27",
+      "language_tag": "en",
+      "title": "The Sunday Wisdom",
+      "website_url": "https://coffeeandjunk.substack.com/"
+    }
+  ],
+  "id": "1756b976-53fe-5231-a3d5-4f11e4929c78",
+  "schema_version": 1,
+  "slug": "learning",
+  "title": "Learning and productivity"
+}

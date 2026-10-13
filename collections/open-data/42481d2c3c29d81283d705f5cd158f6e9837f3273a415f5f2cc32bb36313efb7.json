@@ -1,0 +1,59 @@
+{
+  "description": "Government technology, public services, and open data.",
+  "feeds": [
+    {
+      "description": "This is for everyone: documenting how we rebuild inclusive digital services across government",
+      "feed_format": "atom",
+      "feed_url": "https://accessibility.blog.gov.uk/feed/",
+      "icon_url": null,
+      "id": "92b38e3f-a0fe-5683-91f6-0038a17020c0",
+      "language_tag": "en-US",
+      "title": "Accessibility in government",
+      "website_url": "https://accessibility.blog.gov.uk/"
+    },
+    {
+      "description": "We believe in working in the open. This blog is for designers across government to share their projects, ideas and concepts, or just to think out loud.",
+      "feed_format": "atom",
+      "feed_url": "https://designnotes.blog.gov.uk/feed/",
+      "icon_url": null,
+      "id": "589e843a-7c49-5eda-8e7d-c95d3277a99a",
+      "language_tag": "en-US",
+      "title": "Design in government",
+      "website_url": "https://designnotes.blog.gov.uk/"
+    },
+    {
+      "description": "We are the digital centre of government. We serve the public, central government departments and the wider public sector.",
+      "feed_format": "atom",
+      "feed_url": "https://gds.blog.gov.uk/feed/",
+      "icon_url": null,
+      "id": "c869ffd6-77ef-5dad-933d-9621ce8a51a5",
+      "language_tag": "en-US",
+      "title": "Government Digital Service",
+      "website_url": "https://gds.blog.gov.uk/"
+    },
+    {
+      "description": "Product updates and news from the Government Digital Service's GOV.UK team.",
+      "feed_format": "atom",
+      "feed_url": "https://insidegovuk.blog.gov.uk/feed/",
+      "icon_url": null,
+      "id": "fe768425-b1c5-5599-b24c-d22ed0bdf0e2",
+      "language_tag": "en-US",
+      "title": "Inside GOV.UK",
+      "website_url": "https://insidegovuk.blog.gov.uk/"
+    },
+    {
+      "description": "About digital and technology projects in government.",
+      "feed_format": "atom",
+      "feed_url": "https://technology.blog.gov.uk/feed/",
+      "icon_url": null,
+      "id": "b4669e87-9f40-5f46-a39d-3088688bd2a5",
+      "language_tag": "en-US",
+      "title": "Technology in government",
+      "website_url": "https://technology.blog.gov.uk/"
+    }
+  ],
+  "id": "38472ce4-9799-5824-a718-bab102a97a6f",
+  "schema_version": 1,
+  "slug": "open-data",
+  "title": "Open data and public technology"
+}

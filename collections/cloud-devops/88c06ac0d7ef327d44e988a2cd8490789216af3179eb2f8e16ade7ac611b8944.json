@@ -1,0 +1,269 @@
+{
+  "description": "Cloud platforms, containers, observability, and infrastructure.",
+  "feeds": [
+    {
+      "description": "Just another Amazon Web Services site",
+      "feed_format": "rss",
+      "feed_url": "https://aws.amazon.com/blogs/architecture/feed/",
+      "icon_url": null,
+      "id": "337e241f-338b-5542-803d-eeb9f9d7aaed",
+      "language_tag": "en-US",
+      "title": "AWS Architecture Blog",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://aws.amazon.com/blogs/devops/feed/",
+      "icon_url": null,
+      "id": "cce28afe-981e-5b30-927d-4abbd1785cb9",
+      "language_tag": "en-US",
+      "title": "AWS DevOps & Developer Productivity Blog",
+      "website_url": null
+    },
+    {
+      "description": "Announcements, Updates, and Launches",
+      "feed_format": "rss",
+      "feed_url": "https://aws.amazon.com/blogs/aws/feed/",
+      "icon_url": null,
+      "id": "d199867b-550c-53c2-bed1-5c02a9c1cfd5",
+      "language_tag": "en-US",
+      "title": "AWS News Blog",
+      "website_url": null
+    },
+    {
+      "description": "DevOps, Git, and Agile updates from the team building Azure DevOps",
+      "feed_format": "rss",
+      "feed_url": "https://devblogs.microsoft.com/devops/feed/",
+      "icon_url": "https://devblogs.microsoft.com/devops/wp-content/uploads/sites/6/2018/10/Microsoft-Favicon.png",
+      "id": "fe6be745-f94c-5ac5-b29a-906baeb25462",
+      "language_tag": "en-US",
+      "title": "Azure DevOps Blog",
+      "website_url": null
+    },
+    {
+      "description": "Stay ahead with the latest cloud computing, content delivery, and cybersecurity trends, expert analyses, and tech insights from the official Akamai blog.",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.feedburner.com/akamai/blog",
+      "icon_url": null,
+      "id": "2dd5a297-ea62-5260-bd1c-285c1e0ebe86",
+      "language_tag": "en",
+      "title": "Blog",
+      "website_url": "https://www.akamai.com/blog"
+    },
+    {
+      "description": "Recent content in Blog on OpenTelemetry",
+      "feed_format": "rss",
+      "feed_url": "https://opentelemetry.io/blog/index.xml",
+      "icon_url": null,
+      "id": "fc296bda-2c62-5fec-94b3-c4236198cb6c",
+      "language_tag": "en-US",
+      "title": "Blog on OpenTelemetry",
+      "website_url": "https://opentelemetry.io/blog/"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://www.cncf.io/blog/feed/",
+      "icon_url": null,
+      "id": "2eeca2ef-d6a7-5fb9-a96e-99c8bb48c5ce",
+      "language_tag": "en-US",
+      "title": "Blog – Cloud Native Computing Foundation",
+      "website_url": null
+    },
+    {
+      "description": "Technical deep dives, product updates, and insights from the teams that are helping to build a better Internet.",
+      "feed_format": "rss",
+      "feed_url": "https://blog.cloudflare.com/rss/",
+      "icon_url": null,
+      "id": "7c1f7b35-7f9a-5fe7-894a-a22727529c45",
+      "language_tag": "en-us",
+      "title": "Cloudflare Blog",
+      "website_url": "https://blog.cloudflare.com/"
+    },
+    {
+      "description": "Just another Amazon Web Services site",
+      "feed_format": "rss",
+      "feed_url": "https://aws.amazon.com/blogs/containers/feed/",
+      "icon_url": null,
+      "id": "4f3ecff4-3784-5006-b32d-2d86fa0fcd12",
+      "language_tag": "en-US",
+      "title": "Containers",
+      "website_url": null
+    },
+    {
+      "description": "Check out The Monitor, Datadog's main blog, to learn more about new Datadog products and features, integrations, and more.",
+      "feed_format": "rss",
+      "feed_url": "https://www.datadoghq.com/blog/index.xml",
+      "icon_url": null,
+      "id": "319e46cf-ef0d-51dd-90e0-e1b1c7f597c8",
+      "language_tag": "en-us",
+      "title": "Datadog | The Monitor blog",
+      "website_url": "https://www.datadoghq.com/"
+    },
+    {
+      "description": "DevOps & SRE",
+      "feed_format": "rss",
+      "feed_url": "https://cloudblog.withgoogle.com/products/devops-sre/rss/",
+      "icon_url": "https://cloud.google.com/blog/products/devops-sre/static/blog/images/google.a51985becaa6.png",
+      "id": "4366d509-4e08-501d-ae22-4538cd74b2ab",
+      "language_tag": "en",
+      "title": "DevOps & SRE",
+      "website_url": "https://cloud.google.com/blog/products/devops-sre/"
+    },
+    {
+      "description": "Latest news on Linux distributions and BSD projects",
+      "feed_format": "rss1",
+      "feed_url": "https://distrowatch.com/news/dw.xml",
+      "icon_url": null,
+      "id": "0adf1e1b-8679-5fcf-af8a-36e4efc6eab7",
+      "language_tag": "EN",
+      "title": "DistroWatch.com: News",
+      "website_url": "https://distrowatch.com/"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://www.docker.com/feed/",
+      "icon_url": "https://www.docker.com/app/uploads/2024/02/cropped-docker-logo-favicon-32x32.png",
+      "id": "06bd1a0b-1f07-5c6f-a7c8-ab8b208a7a31",
+      "language_tag": "en-US",
+      "title": "Docker",
+      "website_url": null
+    },
+    {
+      "description": "Tutorials, deep dives, news, releases, stories, and more from the creators of Elasticsearch",
+      "feed_format": "rss",
+      "feed_url": "https://www.elastic.co/blog/feed",
+      "icon_url": null,
+      "id": "bdfae1f5-97f5-52d7-9916-8e6482b1dcb5",
+      "language_tag": "en",
+      "title": "Elastic Blog - Elasticsearch, Kibana, and ELK Stack",
+      "website_url": "https://www.elastic.co/"
+    },
+    {
+      "description": "Guides, information, and news about the Fedora operating system for users, developers, system administrators, and community members.",
+      "feed_format": "rss",
+      "feed_url": "https://fedoramagazine.org/feed/",
+      "icon_url": null,
+      "id": "4331ab42-c49f-55d4-ac40-55a8860d7f4b",
+      "language_tag": "en-US",
+      "title": "Fedora Magazine",
+      "website_url": null
+    },
+    {
+      "description": "GitLab Blog RSS feed",
+      "feed_format": "atom",
+      "feed_url": "https://about.gitlab.com/atom.xml",
+      "icon_url": null,
+      "id": "259e6d15-29bf-54dc-8412-9d642e83739c",
+      "language_tag": null,
+      "title": "GitLab",
+      "website_url": "https://about.gitlab.com/blog"
+    },
+    {
+      "description": "Recent content in Grafana Labs blog",
+      "feed_format": "rss",
+      "feed_url": "https://grafana.com/blog/index.xml",
+      "icon_url": null,
+      "id": "4a0a5884-5a68-53c8-b40d-eb2f892b5d60",
+      "language_tag": null,
+      "title": "Grafana Labs blog on Grafana Labs",
+      "website_url": "https://grafana.com/blog/"
+    },
+    {
+      "description": "The latest news and announcements about HashiCorp, our products, and our ecosystem, as well as voices from across our community.",
+      "feed_format": "atom",
+      "feed_url": "https://www.hashicorp.com/blog/feed.xml",
+      "icon_url": "https://www.hashicorp.com/favicon.svg",
+      "id": "60f2763d-b473-5eef-b911-5c0545b56f83",
+      "language_tag": null,
+      "title": "HashiCorp Blog",
+      "website_url": "https://hashicorp.com/blog"
+    },
+    {
+      "description": "The Kubernetes blog is used by the project to communicate new features, community reports, and any news that might be relevant to the Kubernetes community.",
+      "feed_format": "rss",
+      "feed_url": "https://kubernetes.io/feed.xml",
+      "icon_url": null,
+      "id": "89cd2866-0825-57da-a7d1-afc5e230b19e",
+      "language_tag": "en",
+      "title": "Kubernetes Blog",
+      "website_url": "https://kubernetes.io/"
+    },
+    {
+      "description": "Check out Linux Foundation's Blog",
+      "feed_format": "rss",
+      "feed_url": "https://www.linuxfoundation.org/blog/rss.xml",
+      "icon_url": null,
+      "id": "3413102d-bc80-58b2-b30c-12dae2d75b16",
+      "language_tag": "en",
+      "title": "Linux Foundation - Blog",
+      "website_url": "https://www.linuxfoundation.org/blog"
+    },
+    {
+      "description": "Get the latest Azure news, updates, and announcements from the Azure blog. From product updates to hot topics, hear from the Azure experts.",
+      "feed_format": "rss",
+      "feed_url": "https://azure.microsoft.com/en-us/blog/feed/",
+      "icon_url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/06/microsoft_logo-150x150.webp",
+      "id": "f9ea7a32-ac9f-5066-9f1f-c1a14952777f",
+      "language_tag": "en-US",
+      "title": "Microsoft Azure Blog",
+      "website_url": null
+    },
+    {
+      "description": "Networking",
+      "feed_format": "rss",
+      "feed_url": "https://cloudblog.withgoogle.com/products/networking/rss/",
+      "icon_url": "https://cloud.google.com/blog/products/networking/static/blog/images/google.a51985becaa6.png",
+      "id": "631e812d-e93b-5e57-9cc1-c4a6674ee5c0",
+      "language_tag": "en",
+      "title": "Networking",
+      "website_url": "https://cloud.google.com/blog/products/networking/"
+    },
+    {
+      "description": "Innovation for Freedom",
+      "feed_format": "rss",
+      "feed_url": "https://blog.ovhcloud.com/en/feed.xml",
+      "icon_url": null,
+      "id": "898e08fa-0d11-5489-94d8-61c3dddb1ec5",
+      "language_tag": "en-GB",
+      "title": "OVHcloud Blog",
+      "website_url": null
+    },
+    {
+      "description": "The Prometheus blog",
+      "feed_format": "atom",
+      "feed_url": "https://prometheus.io/blog/feed.xml",
+      "icon_url": "https://prometheus.io/blog/TODO",
+      "id": "81c1ed4c-87a6-5cdf-9e9a-772bf6941366",
+      "language_tag": null,
+      "title": "Prometheus Blog",
+      "website_url": "https://prometheus.io/blog/"
+    },
+    {
+      "description": "Red Hat Blog",
+      "feed_format": "rss",
+      "feed_url": "https://www.redhat.com/en/rss/blog",
+      "icon_url": null,
+      "id": "6ab3f54b-d177-5de7-9c80-45c07d71aebd",
+      "language_tag": "en",
+      "title": "Red Hat Blog",
+      "website_url": "https://www.redhat.com/en/rss/blog"
+    },
+    {
+      "description": "Latest articles from RIPE Labs",
+      "feed_format": "rss",
+      "feed_url": "https://labs.ripe.net/feed.xml",
+      "icon_url": null,
+      "id": "3f0e69ca-6390-5efb-b1c4-34b4da6fd70e",
+      "language_tag": "en",
+      "title": "RIPE Labs",
+      "website_url": "https://labs.ripe.net/"
+    }
+  ],
+  "id": "5a6c9e73-af78-5c45-a9f6-955bec1cec85",
+  "schema_version": 1,
+  "slug": "cloud-devops",
+  "title": "Cloud, DevOps, and infrastructure"
+}

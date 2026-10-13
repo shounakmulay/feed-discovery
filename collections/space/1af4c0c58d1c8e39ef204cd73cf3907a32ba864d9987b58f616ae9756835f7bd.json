@@ -1,0 +1,49 @@
+{
+  "description": "Spaceflight, astronomy, and space science.",
+  "feeds": [
+    {
+      "description": "Official National Aeronautics and Space Administration Website",
+      "feed_format": "rss",
+      "feed_url": "https://www.nasa.gov/news-release/feed/",
+      "icon_url": null,
+      "id": "c5a57800-0770-55b6-85ee-834675a27a5f",
+      "language_tag": "en-US",
+      "title": "NASA",
+      "website_url": null
+    },
+    {
+      "description": "Latest news and features from theguardian.com, the world's leading liberal voice",
+      "feed_format": "rss",
+      "feed_url": "https://www.theguardian.com/science/space/rss",
+      "icon_url": null,
+      "id": "2a474caf-f893-5eb5-994d-a247c0796a12",
+      "language_tag": "en-gb",
+      "title": "Space | The Guardian",
+      "website_url": "https://www.theguardian.com/science/space"
+    },
+    {
+      "description": "Science news and science articles from New Scientist",
+      "feed_format": "rss",
+      "feed_url": "https://www.newscientist.com/subject/space/feed/",
+      "icon_url": null,
+      "id": "30fda410-1a1a-5047-92f2-242b3fee0c2a",
+      "language_tag": "en-US",
+      "title": "Space – latest in science and technology | New Scientist",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?user=spacexchannel",
+      "icon_url": null,
+      "id": "35b7a180-0e01-5811-9e65-e25cd96e0529",
+      "language_tag": null,
+      "title": "SpaceX",
+      "website_url": "https://www.youtube.com/channel/UCtI0Hodo5o5dUb67FeUjDeA"
+    }
+  ],
+  "id": "ae517e87-6d60-562d-a205-4cd81c49a753",
+  "schema_version": 1,
+  "slug": "space",
+  "title": "Space and astronomy"
+}

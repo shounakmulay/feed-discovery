@@ -1,0 +1,139 @@
+{
+  "description": "Games, game development, and gaming industry reporting.",
+  "feeds": [
+    {
+      "description": "This is a feed of the latest articles from Eurogamer.net.",
+      "feed_format": "rss",
+      "feed_url": "https://www.eurogamer.net/feed",
+      "icon_url": null,
+      "id": "a41ecfc7-b773-596e-8c81-156073ce282a",
+      "language_tag": "en",
+      "title": "Eurogamer.net Latest Articles Feed",
+      "website_url": "https://www.eurogamer.net/feed"
+    },
+    {
+      "description": "GameSpot's Everything Feed! All the latest from GameSpot",
+      "feed_format": "rss",
+      "feed_url": "https://www.gamespot.com/feeds/mashup/",
+      "icon_url": null,
+      "id": "4ceaf842-4cd5-5982-b8aa-57f201fc151c",
+      "language_tag": "en-US",
+      "title": "GameSpot - All Content",
+      "website_url": "https://www.gamespot.com/feeds/mashup"
+    },
+    {
+      "description": "This feed contains the latest 20 articles from IGN",
+      "feed_format": "rss",
+      "feed_url": "https://www.ign.com/rss/articles/feed",
+      "icon_url": null,
+      "id": "9a8c0e4a-6ff8-5fd2-97f3-4aeb8cc499be",
+      "language_tag": null,
+      "title": "IGN Articles",
+      "website_url": "https://www.ign.com/articles"
+    },
+    {
+      "description": "Creative, Personal, Passionate Digital Experiences",
+      "feed_format": "rss",
+      "feed_url": "https://indiegamesplus.com/feed/",
+      "icon_url": null,
+      "id": "915ecabc-57a9-55b0-b823-14bab09cde84",
+      "language_tag": "en-US",
+      "title": "Indie Games Plus",
+      "website_url": null
+    },
+    {
+      "description": "Gaming Reviews, News, Tips and More.",
+      "feed_format": "rss",
+      "feed_url": "https://kotaku.com/feed",
+      "icon_url": null,
+      "id": "68bc45c9-9e29-5a6b-b615-a34e0c79aecc",
+      "language_tag": "en-US",
+      "title": "Kotaku",
+      "website_url": null
+    },
+    {
+      "description": "A beauty blog blooming with fresh makeup reviews, swatches and beauty tips from your friendly neighborhood beauty addict",
+      "feed_format": "rss",
+      "feed_url": "https://makeupandbeautyblog.com/feed/",
+      "icon_url": null,
+      "id": "71ca13f3-c1d2-54f7-8258-14c738fb0837",
+      "language_tag": "en-US",
+      "title": "Makeup and Beauty Blog | Makeup Reviews, Swatches and How-To Makeup",
+      "website_url": null
+    },
+    {
+      "description": "Official PlayStation Blog for news and video updates on PlayStation, PS5, PS4, PS VR, PlayStation Plus and more.",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.feedburner.com/psblog",
+      "icon_url": null,
+      "id": "7ade16d9-fca9-5302-8cb8-7712ae8340ad",
+      "language_tag": "en-US",
+      "title": "PlayStation.Blog",
+      "website_url": null
+    },
+    {
+      "description": "Your source for the latest in video games, sci-fi, fantasy, tabletop games, anime, horror, books, and comics.",
+      "feed_format": "rss",
+      "feed_url": "https://www.polygon.com/feed/",
+      "icon_url": null,
+      "id": "70355ee5-aaf5-5dbb-91ba-9344ff99eccf",
+      "language_tag": "en-US",
+      "title": "Polygon.com",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://feeds.feedburner.com/RockPaperShotgun",
+      "icon_url": null,
+      "id": "2c7185f3-90ac-5ee3-ac19-65f8a48b3d56",
+      "language_tag": "en",
+      "title": "Rock, Paper, Shotgun",
+      "website_url": "https://www.rockpapershotgun.com/feed"
+    },
+    {
+      "description": "All Steam news, all the time!",
+      "feed_format": "rss1",
+      "feed_url": "https://store.steampowered.com/feeds/news.xml",
+      "icon_url": null,
+      "id": "e7415261-8974-5d8d-9ae8-976272e8440a",
+      "language_tag": "en",
+      "title": "Steam RSS News Feed",
+      "website_url": "http://www.steampowered.com/"
+    },
+    {
+      "description": "Veni, Vidi, Scripsi",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.feedburner.com/TheAncientGamingNoob",
+      "icon_url": null,
+      "id": "5d90cddb-f1cf-52cb-9f6a-c56762ea5876",
+      "language_tag": "en",
+      "title": "The Ancient Gaming Noob",
+      "website_url": null
+    },
+    {
+      "description": "Everything fun",
+      "feed_format": "rss",
+      "feed_url": "https://www.escapistmagazine.com/feed/",
+      "icon_url": null,
+      "id": "3add9061-6af8-514f-8631-9801dfe48734",
+      "language_tag": "en-US",
+      "title": "The Escapist",
+      "website_url": null
+    },
+    {
+      "description": "iPhone and iPad Games and News",
+      "feed_format": "rss",
+      "feed_url": "https://toucharcade.com/community/forums/-/index.rss",
+      "icon_url": null,
+      "id": "dd0783b6-c101-59d9-b63d-0f78ff8ea5a4",
+      "language_tag": null,
+      "title": "TouchArcade - iPhone, iPad, Android Games Forum",
+      "website_url": "https://toucharcade.com/community/"
+    }
+  ],
+  "id": "468c83a6-19c1-58d5-8751-9dc0e3da510d",
+  "schema_version": 1,
+  "slug": "gaming",
+  "title": "Gaming"
+}

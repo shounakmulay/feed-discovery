@@ -1,0 +1,549 @@
+{
+  "description": "Browser engines, browser releases, and web platform implementation.",
+  "feeds": [
+    {
+      "description": "News and notes from and for the Mozilla community.",
+      "feed_format": "rss",
+      "feed_url": "https://blog.mozilla.org/community/feed/",
+      "icon_url": null,
+      "id": "ffaa1d50-63a2-5a33-875c-d0137ebd1130",
+      "language_tag": "en-US",
+      "title": "about:community",
+      "website_url": null
+    },
+    {
+      "description": "Does the rule the mind or does the mind rule the ?",
+      "feed_format": "rss",
+      "feed_url": "https://accessabilly.com/feed/",
+      "icon_url": null,
+      "id": "d86f71b1-c241-5a45-8619-93b0067c4bc2",
+      "language_tag": "en-GB",
+      "title": "Accessabilly",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://blog.adblockplus.org/atom?section=blog",
+      "icon_url": null,
+      "id": "b02ae43c-aaac-5e38-9ffa-0eb2e9e2f8d6",
+      "language_tag": "en-us",
+      "title": "Adblock Plus and (a little) more - Blog",
+      "website_url": "http://blog.adblockplus.org/"
+    },
+    {
+      "description": "This blog has moved to https://attackanddefense.dev/",
+      "feed_format": "rss",
+      "feed_url": "https://blog.mozilla.org/attack-and-defense/feed/",
+      "icon_url": null,
+      "id": "b666db1f-f85b-545b-9ea9-933660c83d1c",
+      "language_tag": "en-US",
+      "title": "Attack & Defense (Archive)",
+      "website_url": null
+    },
+    {
+      "description": "Open Source Web Browser Engine",
+      "feed_format": "rss",
+      "feed_url": "https://webkit.org/blog/feed/",
+      "icon_url": null,
+      "id": "e508f383-22e6-5375-b589-b9c6d284ce9c",
+      "language_tag": "en-US",
+      "title": "Blog – WebKit",
+      "website_url": null
+    },
+    {
+      "description": "Recent content in Brave’s latest news on Brave",
+      "feed_format": "rss",
+      "feed_url": "https://brave.com/blog/index.xml",
+      "icon_url": null,
+      "id": "d3e0ea19-cb0f-5c17-9cb1-ca2f8c6f1941",
+      "language_tag": "en",
+      "title": "Brave’s latest news on Brave",
+      "website_url": "https://brave.com/blog/"
+    },
+    {
+      "description": "Browserling's cross-browser testing blog. We write about all the exciting new things that are happening in the browser world and at Browserling!",
+      "feed_format": "rss",
+      "feed_url": "https://www.browserling.com/blog/rss.xml",
+      "icon_url": null,
+      "id": "fcf79765-54d6-51a5-8307-472f58973d41",
+      "language_tag": "en",
+      "title": "Browserling's cross-browser testing blog",
+      "website_url": "https://www.browserling.com/blog/"
+    },
+    {
+      "description": "New browser release notes.",
+      "feed_format": "atom",
+      "feed_url": "https://www.browsers.fyi/feed/",
+      "icon_url": null,
+      "id": "4f51e3a9-4f28-504f-9f42-b707efd7a19e",
+      "language_tag": null,
+      "title": "browsers.fyi",
+      "website_url": "https://www.browsers.fyi/"
+    },
+    {
+      "description": "Chrome and Chromebook Guides and Tutorials",
+      "feed_format": "rss",
+      "feed_url": "https://chromestory.com/feed/",
+      "icon_url": null,
+      "id": "23f6b609-c65b-54bf-8489-2208f93c39a4",
+      "language_tag": "en-US",
+      "title": "Chrome Story",
+      "website_url": null
+    },
+    {
+      "description": "News and developments from the open source browser project",
+      "feed_format": "atom",
+      "feed_url": "https://blog.chromium.org/feeds/posts/default",
+      "icon_url": null,
+      "id": "cc306a6b-c18c-5c10-9978-76fceccfc5e1",
+      "language_tag": null,
+      "title": "Chromium Blog",
+      "website_url": "https://blog.chromium.org/"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://blog.mozilla.org/data/feed/",
+      "icon_url": null,
+      "id": "5ec4a2bb-8482-5787-a313-9b89fe6b7e0b",
+      "language_tag": "en-US",
+      "title": "Data@Mozilla",
+      "website_url": null
+    },
+    {
+      "description": "All of developer.chrome.com articles.",
+      "feed_format": "rss",
+      "feed_url": "https://developer.chrome.com/static/blog/feed.xml",
+      "icon_url": null,
+      "id": "5aa92fab-571a-5872-a02b-418a1504267c",
+      "language_tag": "en-US",
+      "title": "developer.chrome.com: Blog",
+      "website_url": "https://developer.chrome.com/blog/"
+    },
+    {
+      "description": "Your Go-To Resource for Web Development & Compatibility",
+      "feed_format": "rss",
+      "feed_url": "https://fxdx.dev/feed/",
+      "icon_url": null,
+      "id": "062dd451-3cd9-5724-8bf7-de6f3b5a385d",
+      "language_tag": "en-US",
+      "title": "Firefox Developer Experience",
+      "website_url": null
+    },
+    {
+      "description": "Technology News, Software, Windows, Security, AI Updates",
+      "feed_format": "rss",
+      "feed_url": "https://www.ghacks.net/category/firefox/feed/",
+      "icon_url": null,
+      "id": "9c818ed7-2671-50de-8f0b-c6d50239e2b7",
+      "language_tag": "en-US",
+      "title": "Firefox News: Mozilla Updates, Privacy Tools, Add-ons, Performance Changes - gHacks",
+      "website_url": null
+    },
+    {
+      "description": "Let's improve quality, build after build!",
+      "feed_format": "rss",
+      "feed_url": "https://blog.nightly.mozilla.org/feed/",
+      "icon_url": null,
+      "id": "ec697b8e-b24e-5a0f-be53-40911d77465a",
+      "language_tag": "en-US",
+      "title": "Firefox Nightly News",
+      "website_url": null
+    },
+    {
+      "description": "Firefox Nightly gets a new version every day and as a consequence, the release notes for the Nightly channel are updated continuously to reflect features that have reached sufficient maturity to benefit from community feedback and bug reports.",
+      "feed_format": "atom",
+      "feed_url": "https://www.firefox.com/en-US/firefox/nightly/notes/feed/?redirect_source=mozilla-org",
+      "icon_url": null,
+      "id": "6f2e7870-2425-5da3-99cf-f50a2190842a",
+      "language_tag": null,
+      "title": "Firefox Nightly Notes",
+      "website_url": "https://www.firefox.com/en-US/firefox/nightly/notes/"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://blog.mozilla.org/ux/feed/",
+      "icon_url": null,
+      "id": "68c28099-7271-5e53-9e9d-46d3be931ac5",
+      "language_tag": "en-US",
+      "title": "Firefox UX",
+      "website_url": null
+    },
+    {
+      "description": "Be the first to know what's new with upcoming Firefox releases.",
+      "feed_format": "rss",
+      "feed_url": "https://blog.mozilla.org/futurereleases/feed/",
+      "icon_url": null,
+      "id": "1dfebc9a-d8c6-519e-8724-e1e1c100de47",
+      "language_tag": "en-US",
+      "title": "Future Releases",
+      "website_url": null
+    },
+    {
+      "description": "Google Chrome",
+      "feed_format": "rss",
+      "feed_url": "https://blog.google/products-and-platforms/products/chrome/rss/",
+      "icon_url": null,
+      "id": "b1d1eb56-eb46-5529-b0ae-e3a134e7763c",
+      "language_tag": "en-us",
+      "title": "Google Chrome",
+      "website_url": "https://blog.google/products-and-platforms/products/chrome/"
+    },
+    {
+      "description": "Technology News, Software, Windows, Security, AI Updates",
+      "feed_format": "rss",
+      "feed_url": "https://www.ghacks.net/category/google-chrome-browsing/feed/",
+      "icon_url": null,
+      "id": "40ed132f-089d-570d-a66e-610958087f45",
+      "language_tag": "en-US",
+      "title": "Google Chrome News: Browser Updates, Security, Extensions - gHacks",
+      "website_url": null
+    },
+    {
+      "description": "Updates on changes and additions to the Google Developers Blog.",
+      "feed_format": "rss",
+      "feed_url": "https://developers.googleblog.com/feeds/posts/default/",
+      "icon_url": null,
+      "id": "012cf642-6f7e-5b06-bf30-a89b47b6e3c1",
+      "language_tag": "en-us",
+      "title": "Google Developers Blog",
+      "website_url": "https://developers.googleblog.com/rss/"
+    },
+    {
+      "description": "Blog of the Igalia Compilers Team.",
+      "feed_format": "atom",
+      "feed_url": "https://blogs.igalia.com/compilers/feed/feed.xml",
+      "icon_url": null,
+      "id": "ff356b89-76b5-5b14-bfb8-86d904c1daba",
+      "language_tag": null,
+      "title": "Igalia Compilers Team",
+      "website_url": "https://blogs.igalia.com/compilers/"
+    },
+    {
+      "description": "Firefox hacking in Fedora",
+      "feed_format": "rss",
+      "feed_url": "https://mastransky.wordpress.com/feed/",
+      "icon_url": null,
+      "id": "8cb99063-3993-5fb9-9e61-d0c4f9c4f0a1",
+      "language_tag": "en",
+      "title": "Martin Stransky's Blog",
+      "website_url": null
+    },
+    {
+      "description": "Public blog for the Edge Vulnerability Research team.",
+      "feed_format": "atom",
+      "feed_url": "https://microsoftedge.github.io/edgevr/feed.xml",
+      "icon_url": null,
+      "id": "83bcb8d5-dd3a-5e98-a2a4-79b319196363",
+      "language_tag": null,
+      "title": "Microsoft Browser Vulnerability Research",
+      "website_url": "https://microsoftedge.github.io/edgevr/"
+    },
+    {
+      "description": "Official blog of the Microsoft Edge Web Platform Team",
+      "feed_format": "rss",
+      "feed_url": "https://blogs.windows.com/msedgedev/feed/",
+      "icon_url": null,
+      "id": "1cd3187e-c6cb-582f-8ea1-a853d30f15cc",
+      "language_tag": "en-US",
+      "title": "Microsoft Edge Blog",
+      "website_url": null
+    },
+    {
+      "description": "Users first, no matter their abilities",
+      "feed_format": "rss",
+      "feed_url": "https://blog.mozilla.org/accessibility/feed/",
+      "icon_url": null,
+      "id": "d8b7b050-3a45-5cb2-972a-23cc4836f978",
+      "language_tag": "en-US",
+      "title": "Mozilla Accessibility",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://blog.mozilla.org/addons/feed/",
+      "icon_url": null,
+      "id": "6c27a311-3f82-52ca-ada0-837b8e139f40",
+      "language_tag": "en-US",
+      "title": "Mozilla Add-ons Community Blog",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://mozillagfx.wordpress.com/feed/",
+      "icon_url": null,
+      "id": "54afdbe6-8e34-5e17-a855-b9928deae909",
+      "language_tag": "en",
+      "title": "Mozilla Gfx Team Blog",
+      "website_url": null
+    },
+    {
+      "description": "hacks.mozilla.org",
+      "feed_format": "rss",
+      "feed_url": "https://hacks.mozilla.org/feed/",
+      "icon_url": null,
+      "id": "b9abaa25-cbea-5ecc-aca5-53e56b7b3723",
+      "language_tag": "en-US",
+      "title": "Mozilla Hacks – the Web developer blog",
+      "website_url": null
+    },
+    {
+      "description": "Users first, no matter where they are",
+      "feed_format": "rss",
+      "feed_url": "https://blog.mozilla.org/l10n/feed/",
+      "icon_url": null,
+      "id": "8487b96e-6b6c-5388-b2fb-c3d3c5f2fa64",
+      "language_tag": "en-US",
+      "title": "Mozilla L10N",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://blog.mozilla.org/security/feed/",
+      "icon_url": null,
+      "id": "d4b2bd1b-ed5e-5f86-8904-76b160f973e2",
+      "language_tag": "en-US",
+      "title": "Mozilla Security Blog",
+      "website_url": null
+    },
+    {
+      "description": "Insights into Necko - the Firefox Networking team.",
+      "feed_format": "atom",
+      "feed_url": "https://mozilla-necko.github.io/feed.xml",
+      "icon_url": null,
+      "id": "07ad89a3-97ec-50ae-a2e9-db8e838e1b28",
+      "language_tag": null,
+      "title": "Necko Blog",
+      "website_url": "https://mozilla-necko.github.io/"
+    },
+    {
+      "description": "Mozilla's official blog on open Internet policy initiatives and developments",
+      "feed_format": "rss",
+      "feed_url": "https://blog.mozilla.org/netpolicy/feed/",
+      "icon_url": null,
+      "id": "e4889f5e-4c69-5b93-8bcd-8faf2aa7fb53",
+      "language_tag": "en-US",
+      "title": "Open Policy & Advocacy",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://blogs.opera.com/desktop/feed/",
+      "icon_url": null,
+      "id": "8142ea01-c3e3-5330-b2f3-203875e4852f",
+      "language_tag": "en-US",
+      "title": "Opera Desktop",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://blogs.opera.com/mobile/feed/",
+      "icon_url": null,
+      "id": "12949c65-63c8-544c-b137-7f0c32c3512e",
+      "language_tag": "en-US",
+      "title": "Opera Mobile",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://blogs.opera.com/news/feed/",
+      "icon_url": null,
+      "id": "eb6fab88-8ebb-599b-8637-27980c5f2574",
+      "language_tag": "en-US",
+      "title": "Opera News",
+      "website_url": null
+    },
+    {
+      "description": "SpiderMonkey is Mozilla's JavaScript and WebAssembly Engine, used in Firefox, Servo and various other projects. It is written in C++ and Rust.",
+      "feed_format": "atom",
+      "feed_url": "https://spidermonkey.dev/feed.xml",
+      "icon_url": null,
+      "id": "abafac68-34fb-5371-bbce-de816aab5669",
+      "language_tag": null,
+      "title": "SpiderMonkey JavaScript/WebAssembly Engine",
+      "website_url": "https://spidermonkey.dev/"
+    },
+    {
+      "description": "The Official DuckDuckGo Blog",
+      "feed_format": "rss",
+      "feed_url": "https://spreadprivacy.com/rss/",
+      "icon_url": null,
+      "id": "83c73382-daac-5561-ad51-7eb7ed6cd733",
+      "language_tag": null,
+      "title": "Spread Privacy",
+      "website_url": "https://spreadprivacy.com/"
+    },
+    {
+      "description": "Bits and pieces on the Web Platform, Firefox, Gecko, Internationalization, Localization and open source",
+      "feed_format": "rss",
+      "feed_url": "https://diary.braniecki.net/feed/",
+      "icon_url": null,
+      "id": "15dfe5b8-6ee2-56cf-9e58-d71a935dd199",
+      "language_tag": "en-US",
+      "title": "stream of bytes",
+      "website_url": null
+    },
+    {
+      "description": "News and announcements from the AMP team",
+      "feed_format": "rss",
+      "feed_url": "https://blog.amp.dev/feed/",
+      "icon_url": null,
+      "id": "0842ca72-2a3f-5ced-8e50-2c0a3295c96a",
+      "language_tag": "en-US",
+      "title": "The AMP Blog",
+      "website_url": null
+    },
+    {
+      "description": "News and Updates about Mozilla",
+      "feed_format": "rss",
+      "feed_url": "https://blog.mozilla.org/feed/",
+      "icon_url": null,
+      "id": "7bdc14c4-f0c9-5db2-b6cd-06e86a523b38",
+      "language_tag": "en-US",
+      "title": "The Mozilla Blog",
+      "website_url": null
+    },
+    {
+      "description": "Please leave your sense of logic at the door, thanks!",
+      "feed_format": "rss",
+      "feed_url": "https://blog.whatwg.org/feed",
+      "icon_url": null,
+      "id": "e5b9921f-1026-5dab-9f04-2aa8b51cab15",
+      "language_tag": "en-US",
+      "title": "The WHATWG Blog",
+      "website_url": null
+    },
+    {
+      "description": "Official channel for news and updates from the Tor Project",
+      "feed_format": "atom",
+      "feed_url": "https://blog.torproject.org/feed.xml",
+      "icon_url": null,
+      "id": "b3562842-262e-5f28-8d81-ae316afc2624",
+      "language_tag": null,
+      "title": "Tor Project blog",
+      "website_url": "https://blog.torproject.org/"
+    },
+    {
+      "description": "The V8 JavaScript engine",
+      "feed_format": "atom",
+      "feed_url": "https://v8.dev/blog.atom",
+      "icon_url": null,
+      "id": "ff0fd5d7-77b2-5420-accf-00634711d5fe",
+      "language_tag": null,
+      "title": "V8",
+      "website_url": "https://v8.dev/"
+    },
+    {
+      "description": "News about Vispero’s assistive technology training",
+      "feed_format": "rss",
+      "feed_url": "https://blog.freedomscientific.com/feed/",
+      "icon_url": null,
+      "id": "8aa044f4-b86b-5793-91e6-5230f0b89487",
+      "language_tag": "en-US",
+      "title": "Vispero Training",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://code.visualstudio.com/feed.xml",
+      "icon_url": null,
+      "id": "e539d544-d641-50ca-806b-cb07e9b58444",
+      "language_tag": null,
+      "title": "Visual Studio Code - Code Editing. Redefined.",
+      "website_url": "https://code.visualstudio.com/"
+    },
+    {
+      "description": "Fast & Fully Customizable Web Browser",
+      "feed_format": "rss",
+      "feed_url": "https://vivaldi.com/feed/",
+      "icon_url": null,
+      "id": "bb507847-667b-50c0-af2b-e7d18137d274",
+      "language_tag": "en-US",
+      "title": "Vivaldi Browser",
+      "website_url": null
+    },
+    {
+      "description": "The W3C blog is for in-depth Web standards topics and educational materials.",
+      "feed_format": "rss",
+      "feed_url": "https://www.w3.org/blog/feed/",
+      "icon_url": null,
+      "id": "4acdf4b1-e429-5f7e-ba91-8817b73c9801",
+      "language_tag": "en",
+      "title": "W3C - Blog",
+      "website_url": "https://www.w3.org/blog/"
+    },
+    {
+      "description": "W3C News",
+      "feed_format": "rss",
+      "feed_url": "https://www.w3.org/news/feed/",
+      "icon_url": null,
+      "id": "8032c71f-8cc5-5b96-a94e-160494b720fd",
+      "language_tag": "en",
+      "title": "W3C - News",
+      "website_url": "https://www.w3.org/news/"
+    },
+    {
+      "description": "Accessibility resources free online from the international standards organization: W3C Web Accessibility Initiative (WAI).",
+      "feed_format": "atom",
+      "feed_url": "https://www.w3.org/WAI/feed.xml",
+      "icon_url": null,
+      "id": "2a246d1e-abc0-5017-9052-777ee6763c70",
+      "language_tag": null,
+      "title": "Web Accessibility Initiative (WAI)",
+      "website_url": "https://www.w3.org/WAI/"
+    },
+    {
+      "description": "The WebAIM Web Accessibility Blog",
+      "feed_format": "rss",
+      "feed_url": "https://webaim.org/blog/feed/",
+      "icon_url": null,
+      "id": "fdc4a882-d975-5a03-85e0-951342fcf05b",
+      "language_tag": "en-US",
+      "title": "WebAIM Blog",
+      "website_url": null
+    },
+    {
+      "description": "Open Source Web Browser Engine",
+      "feed_format": "rss",
+      "feed_url": "https://webkit.org/feed/",
+      "icon_url": null,
+      "id": "e3a5d267-2e87-50b8-9679-dc564ae21c46",
+      "language_tag": "en-US",
+      "title": "WebKit",
+      "website_url": null
+    },
+    {
+      "description": "All the entries in the Wolvic blog, which should mostly be release notes.",
+      "feed_format": "atom",
+      "feed_url": "https://wolvic.com/blog/feed.xml",
+      "icon_url": null,
+      "id": "02c192a2-d961-5991-9c6d-31698232bce9",
+      "language_tag": null,
+      "title": "Wolvic Blog",
+      "website_url": "https://wolvic.com/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://wpewebkit.org/feed.xml",
+      "icon_url": null,
+      "id": "4b74af33-1c3a-53dc-b319-7b2b247c7b9c",
+      "language_tag": null,
+      "title": "WPEwebkit.org",
+      "website_url": "https://wpewebkit.org/"
+    }
+  ],
+  "id": "94133c1d-6740-509f-84a3-fd1158d41467",
+  "schema_version": 1,
+  "slug": "browsers",
+  "title": "Browsers"
+}

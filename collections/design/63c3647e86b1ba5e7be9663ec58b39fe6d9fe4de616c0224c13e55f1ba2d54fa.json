@@ -1,0 +1,119 @@
+{
+  "description": "Product design, interface design, and user experience.",
+  "feeds": [
+    {
+      "description": "Recent content in Articles on Smashing Magazine — For Web Designers And Developers",
+      "feed_format": "rss",
+      "feed_url": "https://www.smashingmagazine.com/feed/",
+      "icon_url": null,
+      "id": "d45773b2-247f-5f6c-b0e0-065c8029a08b",
+      "language_tag": "en",
+      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
+      "website_url": "https://www.smashingmagazine.com/"
+    },
+    {
+      "description": "A learning community for front-end designers and developers",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.feedburner.com/CssTricks",
+      "icon_url": null,
+      "id": "b7b53b7a-a3b0-52cd-b611-a48216d2056c",
+      "language_tag": "en-US",
+      "title": "CSS-Tricks",
+      "website_url": null
+    },
+    {
+      "description": "Logo Designer, Graphic Designer, Graphic Design Portfolio, Logo Design, Logo, Graphic, Design, Graphic Design, Brand Strategy, Branding",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.feedburner.com/JustCreativeDesignBlog",
+      "icon_url": null,
+      "id": "a8340362-7ad4-524c-9d22-5904e1e4fb32",
+      "language_tag": "en-US",
+      "title": "JUST™ Creative",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://material.io/feed.xml",
+      "icon_url": null,
+      "id": "91e3de19-f9a4-5fca-ac18-c891c0922add",
+      "language_tag": null,
+      "title": "Material.io - Material Design",
+      "website_url": "https://material.io/"
+    },
+    {
+      "description": "The latest articles and announcements from Nielsen Norman Group",
+      "feed_format": "rss",
+      "feed_url": "https://www.nngroup.com/feed/rss/",
+      "icon_url": null,
+      "id": "19390383-9ca4-53ee-a7d3-87816f435ce6",
+      "language_tag": "en-us",
+      "title": "NN/g latest articles and announcements",
+      "website_url": "https://www.nngroup.com/feed/rss/"
+    },
+    {
+      "description": "A collection of articles and resources from the design team at Slack.",
+      "feed_format": "rss",
+      "feed_url": "https://slack.design/feed/",
+      "icon_url": null,
+      "id": "b5892df3-34a1-5422-a8ef-916b17758691",
+      "language_tag": "en-US",
+      "title": "Slack Design",
+      "website_url": null
+    },
+    {
+      "description": "Usability & User Experience (UX) Blog",
+      "feed_format": "rss",
+      "feed_url": "https://usabilitygeek.com/feed/",
+      "icon_url": null,
+      "id": "34d33156-054c-5610-aa12-9f838302c76e",
+      "language_tag": "en-US",
+      "title": "Usability Geek",
+      "website_url": null
+    },
+    {
+      "description": "UX Daily - User Experience Daily",
+      "feed_format": "rss",
+      "feed_url": "https://ixdf.org/rss/site_news.xml",
+      "icon_url": null,
+      "id": "221c0269-a98a-53ed-a7f4-aa82465cda0a",
+      "language_tag": "en",
+      "title": "UX Daily - User Experience Daily",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://uxmovement.com/feed/",
+      "icon_url": null,
+      "id": "405bd432-af1c-5126-85c1-35e32444e43e",
+      "language_tag": "en-US",
+      "title": "UX Movement",
+      "website_url": null
+    },
+    {
+      "description": "Insights and inspiration for the user experience community",
+      "feed_format": "atom",
+      "feed_url": "http://feedpress.me/UXmatters",
+      "icon_url": null,
+      "id": "91aaed30-198b-5efb-8215-b5f4daca3826",
+      "language_tag": null,
+      "title": "UXmatters",
+      "website_url": "https://www.uxmatters.com/"
+    },
+    {
+      "description": "All of web.dev's blog posts.",
+      "feed_format": "rss",
+      "feed_url": "https://web.dev/static/blog/feed.xml",
+      "icon_url": null,
+      "id": "e9a48e33-07be-5993-bde6-a957a9efc0b9",
+      "language_tag": "en-US",
+      "title": "web.dev: Blog",
+      "website_url": "https://web.dev/blog/"
+    }
+  ],
+  "id": "013ea045-5b8c-568e-827b-efa1bf1b1288",
+  "schema_version": 1,
+  "slug": "design",
+  "title": "Design and UX"
+}
