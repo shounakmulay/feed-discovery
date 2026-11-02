@@ -1496,5 +1496,12 @@
     "source_url": "https://zellwk.com/",
     "title": "Feed for articles",
     "website_url": "https://zellwk.com/"
+  },
+  {
+    "category": "technology",
+    "feed_url": "https://joho-todai.com/en/rss/",
+    "source_url": "https://joho-todai.com/en/",
+    "title": "Joho no Todai (English)",
+    "website_url": "https://joho-todai.com/en/"
   }
 ]
