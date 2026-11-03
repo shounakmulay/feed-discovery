@@ -1,0 +1,449 @@
+{
+  "description": "Business reporting, startups, entrepreneurship, and economics.",
+  "feeds": [
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://www.ben-evans.com/benedictevans?format=rss",
+      "icon_url": null,
+      "id": "21a6bb57-9176-5caa-8440-281296c1cc6a",
+      "language_tag": "en-GB",
+      "title": "Essays - Benedict Evans",
+      "website_url": "https://www.ben-evans.com/benedictevans/"
+    },
+    {
+      "description": "Innovation and Entrepreneurship",
+      "feed_format": "rss",
+      "feed_url": "https://steveblank.com/feed/",
+      "icon_url": "https://s0.wp.com/i/webclip.png",
+      "id": "e4fc1887-e1bc-5ca1-bb57-1b251f9d803a",
+      "language_tag": "en-US",
+      "title": "Steve Blank",
+      "website_url": null
+    },
+    {
+      "description": "Candid conversations with the founders, operators, and investors building companies in Northwest Arkansas and beyond. The Startup Junkies Podcast is hosted by Jeff Amerine, founder of Startup Junkie, a Northwest Arkansas organization that has provided no-cost consulting, programs, and events to entrepreneurs for more than 15 years. Each week Jeff and the Startup Junkie team sit down with people who have actually done it: first-time and serial founders, small business owners, investors, accelerat",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.transistor.fm/the-startup-junkies-podcast",
+      "icon_url": "https://img.transistorcdn.com/HHEKX8Ly0-0r2ulp0SOJMBZp-1F9A7uXsu2eFLI8QBU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hMTg0/ODVhOTk1ZmFiOTQ2/MWM3YTk4MTcxOTg3/NmY5Mi5wbmc.jpg",
+      "id": "bba51e7d-f764-5240-b4a5-d9073d56449c",
+      "language_tag": "en",
+      "title": "The Startup Junkies Podcast",
+      "website_url": null
+    },
+    {
+      "description": "Recent content on Feld Thoughts",
+      "feed_format": "rss",
+      "feed_url": "https://feld.com/index.xml",
+      "icon_url": "https://feld.com/og-default.png",
+      "id": "5b5f1ac8-9be3-5303-9eb6-efa0a30f2353",
+      "language_tag": "en-us",
+      "title": "Feld Thoughts",
+      "website_url": "https://feld.com/"
+    },
+    {
+      "description": "Wanna see a trick? Give us any topic and we can tie it back to the economy. At Planet Money , we explore the forces that shape our lives and bring you along for the ride. Don't just understand the economy – understand the world. Support public media by joining NPR+ at plus.npr.org . You’ll get perks for over 25 NPR podcasts, including bonus episodes and sponsor-free listening for Planet Money.",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.npr.org/510289/podcast.xml",
+      "icon_url": "https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg",
+      "id": "d3c65a8c-3bae-5a84-988c-28a5f585e32f",
+      "language_tag": "en",
+      "title": "Planet Money",
+      "website_url": "https://www.npr.org/podcasts/510289/planet-money"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://blog.samaltman.com/posts.atom",
+      "icon_url": null,
+      "id": "cb614f64-df89-58c9-bc44-db6f7e9c903e",
+      "language_tag": "en-US",
+      "title": "Sam Altman",
+      "website_url": "https://blog.samaltman.com/"
+    },
+    {
+      "description": "Recent content on Irrational Exuberance",
+      "feed_format": "rss",
+      "feed_url": "https://lethain.com/feeds/",
+      "icon_url": null,
+      "id": "d7bd1293-1e1d-5065-aa7b-e2bb3cc9dec6",
+      "language_tag": "en-us",
+      "title": "Irrational Exuberance",
+      "website_url": "https://lethain.com/"
+    },
+    {
+      "description": "HubSpot’s Marketing Blog – attracting over 4.5 million monthly readers – covers everything you need to know to master inbound marketing.",
+      "feed_format": "rss",
+      "feed_url": "https://blog.hubspot.com/marketing/rss.xml?tabid=6307&moduleid=8441&maxcount=25",
+      "icon_url": null,
+      "id": "327e6e58-1d55-5a92-b137-27af6b161b88",
+      "language_tag": "en-us",
+      "title": "Marketing",
+      "website_url": "https://blog.hubspot.com/marketing"
+    },
+    {
+      "description": "EconTalk: Conversations for the Curious is an award-winning weekly podcast hosted by Russ Roberts of Shalem College in Jerusalem and Stanford's Hoover Institution. The eclectic guest list includes authors, doctors, psychologists, historians, philosophers, economists, and more. Learn how the health care system really works, the serenity that comes from humility, the challenge of interpreting data, how potato chips are made, what it's like to run an upscale Manhattan restaurant, what caused the 20",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.simplecast.com/wgl4xEgL",
+      "icon_url": "https://image.simplecastcdn.com/images/4ca709a1-1918-43a4-9035-1176b5aa9f2b/b8c673f8-58e7-4d4a-ab02-f83c2fd463c4/3000x3000/econtalknewbluecover1400.jpg?aid=rss_feed",
+      "id": "38390a11-7e7a-51b0-b5a0-bec092c6da0e",
+      "language_tag": "en-us",
+      "title": "EconTalk",
+      "website_url": null
+    },
+    {
+      "description": "Insightful interviews with authors, experts, entrepreneurs, and thought leaders who share valuable marketing tips, growth strategies, and resources. Hosted by John Jantsch, one of America's top small business marketing experts, this show is dedicated to helping you craft effective marketing strategies that will grow your business. Whether you're a small business owner, marketing professional, or marketing agency owner, you'll gain valuable insights and actionable advice on topics such as marketi",
+      "feed_format": "rss",
+      "feed_url": "https://rss.libsyn.com/shows/18353/destinations/12167.xml",
+      "icon_url": "https://static.libsyn.com/p/assets/5/7/9/0/5790efe78cd1486916c3140a3186d450/Duct_Tape_Marketing_Podcast_Cover_1.psd.jpg",
+      "id": "98fedb27-57c9-5cd5-829b-0a082236e0f8",
+      "language_tag": "en",
+      "title": "The Duct Tape Marketing Podcast",
+      "website_url": null
+    },
+    {
+      "description": "A weekly podcast featuring the leading thinkers in business and management.",
+      "feed_format": "rss",
+      "feed_url": "http://feeds.harvardbusiness.org/harvardbusiness/ideacast",
+      "icon_url": "https://hbr.org/resources/images/podcasts/1400-hbr-ideacast-lg-3.jpg",
+      "id": "c309d2d9-c370-5ae2-924e-2cefb4ac3869",
+      "language_tag": "en",
+      "title": "HBR IdeaCast",
+      "website_url": null
+    },
+    {
+      "description": "Recent content in Blog on Feld Thoughts",
+      "feed_format": "rss",
+      "feed_url": "https://feld.com/tags/blog/index.xml",
+      "icon_url": "https://feld.com/og-default.png",
+      "id": "0a141da3-d44a-54b8-b96d-70d500b3b666",
+      "language_tag": "en-us",
+      "title": "Blog on Feld Thoughts",
+      "website_url": "https://feld.com/tags/blog/"
+    },
+    {
+      "description": "Learnings from building high-growth products",
+      "feed_format": "rss",
+      "feed_url": "https://productlife.to/feed",
+      "icon_url": "https://substackcdn.com/image/fetch/$s_!2mI5!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf7955b1-8264-4df0-a6aa-5609d518d4df_1280x1280.png",
+      "id": "69d0b146-93c5-59ab-916c-a81dfb9af0f8",
+      "language_tag": "en",
+      "title": "Product Life",
+      "website_url": "https://productlife.to/"
+    },
+    {
+      "description": "Guy Raz interviews the world’s best-known entrepreneurs to learn how they built their iconic brands. In each episode, founders reveal deep, intimate moments of doubt and failure, and share insights on their eventual success. How I Built This is a master-class on innovation, creativity, leadership and how to navigate challenges of all kinds. How I Built This is part of the Vox Media Podcast Network.",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.megaphone.fm/VMP2035168248",
+      "icon_url": "https://megaphone.imgix.net/podcasts/0c36921a-c8b9-11f1-9bb5-c3ba2f4daa29/image/208e047865f4a69316c33e1fc4b6fd1b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "id": "0c9d189b-ddd3-58a8-b756-0cdcf94c8d6b",
+      "language_tag": "en",
+      "title": "How I Built This with Guy Raz",
+      "website_url": null
+    },
+    {
+      "description": "Tim Ferriss is the author of five #1 New York Times bestsellers and host of The Tim Ferriss Show podcast.",
+      "feed_format": "rss",
+      "feed_url": "https://tim.blog/feed/",
+      "icon_url": "https://i0.wp.com/tim.blog/wp-content/uploads/2025/05/favicon.png?fit=32%2C32&quality=80&ssl=1",
+      "id": "3a85e1fa-6a9e-5649-aed2-e0d3c863cce0",
+      "language_tag": "en-US",
+      "title": "The Blog of Author Tim Ferriss",
+      "website_url": null
+    },
+    {
+      "description": "Fortune 500 Daily & Breaking Business News",
+      "feed_format": "rss",
+      "feed_url": "https://fortune.com/feed/fortune-feeds/?id=3230629",
+      "icon_url": null,
+      "id": "1d0035e9-4c76-5222-acde-b7525fbfa2f7",
+      "language_tag": "en-US",
+      "title": "Fortune | FORTUNE",
+      "website_url": null
+    },
+    {
+      "description": "Founded in 2003, Small Business Trends is an award-winning online publication for small business owners, entrepreneurs and the people who interact with them. It is one of the most popular independent small business publications on the web. Together with hundreds of expert contributors, Small Business Trends brings you the news, tips, advice and resources you need. \"Small business success... delivered daily.\"",
+      "feed_format": "rss",
+      "feed_url": "https://feeds2.feedburner.com/SmallBusinessTrends",
+      "icon_url": null,
+      "id": "3710f5f6-3ab6-56a8-8762-bc605d0f61f9",
+      "language_tag": "en-US",
+      "title": "Small Business Trends",
+      "website_url": null
+    },
+    {
+      "description": "Growth, startups, and tech products",
+      "feed_format": "rss",
+      "feed_url": "https://andrewchen.com/feed/",
+      "icon_url": null,
+      "id": "ee7d4853-a1a4-53ee-b4a2-b233ade5ca26",
+      "language_tag": "en-US",
+      "title": "andrewchen",
+      "website_url": null
+    },
+    {
+      "description": "A home for poorly researched ideas that I find myself repeating a lot anyway",
+      "feed_format": "atom",
+      "feed_url": "https://geohot.github.io/blog/feed.xml",
+      "icon_url": null,
+      "id": "0cc6ee9c-58f4-5c8f-806f-a5042a8ca17d",
+      "language_tag": null,
+      "title": "the singularity is nearer",
+      "website_url": "https://geohot.github.io//blog/"
+    },
+    {
+      "description": "Business tips for startups by proven entrepreneurs",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.feedburner.com/Mixergy-main-podcast",
+      "icon_url": "https://mixergy.com/wp-content/uploads/2020/05/mixergy-startup_pcast-cov-3000-scaled.jpg",
+      "id": "d32ab805-d976-5952-ab47-4c31bfd7e10d",
+      "language_tag": "en-US",
+      "title": "Startup Stories - Mixergy",
+      "website_url": null
+    },
+    {
+      "description": "Forbes - Business",
+      "feed_format": "rss",
+      "feed_url": "https://www.forbes.com/business/feed/",
+      "icon_url": null,
+      "id": "30d72e43-42af-50f5-971a-a88e0afb58d1",
+      "language_tag": "en-us",
+      "title": "Forbes - Business",
+      "website_url": "https://www.forbes.com/business/"
+    },
+    {
+      "description": "Growth Engineering @ Anthropic",
+      "feed_format": "rss",
+      "feed_url": "https://jwegan.com/feed/",
+      "icon_url": null,
+      "id": "7ab55c00-7416-50b3-878d-601b4410ee0a",
+      "language_tag": "en-US",
+      "title": "John Egan",
+      "website_url": null
+    },
+    {
+      "description": "Perspectives of a 2x entrepreneur turned VC at @UpfrontVC, the largest and most active early-stage fund in Southern California. Snapchat: msuster - Medium",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.feedburner.com/BothSidesOfTheTable",
+      "icon_url": "https://cdn-images-1.medium.com/proxy/1*TGH72Nnw24QL3iV9IOm4VA.png",
+      "id": "1b49644e-166c-5129-b57e-0bef945eae16",
+      "language_tag": null,
+      "title": "Both Sides of the Table - Medium",
+      "website_url": "https://bothsidesofthetable.com/?source=rss----97f98e5df342---4"
+    },
+    {
+      "description": "The Art of Changing Hearts, Minds, and Actions",
+      "feed_format": "rss",
+      "feed_url": "https://guykawasaki.com/feed/",
+      "icon_url": "https://guykawasaki.com/wp-content/uploads/2015/02/Guy-Kawasaki-1024x1024-54ede85dv1_site_icon-32x32.png",
+      "id": "a4e80669-7ecd-5e9b-b88a-a447cf4c9a9e",
+      "language_tag": "en-US",
+      "title": "Guy Kawasaki",
+      "website_url": null
+    },
+    {
+      "description": "On Masters of Scale, iconic business leaders share lessons and strategies that have helped them grow the world's most fascinating companies. Founders, CEOs, and dynamic innovators join candid conversations about their triumphs and challenges with a set of luminary hosts, including founding host Reid Hoffman (LinkedIn co-founder and Greylock partner). From navigating early prototypes to expanding brands globally, Masters of Scale provides priceless insights to help anyone grow their dream enterpr",
+      "feed_format": "rss",
+      "feed_url": "https://rss.art19.com/masters-of-scale",
+      "icon_url": "https://content.production.cdn.art19.com/images/09/cf/16/0f/09cf160f-7ecf-4f28-b62b-9f1f6747f4d0/788a9ef330f3937e9356716b19efaedd2be34e27499cb5c5cab93caaa9e4756a0883594dabfab7e6fab7b2d8fa755b1ca90626bc6a42e492cd9621570a6e9854.jpeg",
+      "id": "508e2678-3f4f-5c8d-97ec-bce6db47609d",
+      "language_tag": "en",
+      "title": "Masters of Scale",
+      "website_url": null
+    },
+    {
+      "description": "Your Guide to the Marketing Jungle",
+      "feed_format": "rss",
+      "feed_url": "https://www.socialmediaexaminer.com/feed/",
+      "icon_url": "https://www.socialmediaexaminer.com/wp-content/uploads/2025/08/ScoutHigh.png",
+      "id": "6092e4ce-0fdf-5b7e-a90e-7be067f50e08",
+      "language_tag": "en-US",
+      "title": "Social Media Examiner",
+      "website_url": null
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://backlinko.com/feed",
+      "icon_url": "https://backlinko.com/app/uploads/2020/02/cropped-siteicon-150x150.png",
+      "id": "4310f090-7c50-5828-a460-6512cd155d7a",
+      "language_tag": "en-US",
+      "title": "Backlinko",
+      "website_url": null
+    },
+    {
+      "description": "Transformative tech coverage that matters",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.feedburner.com/venturebeat/SZYF",
+      "icon_url": null,
+      "id": "214d526e-cbb8-5d5e-9a52-128abbfa7e7e",
+      "language_tag": "en",
+      "title": "VentureBeat",
+      "website_url": "https://venturebeat.com/feed/"
+    },
+    {
+      "description": "The Economic Times: Latest business, finance, markets, stocks, company news from India.",
+      "feed_format": "rss",
+      "feed_url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
+      "icon_url": "https://img.etimg.com/thumb/msid-76939477,quality-100/economictimes.jpg",
+      "id": "d991442e-393a-5be3-bac1-7576fd6077ed",
+      "language_tag": "en-gb",
+      "title": "Economic Times",
+      "website_url": "https://economictimes.indiatimes.com/"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://www.producthunt.com/feed",
+      "icon_url": null,
+      "id": "83d21ff7-efbd-5a6f-914e-f0d8900e9e76",
+      "language_tag": "en-US",
+      "title": "Product Hunt — The best new products, every day",
+      "website_url": "https://www.producthunt.com/"
+    },
+    {
+      "description": "Starting a business has never been easier. But finding success in one has never been harder. Each episode explores the inspiring stories behind how people grow a business, an idea, or a movement. Hosted by Matthew Brown.",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.megaphone.fm/HS8360247339",
+      "icon_url": "https://megaphone.imgix.net/podcasts/4a93e446-3fca-11eb-81ba-93844958df13/image/be99917440e864e54befbfec8e525527.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "id": "da6b2c26-f24a-5b56-8b1a-a41018343bea",
+      "language_tag": "en-us",
+      "title": "The Growth Show",
+      "website_url": null
+    },
+    {
+      "description": "Articles and Podcasts on Customer Service, AI and Automation, Product, and more.",
+      "feed_format": "rss",
+      "feed_url": "https://www.intercom.com/blog/feed",
+      "icon_url": null,
+      "id": "258d30fb-2a3e-5a4f-be0b-150e1401ed63",
+      "language_tag": "en-US",
+      "title": "The Intercom Blog",
+      "website_url": "https://www.intercom.com/blog"
+    },
+    {
+      "description": "Links for the intellectually curious, ranked by readers.",
+      "feed_format": "rss",
+      "feed_url": "https://news.ycombinator.com/rss",
+      "icon_url": null,
+      "id": "26620a6a-88fa-5f88-ac6b-16757dd3f305",
+      "language_tag": null,
+      "title": "Hacker News",
+      "website_url": "https://news.ycombinator.com/"
+    },
+    {
+      "description": "The latest small business tips and advice from Entrepreneur",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.feedburner.com/entrepreneur/latest",
+      "icon_url": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2025/03/cropped-Ent_Logo_Circle_Black_300.png",
+      "id": "e53a37f9-014b-5644-9fd4-ef19cedf1a4a",
+      "language_tag": "en-us",
+      "title": "Entrepreneur – Latest",
+      "website_url": "https://www.entrepreneur.com/"
+    },
+    {
+      "description": "Inc.com, the daily resource for entrepreneurs.",
+      "feed_format": "rss",
+      "feed_url": "https://www.inc.com/rss/",
+      "icon_url": "https://images.inc.com/rss/inc_com_rss.jpg",
+      "id": "4763c409-35d3-5099-90c6-579f9a3f4cac",
+      "language_tag": "en-us",
+      "title": "Inc.com",
+      "website_url": null
+    },
+    {
+      "description": "CNBC is the world leader in business news and real-time financial market coverage. Find fast, actionable information.",
+      "feed_format": "rss",
+      "feed_url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+      "icon_url": null,
+      "id": "b2964391-b474-5fb1-ac1a-3cbadced28f2",
+      "language_tag": "en-us",
+      "title": "US Top News and Analysis",
+      "website_url": null
+    },
+    {
+      "description": "© seekingalpha.com. Use of this feed is limited to personal, non-commercial use and is governed by Seeking Alpha's Terms of Use (https://about.seekingalpha.com/terms). Publishing this feed for public or commercial use and/or misrepresentation by a third party is prohibited.",
+      "feed_format": "rss",
+      "feed_url": "https://seekingalpha.com/market_currents.xml",
+      "icon_url": null,
+      "id": "742518bc-ec43-5e82-87de-4db6c170db6d",
+      "language_tag": null,
+      "title": "Breaking News on Seeking Alpha",
+      "website_url": "https://seekingalpha.com/news/all"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?user=marieforleo",
+      "icon_url": null,
+      "id": "0af333b8-0796-5f26-b0d0-37c4d885630a",
+      "language_tag": null,
+      "title": "Marie Forleo",
+      "website_url": "https://www.youtube.com/channel/UCuoxrRDDgk3UUnxR4tlkJYQ"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?user=GaryVaynerchuk",
+      "icon_url": null,
+      "id": "0bfced86-0e52-57b1-ac19-b384437703e3",
+      "language_tag": null,
+      "title": "GaryVee",
+      "website_url": "https://www.youtube.com/channel/UCctXZhXmG-kf3tlIXgVZUlw"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?user=businessinsider",
+      "icon_url": null,
+      "id": "b31a3956-cf28-5d1d-b7ab-ac14b2a8cf23",
+      "language_tag": null,
+      "title": "Business Insider",
+      "website_url": "https://www.youtube.com/channel/UCcyq283he07B7_KUX07mmtA"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://www.youtube.com/feeds/videos.xml?user=Bloomberg",
+      "icon_url": null,
+      "id": "c6cb6c23-0fba-5601-b966-228a2fa94c40",
+      "language_tag": null,
+      "title": "Bloomberg Originals",
+      "website_url": "https://www.youtube.com/channel/UCUMZ7gohGI9HcU9VNsr2FJQ"
+    },
+    {
+      "description": null,
+      "feed_format": "atom",
+      "feed_url": "https://feeds.feedburner.com/seomoz",
+      "icon_url": null,
+      "id": "878ce484-5b6c-59c1-a836-2613759baefc",
+      "language_tag": null,
+      "title": "moz (en-US)",
+      "website_url": "https://moz.com/blog"
+    },
+    {
+      "description": null,
+      "feed_format": "rss",
+      "feed_url": "https://www.investing.com/rss/news.rss",
+      "icon_url": null,
+      "id": "13702e06-4104-533d-89d4-2794fa4d4941",
+      "language_tag": null,
+      "title": "All News",
+      "website_url": "https://www.investing.com/"
+    },
+    {
+      "description": "Scraped feed provided by aaronsw.com",
+      "feed_format": "rss",
+      "feed_url": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+      "icon_url": null,
+      "id": "8c4c83b6-a678-5f99-acdf-3131e323cc86",
+      "language_tag": null,
+      "title": "Paul Graham: Essays",
+      "website_url": "http://www.paulgraham.com/"
+    }
+  ],
+  "id": "f2ca18bf-0dde-5512-9076-02066e390095",
+  "schema_version": 1,
+  "slug": "business-startups",
+  "title": "Business and startups"
+}
