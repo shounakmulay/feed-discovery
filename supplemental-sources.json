@@ -1496,5 +1496,12 @@
     "source_url": "https://zellwk.com/",
     "title": "Feed for articles",
     "website_url": "https://zellwk.com/"
+  },
+  {
+    "category": "ai-ml",
+    "feed_url": "https://openai.com/news/rss.xml",
+    "source_url": "https://openai.com/news/",
+    "title": "OpenAI News",
+    "website_url": "https://openai.com/news/"
   }
 ]

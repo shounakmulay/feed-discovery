@@ -8,6 +8,8 @@ This repository contains DevPulse's static RSS and Atom feed catalog and the scr
 
 Each file under `collections/<slug>/<sha256>.json` contains a collection's metadata and feed definitions. Feed definitions include an ID, title, feed URL, format, and optional description, website URL, icon URL, and language tag. A feed can belong to more than one collection.
 
+The category order in `CATEGORIES` and the featured publisher order in `FEATURED_DOMAINS`, both in [`scripts/collect_feeds.py`](scripts/collect_feeds.py), are curated for recognizability. Remaining feeds stay in title order. Run `python3 scripts/collect_feeds.py reorder` to regenerate immutable collection files and the master while preserving the current feed set; regular `publish` applies the same ordering after validation.
+
 Collection filenames are the SHA-256 hash of their exact file bytes. Publication creates new files when collection content changes and retains older files. Clients can cache collection URLs and use `master.json` to discover the current version. The publication number increases when the collection references change.
 
 ## Verify the catalog locally
