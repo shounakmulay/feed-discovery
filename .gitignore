@@ -10,3 +10,7 @@ pages-build-*/
 .wrangler/
 .dev.vars*
 node_modules/
+
+# Local historical ranking evidence and diagnostics
+ranking-state.json
+ranking-results.json

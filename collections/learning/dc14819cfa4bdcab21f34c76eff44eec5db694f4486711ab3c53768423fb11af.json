@@ -1,0 +1,69 @@
+{
+  "description": "Learning, education, and personal productivity.",
+  "feeds": [
+    {
+      "description": "Finding wonder, nostalgia, and meaning in the ordinary",
+      "feed_format": "rss",
+      "feed_url": "https://coffeeandjunk.substack.com/feed",
+      "icon_url": "https://substackcdn.com/image/fetch/$s_!jWIm!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fda93e21d-52f7-4da2-8b56-5cbba4259268_1000x1000.png",
+      "id": "91be236e-1d5e-54db-bcc0-60b79cc7ef27",
+      "language_tag": "en",
+      "title": "The Sunday Wisdom",
+      "website_url": "https://coffeeandjunk.substack.com/"
+    },
+    {
+      "description": "Mastering the best of what other people have already figured out",
+      "feed_format": "rss",
+      "feed_url": "https://fs.blog/feed/",
+      "icon_url": "https://fs.blog/wp-content/uploads/2015/06/cropped-farnamstreet-80x80.png",
+      "id": "b7e0db59-7d8d-55d7-bb06-4ad19fd9c104",
+      "language_tag": "en-US",
+      "title": "Farnam Street",
+      "website_url": null
+    },
+    {
+      "description": "Learn faster, achieve more",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.feedburner.com/scotthyoung/HAHx",
+      "icon_url": "https://www.scotthyoung.com/blog/wp-content/uploads/2019/05/favicon.png",
+      "id": "0966e4ec-3720-54e9-b3fc-1e3f8787aba1",
+      "language_tag": "en-US",
+      "title": "Scott H Young",
+      "website_url": null
+    },
+    {
+      "description": "Your mind at work",
+      "feed_format": "rss",
+      "feed_url": "https://nesslabs.com/feed",
+      "icon_url": "https://nesslabs.com/wp-content/uploads/2018/09/cropped-favicon-ness-32x32.png",
+      "id": "d32ae8e3-c537-51fb-9420-a15cef7706f0",
+      "language_tag": "en",
+      "title": "Ness Labs",
+      "website_url": null
+    },
+    {
+      "description": "Commoncog helps you get good at business faster. Read by 9k+ investors and operators.",
+      "feed_format": "rss",
+      "feed_url": "https://commoncog.com/rss/",
+      "icon_url": "https://commoncog.com/favicon.png",
+      "id": "393301bd-5a81-5a5c-9f0d-bdf5aed3414e",
+      "language_tag": null,
+      "title": "Commoncog",
+      "website_url": "https://commoncog.com/"
+    },
+    {
+      "description": "Big Think",
+      "feed_format": "rss",
+      "feed_url": "https://feeds.feedburner.com/bigthink/main",
+      "icon_url": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8xODc3OTY0Ni9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTY4MDY2MTIyNn0.4LDhoMIe1B7Jrz8wqZ93UJwWg-6zIOm_KFDzYJhptPo/img.png?width=210",
+      "id": "b21a158a-ca12-5f4c-afac-9ae52147535f",
+      "language_tag": "en-us",
+      "title": "Big Think",
+      "website_url": "https://bigthink.com/"
+    }
+  ],
+  "id": "1756b976-53fe-5231-a3d5-4f11e4929c78",
+  "schema_version": 1,
+  "slug": "learning",
+  "title": "Learning and productivity"
+}

@@ -18,6 +18,8 @@ import xml.etree.ElementTree as ET
 from collections import Counter, defaultdict
 from pathlib import Path
 
+import ranking
+
 
 ROOT = Path(__file__).resolve().parents[1]
 MAX_BYTES = 12 * 1024 * 1024
@@ -220,6 +222,7 @@ def feed_metadata(body, url):
                 if icon:
                     break
     return {
+        "entry_evidence": ranking.entry_evidence(entries, url),
         "title": title, "description": description, "website_url": website,
         "icon_url": icon, "language_tag": plain(language, 50), "feed_format": feed_format,
         "entry_count": len(entries), "usable_entry_count": len(usable),
@@ -497,6 +500,16 @@ def publish():
         primary["candidates"].extend(duplicate["candidates"])
         primary.setdefault("verified_aliases", []).append(alternate)
         del accepted[alternate]
+    # Ranking is computed once per published feed URL; collection memberships share it.
+    previous = read_json(ROOT / "master.json") if (ROOT / "master.json").exists() else None
+    previous_positions = {c["slug"]: c["position"] for c in previous["collections"]} if previous else {}
+    state_path = ROOT / "ranking-state.json"
+    state = read_json(state_path) if state_path.exists() else None
+    report, state = ranking.score_catalog(
+        results, read_json(ROOT / "sources.json"), FEATURED_DOMAINS,
+        previous_state=state, previous_positions=previous_positions)
+    scores = report["feeds"]
+    category_positions = {slug: i for i, slug in enumerate(report["category_order"])}
     groups = defaultdict(list)
     identities = read_json(ROOT / "feed-identities.json") if (ROOT / "feed-identities.json").exists() else {}
     evidence = []
@@ -513,12 +526,12 @@ def publish():
             groups[category].append(feed)
         evidence.append({"id": feed_id, "feed_url": url, "verified_aliases": result.get("verified_aliases", []), "categories": sorted(result["categories"]), "checked_at": result["checked_at"], "http_status": result["http_status"], "content_type": result["content_type"], "response_bytes": result["response_bytes"], "response_sha256": result["response_sha256"], "entry_count": result["entry_count"], "usable_entry_count": result["usable_entry_count"], "latest_entry_at": result["latest_entry_at"], "freshness": result["freshness"], "etag": result["etag"], "last_modified": result["last_modified"], "sources": result["candidates"]})
     references = []
-    for position, category in enumerate(CATEGORIES):
+    for category in sorted(CATEGORIES, key=lambda slug: (category_positions.get(slug, 10**9), slug)):
         feeds = groups.get(category)
         if not feeds:
             continue
         title, description = CATEGORIES[category]
-        document = {"schema_version": 1, "id": str(uuid.uuid5(NAMESPACE, "collection:" + category)), "slug": category, "title": title, "description": description, "feeds": sorted(feeds, key=lambda item: feed_order_key(category, item))}
+        document = {"schema_version": 1, "id": str(uuid.uuid5(NAMESPACE, "collection:" + category)), "slug": category, "title": title, "description": description, "feeds": sorted(feeds, key=lambda item: (-scores.get(item["feed_url"], {}).get("score", 0), item["id"]))}
         encoded = (json.dumps(document, ensure_ascii=False, indent=2, sort_keys=True) + "\n").encode("utf-8")
         digest = hashlib.sha256(encoded).hexdigest()
         relative = "collections/" + category + "/" + digest + ".json"
@@ -527,11 +540,12 @@ def publish():
         if path.exists() and path.read_bytes() != encoded:
             raise ValueError("Immutable collection collision")
         path.write_bytes(encoded)
-        references.append({"id": document["id"], "slug": category, "title": title, "path": relative, "sha256": digest, "position": position, "feed_count": len(feeds)})
-    previous = read_json(ROOT / "master.json") if (ROOT / "master.json").exists() else None
+        references.append({"id": document["id"], "slug": category, "title": title, "path": relative, "sha256": digest, "position": len(references), "feed_count": len(feeds)})
     changed = not previous or previous["collections"] != references
     publication = (previous["publication"] + int(changed)) if previous else 1
     master = {"schema_version": 1, "catalog_id": CATALOG_ID, "publication": publication, "collections": references, "unique_feed_count": len(accepted), "feed_membership_count": sum(len(feeds) for feeds in groups.values())}
+    write_json(ROOT / "ranking-state.json", state)
+    write_json(ROOT / "ranking-results.json", report)
     write_json(ROOT / "feed-identities.json", identities)
     write_json(ROOT / "verification-report.json", {"generated_at": now(), "criteria": {"http_status": 200, "formats": ["rss", "rss1", "atom"], "minimum_usable_entries": 1, "requires_title_and_http_entry_link": True, "tls_verification": True, "maximum_response_bytes": MAX_BYTES}, "candidate_count": len(results), "unique_verified_feeds": len(accepted), "collections": len(references), "freshness_counts": dict(Counter(item["freshness"] for item in evidence)), "feeds": evidence, "rejected": [item for item in results if not item["accepted"]]})
     write_json(ROOT / "master.json", master)
@@ -539,27 +553,53 @@ def publish():
 
 
 def reorder():
+    """Regenerate ranking using saved evidence, without any network requests.
+
+    For fresh quality samples, run validate --refresh first. The normal publish
+    command is still needed after new candidates are harvested.
+    """
     master = read_json(ROOT / "master.json")
-    category_positions = {category: position for position, category in enumerate(CATEGORIES)}
+    results = read_json(ROOT / "validation-results.json")
+    state_path = ROOT / "ranking-state.json"
+    previous_positions = {item["slug"]: item["position"] for item in master["collections"]}
+    report, state = ranking.score_catalog(
+        results, read_json(ROOT / "sources.json"), FEATURED_DOMAINS,
+        previous_state=read_json(state_path) if state_path.exists() else None,
+        previous_positions=previous_positions)
     references = []
-    for reference in sorted(master["collections"], key=lambda item: category_positions[item["slug"]]):
+    collections = {item["slug"]: item for item in master["collections"]}
+    for category in report["category_order"]:
+        if category not in collections:
+            continue
+        reference = collections[category]
         document = read_json(ROOT / reference["path"])
-        document["feeds"] = sorted(document["feeds"], key=lambda item: feed_order_key(document["slug"], item))
+        document["feeds"] = sorted(
+            document["feeds"],
+            key=lambda item: (-report["feeds"].get(item["feed_url"], {}).get("score", 0), item["id"]))
         encoded = (json.dumps(document, ensure_ascii=False, indent=2, sort_keys=True) + "\n").encode("utf-8")
         digest = hashlib.sha256(encoded).hexdigest()
-        relative = "collections/" + document["slug"] + "/" + digest + ".json"
+        relative = "collections/" + category + "/" + digest + ".json"
         path = ROOT / relative
         path.parent.mkdir(parents=True, exist_ok=True)
         if path.exists() and path.read_bytes() != encoded:
             raise ValueError("Immutable collection collision")
         path.write_bytes(encoded)
-        references.append({"id": document["id"], "slug": document["slug"], "title": document["title"], "path": relative, "sha256": digest, "position": len(references), "feed_count": len(document["feeds"])})
+        references.append({"id": document["id"], "slug": category,
+                           "title": document["title"], "path": relative,
+                           "sha256": digest, "position": len(references),
+                           "feed_count": len(document["feeds"])})
+    # Preserve collections missing from ranking evidence rather than deleting them.
+    for category, reference in sorted(collections.items(), key=lambda x: x[1]["position"]):
+        if category not in report["category_order"]:
+            references.append(dict(reference, position=len(references)))
     changed = master["collections"] != references
     master["collections"] = references
     if changed:
         master["publication"] += 1
         write_json(ROOT / "master.json", master)
-    print("reordered", len(references), "collections", master["unique_feed_count"], "feeds; publication", master["publication"], flush=True)
+    write_json(ROOT / "ranking-state.json", state)
+    write_json(ROOT / "ranking-results.json", report)
+    print("reordered", len(references), "collections", master["unique_feed_count"], "feeds; publication", master["publication"])
 
 
 def verify():
