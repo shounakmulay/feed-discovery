@@ -398,38 +398,70 @@ def validate(workers, retry_failed=False, refresh=False):
 
 
 CATEGORIES = {
+    "technology": ("Technology news", "Technology reporting, products, and the technology industry."),
+    "news-world": ("World news", "General news and international reporting."),
+    "news-india": ("India news", "Indian news publishers and reporting."),
     "developer-blogs": ("Developer blogs", "Personal writing about software development and the web."),
     "engineering": ("Engineering blogs", "Engineering teams, architecture, and software delivery."),
     "frontend": ("Frontend and web development", "HTML, CSS, JavaScript, frameworks, and web development."),
-    "web-standards": ("Web standards and accessibility", "Web platform standards, accessibility, and web organizations."),
-    "browsers": ("Browsers", "Browser engines, browser releases, and web platform implementation."),
+    "ai-ml": ("AI and machine learning", "AI research, machine learning tools, and applied AI."),
+    "programming": ("Programming", "General programming, software development, and developer communities."),
     "developer-tools": ("Developer tools", "Editors, build tools, testing, and developer workflows."),
     "android-development": ("Android development", "Android apps, APIs, tooling, and development."),
+    "android": ("Android news", "Android devices, apps, and ecosystem news."),
+    "apple": ("Apple news", "Apple devices, software, and ecosystem news."),
+    "cloud-devops": ("Cloud, DevOps, and infrastructure", "Cloud platforms, containers, observability, and infrastructure."),
+    "cybersecurity": ("Cybersecurity and privacy", "Security research, vulnerabilities, privacy, and defense."),
+    "business-startups": ("Business and startups", "Business reporting, startups, entrepreneurship, and economics."),
+    "backend": ("Backend and distributed systems", "Server development, APIs, architecture, and distributed systems."),
     "kotlin": ("Kotlin and multiplatform", "Kotlin language and Kotlin Multiplatform development."),
     "ios-swift": ("iOS and Swift", "Apple platform development, Swift, and iOS."),
     "flutter": ("Flutter", "Flutter framework and cross-platform application development."),
-    "backend": ("Backend and distributed systems", "Server development, APIs, architecture, and distributed systems."),
+    "browsers": ("Browsers", "Browser engines, browser releases, and web platform implementation."),
+    "web-standards": ("Web standards and accessibility", "Web platform standards, accessibility, and web organizations."),
     "languages": ("Programming languages", "Language releases, runtimes, and programming techniques."),
-    "programming": ("Programming", "General programming, software development, and developer communities."),
     "databases": ("Databases", "Database engines, data infrastructure, and storage."),
-    "cloud-devops": ("Cloud, DevOps, and infrastructure", "Cloud platforms, containers, observability, and infrastructure."),
-    "cybersecurity": ("Cybersecurity and privacy", "Security research, vulnerabilities, privacy, and defense."),
-    "ai-ml": ("AI and machine learning", "AI research, machine learning tools, and applied AI."),
-    "technology": ("Technology news", "Technology reporting, products, and the technology industry."),
-    "android": ("Android news", "Android devices, apps, and ecosystem news."),
-    "apple": ("Apple news", "Apple devices, software, and ecosystem news."),
     "science": ("Science", "Science research, discoveries, and scientific reporting."),
     "space": ("Space and astronomy", "Spaceflight, astronomy, and space science."),
     "environment": ("Climate and environment", "Climate, energy, conservation, and the environment."),
-    "news-world": ("World news", "General news and international reporting."),
-    "news-india": ("India news", "Indian news publishers and reporting."),
-    "business-startups": ("Business and startups", "Business reporting, startups, entrepreneurship, and economics."),
     "design": ("Design and UX", "Product design, interface design, and user experience."),
     "gaming": ("Gaming", "Games, game development, and gaming industry reporting."),
     "hardware-makers": ("Hardware and makers", "Electronics, DIY projects, hardware, and making."),
     "learning": ("Learning and productivity", "Learning, education, and personal productivity."),
     "open-data": ("Open data and public technology", "Government technology, public services, and open data."),
 }
+
+FEATURED_DOMAINS = {
+    "technology": ("theverge.com", "techcrunch.com", "arstechnica.com", "wired.com", "bbc.co.uk", "bbc.com", "engadget.com", "theguardian.com", "cnet.com", "gizmodo.com"),
+    "news-world": ("nytimes.com", "bbc.co.uk", "bbc.com", "theguardian.com", "aljazeera.com", "cnn.com", "npr.org", "apnews.com", "reuters.com"),
+    "news-india": ("thehindu.com", "indianexpress.com", "indiatoday.in", "ndtv.com", "hindustantimes.com", "bbc.co.uk", "theprint.in", "scroll.in"),
+    "developer-blogs": ("martinfowler.com", "joelonsoftware.com", "codinghorror.com", "overreacted.io", "addyosmani.com", "danluu.com", "daringfireball.net", "paulgraham.com"),
+    "engineering": ("engineering.fb.com", "netflixtechblog.com", "github.blog", "googleblog.com", "developers.googleblog.com", "slack.engineering", "dropbox.tech", "uber.com", "airbnb.io", "stripe.com"),
+    "frontend": ("web.dev", "developer.chrome.com", "developer.mozilla.org", "smashingmagazine.com", "css-tricks.com", "alistapart.com", "javascript.info"),
+    "ai-ml": ("openai.com", "deepmind.google", "huggingface.co", "blog.google", "research.google", "machinelearning.apple.com", "anthropic.com", "aws.amazon.com"),
+    "programming": ("martinfowler.com", "joelonsoftware.com", "engineering.fb.com", "developers.googleblog.com", "github.blog", "overreacted.io", "infoq.com"),
+    "developer-tools": ("github.blog", "deno.com", "eslint.org", "babeljs.io", "getbootstrap.com", "electronjs.org", "hackernews.com"),
+    "android-development": ("android-developers.googleblog.com", "developer.android.com", "androidweekly.net", "androidstudio.googleblog.com", "jetbrains.com", "commonsware.com"),
+    "apple": ("macrumors.com", "9to5mac.com", "apple.com", "daringfireball.net", "macstories.net", "appleinsider.com", "cultofmac.com"),
+    "android": ("androidauthority.com", "androidcentral.com", "droid-life.com", "gsmarena.com", "phandroid.com"),
+    "cloud-devops": ("aws.amazon.com", "cloudflare.com", "cloud.google.com", "cncf.io", "docker.com", "opentelemetry.io", "grafana.com", "kubernetes.io"),
+    "cybersecurity": ("cisa.gov", "krebsonsecurity.com", "cloudflare.com", "talosintelligence.com", "thehackernews.com", "schneier.com", "nist.gov"),
+    "business-startups": ("bloomberg.com", "techcrunch.com", "forbes.com", "fortune.com", "businessinsider.com", "ben-evans.com", "andrewchen.com"),
+    "science": ("nature.com", "science.org", "nasa.gov", "mit.edu", "scientificamerican.com", "sciencedaily.com"),
+    "space": ("nasa.gov", "spacex.com", "theguardian.com", "newscientist.com"),
+    "databases": ("aws.amazon.com", "mongodb.com", "clickhouse.com", "duckdb.org", "supabase.com"),
+    "design": ("nngroup.com", "smashingmagazine.com", "web.dev", "material.io", "css-tricks.com"),
+    "gaming": ("ign.com", "polygon.com", "eurogamer.net", "kotaku.com", "gamespot.com", "playstation.com", "steampowered.com"),
+}
+
+
+def feed_order_key(category, feed):
+    hostname = urllib.parse.urlsplit(feed["website_url"] or feed["feed_url"]).hostname or ""
+    hostname = hostname.lower()
+    for position, domain in enumerate(FEATURED_DOMAINS.get(category, ())):
+        if hostname == domain or hostname.endswith("." + domain):
+            return (0, position, feed["title"].casefold(), feed["id"])
+    return (1, 0, feed["title"].casefold(), feed["id"])
 
 
 def publish():
@@ -486,7 +518,7 @@ def publish():
         if not feeds:
             continue
         title, description = CATEGORIES[category]
-        document = {"schema_version": 1, "id": str(uuid.uuid5(NAMESPACE, "collection:" + category)), "slug": category, "title": title, "description": description, "feeds": sorted(feeds, key=lambda item: (item["title"].casefold(), item["id"]))}
+        document = {"schema_version": 1, "id": str(uuid.uuid5(NAMESPACE, "collection:" + category)), "slug": category, "title": title, "description": description, "feeds": sorted(feeds, key=lambda item: feed_order_key(category, item))}
         encoded = (json.dumps(document, ensure_ascii=False, indent=2, sort_keys=True) + "\n").encode("utf-8")
         digest = hashlib.sha256(encoded).hexdigest()
         relative = "collections/" + category + "/" + digest + ".json"
@@ -504,6 +536,30 @@ def publish():
     write_json(ROOT / "verification-report.json", {"generated_at": now(), "criteria": {"http_status": 200, "formats": ["rss", "rss1", "atom"], "minimum_usable_entries": 1, "requires_title_and_http_entry_link": True, "tls_verification": True, "maximum_response_bytes": MAX_BYTES}, "candidate_count": len(results), "unique_verified_feeds": len(accepted), "collections": len(references), "freshness_counts": dict(Counter(item["freshness"] for item in evidence)), "feeds": evidence, "rejected": [item for item in results if not item["accepted"]]})
     write_json(ROOT / "master.json", master)
     print("published", len(accepted), "unique feeds", len(references), "collections", master["feed_membership_count"], "memberships", flush=True)
+
+
+def reorder():
+    master = read_json(ROOT / "master.json")
+    category_positions = {category: position for position, category in enumerate(CATEGORIES)}
+    references = []
+    for reference in sorted(master["collections"], key=lambda item: category_positions[item["slug"]]):
+        document = read_json(ROOT / reference["path"])
+        document["feeds"] = sorted(document["feeds"], key=lambda item: feed_order_key(document["slug"], item))
+        encoded = (json.dumps(document, ensure_ascii=False, indent=2, sort_keys=True) + "\n").encode("utf-8")
+        digest = hashlib.sha256(encoded).hexdigest()
+        relative = "collections/" + document["slug"] + "/" + digest + ".json"
+        path = ROOT / relative
+        path.parent.mkdir(parents=True, exist_ok=True)
+        if path.exists() and path.read_bytes() != encoded:
+            raise ValueError("Immutable collection collision")
+        path.write_bytes(encoded)
+        references.append({"id": document["id"], "slug": document["slug"], "title": document["title"], "path": relative, "sha256": digest, "position": len(references), "feed_count": len(document["feeds"])})
+    changed = master["collections"] != references
+    master["collections"] = references
+    if changed:
+        master["publication"] += 1
+        write_json(ROOT / "master.json", master)
+    print("reordered", len(references), "collections", master["unique_feed_count"], "feeds; publication", master["publication"], flush=True)
 
 
 def verify():
@@ -548,7 +604,7 @@ def verify():
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("command", choices=("harvest", "validate", "publish", "verify"))
+    parser.add_argument("command", choices=("harvest", "validate", "publish", "reorder", "verify"))
     parser.add_argument("--extra")
     parser.add_argument("--workers", type=int, default=24)
     parser.add_argument("--retry-failed", action="store_true")
@@ -560,6 +616,8 @@ def main():
         validate(args.workers, args.retry_failed, args.refresh)
     elif args.command == "publish":
         publish()
+    elif args.command == "reorder":
+        reorder()
     else:
         verify()
 
