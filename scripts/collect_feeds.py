@@ -576,7 +576,7 @@ def reorder():
         document["feeds"] = sorted(
             document["feeds"],
             key=lambda item: (-report["feeds"].get(item["feed_url"], {}).get("score", 0), item["id"]))
-        encoded = (json.dumps(document, ensure_ascii=False, indent=2, sort_keys=True) + "\\n").encode("utf-8")
+        encoded = (json.dumps(document, ensure_ascii=False, indent=2, sort_keys=True) + "\n").encode("utf-8")
         digest = hashlib.sha256(encoded).hexdigest()
         relative = "collections/" + category + "/" + digest + ".json"
         path = ROOT / relative
