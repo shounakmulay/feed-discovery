@@ -8,7 +8,19 @@ This repository contains DevPulse's static RSS and Atom feed catalog and the scr
 
 Each file under `collections/<slug>/<sha256>.json` contains a collection's metadata and feed definitions. Feed definitions include an ID, title, feed URL, format, and optional description, website URL, icon URL, and language tag. A feed can belong to more than one collection.
 
-The category order in `CATEGORIES` and the featured publisher order in `FEATURED_DOMAINS`, both in [`scripts/collect_feeds.py`](scripts/collect_feeds.py), are curated for recognizability. Remaining feeds stay in title order. Run `python3 scripts/collect_feeds.py reorder` to regenerate immutable collection files and the master while preserving the current feed set; regular `publish` applies the same ordering after validation.
+Feed order and collection order are calculated locally using a history-aware ranking engine in [`scripts/ranking.py`](scripts/ranking.py). Feed quality prioritizes article completeness, entry metadata, cleanliness and uniqueness. A small fraction of the quality score reflects fetch reliability and publishing activity over a 180-day window. The popularity prior uses independent upstream directory inclusion and an optional legacy featured-publisher hint; **it is not a subscriber count**. A category's score is derived from its top feeds, high-quality publisher coverage and diversity; large collections do not automatically rank first.
+
+### Ranking cadence and local state
+
+Run the existing `harvest`, `validate --refresh`, `publish`, `verify` workflow when updating the catalog; daily execution is not expected. Weekly or fortnightly runs are suitable, and irregular gaps are supported.
+
+Validation samples up to 20 recent posts per feed, retaining stable entry fingerprints and quality evidence. The publisher maintains `ranking-state.json` locally (ignored by Git) and writes a diagnostic `ranking-results.json` (also ignored). **Back up `ranking-state.json` if changing machines or rebuilding your workspace**: it contains accumulated feed observations, reliability checks, and ranking hysteresis. A fresh checkout starts with neutral priors and gradually learns historical quality. Repeated publication with the same validation timestamp does not count as a new measurement. Historical scoring is based on genuinely new articles and elapsed time, while transient fetch failures carry reduced weight.
+
+For local recalculation without fetching, run `python3 scripts/collect_feeds.py reorder`. For fresh content-quality evidence, run `python3 scripts/collect_feeds.py validate --refresh` followed by `publish`. Cached validation records created before ranking was added lack article samples until they are refreshed. Low-frequency publishers receive a long activity grace period rather than a short-term freshness penalty. The scoring heuristics are intended to be calibrated against manual feed reviews; they do not guarantee editorial quality.
+
+Run the ranking tests using `python3 -m unittest discover -s tests -v`.
+
+The publication format remains unchanged: ranked feeds appear in sorted collection arrays, and category order appears in the existing master positions.
 
 Collection filenames are the SHA-256 hash of their exact file bytes. Publication creates new files when collection content changes and retains older files. Clients can cache collection URLs and use `master.json` to discover the current version. The publication number increases when the collection references change.
 
